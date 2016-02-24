@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Test</title>
+    <link rel="stylesheet" href="./style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    <script>
+      $(window).load(function() {
+        $('#leftmenu #button').click(function() {
+          $('#leftmenu #button').each(function(k, v) {
+            if ($( v ).hasClass( "selected" )){
+              $( v ).removeClass( "selected" );
+            }
+          });
+          $( this ).toggleClass( "selected" );  
+        });
+      });
+    </script>
+  </head>
+
+  <body>
+    <header>
+    </header>
+      <div id="container">
+        <div id="leftmenu">
+          <ul id="leftmenulist">
+            <li><div id="button" class="selected">Enemy unknown</div></li>
+            <li><div id="button">Test</div></li>
+            <li><div id="button">Counter-Memes</div></li>
+            <li><div id="button">Warning! Biological attention!</div></li>
+            <li><div id="button">K-POP</div></li>
+            <li><div id="button">KeK</div></li>
+            <li><div id="button">Hoshwave</div></li>
+          </ul>
+        </div>
+      </div>
+    <footer>
+    </footer>
+  </body>
+</html>

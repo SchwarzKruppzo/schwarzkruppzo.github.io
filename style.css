@@ -11,17 +11,18 @@ body {
 }
 #rightmenu {
 	position: absolute;
-	left: 0px;	
-	right: 0px;
-	top: 0px;
-	bottom: 0px;
+	width: calc( 100% - 300px);
+	height: auto;
+	min-height: 100%;
+	min-width: 1100px;
 	margin-left: 305px;
 	background-color: #1B1B1B;
 }
 #leftmenu {
-	position: fixed;
+	position: absolute;
 	width: 300px;
-	height: calc( 100% - 64px );
+	height: 100%;
+	min-height: 100%;
 	overflow-y: auto;
 	overflow-x: hidden;
 	background-color: #1B1B1B;
@@ -58,12 +59,53 @@ body {
 	color: #FFF;
 }
 #rightmenu div.content {
+	position: relative;
 	display: none;
-	font-family: "Arial";
-	font-size: 12px;
+	font-family: "Aldrich";
+	font-size: 16px;
 	color: #CFCFCF;
 	text-decoration: none;
+	margin-top: 16px;
+}
+#rightmenu p {
+	float: none;
+	padding: 2px;
+	margin: 0px;
+	word-wrap: break-word;
+	overflow: hidden;
 }
 #rightmenu div.active {
 	display: block;
+}
+#rightmenu img#preview {
+	margin-left: 16px;
+	margin-right: 16px;
+	float: left;
+	width: 300px;
+	height: 512px;
+	background-color: #CFCFCF;
+	border: 4px solid #262626;
+}
+#rightmenu p.header1 {
+	color: #FFF;
+	font-size: 30px;
+	text-align: center;
+	text-indent: 0px;
+}
+#rightmenu p.header2 {
+	font-size: 20px;
+	text-align: center;
+	text-indent: 0px;
+}
+#rightmenu p#left {
+	float: left;
+}
+#rightmenu p#right {
+	float: right;
+	width: 40%;
+	text-align: left;
+	color: #FFBB3D;
+}
+#rightmenu p#red {
+	color: #CD2727;
 }

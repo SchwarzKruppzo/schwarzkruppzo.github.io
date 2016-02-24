@@ -13,7 +13,14 @@
               $( v ).removeClass( "selected" );
             }
           });
+          $('#rightmenu .content').each(function(k, v) {
+            if ($( v ).hasClass( "active" )){
+              $( v ).removeClass( "active" );
+            }
+          });
+          var id = $( this ).attr('class').split(' ')[0];
           $( this ).toggleClass( "selected" );  
+          $( '#rightmenu #' + id ).toggleClass( "active" );  
         });
       });
     </script>
@@ -25,14 +32,17 @@
       <div id="container">
         <div id="leftmenu">
           <ul id="leftmenulist">
-            <li><div id="button" class="selected">Enemy unknown</div></li>
-            <li><div id="button">Test</div></li>
-            <li><div id="button">Counter-Memes</div></li>
-            <li><div id="button">Warning! Biological attention!</div></li>
-            <li><div id="button">K-POP</div></li>
-            <li><div id="button">KeK</div></li>
-            <li><div id="button">Hoshwave</div></li>
+            <li><div id="button" class="content1 selected">Enemy unknown</div></li>
+            <li><div id="button" class="content2">Test</div></li>
+            <li><div id="button" class="content3">Counter-Memes</div></li>
+            <li><div id="button" class="content4">Warning! Biological attention!</div></li>
           </ul>
+        </div>
+        <div id="rightmenu">
+          <div class="content active" id="content1"><p>Test content.</p></div>
+          <div class="content" id="content2"><p>A content with memes.</p></div>
+          <div class="content" id="content3"><p>14:38 - Legera: АХАх</p></div>
+          <div class="content" id="content4"><p>поживешь подольше подамажешь побольше</p></div>
         </div>
       </div>
     <footer>

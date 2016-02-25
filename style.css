@@ -6,8 +6,8 @@ body {
 	position: absolute;
 	left: 10px;	
 	right: 10px;
-	top: 32px;
-	bottom: 32px;
+	top: 10px;
+	bottom: calc( 32px + 112px);
 }
 #rightmenu {
 	position: absolute;
@@ -67,6 +67,19 @@ body {
 	text-decoration: none;
 	margin-top: 16px;
 }
+#container p.main {
+	display: inline-block;
+	font-family: "Aldrich";
+	font-weight: bolder;
+	font-size: 20px;
+	color: #FFF;
+	text-decoration: none;
+	height: 112px;
+	padding-left: 8px;
+	margin: 0px;
+	line-height: 112px;
+	overflow: hidden;
+}
 #rightmenu p {
 	float: none;
 	padding: 2px;
@@ -104,8 +117,20 @@ body {
 	float: right;
 	width: 40%;
 	text-align: left;
-	color: #FFBB3D;
 }
 #rightmenu p#red {
 	color: #CD2727;
+}
+#rightmenu table {
+	border-spacing: 0px;
+}
+#rightmenu td:nth-child(2) {
+	padding-left: 256px;
+	text-align: left;
+}
+#rightmenu td#orange {
+	color: #FFBB3D;
+}
+#rightmenu td#gray {
+	color: #B7B7B7;
 }

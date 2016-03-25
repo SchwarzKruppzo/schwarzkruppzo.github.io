@@ -1,0 +1,25 @@
+body {
+	margin: 0px;
+	color: rgb(90,90,90);
+	font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: 13px;
+    line-height: 1.6;
+    font-family: 'Open Sans', tahoma, helvetica, arial, sans-serif;
+
+    min-width: 1130px;
+    word-wrap: break-word;
+}
+
+div#spoiler {
+	background: #fcfcfc;
+    border: 1px dashed #e3e3e3;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+p {
+	margin: 0px 0px 0px 0px;
+}

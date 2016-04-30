@@ -1,0 +1,740 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Civil Protection Document</title>
+		<link rel="stylesheet" href="./encounter.css">
+		<script>
+		</script>
+	</head>
+
+	<body>
+		<div id="container">
+			<div style="margin: 5px 20px 20px;">
+				<div> 
+					<span padding-top: 2px;><strong>Звания</strong></span>
+					<input value="Показать" style="display: inline-block; margin: 0px; margin-left: 5px; padding: 0px; width: 80px; height: 24px; font-size: .8em; background: #f0f0f0; border: 1px solid #ddd; white-space: nowrap;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.value = 'Скрыть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.value = 'Показать';}" type="button">
+
+					<div style="padding-top: 4px;"> 
+						<div class="alt2" id="spoiler" style="display: none;"> 
+							<p><strong>Звания, относящиеся к Регулярным юнитам:</strong> RCT, i5, i4, i3.</p>
+							<p><strong>Звания, относящиеся к Младшим командным юнитам:</strong> i2, i1, OfC.</p>
+							<p><strong>Звания, относящиеся к Высшим командным юнитам:</strong> CpT, MaJ, CmD, SeC.</p>
+							<p>&nbsp</p>
+							<p><span style="font-size: 13pt;"><strong>RCT</strong></span></p>
+							<p style="margin-left: 16pt;">Рекрут Гражданской Обороны.</p>
+							<p style="margin-left: 16pt;">Поступивший на службу гражданин, незнающий основных протоколов и регламентов Гражданской Обороны. Необучен стрельбе и поведению в бою. В основном слушает лекции и проходит аттестовывание.</p>
+							<p>&nbsp</p>
+							<p style="margin-left: 16pt; color: rgb(90,200,90);"><strong>Полномочия юнитов данного звания:</strong></p>
+							<p style="margin-left: 20pt;">1. Использовать дубинку.</p>
+							<p style="margin-left: 20pt;">2. Выходить в патруль со старшим по званию.</p>
+							<p style="margin-left: 20pt;">3. Присутствовать на допросе.</p>
+							<p>&nbsp</p>
+							<p style="margin-left: 16pt; color: rgb(255,90,90);"><strong>Запреты для юнитов данного звания:</strong></p>
+							<p style="margin-left: 20pt;"><i>Данные запреты могут недействовать, если старший по званию, обладающий необходимыми полномочиями, дал своё разрешение.</i></p>
+							<p style="margin-left: 20pt;">1. Самостоятельно использовать табельное.</p>
+							<p style="margin-left: 20pt;">2. Самостоятельно проводить допрос.</p>
+							<p style="margin-left: 20pt;">3. Самостоятельно выходить в патруль одному.</p>
+							<p style="margin-left: 20pt;">4. Командовать любыми сотрудниками ГО.</p>
+							<p style="margin-left: 20pt;">5. Носить с собой любое огнестрельное оружие.</p></p>
+							<p style="margin-left: 20pt;">6. Патрулировать районы D-5, D-6.</p>
+							<p>&nbsp</p>
+							<p><span style="font-size: 13pt;"><strong>i5</strong></span></p>
+							<p style="margin-left: 16pt;">Рядовой Гражданской Обороны.</p>
+							<p style="margin-left: 16pt;">Бывший рекрут Гражданской Обороны, прошедший аттестацию. Готов к полноценной службе, однако все ровно ещё неопытен. Прошёл базовую тренировку по стрельбе, ближнему бою и поведению. На рядового выписывается личное первичное табельное оружие.</p>
+							<p>&nbsp</p>
+							<p style="margin-left: 16pt; color: rgb(90,200,90);"><strong>Полномочия юнитов данного звания:</strong></p>
+							<p style="margin-left: 20pt;">1. Использовать дубинку.</p>
+							<p style="margin-left: 20pt;">2. Выходить в патруль со старшим по званию.</p>
+							<p style="margin-left: 20pt;">3. Носить с собой своё личное первичное табельное оружие.</p>
+							<p style="margin-left: 20pt;">4. Присутствовать на допросе.</p>
+							<p>&nbsp</p>
+							<p style="margin-left: 16pt; color: rgb(255,90,90);"><strong>Запреты для юнитов данного звания:</strong></p>
+							<p style="margin-left: 20pt;"><i>Данные запреты могут недействовать, если старший по званию, обладающий необходимыми полномочиями, дал своё разрешение.</i></p>
+							<p style="margin-left: 20pt;">1. Самостоятельно использовать табельное.</p>
+							<p style="margin-left: 20pt;">2. Самостоятельно проводить допрос.</p>
+							<p style="margin-left: 20pt;">3. Самостоятельно выходить в патруль одному.</p>
+							<p style="margin-left: 20pt;">4. Командовать любыми сотрудниками ГО.</p>
+							<p style="margin-left: 20pt;">5. Носить с собой вторичное табельное оружие.</p></p>
+							<p style="margin-left: 20pt;">6. Патрулировать районы D-5, D-6.</p>
+							<p>&nbsp</p>
+							<p><span style="font-size: 13pt;"><strong>i4</strong></span></p>
+							<p style="margin-left: 16pt;">Младший сержант Гражданской Обороны.</p>
+							<p style="margin-left: 16pt;">Полноценный патрульный сотрудник Гражданской Обороны. Хорошо владеет своим оружием и неплох в ближнем бою. Подвергается специализированному курсу пропаганды.</p>
+							<p>&nbsp</p>
+							<p style="margin-left: 16pt; color: rgb(90,200,90);"><strong>Полномочия юнитов данного звания:</strong></p>
+							<p style="margin-left: 20pt;">1. Использовать дубинку.</p>
+							<p style="margin-left: 20pt;">2. Использовать своё личное первичное табельное.</p>
+							<p style="margin-left: 20pt;">3. Свободно выходить в патруль.</p>
+							<p style="margin-left: 20pt;">4. Проводить допросы.</p>
+							<p>&nbsp</p>
+							<p style="margin-left: 16pt; color: rgb(255,90,90);"><strong>Запреты для юнитов данного звания:</strong></p>
+							<p style="margin-left: 20pt;"><i>Данные запреты могут недействовать, если старший по званию, обладающий необходимыми полномочиями, дал своё разрешение.</i></p>
+							<p style="margin-left: 20pt;">1. Командовать любыми сотрудниками ГО.</p>
+							<p style="margin-left: 20pt;">2. Носить с собой вторичное табельное оружие.</p></p>
+							<p style="margin-left: 20pt;">3. Самостоятельно выносить и исполнять вердикт об отсечении.</p></p>
+							<p style="margin-left: 20pt;">4. Патрулировать районы D-5, D-6.</p>
+							<p>&nbsp</p>
+							<p><span style="font-size: 13pt;"><strong>i3</strong></span></p>
+							<p style="margin-left: 16pt;">Сержант Гражданской Обороны.</p>
+							<p style="margin-left: 16pt;">Высший регулярный сотрудник Гражданской Обороны. Проходит офицерскую подготовку. Прошёл базовую тренировку по командованию и работе с личным составом. Тренируется владению тяжёлым вооружением. На сержанта выписывается личное вторичное табельное оружие.</p>
+							<p>&nbsp</p>
+							<p style="margin-left: 16pt; color: rgb(90,200,90);"><strong>Полномочия юнитов данного звания:</strong></p>
+							<p style="margin-left: 20pt;">1. Использовать дубинку.</p>
+							<p style="margin-left: 20pt;">2. Использовать своё личное первичное табельное.</p>
+							<p style="margin-left: 20pt;">3. Носить с собой вторичное табельное оружие.</p>
+							<p style="margin-left: 20pt;">4. Свободно выходить в патруль.</p>
+							<p style="margin-left: 20pt;">5. Проводить допросы.</p>
+							<p>&nbsp</p>
+							<p style="margin-left: 16pt; color: rgb(255,90,90);"><strong>Запреты для юнитов данного звания:</strong></p>
+							<p style="margin-left: 20pt;"><i>Данные запреты могут недействовать, если старший по званию, обладающий необходимыми полномочиями, дал своё разрешение.</i></p>
+							<p style="margin-left: 20pt;">1. Самостоятельно командовать низшими по званию сотрудниками ГО.</p>
+							<p style="margin-left: 20pt;">2. Самостоятельно выносить и исполнять вердикт об отсечении.</p></p>
+							<p style="margin-left: 20pt;">3. Использовать своё личное вторичное табельное.</p></p>
+							<p style="margin-left: 20pt;">4. Патрулировать районы D-5, D-6.</p>
+							<p>&nbsp</p>
+							<p><span style="font-size: 13pt;"><strong>i2</strong></span></p>
+							<p style="margin-left: 16pt;">Старший сержант Гражданской Обороны.</p>
+							<p style="margin-left: 16pt;">Самое младшее командное звание. Базово знаком с тем, как командовать и работать с юнитами. Натренирован в стрельбе из тяжёлого вооружения. Во время патрулирования или каких-либо операций, может принять ответственность за выполнение задачи на себя.</p>
+							<p>&nbsp</p>
+							<p style="margin-left: 16pt; color: rgb(90,200,90);"><strong>Полномочия юнитов данного звания:</strong></p>
+							<p style="margin-left: 20pt;">1. Использовать дубинку.</p>
+							<p style="margin-left: 20pt;">2. Использовать своё личное первичное табельное.</p>
+							<p style="margin-left: 20pt;">3. Использовать своё личное вторичное табельное.</p>
+							<p style="margin-left: 20pt;">4. Принимать командование низшими по званию сотрудниками ГО.</p>
+							<p style="margin-left: 20pt;">5. Свободно выходить в патруль.</p>
+							<p style="margin-left: 20pt;">6. Проводить допросы.</p>
+							<p>&nbsp</p>
+							<p style="margin-left: 16pt; color: rgb(255,90,90);"><strong>Запреты для юнитов данного звания:</strong></p>
+							<p style="margin-left: 20pt;"><i>Данные запреты могут недействовать, если старший по званию, обладающий необходимыми полномочиями, дал своё разрешение.</i></p>
+							<p style="margin-left: 20pt;">1. Самостоятельно выносить и исполнять вердикт об отсечении.</p></p>
+							<p style="margin-left: 20pt;">2. Патрулировать районы D-5, D-6.</p>
+							<p>&nbsp</p>
+							<p><span style="font-size: 13pt;"><strong>i1</strong></span></p>
+							<p style="margin-left: 16pt;">Младший офицер Гражданской Обороны.</p>
+							<p style="margin-left: 16pt;">Младшее командное звание. Прошёл продвинутую тренировку по командованию и работе с личным составом. В некоторых случаях, может исполнять роль заместителя старшего офицера.</p>
+							<p>&nbsp</p>
+							<p style="margin-left: 16pt; color: rgb(90,200,90);"><strong>Полномочия юнитов данного звания:</strong></p>
+							<p style="margin-left: 20pt;">1. Использовать дубинку.</p>
+							<p style="margin-left: 20pt;">2. Использовать своё личное первичное табельное.</p>
+							<p style="margin-left: 20pt;">3. Использовать своё личное вторичное табельное.</p>
+							<p style="margin-left: 20pt;">4. Командовать низшими по званию сотрудниками ГО.</p>
+							<p style="margin-left: 20pt;">5. Свободно выходить в патруль.</p>
+							<p style="margin-left: 20pt;">6. Проводить допросы.</p>
+							<p style="margin-left: 20pt;">7. Патрулировать районы D-5, D-6.</p>
+							<p>&nbsp</p>
+							<p style="margin-left: 16pt; color: rgb(255,90,90);"><strong>Запреты для юнитов данного звания:</strong></p>
+							<p style="margin-left: 20pt;"><i>Данные запреты могут недействовать, если старший по званию, обладающий необходимыми полномочиями, дал своё разрешение.</i></p>
+							<p style="margin-left: 20pt;">1. Самостоятельно выносить и исполнять вердикт об отсечении.</p></p>
+							<p style="margin-left: 20pt;">2. Проводить аттестации сотрудникам ГО.</p>
+							<p>&nbsp</p>
+							<p><span style="font-size: 13pt;"><strong>OfC</strong></span></p>
+							<p style="margin-left: 16pt;">Старший офицер Гражданской Обороны.</p>
+							<p style="margin-left: 16pt;">Высшее младшее командное звание. Прошёл дополнительную тренировку по работе с личным составом. В некоторых случаях, может исполнять роль заместителя старшего офицера. Старшему офицеру может быть назначен состав рекрутов для их обучения и работы с ними.</p>
+							<p>&nbsp</p>
+							<p style="margin-left: 16pt; color: rgb(90,200,90);"><strong>Полномочия юнитов данного звания:</strong></p>
+							<p style="margin-left: 20pt;">1. Использовать дубинку.</p>
+							<p style="margin-left: 20pt;">2. Использовать своё личное первичное табельное.</p>
+							<p style="margin-left: 20pt;">3. Использовать своё личное вторичное табельное.</p>
+							<p style="margin-left: 20pt;">4. Командовать низшими по званию сотрудниками ГО.</p>
+							<p style="margin-left: 20pt;">5. Свободно выходить в патруль.</p>
+							<p style="margin-left: 20pt;">6. Проводить допросы.</p>
+							<p style="margin-left: 20pt;">7. Патрулировать районы D-5, D-6.</p>
+							<p style="margin-left: 20pt;">8. Выносить и исполнять вердикт отсечения, а так же подавать разрешение на отсечение.</p>
+							<p>&nbsp</p>
+							<p style="margin-left: 16pt; color: rgb(255,90,90);"><strong>Запреты для юнитов данного звания:</strong></p>
+							<p style="margin-left: 20pt;"><i>Данные запреты могут недействовать, если старший по званию, обладающий необходимыми полномочиями, дал своё разрешение.</i></p>
+							<p style="margin-left: 20pt;">1. Выносить вердикт отсечения на сотрудников ГО.</p>
+							<p style="margin-left: 20pt;">2. Проводить аттестации сотрудникам ГО без разрешения вышестоящего командования.</p>
+							<p style="margin-left: 20pt;">3. Проводить аттестации сотрудникам ГО более одного раза в два дня.</p>
+							<p style="margin-left: 20pt;">4. Выводить силы OTA из стазиса.</p>
+							<p style="margin-left: 20pt;">5. Вводить комендантский час.</p>
+							<p>&nbsp</p>
+							<p><span style="font-size: 13pt;"><strong>CpT</strong></span></p>
+							<p style="margin-left: 16pt;">Капитан Гражданской Обороны.</p>
+							<p style="margin-left: 16pt;">Высшее командное звание. Отвечает и несёт ответственность за личный состав Гражданской Обороны. Основной специализацией становится командование единицами сил Гражданской Обороны. При поступлении на это звание, юниты проходят дополнительные тренировки по работе с личным составом.</p>
+							<p>&nbsp</p>
+							<p style="margin-left: 16pt; color: rgb(90,200,90);"><strong>Полномочия юнитов данного звания:</strong></p>
+							<p style="margin-left: 20pt;">1. Использовать дубинку.</p>
+							<p style="margin-left: 20pt;">2. Использовать своё личное первичное табельное.</p>
+							<p style="margin-left: 20pt;">3. Использовать своё личное вторичное табельное.</p>
+							<p style="margin-left: 20pt;">4. Командовать и распоряжаться юнитами младшего командного и регулярного составов.</p>
+							<p style="margin-left: 20pt;">5. Свободно выходить в патруль.</p>
+							<p style="margin-left: 20pt;">6. Проводить допросы.</p>
+							<p style="margin-left: 20pt;">7. Патрулировать районы D-5, D-6.</p>
+							<p style="margin-left: 20pt;">8. Выносить и исполнять вердикт отсечения, а так же подавать разрешение на отсечение.</p>
+							<p style="margin-left: 20pt;">9. Подавать разрешение на проведение аттестации.</p>
+							<p style="margin-left: 20pt;">10. Поставить под вопрос приказы Городского Администратора.</p>
+							<p>&nbsp</p>
+							<p style="margin-left: 16pt; color: rgb(255,90,90);"><strong>Запреты для юнитов данного звания:</strong></p>
+							<p style="margin-left: 20pt;"><i>Данные запреты могут недействовать, если старший по званию, обладающий необходимыми полномочиями, дал своё разрешение.</i></p>
+							<p style="margin-left: 20pt;">1. Направлять артобстрел на сектор.</p>
+							<p style="margin-left: 20pt;">2. Выводить силы OTA из стазиса.</p>
+							<p style="margin-left: 20pt;">3. Вводить комендантский час.</p>
+							<p style="margin-left: 20pt;">4. Устанавливать военное положение.</p>
+							<p>&nbsp</p>
+							<p><span style="font-size: 13pt;"><strong>MaJ</strong></span></p>
+							<p style="margin-left: 16pt;">Майор Гражданской Обороны.</p>
+							<p style="margin-left: 16pt;">Наивысшее командное звание. Отвечает и несёт ответственность за работу командных юнитов Гражданской Обороны и за успешное выполнение поставленных задач. Служит примером добросовестной службы. Редко выходит на патруль, в основном ведёт штабную работу.</p>
+							<p>&nbsp</p>
+							<p style="margin-left: 16pt; color: rgb(90,200,90);"><strong>Полномочия юнитов данного звания:</strong></p>
+							<p style="margin-left: 20pt;">1. Использовать дубинку.</p>
+							<p style="margin-left: 20pt;">2. Использовать своё личное первичное табельное.</p>
+							<p style="margin-left: 20pt;">3. Использовать своё личное вторичное табельное.</p>
+							<p style="margin-left: 20pt;">4. Командовать и распоряжаться командными и регулярными юнитами.</p>
+							<p style="margin-left: 20pt;">5. Свободно выходить в патруль.</p>
+							<p style="margin-left: 20pt;">6. Проводить допросы.</p>
+							<p style="margin-left: 20pt;">7. Патрулировать районы D-5, D-6.</p>
+							<p style="margin-left: 20pt;">8. Выносить и исполнять вердикт отсечения, а так же подавать разрешение на отсечение.</p>
+							<p style="margin-left: 20pt;">9. Подавать разрешение на проведение аттестации.</p>
+							<p style="margin-left: 20pt;">10. Поставить под вопрос приказы Городского Администратора.</p>
+							<p style="margin-left: 20pt;">11. Выводить силы OTA из стазиса.</p>
+							<p style="margin-left: 20pt;">12. Вводить комендантский час.</p>
+							<p>&nbsp</p>
+							<p style="margin-left: 16pt; color: rgb(255,90,90);"><strong>Запреты для юнитов данного звания:</strong></p>
+							<p style="margin-left: 20pt;"><i>Данные запреты могут недействовать, если старший по званию, обладающий необходимыми полномочиями, дал своё разрешение.</i></p>
+							<p style="margin-left: 20pt;">1. Направлять артобстрел на сектор.</p>
+							<p style="margin-left: 20pt;">2. Устанавливать военное положение.</p>
+							<p>&nbsp</p>
+							<p><span style="font-size: 13pt;"><strong>CmD</strong></span></p>
+							<p style="margin-left: 16pt;">Командор Гражданской Обороны.</p>
+							<p style="margin-left: 16pt;">Заместитель Командора Сектора, второе лицо «Центра». Направляет все необходимые силы для ведения борьбы с силами Сопротивления и прочими врагами Альянса. Ведёт только штабную работу.</p>
+							<p>&nbsp</p>
+							<p style="margin-left: 16pt; color: rgb(90,200,90);"><strong>Полномочия юнитов данного звания:</strong></p>
+							<p style="margin-left: 20pt;">1. Использовать дубинку.</p>
+							<p style="margin-left: 20pt;">2. Использовать своё личное первичное табельное.</p>
+							<p style="margin-left: 20pt;">3. Использовать своё личное вторичное табельное.</p>
+							<p style="margin-left: 20pt;">4. Командовать и распоряжаться командными и регулярными юнитами.</p>
+							<p style="margin-left: 20pt;">5. Выходить в город с охраной.</p>
+							<p style="margin-left: 20pt;">6. Проводить допросы.</p>
+							<p style="margin-left: 20pt;">8. Выносить и исполнять вердикт отсечения, а так же подавать разрешение на отсечение.</p>
+							<p style="margin-left: 20pt;">9. Подавать разрешение на проведение аттестации.</p>
+							<p style="margin-left: 20pt;">10. Поставить под вопрос приказы Городского Администратора.</p>
+							<p style="margin-left: 20pt;">11. Выводить силы OTA из стазиса.</p>
+							<p style="margin-left: 20pt;">12. Вводить комендантский час.</p>
+							<p style="margin-left: 20pt;">13. Устанавливать военное положение.</p>
+							<p>&nbsp</p>
+							<p style="margin-left: 16pt; color: rgb(255,90,90);"><strong>Запреты для юнитов данного звания:</strong></p>
+							<p style="margin-left: 20pt;"><i>Данные запреты могут недействовать, если старший по званию, обладающий необходимыми полномочиями, дал своё разрешение.</i></p>
+							<p style="margin-left: 20pt;">1. Свободно выходить в патруль.</p>
+							<p>&nbsp</p>
+							<p><span style="font-size: 13pt;"><strong>SeC</strong></span></p>
+							<p style="margin-left: 16pt;">Командор Сектора Гражданской Обороны.</p>
+							<p style="margin-left: 16pt;">Первое лицо и глава «Центра». Ведёт только штабную работу. Последнее возможное звание в Гражданской Обороне.</p>
+							<p>&nbsp</p>
+							<p style="margin-left: 16pt; color: rgb(90,200,90);"><strong>Полномочия безграничны.</strong></p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div style="margin: 5px 20px 20px;">
+				<div> 
+					<span padding-top: 2px;><strong>Специальные звания</strong></span>
+					<input value="Показать" style="display: inline-block; margin: 0px; margin-left: 5px; padding: 0px; width: 80px; height: 24px; font-size: .8em; background: #f0f0f0; border: 1px solid #ddd; white-space: nowrap;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.value = 'Скрыть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.value = 'Показать';}" type="button">
+
+					<div style="padding-top: 4px;"> 
+						<div class="alt2" id="spoiler" style="display: none;"> 
+							<p><span style="font-size: 13pt;"><strong>DsP</strong></span></p>
+							<p style="margin-left: 16pt;">Диспетчер Гражданской Обороны.</p>
+							<p style="margin-left: 16pt;">Юниты, обладающие этой должностью ведут штабную работу. Доступно управление камерами, турелями, сканерами. Ведут наблюдение за районами и подают информацию ближайшим юнитам.</p>
+							<p>&nbsp</p>
+							<p style="margin-left: 16pt; color: rgb(90,200,90);"><strong>Полномочия юнитов данного звания:</strong></p>
+							<p style="margin-left: 20pt;">1. Полный контроль над средствами слежения Альянса.</p>
+							<p>&nbsp</p>
+							<p style="margin-left: 16pt; color: rgb(255,90,90);"><strong>Запреты для юнитов данного звания:</strong></p>
+							<p style="margin-left: 20pt;"><i>Данные запреты могут недействовать, если старший по званию, обладающий необходимыми полномочиями, дал своё разрешение.</i></p>
+							<p style="margin-left: 20pt;">1. Выходить из Нексус-Надзора.</p>
+							<p style="margin-left: 20pt;">2. Использовать первичное и вторичное табельное.</p>
+							<p style="margin-left: 20pt;">3. Командовать любыми сотрудниками ГО.</p>
+							<p>&nbsp</p>
+							<p><span style="font-size: 13pt;"><strong>SpF</strong></span></p>
+							<p style="margin-left: 16pt;">Специальные Силы Гражданской Обороны.</p>
+							<p style="margin-left: 16pt;">Специальный сотрудник Гражданской Обороны. Основная специализация: Штурмовик. Командуются только высшим командным составом. В свободное время без заданий, патрулируют районы D-5, D-6. Используются для специальных и опасных заданий, в которых нежелательно использование регулярных патрульных сотрудников.</p>
+							<p>&nbsp</p>
+							<p style="margin-left: 16pt; color: rgb(90,200,90);"><strong>Полномочия юнитов данного звания:</strong></p>
+							<p style="margin-left: 20pt;">1. Использовать дубинку.</p>
+							<p style="margin-left: 20pt;">2. Использовать своё личное первичное табельное.</p>
+							<p style="margin-left: 20pt;">3. Использовать своё личное вторичное табельное.</p>
+							<p style="margin-left: 20pt;">4. Свободно выходить в патруль.</p>
+							<p style="margin-left: 20pt;">5. Проводить допросы.</p>
+							<p style="margin-left: 20pt;">6. Патрулировать районы D-5, D-6.</p>
+							<p style="margin-left: 20pt;">7. Выносить и исполнять вердикт отсечения.</p>
+							<p>&nbsp</p>
+							<p style="margin-left: 16pt; color: rgb(255,90,90);"><strong>Запреты для юнитов данного звания:</strong></p>
+							<p style="margin-left: 20pt;"><i>Данные запреты могут недействовать, если старший по званию, обладающий необходимыми полномочиями, дал своё разрешение.</i></p>
+							<p style="margin-left: 20pt;">1. Командовать юнитами регулярного и младшего состава.</p>
+							<p style="margin-left: 20pt;">2. Выносить вердикт отсечения на сотрудников ГО.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div style="margin: 5px 20px 20px;">
+				<div> 
+					<span padding-top: 2px;><strong>Вооружение</strong></span>
+					<input value="Показать" style="display: inline-block; margin: 0px; margin-left: 5px; padding: 0px; width: 80px; height: 24px; font-size: .8em; background: #f0f0f0; border: 1px solid #ddd; white-space: nowrap;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.value = 'Скрыть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.value = 'Показать';}" type="button">
+
+					<div style="padding-top: 4px;"> 
+						<div class="alt2" id="spoiler" style="display: none;"> 
+							<p><span style="font-size: 13pt;"><strong>О первичном табельном</strong></span></p>
+							<p style="margin-left: 16pt;">С звания <strong>рядового</strong> (i5) на сотрудника Гражданской Обороны выписывается его личное первичное табельное огнестрельное оружие в одном экземпляре как пистолет USP Match или M9 Beretta.</p>
+							<p style="margin-left: 16pt;">Возможность использования первичного табельного зависит от полномочий звания владельца.</p><br>
+							<p><span style="font-size: 13pt;"><strong>О вторичном табельном</strong></span></p>
+							<p style="margin-left: 16pt;">С звания <strong>сержанта</strong> (i3) на сотрудника Гражданской Обороны выписывается его личное вторичное табельное огнестрельное оружие в одном экземпляре как автомат MP7.</p>
+							<p style="margin-left: 16pt;"><strong>Виды оружия, доступные для дальнейшей замены в качестве вторичного табельного оружия:</strong></p>
+							<p style="margin-left: 24pt;">С звания старшего сержанта (i2)</p>
+							<p style="margin-left: 32pt;"><span style="font-size: 11px;">SPAS-12, AK-74</span></p>
+							<p style="margin-left: 24pt;">Для юнитов специализации 'штурмовик' или специальных юнитов SpF (в зависимости от боевой задачи)</p>
+							<p style="margin-left: 32pt;"><span style="font-size: 11px;">SPAS-12, AK-74, M40A1</span></p><br>
+							<p style="margin-left: 16pt;"><strong><span style="color: rgb(255,90,90);">Вторичное табельное категорически запрещается носить с собой и использовать при зелёном коде (исключение: запрещённые районы).</span></strong></p><br>
+						</div>
+					</div>
+				</div>
+			</div>
+			<p>&nbsp</p>
+			<div style="margin: 5px 20px 20px;">
+				<div> 
+					<span padding-top: 2px;><strong>Коды</strong></span>
+					<input value="Показать" style="display: inline-block; margin: 0px; margin-left: 5px; padding: 0px; width: 80px; height: 24px; font-size: .8em; background: #f0f0f0; border: 1px solid #ddd; white-space: nowrap;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.value = 'Скрыть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.value = 'Показать';}" type="button">
+
+					<div style="padding-top: 4px;"> 
+						<div class="alt2" id="spoiler" style="display: none;"> 
+							<p><strong>Использование кодов обеспечивает успешную скрытую передачу сообщения по рации от лишних ушей.</strong></p>
+							<p>&nbsp</p>
+							<p><span style="font-size: 13pt;"><strong>Статус-коды</strong></span></p>
+							<p>КОД 1 Выносить приговор по усмотрению, тревога.</p>
+							<p>КОД 2 Оружие в руках, приготовиться к сдерживанию.</p>
+							<p>КОД 3 Опасность не подтверждена, ожидайте.</p>
+							<p>КОД 4 Ситуация под контролем, отбой тревоге.</p>
+							<p>КОД 4A Ситуация не под контролем, сотрудники прибыли на место.</p>
+							<p>КОД 4N Подкрепления не требуются, доказательств преступления не найдено.</p>
+							<p>КОД 5 Ведётся слежка.</p>
+							<p>КОД 6 Покинул службу для расследования.</p>
+							<p>КОД 12 Вернуться к патрулированию.</p>
+							<p>КОД 77 Возможно засада.</p>
+							<p>STATUS: КРАСНЫЙ/RED Аналогично коду 1.</p>
+							<p>STATUS: ЖЁЛТЫЙ/YELLOW Аналогично коду 3.</p>
+							<p>STATUS: ЗЕЛЁНЫЙ/GREEN Аналогично коду 4.</p>
+							<p>&nbsp</p>
+							<p><span style="font-size: 13pt;"><strong>Тен-коды</strong></span></p>
+							<p>10-1 Связь прерывистая, помехи в радиопередаче.</p>
+							<p>10-2 Связь чёткая, помехи в радиопередаче отсутствуют.</p>
+							<p>10-3 Остановить передачу сообщений. (Рация)</p>
+							<p>10-4 Вас понял, принято.</p>
+							<p>10-5 Радиотрансляция.</p>
+							<p>10-6 Занят.</p>
+							<p>10-7 Ушел со службы.</p>
+							<p>10-8 Поступил на службу.</p>
+							<p>10-9 Повторите, повторяю.</p>
+							<p>10-15 Нарушитель задержан.</p>
+							<p>10-20 Местоположение.</p>
+							<p>10-22 Отменить.</p>
+							<p>10-23 Ожидаю, ожидайте.</p>
+							<p>10-39 Запрос на оцепление места происшествия.</p>
+							<p>10-44 Под обстрелом противника.</p>
+							<p>10-97 Прибыл на место.</p>
+							<p>10-98 Поручение выполнено.</p>
+							<p>11-99 Запрос о помощи, сотрудник ранен.</p>
+							<p>&nbsp</p>
+							<p><span style="font-size: 13pt;"><strong>Прочие коды</strong></span></p>
+							<p>100 Всё чисто, угрозы не обнаружено.</p>
+							<p>187 Убийство.</p>
+							<p>187С Труп.</p>
+							<p>211 Ограбление.</p>
+							<p>211А Попытка ограбления.</p>
+							<p>245 Нападение с летальным исходом.</p>
+							<p>390 Пьяница.</p>
+							<p>404 Нарушитель.</p>
+							<p>415 Нарушение общественного порядка.</p>
+							<p>505 Объект вооружен огнестрельным оружием.</p>
+							<p>505M Объект вооружен оружием ближнего боя.</p>
+							<p>505S Выстрелы.</p>
+							<p>594 Вандализм.</p>
+							<p>902 Самоубийство.</p>
+							<p>902A Попытка самоубийства.</p>
+							<p>996 Взрыв.</p>
+							<p>996B Взрывное устройство.</p>
+							<p>996T Угроза взрыва.</p>
+							<p>&nbsp</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div style="margin: 5px 20px 20px;">
+				<div> 
+					<span padding-top: 2px;><strong>Директория начисления Очков Лояльности</strong></span>
+					<input value="Показать" style="display: inline-block; margin: 0px; margin-left: 5px; padding: 0px; width: 80px; height: 24px; font-size: .8em; background: #f0f0f0; border: 1px solid #ddd; white-space: nowrap;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.value = 'Скрыть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.value = 'Показать';}" type="button">
+
+					<div style="padding-top: 4px;"> 
+						<div class="alt2" id="spoiler" style="display: none;"> 
+							<p><strong>КАЖДЫЙ СОТРУДНИК ГРАЖДАНСКОЙ ОБОРОНЫ ОБЯЗАН ЗНАТЬ, ЧТО ВЫДАЧА ОЧКОВ ЛОЯЛЬНОСТИ (далее: ОЛ) - ОТВЕТСТВЕННОЕ ЗАНЯТИЕ, ПОСКОЛЬКУ ВЫРАЖЕНИЕ СТЕПЕНИ ДОВЕРИЯ ДОЛЖЕН ЗАСЛУЖИВАТЬ ТОЛЬКО ТОТ ЧЕЛОВЕК, КОТОРЫЙ ДЕЙСТВИТЕЛЬНО ПРЕДАН АЛЬЯНСУ.</strong></p>
+							<p>&nbsp</p>
+							<p><span style="font-size: 13pt; color: rgb(200,90,90);"><strong>ПОЛУЧЕНИЕ ОЛ ЗА СДАЧУ ПРЕДМЕТОВ</strong></span></p>
+							<p><span style="padding-left: 16pt;"><strong>01.01 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Сдача мусора, являющийся элементом крафта: <strong>0.2 ОЛ за штуку</strong><br><span style="font-size: 11px;"><i>Предметы: &nbsp</i> Scrap Metal, Plastic, Box of Bolts, Box of Screws, Screw Driver, Cables, Bullet Casings, Gunpower, Scrap Electronics, Wrench
+							</span></span></span></p>
+							<p><span style="padding-left: 16pt;"><strong>01.02 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Сдача устройства связи, незарегистрированное Альянсом: <strong>0.3 ОЛ за штуку</strong><br><span style="font-size: 11px;"><i>Предметы: &nbsp</i> Radio, Stationary Radio</span></span></span></p>
+							<p><span style="padding-left: 16pt;"><strong>01.03 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Сдача нерабочего вооружения (легкое): <strong>0.5 ОЛ за штуку</strong><br><span style="font-size: 11px;"><i>Предметы: &nbsp</i> Broken USP Match/MP7</span></span></span></p>
+							<p><span style="padding-left: 16pt;"><strong>01.04 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Сдача нерабочего вооружения (тяжёлое): <strong>1 ОЛ за шутуку</strong><br><span style="font-size: 11px;"><i>Предметы: &nbsp</i> Broken SPAS-12/Magnum</span></span></span></p>
+							<p><span style="padding-left: 16pt;"><strong>01.05 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Сдача рабочего вооружения (легкое): <strong>1 ОЛ за штуку</strong><br><span style="font-size: 11px;"><i>Предметы: &nbsp</i> USP Match, M9 Beretta, MP7</span></span></span></p>
+							<p><span style="padding-left: 16pt;"><strong>01.06 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Сдача рабочего вооружения (тяжёлое): <strong>2 ОЛ за штуку</strong><br><span style="font-size: 11px;"><i>Предметы: &nbsp</i> Magnum, SPAS-12, M40A1, AK-74, AR2, Crossbow</span></span></span></p>
+							<p><span style="padding-left: 16pt;"><strong>01.07 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Сдача взрывных устройств, способных повредить человеку: <strong>1.5 ОЛ за штуку</strong><br><span style="font-size: 11px;"><i>Предметы: &nbsp</i> Grenade, RPG Round, Breach</span></span></span></p>
+							<p><span style="padding-left: 16pt;"><strong>01.08 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Сдача взрывных устройств, не способных повредить человеку: <strong>0.7 ОЛ за штуку</strong><br><span style="font-size: 11px;"><i>Предметы: &nbsp</i> Flash Grenade, Smoke Grenade</span></span></span></p>
+							<p><span style="padding-left: 16pt;"><strong>01.10 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Сдача униформы с элементами защиты тела: <strong>1 ОЛ за штуку</strong><br><span style="font-size: 11px;"><i>Предметы: &nbsp</i> Любая униформа с бронежилетом, штаны с железными вставками, противогаз</span></span></span></p>
+							<p><span style="padding-left: 16pt;"><strong>01.11 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Сдача незарегистрированных медикаментов: <strong>0.5 ОЛ за штуку</strong><br><span style="font-size: 11px;"><i>Предметы: &nbsp</i> Heal Vial, Heal Kits, Antidepressant, Steroids</span></span></span></p>
+							<p><span style="padding-left: 16pt;"><strong>01.12 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Сдача боевых патронов (легкие): <strong>0.5 ОЛ за штуку</strong><br><span style="font-size: 11px;"><i>Предметы: &nbsp</i> 9mm Bullets, SMG Bullets, Shotgun Shells</span></span></span></p>
+							<p><span style="padding-left: 16pt;"><strong>01.13 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Сдача боевых патронов (тяжёлые): <strong>1 ОЛ за штуку</strong><br><span style="font-size: 11px;"><i>Предметы: &nbsp</i> Crossbow Bolts, .357 Bullets, 7.62x61mm Bullets, 5.45x39mm Bullets</span></span></span></p>
+							<p><span style="padding-left: 16pt;"><strong>01.14 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Сдача запрещённой литературы: <strong>0.4 ОЛ за штуку</strong><br><span style="font-size: 11px;"><i>Предметы: &nbsp</i> Запрещена любая литература, исключая Zen of the Union</span></span></span></p>
+							<p><span style="padding-left: 16pt;"><strong>01.15 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Сдача бытовых незарегистрированных предметов: <strong>0.1 ОЛ за штуку</strong><br><span style="font-size: 11px;"><i>Предметы: &nbsp</i> Flashlight, Bleach, Spray Can</span></span></span></p>
+							<p><span style="padding-left: 16pt;"><strong>01.16 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Сдача стяжек: <strong>0.4 ОЛ за штуку</strong><br><span style="font-size: 11px;"><i>Предметы: &nbsp</i> Zip Tie</span></span></span></p>
+							<p><span style="padding-left: 16pt;"><strong>01.17 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Сдача оружия ближнего боя: <strong>1 ОЛ за штуку</strong><br><span style="font-size: 11px;"><i>Предметы: &nbsp</i> Crowbar, Fireaxe, Knife</span></span></span></p>
+							<p><span style="padding-left: 16pt;"><strong>01.18 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Сдача незарегистрированных спиртных напитков: <strong>0.4 ОЛ за штуку</strong></strong><br><span style="font-size: 11px;"><i>Предметы: &nbsp</i> Beer, Whiskey, Sasparilla</span></span></span></p>
+							<p>&nbsp</p>
+							<p><span style="font-size: 13pt; color: rgb(200,90,90);"><strong>ПОЛУЧЕНИЕ ОЛ ЗА ДОНЕСЕНИЯ</strong></span></p>
+							<p><span style="padding-left: 16pt;"><strong>02.01 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Донесение 1 уровня: <strong>0.5 ОЛ за донесение</strong></strong><br><span style="font-size: 11px;">(Драка 2-3 человек, большие скопления гражданских, нецензурная брань 2+ лиц, неадекватное поведение гражданских лиц)</span></span></span></p>
+							<p><span style="padding-left: 16pt;"><strong>02.02 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Донесение 2 уровня: <strong>1 ОЛ за донесение</strong></strong><br><span style="font-size: 11px;">(Возможные планы побега/нападения, драка с сильными побоями, донесение о местах возможного побега, вандализм, донесение о наличии у гражданского лица средней контробанды, грабеж квартир/гражданских лиц)</span></span></span></p>
+							<p><span style="padding-left: 16pt;"><strong>02.03 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Донесение 3 уровня: <strong>2 ОЛ за донесение</strong></strong><br><span style="font-size: 11px;">(Донесение о гражданине, вооруженным холодным оружием, ношение гражданским лицом одежды с элементами защиты,<br> донесение о гражданине в розыске, сообщение о драке с летальным исходом, раскрытие гражданских лиц, имущих оружие без патрон, доклад о гражданине-убийце,<br> доклад о взрывном устройстве без возможных жертв, доклад о некротиках/биотиках в секторе)</span></span></span></p>
+							<p><span style="padding-left: 16pt;"><strong>02.04 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Донесение 4 уровня: <strong>3 ОЛ за донесение</strong></strong><br><span style="font-size: 11px;">(Раскрытие сотрудника ГСР как члена Сопротивления, сообщение о гражданских с огнестрельным оружием,<br> доклад о гражданских-убийцах сотрудников ГСР, раскрытие гражданина-лоялиста со связями с Cопротивлением,<br> доклад о возможном взрыве с возможными жертвами, раскрытие тайных проходов в сектор D-6)</span></span></span></p>
+							<p><span style="padding-left: 16pt;"><strong>02.05 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Донесение 5 уровня: <strong>5 ОЛ за донесение</strong></strong><br><span style="font-size: 11px;">(Раскрытие гражданских лиц, имеющих влияние на сотрудников ГО, раскрытие сотрудника ГО как члена Cопротивления,<br> доклад о нападении на сотрудника ГО, доклад о гражданских лицах, имеющих тяжёлое вооружение,<br> раскрытие группировки людей занимающимися подрывной деятельностью относительно Альянса, раскрытие лидера-члена Cопротивления)</span></span></span></p>
+							<p>&nbsp</p>
+							<p><span style="font-size: 13pt; color: rgb(200,90,90);"><strong>ПОЛУЧЕНИЕ ОЛ ЗА ПОМОЩЬ СОТРУДНИКУ ГО</strong></span></p>
+							<p><span style="padding-left: 16pt;"><strong>03.01 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Помощь в задержании гражданина с нарушениями низкого уровня: <strong>0.3 ОЛ за гражданского</strong></strong><br><span style="font-size: 11px;">(Бег, прыжки, неадекватное поведение, нецензурная брань)</span></span></span></p>
+							<p><span style="padding-left: 16pt;"><strong>03.02 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Помощь в задержании гражданина с нарушениями среднего уровня: <strong>0.8 ОЛ за гражданского</strong></strong><br><span style="font-size: 11px;">(Сопротивление сотруднику ГО, нападение на сотрудника ГО без оружия, побег от сотрудника ГО)</span></span></span></p>
+							<p><span style="padding-left: 16pt;"><strong>03.03 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Помощь в задержании гражданина с нарушениями высокого уровня: <strong>1.5 ОЛ за гражданского</strong></strong><br><span style="font-size: 11px;">(Помощь в задержании вооруженных лиц, убийство гражданских лиц угрожающих жизни сотрудника ГСР/ГО, поддержка сотрудника ГО в неравном бою)</span></span></span></p>
+							<p>&nbsp</p>
+							<p><span style="font-size: 13pt; color: rgb(200,90,90);"><strong>ПОЛУЧЕНИЕ ОЛ ЗА РАБОЧИЕ ФАЗЫ</strong></span></p>
+							<p><span style="padding-left: 16pt;"><strong>04.01 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Рабочая фаза Долг: <strong>1 ОЛ за фазу</strong></strong><br><span style="font-size: 11px;">(Работа на заводе по производству пищевых единиц, перерабатывающий завод)</span></span></span></p>
+							<p><span style="padding-left: 16pt;"><strong>04.02 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Участие в добровольных мероприятиях, организованные сотрудниками ГСР: <strong>1.5 ОЛ за фазу</strong></strong><br><span style="font-size: 11px;">(События через /event)</span></span></span></p>
+							<p><span style="padding-left: 16pt;"><strong>04.03 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Участие в добровольных мероприятиях, организованные сотрудниками ГО: <strong>2 ОЛ за фазу</strong></strong><br><span style="font-size: 11px;">(События через /event, /dispatch)</span></span></span></p>
+							<p>&nbsp</p>
+							<p>&nbsp</p>
+							<p><strong>Множественные отклонения от протоколов, установленных в этой директории, приведут к немедленному устранению сотрудника.</strong></p>
+							<p><strong>Максимальное количество ОЛ за 1 реальный день - 10 ОЛ.</strong></p>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div style="margin: 5px 20px 20px;">
+				<div> 
+					<span padding-top: 2px;><strong>Директория гражданских нарушений</strong></span>
+					<input value="Показать" style="display: inline-block; margin: 0px; margin-left: 5px; padding: 0px; width: 80px; height: 24px; font-size: .8em; background: #f0f0f0; border: 1px solid #ddd; white-space: nowrap;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.value = 'Скрыть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.value = 'Показать';}" type="button">
+
+					<div style="padding-top: 4px;"> 
+						<div class="alt2" id="spoiler" style="display: none;"> 
+							<p><span style="font-size: 13pt; color: rgb(90,180,90);"><strong>Антиобщественная деятельность I уровня</strong></span></p>
+							<p><span style="font-size: 9pt;"><strong>МЕРА НАКАЗАНИЯ: </strong>1 цикл перевоспитания, 1 очко нарушений</span></p>
+							<p>&nbsp</p>
+							<p><span style="margin-left: 16pt;"><strong>01.01 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Несоответствие нормам передвижения</strong><br><span style="font-size: 11px;">Бег, прыжки, ходьба в присяди.</span></span></span></p>
+							<p><span style="margin-left: 16pt;"><strong>01.02 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Несоответствие нормам речи</strong><br><span style="font-size: 11px;">Любой вид речевой активности, несоответствующий разговорному. Крики, стоны, вопли.</span></span></span></p>
+							<p><span style="margin-left: 16pt;"><strong>01.03 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Несоответствие нормам поведения</strong><br><span style="font-size: 11px;">Расположение гражданского перед КПП ГО более 10 секунд без причины, недозволительное поведение перед сотрудником ГО или перед техническим оборудованием.</span></span></span></p>
+							<p><span style="margin-left: 16pt;"><strong>01.04 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Гражданские объединения</strong><br><span style="font-size: 11px;">Запрещены незарегистрированные любые виды групп и объединений гражданских, количество которых превышает три индивида.</span></span></span></p>
+							<p><span style="margin-left: 16pt;"><strong>01.05 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Вторжение в личное пространство</strong><br><span style="font-size: 11px;">Гражданин подозревается в создании помех другому гражданину или сотруднику ГО.</span></span></span></p>
+							<p>&nbsp</p>
+							<p><span style="font-size: 13pt; color: rgb(90,180,90);"><strong>Антиобщественная деятельность II уровня</strong></span></p>
+							<p><span style="font-size: 9pt;"><strong>МЕРА НАКАЗАНИЯ: </strong>2 цикла перевоспитания, 3 очка нарушений, (по усмотрению) тюремное заключение на 15 минут</span></p>
+							<p>&nbsp</p>
+							<p><span style="margin-left: 16pt;"><strong>02.01 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Несоответствие нормам Инспекционной Фазы</strong><br><span style="font-size: 11px;">Гражданин не выполняет нужные условия Инспекционной Фазы.</span></span></span></p>
+							<p><span style="margin-left: 16pt;"><strong>02.02 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Несоответствие нормам очереди</strong><br><span style="font-size: 11px;">Гражданин создаёт волнения в очереди, пытается сменить место.</span></span></span></p>
+							<p><span style="margin-left: 16pt;"><strong>02.03 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Уклонение от труда</strong><br><span style="font-size: 11px;">Гражданин не находится ни в одном рабочем пункте, ни в рабочем центре (по приказу сотрудника ГО).</span></span></span></p>
+							<p><span style="margin-left: 16pt;"><strong>02.04 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Уклонение от Надзора</strong><br><span style="font-size: 11px;">Гражданин не выходит на контакт с ближайшим отрядом или сотрудником ГО.</span></span></span></p>
+							<p><span style="margin-left: 16pt;"><strong>02.05 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Вредоносная разговорная деятельность</strong><br><span style="font-size: 11px;">Гражданин позволяет себе высказываться о Наших Покровителях в грубой форме.</span></span></span></p>
+							<p><span style="margin-left: 16pt;"><strong>02.06 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Несоответствие нормам местоположения</strong><br><span style="font-size: 11px;">Гражданин находится в недозволительном месте/секторе.</span></span></span></p>
+							<p><span style="margin-left: 16pt;"><strong>02.07 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Множественные нарушения АД I и II уровней</strong><br><span style="font-size: 11px;">Гражданин многократно (более 4 раз) нарушал правила, установленные I и II уровнями.<br>Гражданин объявляется причиной Антиобщественной деятельности I уровня.<br>Нексус-Надзор ведёт сообщения о гражданине.</span></span></span></p>
+							<p>&nbsp</p>
+							<p><span style="font-size: 13pt; color: rgb(255,180,120);"><strong>Угроза обществу I уровня</strong></span></p>
+							<p><span style="font-size: 9pt;"><strong>МЕРА НАКАЗАНИЯ: </strong>3 цикла перевоспитания, 5 очков нарушений, тюремное заключение на 20 минут</span></p>
+							<p>&nbsp</p>
+							<p><span style="margin-left: 16pt;"><strong>03.01 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Угроза жизни гражданину</strong><br><span style="font-size: 11px;">Гражданин угрожает жизни другому гражданину.</span></span></span></p>
+							<p><span style="margin-left: 16pt;"><strong>03.02 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Угроза гражданскому обществу</strong><br><span style="font-size: 11px;">Гражданин угрожает всему гражданскому обществу.</span></span></span></p>
+							<p><span style="margin-left: 16pt;"><strong>03.03 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Угроза сотруднику Гражданской Обороны</strong><br><span style="font-size: 11px;">Гражданин угрожает сотруднику ГО.</span></span></span></p>
+							<p><span style="margin-left: 16pt;"><strong>03.04 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Уклонение от Надзора</strong><br><span style="font-size: 11px;">Гражданин не выходит на контакт с ближайшим отрядом или сотрудником ГО.</span></span></span></p>
+							<p><span style="margin-left: 16pt;"><strong>03.05 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Неоднократное уклонение гражданского от работы</strong><br><span style="font-size: 11px;">Гражданин неоднократно невыполняет свои трудовые обязанности.</span></span></span></p>
+							<p><span style="margin-left: 16pt;"><strong>03.06 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Неоднократное уклонение от Надзора</strong><br><span style="font-size: 11px;">Гражданин неоднократно уклоняется от Надзора.</span></span></span></p>
+							<p>&nbsp</p>
+							<p><span style="font-size: 13pt; color: rgb(255,150,90);"><strong>Угроза обществу II уровня</strong></span></p>
+							<p><span style="font-size: 9pt;"><strong>МЕРА НАКАЗАНИЯ: </strong>4 цикла перевоспитания, 7 очков нарушений, тюремное заключение на 40 минут</span></p>
+							<p>&nbsp</p>
+							<p><span style="margin-left: 16pt;"><strong>04.01 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Оказание сопротивления сотрудникам ГО</strong><br><span style="font-size: 11px;">Гражданин отказывается от выполнений требований сотрудника ГО.</span></span></span></p>
+							<p><span style="margin-left: 16pt;"><strong>04.02 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Увечье</strong><br><span style="font-size: 11px;">Гражданин пойман за нанесением увечий другому гражданину.</span></span></span></p>
+							<p><span style="margin-left: 16pt;"><strong>04.03 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Кража</strong><br><span style="font-size: 11px;">Гражданин пойман на краже личного имущества другого гражданина.</span></span></span></p>
+							<p><span style="margin-left: 16pt;"><strong>04.04 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Похищение</strong><br><span style="font-size: 11px;">Гражданин подозревается в похищении другого гражданина.</span></span></span></p>
+							<p><span style="margin-left: 16pt;"><strong>04.05 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Множественные нарушения УО I и II уровней</strong><br><span style="font-size: 11px;">Гражданин многократно (более 4 раз) нарушал правила, установленные I и II уровнями.<br>Гражданин объявляется причиной Угрозы обществу I уровня.<br>Нексус-Надзор ведёт сообщения о гражданине.</span></span></span></p>
+							<p>&nbsp</p>
+							<p><span style="font-size: 13pt; color: rgb(255,150,90);"><strong>Тяжкое несоответствие</strong></span></p>
+							<p><span style="font-size: 9pt;"><strong>МЕРА НАКАЗАНИЯ: </strong>8 очков нарушений, тюремное заключение на 60 минут</span></p>
+							<p>&nbsp</p>
+							<p><span style="margin-left: 16pt;"><strong>05.01 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Глобальные нарушения</strong><br><span style="font-size: 11px;">Гражданин объявляется глобальным нарушителем по причине АД I и II уровней, УО I и II уровней.<br>Надзор ведет сообщения о гражданине.</span></span></span></p>
+							<p>&nbsp</p>
+							<p><span style="font-size: 13pt; color: rgb(255,120,90);"><strong>Угроза обществу III уровня</strong></span></p>
+							<p><span style="font-size: 9pt;"><strong>МЕРА НАКАЗАНИЯ: </strong>до 25-ти очков нарушений, тюремное заключение на 120 минут</span></p>
+							<p>&nbsp</p>
+							<p><span style="margin-left: 16pt;"><strong>06.01 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Попытка или проникновение в собственность Альянса</strong><br><span style="font-size: 11px;">Гражданин замечен в Нексусе или же при попытке проникнуть в Нексус.</span></span></span></p>
+							<p><span style="margin-left: 16pt;"><strong>06.02 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Помощь нарушителю</strong><br><span style="font-size: 11px;">Гражданин подозревается в помощи гражданину, обвиняемому по одной из категорий нарушений.</span></span></span></p>
+							<p><span style="margin-left: 16pt;"><strong>06.03 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Порча государственного имущества</strong><br><span style="font-size: 11px;">Гражданин замечен в порче или злоупотреблении терминалов и другой техники Альянса.</span></span></span></p>
+							<p><span style="margin-left: 16pt;"><strong>06.04 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Отказ в сотрудничестве с Альянсом</strong><br><span style="font-size: 11px;">Бездействие при замечании общественных нарушений. Гражданин не сообщает о них ближайшему сотруднику ГО.</span></span></span></p>
+							<p><span style="margin-left: 16pt;"><strong>06.05 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Предумышленное убийство гражданина</strong><br><span style="font-size: 11px;">Предумышленное убийство гражданином другого гражданина.</span></span></span></p>
+							<p><span style="margin-left: 16pt;"><strong>06.06 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Ношение оружия</strong><br><span style="font-size: 11px;">Гражданин носит с собой холодное или огнестрельное оружие.</span></span></span></p>
+							<p><span style="margin-left: 16pt;"><strong>06.07 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Нападение на сотрудника Гражданской Обороны</strong><br><span style="font-size: 11px;">Гражданин попытался напасть или напал на сотрудника ГО.</span></span></span></p>
+							<p><span style="margin-left: 16pt;"><strong>06.08 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Участие в антиобщественных выступлениях</strong><br><span style="font-size: 11px;">Гражданин принимает участие в бунте.</span></span></span></p>
+							<p>&nbsp</p>
+							<p><span style="font-size: 13pt; color: rgb(255,90,90);"><strong>Угроза обществу IV уровня</strong></span></p>
+							<p><span style="font-size: 9pt;"><strong>МЕРА НАКАЗАНИЯ: </strong>до 30-ти очков нарушений, тюремное заключение на 180 минут</span></p>
+							<p>&nbsp</p>
+							<p><span style="margin-left: 16pt;"><strong>07.01 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Геноцид</strong><br><span style="font-size: 11px;">Неоднократное убийство гражданином других граждан.</span></span></span></p>
+							<p><span style="margin-left: 16pt;"><strong>07.02 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Убийство сотрудника Гражданской Обороны</strong><br><span style="font-size: 11px;">Гражданин совершил убийство сотрудника ГО.</span></span></span></p>
+							<p><span style="margin-left: 16pt;"><strong>07.03 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Террористическая деятельность</strong><br><span style="font-size: 11px;">Попытка гражданином инициировать бунт, взрыв, геноцид, нападение на сотрудников ГО, убийство сотрудников ГО и прочих террористических актов.</span></span></span></p>
+							<p><span style="margin-left: 16pt;"><strong>07.04 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Повстанческая деятельность</strong><br><span style="font-size: 11px;">Гражданин является частью Сопротивления.</span></span></span></p>
+							<p>&nbsp</p>
+							<p><span style="font-size: 13pt; color: rgb(255,90,90);"><strong>Угроза обществу V уровня</strong></span></p>
+							<p><span style="font-size: 9pt;"><strong>МЕРА НАКАЗАНИЯ: </strong>30 очков нарушений, отсечение</span></p>
+							<p>&nbsp</p>
+							<p><span style="margin-left: 16pt;"><strong>08.01 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Неоднократные антигражданственные нарушения</strong><br><span style="font-size: 11px;">Гражданин объявляется особым нарушителем по причине Антиобщественной деятельности всех уровней, угрозой для общества деятельности с I по IV уровни.<br>Надзор ведет сообщения о гражданине.<br>Отзывается гражданство.</span></span></span></p>
+							<p><span style="margin-left: 16pt;"><strong>08.02 </strong>&nbsp|&nbsp<span style="display: inline-block; vertical-align: top;">Ключевое лицо Сопротивления</strong><br><span style="font-size: 11px;">Гражданин является ключевым лицом в сопротивлении.</span></span></span></p>
+							<p>&nbsp</p>
+							<p>&nbsp</p>
+							<p><strong>Множественные отклонения от протоколов, установленных в этой директории, приведут к немедленному устранению сотрудника.</strong></p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div style="margin: 5px 20px 20px;">
+				<div> 
+					<span padding-top: 2px;><strong>Пищевые единицы и их выдача</strong></span>
+					<input value="Показать" style="display: inline-block; margin: 0px; margin-left: 5px; padding: 0px; width: 80px; height: 24px; font-size: .8em; background: #f0f0f0; border: 1px solid #ddd; white-space: nowrap;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.value = 'Скрыть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.value = 'Показать';}" type="button">
+
+					<div style="padding-top: 4px;"> 
+						<div class="alt2" id="spoiler" style="display: none;"> 
+							<p>Для поддержания жизни в городе, каждому проживающему законному гражданину полагается суточная продовольственная норма в размере двух пищевых единиц.</p>
+							<p>&nbsp</p>
+							<p><i>Пищевая единица</i>&nbsp — это рацион питания, в состав вакуумной упаковки которой входят компоненты, которые могут употребляться без тепловой обработки и храниться в обычных условиях. Содержимое зависит от типа пищевой единицы.</p>
+							<p>&nbsp</p>
+							<p><span style="font-size: 17px;"><b>Существующие типы пищевых единиц</b></span></p>
+							<table border="0">
+								<tr>
+									<th style="border-bottom: 1px solid #ddd;text-align: left" >Наименование</th>
+									<th style="border-bottom: 1px solid #ddd;text-align: left; padding-left: 20px;">Обычно полагается</th>
+									<th style="border-bottom: 1px solid #ddd;text-align: left; padding-left: 20px;">Состав (UU-branded)</th>
+								</tr>
+								<tr style="vertical-align: top; border: 2px solid red;">
+									<td style="border-bottom: 1px solid #ddd;">Стандартный рацион питания</td>
+									<td style="border-bottom: 1px solid #ddd;padding-left: 20px;">Обычным гражданам и сотрудникам ГСР</td>
+									<td style="border-bottom: 1px solid #ddd;padding-left: 20px;">Банка воды,<br>Консервы с питательной массой,<br>Пищевые добавки</td>
+								</tr>
+								<tr style="vertical-align: top;">
+									<td style="border-bottom: 1px solid #ddd;">Усиленный рацион питания</td>
+									<td style="border-bottom: 1px solid #ddd;padding-left: 20px;">Сотрудникам ГО и Нексус-Надзора</td>
+									<td style="border-bottom: 1px solid #ddd;padding-left: 20px;">Банка воды,<br>Чай (заварка в одноразовых пакетиках, 2 шт.),<br>Консервы мясорастительные,<br>Усиливающие пищевые добавки</td>
+								</tr>
+							</table>
+							<p>&nbsp</p>
+							<p><span style="font-size: 17px;"><b>Основные положения и правила раздачи пищевых единиц для граждан</b></span></p>
+							<p>Уполномоченные сотрудники Гражданской Обороны ежедневно обязаны проводить раздачи пищевых единиц для проживающих граждан города не более чем <b>два раза в сутки</b>.</p>
+							<p>Раздача пищевых единиц для граждан проходит в специальном здании возле Нексус-Надзора. Это место называется <i>Терминалом Раздачи Рационов</i> (RDT/ТРР).</p>
+							<p><b>На проведение раздачи назначается как минимум два сотрудника Гражданской Обороны (один раздающий, другой следит за порядком в очереди). <i>Рекомендуемое количество сотрудников - 4</i>.</b></p>
+							<p>&nbsp</p>
+							<p><b>Порядок выдачи рациона гражданским лицам (для раздающего):</b></p>
+							<p>1) идентифицировать гражданина.</p>
+							<p>2) выдать определенное количество пищевых единиц исходя из социального статуса гражданина, его ОЛ и ОН (см. ниже).</p>
+							<p>3) пропустить следующего гражданина.</p>
+							<table border="0">
+								<tr>
+									<th style="border-bottom: 1px solid #ddd;text-align: left" >Условие</th>
+									<th style="border-bottom: 1px solid #ddd;text-align: left; padding-left: 20px;">Полагается</th>
+								</tr>
+								<tr style="vertical-align: top; border: 2px solid red;">
+									<td style="border-bottom: 1px solid #ddd;">По умолчанию</td>
+									<td style="border-bottom: 1px solid #ddd;padding-left: 20px;">Стандартный рацион питания в количестве одной штуки.</td>
+								</tr>
+								<tr style="vertical-align: top; border: 2px solid red;">
+									<td style="border-bottom: 1px solid #ddd;">Гражданин является сотрудником ГСР</td>
+									<td style="border-bottom: 1px solid #ddd;padding-left: 20px;">Дополнительный Стандартный рацион питания в количестве одной штуки.</td>
+								</tr>
+								<tr style="vertical-align: top; border: 2px solid red;">
+									<td style="border-bottom: 1px solid #ddd;">Гражданин имеет <b>больше <span style="color: rgb(220,90,90);">4 ОН</span></b></td>
+									<td style="border-bottom: 1px solid #ddd;padding-left: 20px;">Оштрафовать на одну пищевую единицу.</td>
+								</tr>
+								<tr style="vertical-align: top; border: 2px solid red;">
+									<td style="border-bottom: 1px solid #ddd;">Гражданин имеет <b>больше <span style="color: rgb(220,90,90);">9 ОН</span></b></td>
+									<td style="border-bottom: 1px solid #ddd;padding-left: 20px;">Не выдавать пищевых единиц.</td>
+								</tr>
+								<tr style="vertical-align: top; border: 2px solid red;">
+									<td style="border-bottom: 1px solid #ddd;">Гражданин имеет <b>больше <span style="color: rgb(90,180,90);">30 ОЛ</span> и не является сотрудником ГСР</b></td>
+									<td style="border-bottom: 1px solid #ddd;padding-left: 20px;">Дополнительный Стандартный рацион питания в количестве одной штуки.</td>
+								</tr>
+								<tr style="vertical-align: top; border: 2px solid red;">
+									<td style="border-bottom: 1px solid #ddd;">Гражданин имеет <b>больше <span style="color: rgb(90,180,90);">60 ОЛ</span></b></td>
+									<td style="border-bottom: 1px solid #ddd;padding-left: 20px;">Усиленный рацион питания вместо стандартного.</td>
+								</tr>
+							</table>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div style="margin: 5px 20px 20px;">
+				<div> 
+					<span padding-top: 2px;><strong>Игровые команды</strong></span>
+					<input value="Показать" style="display: inline-block; margin: 0px; margin-left: 5px; padding: 0px; width: 80px; height: 24px; font-size: .8em; background: #f0f0f0; border: 1px solid #ddd; white-space: nowrap;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.value = 'Скрыть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.value = 'Показать';}" type="button">
+
+					<div style="padding-top: 4px;"> 
+						<div class="alt2" id="spoiler" style="display: none;">
+							<p><strong>/RequestAnswer</strong> "CID" "Сообщение"</p>
+							<p style="margin-left: 20pt;">Отправляет сообщение конкретному человеку с устройством запроса.</p>
+							<p><strong>/RequestAnswerAll</strong> "Сообщение"</p>
+							<p style="margin-left: 20pt;">Отправляет сообщение всем гражданам с устройствами запроса.</p>
+							<p><strong>/RequestSignal</strong></p>
+							<p style="margin-left: 20pt;">Получение информации о всех доступных устройствах запроса и их владельцах.</p>
+							<p>&nbsp</p>
+							<p><strong>/ACRequest</strong> "CID"</p>
+							<p style="margin-left: 20pt;">Отозвание гражданства гражданину.</p>
+							<p><strong>/APPRequest</strong> "Номер квартиры"</p>
+							<p style="margin-left: 20pt;">Получение информации о всех доступных жильцах конкретной квартиры.</p>
+							<p><strong>/CitRequest</strong> "CID"</p>
+							<p style="margin-left: 20pt;">Возвращение гражданства гражданину.</p>
+							<p><strong>/BMRequest</strong> "CID" "Причина" "Количество"</p>
+							<p style="margin-left: 20pt;">Начисление очков нарушений гражданину.</p>
+							<p><strong>/RPRequest</strong> "CID" "Причина" "Количество"</p>
+							<p style="margin-left: 20pt;">Начисление очков лояльности гражданину.</p>
+							<p><strong>/InfoRequest</strong> "CID"</p>
+							<p style="margin-left: 20pt;">Получение всей информации о гражданине.</p>
+							<p><strong>/IsoRequest</strong> "CID" "Причина" "Время (в минутах)"</p>
+							<p style="margin-left: 20pt;">Используется, если гражданин был изолирован на конкретный промежуток времени. По истечению времени пребывание в тюрьме гражданина появится оповещение о том, что его нужно освободить.</p>
+							<p><strong>/RelRequest</strong> "CID"</p>
+							<p style="margin-left: 20pt;">Убирает у гражданина статус заключенного.</p>
+							<p><strong>/MisRequest</strong></p>
+							<p style="margin-left: 20pt;">Запрос о всех гражданах, которые находятся ПОД ОТКРЫТЫМ НЕБОМ. Если граждане находятся в здании - они не будут отображены.</p>
+							<p><strong>/RelocRequest</strong> "CID" "Номер новой квартиры"</p>
+							<p style="margin-left: 20pt;">Переселяет гражданина в новую квартиру. Он теряет доступ к старой.</p>
+							<p><strong>/ViewData</strong> "Имя гражданина"</p>
+							<p style="margin-left: 20pt;">Изменение личных данных гражданина.</p>
+							<p>&nbsp</p>
+							<p><strong>/R</strong> "Текст"</p>
+							<p style="margin-left: 20pt;">Замена обычной рации у ГО. Невозможно подслушать.</p>
+							<p><strong>/ViewObjectives</strong></p>
+							<p style="margin-left: 20pt;">Просмотр объявлений и задач для всех юнитов ГО.</p>
+							<p><strong>/VisorStatus</strong> "green/yellow/red"</p>
+							<p style="margin-left: 20pt;">Доступно с ранга OfC. Изменяет общий статус мобилизации сотрудников ГО.</p>
+							<p><strong>/VisorComm</strong> "Текст"</p>
+							<p style="margin-left: 20pt;">Отображение в верхнем левом углу сообщения всем сотрудникам.</p>
+							<p><strong>/VisorNotify</strong> "10-7/10-8"</p>
+							<p style="margin-left: 20pt;">Оповещение всех сотрудников ГО о вашем статусе.</p>
+							<p><strong>/VisorBackup</strong> "Текст"</p>
+							<p style="margin-left: 20pt;">Отправляет всем сотрудникам ГО сигнал о помощи.</p>
+							<p><strong>/VisorSettings</strong></p>
+							<p style="margin-left: 20pt;">Небольшие настройки интерфейса и визора.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<p>&nbsp</p>
+			<div style="margin: 5px 20px 20px;">
+				<div> 
+					<span padding-top: 2px;><strong>Закон о Гражданской Обороне</strong></span>
+					<input value="Показать" style="display: inline-block; margin: 0px; margin-left: 5px; padding: 0px; width: 80px; height: 24px; font-size: .8em; background: #f0f0f0; border: 1px solid #ddd; white-space: nowrap;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.value = 'Скрыть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.value = 'Показать';}" type="button">
+
+					<div style="padding-top: 4px;"> 
+						<div class="alt2" id="spoiler" style="display: none;"> 
+						
+						</div>
+					</div>
+				</div>
+			</div>
+			<p>&nbsp</p>
+			<div style="margin: 5px 20px 20px;">
+				<div> 
+					<span padding-top: 2px;><strong>Стандартный протокол задержания гражданских лиц</strong></span>
+					<input value="Показать" style="display: inline-block; margin: 0px; margin-left: 5px; padding: 0px; width: 80px; height: 24px; font-size: .8em; background: #f0f0f0; border: 1px solid #ddd; white-space: nowrap;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.value = 'Скрыть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.value = 'Показать';}" type="button">
+
+					<div style="padding-top: 4px;"> 
+						<div class="alt2" id="spoiler" style="display: none;">
+						<p><b>Задачи протокола:</b></p>
+						<p>1) безопасно произвести задержание гражданского лица (или лиц);</p>
+						<p>2) обеспечить правопорядок при транспортировании задержанного лица (или лиц) в ближайший КПЗ;</p>
+						<p>&nbsp</p>
+						<p><b>Количество сотрудников ГО для выполнения поставленных задач:</b></p>
+						<p>1) два сотрудника ГО на одного гражданина;</p>
+						<p>2) два сотрудника ГО на двоих граждан;</p>
+						<p>3) три сотрудника ГО на четыре гражданских;</p>
+						<p>4) четыре сотрудника ГО на десять гражданских;</p>
+						<p>&nbsp</p>
+						<p><b>Пошаговое выполнение протокола:</b></p>
+						<p>1) убедиться что все условия для исполнения протокола выполняются;</p>
+						<p>2) <i>(если задерживается более чем одно лицо)</i> гражданам приказать построится к стене и повернутся лицом к ней;</p>
+						<p>2) <i>(если задерживается одно лицо)</i> гражданину приказать встать к стены и повернутся лицом к ней;</p>
+						<p>3) <u>старшему по званию:</u> назначить одного сотрудника ГО для проведения задержания (далее - связывающий);</p>
+						<p><span style="font-size: 11px;margin-left: 16pt;">В случае, если рядом имеются излишки свободных сотрудников ГО, дозволяется их использование для обеспечения быстрого задержания и обыска нескольких гражданских лиц.</span></p>
+						<p>4) <u>старшему по званию:</u> назначить и распределить по позициям оставшихся сотрудников ГО для обеспечения порядка при задержании гражданских лиц;</p>
+						<p>5) <u>старшему по званию:</u> отдать приказ связывающим о начале задержании;</p>
+						<p>6) <u>связывающим:</u> начать поочередное связывание граждан, <u>при завершении:</u> доложить старшему по званию;</p>
+						<p><span style="font-size: 11px;margin-left: 16pt;">В случае, если дело имеется со строем из гражданских, задерживание должно происходить с начала левой стороны этого строя.</span></p>
+						<p>7) <u>старшему по званию:</u> отдать приказ связывающим о начале обыска связанных лиц;</p>
+						<p>8) <u>связывающим:</u> начать поочередный обыск граждан, <u>при завершении обыска каждого связанного:</u> доложить о найденном старшему по званию;</p>
+						<p>9) <u>при обнаружении контрабанды у задержанного:</u> доложить старшему по званию, конфисковать;</p>
+						<p>10) <u>старшему по званию:</u> организовать транспортацию задержанных лиц в КПЗ для последующего вынесения вердикта;</p>
+						<p>&nbsp</p>
+						<p><b>Старшие юниты должны быть оповещены в рацию по ходу выполнения протокола. Особенно это касается пунктов 9 и 10.</b></p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div style="margin: 5px 20px 20px;">
+				<div> 
+					<span padding-top: 2px;><strong>Стандартный протокол вынесения вердикта гражданским лицам</strong></span>
+					<input value="Показать" style="display: inline-block; margin: 0px; margin-left: 5px; padding: 0px; width: 80px; height: 24px; font-size: .8em; background: #f0f0f0; border: 1px solid #ddd; white-space: nowrap;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.value = 'Скрыть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.value = 'Показать';}" type="button">
+
+					<div style="padding-top: 4px;"> 
+						<div class="alt2" id="spoiler" style="display: none;"> 
+						
+						</div>
+					</div>
+				</div>
+			</div>
+			<div style="margin: 5px 20px 20px;">
+				<div> 
+					<span padding-top: 2px;><strong>Стандартный протокол исполнения вердикта гражданским лицам</strong></span>
+					<input value="Показать" style="display: inline-block; margin: 0px; margin-left: 5px; padding: 0px; width: 80px; height: 24px; font-size: .8em; background: #f0f0f0; border: 1px solid #ddd; white-space: nowrap;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.value = 'Скрыть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.value = 'Показать';}" type="button">
+
+					<div style="padding-top: 4px;"> 
+						<div class="alt2" id="spoiler" style="display: none;"> 
+						
+						</div>
+					</div>
+				</div>
+			</div>
+			<div style="margin: 5px 20px 20px;">
+				<div> 
+					<span padding-top: 2px;><strong>Стандартный протокол проведения рабочей фазы</strong></span>
+					<input value="Показать" style="display: inline-block; margin: 0px; margin-left: 5px; padding: 0px; width: 80px; height: 24px; font-size: .8em; background: #f0f0f0; border: 1px solid #ddd; white-space: nowrap;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.value = 'Скрыть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.value = 'Показать';}" type="button">
+
+					<div style="padding-top: 4px;"> 
+						<div class="alt2" id="spoiler" style="display: none;"> 
+						
+						</div>
+					</div>
+				</div>
+			</div>
+			<div style="margin: 5px 20px 20px;">
+				<div> 
+					<span padding-top: 2px;><strong>Стандартный протокол при комендантском часе</strong></span>
+					<input value="Показать" style="display: inline-block; margin: 0px; margin-left: 5px; padding: 0px; width: 80px; height: 24px; font-size: .8em; background: #f0f0f0; border: 1px solid #ddd; white-space: nowrap;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.value = 'Скрыть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.value = 'Показать';}" type="button">
+
+					<div style="padding-top: 4px;"> 
+						<div class="alt2" id="spoiler" style="display: none;"> 
+						
+						</div>
+					</div>
+				</div>
+			</div>
+			<div style="margin: 5px 20px 20px;">
+				<div> 
+					<span padding-top: 2px;><strong>Стандартный протокол при военном положении</strong></span>
+					<input value="Показать" style="display: inline-block; margin: 0px; margin-left: 5px; padding: 0px; width: 80px; height: 24px; font-size: .8em; background: #f0f0f0; border: 1px solid #ddd; white-space: nowrap;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.value = 'Скрыть'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.value = 'Показать';}" type="button">
+
+					<div style="padding-top: 4px;"> 
+						<div class="alt2" id="spoiler" style="display: none;"> 
+						
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

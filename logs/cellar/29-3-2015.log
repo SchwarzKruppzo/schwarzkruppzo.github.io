@@ -1,0 +1,535 @@
+20:30:26: [EoAsm] schwarzkruppzo (STEAM_0:1:44629398) has connected.
+20:34:20: [EoAsm] schwarzkruppzo has created a Citizen character called 'Test'.
+20:34:24: [EoAsm] schwarzkruppzo has loaded the character 'Test'.
+20:37:8: Test (STEAM_0:1:44629398) has disconnected.
+20:42:55: [EoAsm] schwarzkruppzo (STEAM_0:1:44629398) has connected.
+20:51:14: [EoAsm] schwarzkruppzo (STEAM_0:1:44629398) has connected.
+20:52:8: [EoAsm] schwarzkruppzo has loaded the character 'Test'.
+20:54:46: Test has lost a Suitcase 1427646861.
+20:54:46: Test has used '/InvAction use cw_suitcase 1427646861.00'.
+20:55:35: Test has used '/CharSearch'.
+20:56:4: Test has used '/CharSearch'.
+21:12:15: [EoAsm] schwarzkruppzo (STEAM_0:1:44629398) has connected.
+21:12:33: [EoAsm] schwarzkruppzo has loaded the character 'Test'.
+21:15:5: Test has used '/PermitBuy business'.
+21:31:7: [EoAsm] schwarzkruppzo (STEAM_0:1:44629398) has connected.
+21:31:23: [EoAsm] schwarzkruppzo has loaded the character 'Test'.
+21:37:23: [EoAsm] schwarzkruppzo (STEAM_0:1:44629398) has connected.
+21:37:34: [EoAsm] schwarzkruppzo has loaded the character 'Test'.
+21:53:49: Test has gained a Breen's Water 1427651626.
+21:53:49: Test has lost a Breen's Water 1427651626.
+21:53:49: Test has used '/InvAction use breens_water 1427651626'.
+21:54:0: Test has gained a Breen's Water 1427651639.
+21:54:0: Test has lost a Breen's Water 1427651639.
+21:54:0: Test has used '/InvAction use breens_water 1427651639'.
+21:54:13: Test has gained a Citizen Supplements 1427651653.
+21:54:13: Test has lost a Citizen Supplements 1427651653.
+21:54:13: Test has used '/InvAction use citizen_supplements 1427651653'.
+21:55:50: Test has used '/DispenserAdd'.
+21:56:17: Test has used '/CharGiveFlags test qwertyuiopasdfghjklzxcvbnm'.
+21:59:15: Test has used '/CharGiveFlags test p'.
+22:1:54: Test has used '/PlySetGroup test owner'.
+22:2:6: Test has used '/PlySetGroup test superadmin'.
+22:3:2: Test has used '/PlyWhitelist test mpf'.
+22:3:8: Test has used '/PlyWhitelist test civil protection'.
+22:3:16: Test has used '/PlyWhitelist test Civil Protection'.
+22:3:51: Test has used '/PlyWhitelist test Metropolice Force'.
+22:5:8: [EoAsm] schwarzkruppzo has created a Metropolice Force character called 'CP.RCT.17-64911'.
+22:5:19: [EoAsm] schwarzkruppzo has loaded the character 'CP.RCT.17-64911'.
+22:6:27: CP.RCT.17-64911 has used '/Radio Test'.
+22:6:56: CP.RCT.17-64911 has used '/InvAction Frequency handheld_radio 1427652313.00'.
+22:7:1: CP.RCT.17-64911 has used '/SetFreq 100'.
+22:7:11: CP.RCT.17-64911 has used '/Radio Test'.
+22:7:19: CP.RCT.17-64911 has used '/InvAction Frequency handheld_radio 1427652313.00'.
+22:7:22: CP.RCT.17-64911 has used '/SetFreq 101.1'.
+22:7:28: CP.RCT.17-64911 has used '/Radio 11'.
+22:8:58: CP.RCT.17-64911 has used '/CharGiveFlags rct t'.
+22:9:0: CP.RCT.17-64911 has used '/CharGiveFlags rct p'.
+22:10:5: CP.SeC.17-101 has used '/CharSetName rct CP.SeC.17-101'.
+22:10:18: CP.DsP.8-228 has used '/CharSetName sec CP.DsP.8-228'.
+22:17:5: CP.DsP.8-228 has used '/Observer'.
+22:17:6: CP.DsP.8-228 has used '/Observer'.
+22:17:6: CP.DsP.8-228 has used '/Observer'.
+22:17:7: CP.DsP.8-228 has used '/Observer'.
+22:17:8: CP.DsP.8-228 has used '/Observer'.
+22:17:8: CP.DsP.8-228 has used '/Observer'.
+22:17:9: CP.DsP.8-228 has used '/Observer'.
+22:17:9: CP.DsP.8-228 has used '/Observer'.
+22:17:9: CP.DsP.8-228 has used '/Observer'.
+22:17:14: CP.DsP.8-228 has used '/Observer'.
+22:17:14: CP.DsP.8-228 has used '/Observer'.
+22:17:19: CP.DsP.8-228 has used '/Observer'.
+22:17:20: CP.DsP.8-228 has used '/Observer'.
+22:17:21: CP.DsP.8-228 has used '/Observer'.
+22:17:21: CP.DsP.8-228 has used '/Observer'.
+22:17:21: CP.DsP.8-228 has used '/Observer'.
+22:17:21: CP.DsP.8-228 has used '/Observer'.
+22:17:21: CP.DsP.8-228 has used '/Observer'.
+22:17:21: CP.DsP.8-228 has used '/Observer'.
+22:17:23: CP.DsP.8-228 has used '/Observer'.
+22:17:23: CP.DsP.8-228 has lost a 9mm Pistol 1427652314.
+22:17:23: CP.DsP.8-228 has lost a 9mm Pistol Bullets 1427652315.
+22:17:23: CP.DsP.8-228 has lost a 9mm Pistol Bullets 1427652316.
+22:17:23: CP.DsP.8-228 has lost a Handheld Radio 1427652313.
+22:17:23: worldspawn has killed CP.DsP.8-228.
+22:18:23: CP.DsP.8-228 has gained a 9mm Pistol Bullets 1427653112.
+22:18:23: CP.DsP.8-228 has gained a 9mm Pistol Bullets 1427653113.
+22:19:32: CP.DsP.8-228 has used '/Observer'.
+22:19:33: CP.DsP.8-228 has used '/Observer'.
+22:19:34: CP.DsP.8-228 has used '/Observer'.
+22:21:43: CP.DsP.8-228 has used '/Observer'.
+22:21:45: CP.DsP.8-228 has used '/Observer'.
+22:21:47: CP.DsP.8-228 has used '/Observer'.
+22:21:48: CP.DsP.8-228 has used '/Observer'.
+22:21:49: CP.DsP.8-228 has used '/Observer'.
+22:21:55: CP.DsP.8-228 has used '/StorageClose'.
+22:27:17: CP.DsP.8-228 (STEAM_0:1:44629398) has disconnected.
+22:38:16: [EoAsm] schwarzkruppzo (STEAM_0:1:44629398) has connected.
+22:40:24: [EoAsm] schwarzkruppzo has loaded the character 'CP.DsP.8-228'.
+22:40:35: CP.DsP.8-228 has used '/Observer'.
+22:40:45: CP.DsP.8-228 has used '/Observer'.
+22:40:45: CP.DsP.8-228 has used '/Observer'.
+22:40:46: CP.DsP.8-228 has used '/Observer'.
+22:40:49: CP.DsP.8-228 has used '/Observer'.
+22:40:59: CP.DsP.8-228 has used '/Observer'.
+22:41:0: CP.DsP.8-228 has used '/Observer'.
+22:41:0: CP.DsP.8-228 has used '/Observer'.
+22:41:16: CP.DsP.8-228 has used '/Observer'.
+22:41:18: CP.DsP.8-228 has used '/Observer'.
+22:41:18: CP.DsP.8-228 has used '/Observer'.
+22:41:18: CP.DsP.8-228 has used '/Observer'.
+22:41:18: CP.DsP.8-228 has used '/Observer'.
+22:41:19: CP.DsP.8-228 has used '/Observer'.
+22:41:19: CP.DsP.8-228 has used '/Observer'.
+22:41:20: CP.DsP.8-228 has used '/Observer'.
+22:41:21: CP.DsP.8-228 has used '/Observer'.
+22:41:28: CP.DsP.8-228 has used '/Observer'.
+22:41:30: CP.DsP.8-228 has used '/Observer'.
+22:41:30: CP.DsP.8-228 has used '/Observer'.
+22:41:30: CP.DsP.8-228 has used '/Observer'.
+22:41:31: CP.DsP.8-228 has used '/Observer'.
+22:41:31: CP.DsP.8-228 has used '/Observer'.
+22:41:31: CP.DsP.8-228 has used '/Observer'.
+22:41:31: CP.DsP.8-228 has used '/Observer'.
+22:41:32: CP.DsP.8-228 has used '/Observer'.
+22:41:32: CP.DsP.8-228 has used '/Observer'.
+22:41:32: CP.DsP.8-228 has used '/Observer'.
+22:41:32: CP.DsP.8-228 has used '/Observer'.
+22:41:32: CP.DsP.8-228 has used '/Observer'.
+22:41:33: CP.DsP.8-228 has used '/Observer'.
+22:41:33: CP.DsP.8-228 has used '/Observer'.
+22:41:33: CP.DsP.8-228 has used '/Observer'.
+22:41:33: CP.DsP.8-228 has used '/Observer'.
+22:41:34: CP.DsP.8-228 has used '/Observer'.
+22:41:34: CP.DsP.8-228 has used '/Observer'.
+22:41:55: CP.DsP.8-228 has used '/CharFallOver'.
+22:41:57: CP.DsP.8-228 has used '/CharFallOver'.
+22:42:12: CP.DsP.8-228 has used '/CharPermaKill test'.
+22:42:16: CP.DsP.8-228 has lost a 9mm Pistol Bullets 1427653113.
+22:42:16: CP.DsP.8-228 has lost a 9mm Pistol Bullets 1427653112.
+22:42:16: CP.DsP.8-228 has killed CP.DsP.8-228.
+22:42:16: CP.DsP.8-228 has used '/CharPermaKill dsp'.
+22:43:33: [EoAsm] schwarzkruppzo has loaded the character 'Test'.
+22:45:55: Test has used '/Observer'.
+22:45:56: Test has used '/Observer'.
+22:50:43: Test (STEAM_0:1:44629398) has disconnected.
+23:5:55: [EoAsm] schwarzkruppzo (STEAM_0:1:44629398) has connected.
+23:8:26: [EoAsm] schwarzkruppzo (STEAM_0:1:44629398) has connected.
+23:9:57: finch (STEAM_0:1:98196438) has connected.
+23:11:36: finch has created a Citizen character called 'Joshua Hughes'.
+23:11:41: finch has loaded the character 'Joshua Hughes'.
+23:12:32: Joshua Hughes has lost a Suitcase 1427656297.
+23:12:32: Joshua Hughes has used '/InvAction use cw_suitcase 1427656297.00'.
+23:12:38: Joshua Hughes has gained a Suitcase 1427656297.
+23:12:41: Joshua Hughes has lost a Suitcase 1427656297.
+23:12:41: Joshua Hughes has used '/InvAction use cw_suitcase 1427656297.00'.
+23:15:0: [EoAsm] schwarzkruppzo has loaded the character 'Test'.
+23:15:11: [OOC] Test: хенк
+23:15:16: [LOOC] Joshua Hughes: Мм.
+23:15:47: [OOC] Joshua Hughes: Вообще не привык.
+23:16:0: [OOC] Test: Угу
+23:16:26: Test has used '/PlySetGroup joshua superadmin'.
+23:16:41: [OOC] Test: дал
+23:16:53: [OOC] Joshua Hughes: Нормально. Как тебе КВ вообще?
+23:17:5: [OOC] Test: Непривычно но нормас
+23:17:22: [OOC] Joshua Hughes: У меня 60 фпс.
+23:18:48: [OOC] Test: Тут сломанный клокворк щас
+23:18:49: Joshua Hughes has used '/AnimCheer'.
+23:18:53: Joshua Hughes has used '/AnimLean ArmsBack'.
+23:18:54: Joshua Hughes has used '/CharPhysDesc'.
+23:18:55: Joshua Hughes has used '/CharPhysDesc Just a Test Character | Test | Test | Test | '.
+23:19:4: [OOC] Joshua Hughes: Ок, рестарь.
+23:19:9: Test (STEAM_0:1:44629398) has disconnected.
+23:22:37: [EoAsm] schwarzkruppzo (STEAM_0:1:44629398) has connected.
+23:23:34: [EoAsm] schwarzkruppzo has loaded the character 'Test'.
+23:23:45: Test (STEAM_0:1:44629398) has disconnected.
+23:26:40: finch (STEAM_0:1:98196438) has connected.
+23:26:48: [EoAsm] schwarzkruppzo (STEAM_0:1:44629398) has connected.
+23:27:46: [EoAsm] schwarzkruppzo has loaded the character 'Test'.
+23:30:1: Test has used '/Observer'.
+23:30:1: Test has used '/Observer'.
+23:30:2: Test has used '/Observer'.
+23:30:3: Test has used '/Observer'.
+23:30:5: Test has used '/Observer'.
+23:30:5: Test has used '/Observer'.
+23:30:7: Test has used '/Observer'.
+23:30:8: Test has used '/Observer'.
+23:31:1: finch (STEAM_0:1:98196438) has connected.
+23:31:25: finch has loaded the character 'Joshua Hughes'.
+23:31:33: Test has used '/Observer'.
+23:31:34: Test has used '/Observer'.
+23:31:46: Test has used '/Observer'.
+23:31:47: Test has used '/Observer'.
+23:31:48: Test has used '/Observer'.
+23:31:48: Test has used '/Observer'.
+23:31:49: Test has used '/Observer'.
+23:31:49: Test has used '/Observer'.
+23:31:49: Test has used '/Observer'.
+23:31:49: Test has used '/Observer'.
+23:31:49: Test has used '/Observer'.
+23:31:50: Test has used '/Observer'.
+23:31:50: Test has used '/Observer'.
+23:31:50: Test has used '/Observer'.
+23:31:51: Test has used '/Observer'.
+23:31:51: Test has used '/Observer'.
+23:31:51: Test has used '/Observer'.
+23:31:52: Test has used '/Observer'.
+23:31:55: Joshua Hughes has lost a Suitcase 1427656297.
+23:31:55: Joshua Hughes has used '/InvAction use cw_suitcase 1427656297.00'.
+23:32:4: [OOC] Test: Хенк
+23:32:11: Test has used '/PlyGoto joshua'.
+23:32:13: Test has used '/Observer'.
+23:32:13: Test has used '/Observer'.
+23:32:15: Joshua Hughes has used '/Observer'.
+23:32:16: Joshua Hughes has used '/Observer'.
+23:34:11: Joshua Hughes has used '/CharGiveFlags Joshua cenqerterytuuiuoioop[]';lkjhgfdszxcvbnm,./ZXCVBNM<>?:LKJHGFDSAQWERTYUIOP{}'.
+23:34:23: [OOC] Test: Хотя обустраивайте
+23:34:27: Joshua Hughes has used '/CharGiveFlags Joshua cenprt'.
+23:34:37: Joshua Hughes has used '/CharGiveFlags Joshua cenprtB'.
+23:34:42: [OOC] Test: B тут нет
+23:34:52: Joshua Hughes has used '/CharGiveFlags Joshua CGNHBVZXCQWERT'.
+23:35:51: [Silence] (STEAM_0:1:58463998) has connected.
+23:36:54: [OOC] Joshua Hughes: Как себе бизнес меню дать?
+23:37:1: Joshua Hughes has used '/OrderShipment medic_uniform'.
+23:37:3: Joshua Hughes has used '/OrderShipment medic_uniform'.
+23:37:9: Joshua Hughes has ordered 5 Medic Uniforms.
+23:37:9: Joshua Hughes has used '/OrderShipment medic_uniform'.
+23:37:13: Joshua Hughes has gained a Medic Uniform 1427657833.
+23:37:13: Joshua Hughes has used '/StorageTakeItem medic_uniform 1427657833.00'.
+23:37:14: Joshua Hughes has used '/StorageClose'.
+23:37:21: Joshua Hughes has used '/OrderShipment handheld_radio'.
+23:37:23: Joshua Hughes has ordered 5 Handheld Radios.
+23:37:23: Joshua Hughes has used '/OrderShipment handheld_radio'.
+23:37:24: Joshua Hughes has used '/OrderShipment request_device'.
+23:37:28: Joshua Hughes has gained a Handheld Radio 1427657854.
+23:37:28: Joshua Hughes has used '/StorageTakeItem handheld_radio 1427657854.00'.
+23:37:29: Test has used '/PermitBuy business'.
+23:37:30: Joshua Hughes has used '/StorageClose'.
+23:37:37: [OOC] Test: Купи
+23:37:40: [OOC] Test: пермит
+23:37:42: Joshua Hughes has used '/OrderShipment breach'.
+23:37:51: Joshua Hughes has used '/OrderShipment boxed_backpack'.
+23:38:5: [OOC] Test: дал токены
+23:38:15: Joshua Hughes has used '/OrderShipment weapon_357'.
+23:38:17: [OOC] Test: а нет
+23:38:20: [OOC] Joshua Hughes: <jkmittt
+23:38:21: Test has used '/GiveTokens 10000'.
+23:38:51: [Silence] has created a Citizen character called 'Mason McVee'.
+23:38:51: [OOC] Test: Спавн поинты тут есть по дефолту. Плагин нам не нужен.
+23:38:53: [Silence] has loaded the character 'Mason McVee'.
+23:38:59: Joshua Hughes has used '/StorageClose'.
+23:39:2: Joshua Hughes has used '/StorageClose'.
+23:39:5: [OOC] Mason McVee: Ну, здравствуйте. СА :D
+23:39:9: Joshua Hughes has used '/InvAction Frequency handheld_radio 1427657854.00'.
+23:39:12: Joshua Hughes has used '/SetFreq 145.1'.
+23:39:16: Joshua Hughes has used '/InvAction use medic_uniform 1427657833.00'.
+23:39:44: [OOC] Joshua Hughes: Как вид от третьего лица включить?
+23:39:46: Joshua Hughes has used '/Observer'.
+23:40:2: [OOC] Test: Его нету
+23:40:11: [OOC] Test: Щас выдам суперадминку сайленс
+23:40:20: Test has used '/PlySetGroup mason superadmin'.
+23:40:21: Mason McVee has used '/Observer'.
+23:40:23: Joshua Hughes has used '/CharGiveFlags Mason McVee cenprtzxvbnm,.;lkjhgfdswertyuiop[ZXCVBNM<ASDFGHJKLQWRTYUIO'.
+23:40:28: [OOC] Test: Я тут уже освоился в клоке в плане команд
+23:40:29: [OOC] Mason McVee: Итак. Начну с Вокзала.
+23:40:31: [OOC] Joshua Hughes: И флаги заодно.
+23:40:34: [OOC] Mason McVee: Пф.
+23:40:37: Test has used '/Observer'.
+23:40:41: Test has used '/Observer'.
+23:40:46: [OOC] Mason McVee: Флаги сам выдам. TAB > ЛКМ / ПКМ на иконку игрока
+23:40:58: [OOC] Test: Да тут удобнее все
+23:41:0: [OOC] Mason McVee: А это лицензия?
+23:41:4: [OOC] Test: Угу
+23:41:4: [OOC] Mason McVee: Или пиратка?
+23:41:6: [OOC] Joshua Hughes: Потом эксукрсию мне сделаете.
+23:41:6: [OOC] Mason McVee: Воу
+23:41:10: [OOC] Mason McVee: 30$ Наскреб?
+23:41:17: [OOC] Joshua Hughes: Септик дал ключ.
+23:41:28: Joshua Hughes has used '/Observer'.
+23:41:29: Joshua Hughes has used '/Observer'.
+23:41:47: Mason McVee has used '/CharGiveFlags Mason McVee qwertyuiopasdfgvhjklzvbnmQWERTYUIOPASDFGHJKLZVBNM'.
+23:41:48: Joshua Hughes has used '/Observer'.
+23:41:50: Joshua Hughes has used '/Observer'.
+23:41:51: Joshua Hughes has used '/Observer'.
+23:41:52: Joshua Hughes has used '/Observer'.
+23:41:53: [OOC] Test: Он никак его назад забрать не сможет
+23:41:53: Joshua Hughes has used '/Observer'.
+23:41:54: Joshua Hughes has used '/Observer'.
+23:41:57: [OOC] Mason McVee: You cannot give 'o', 'a' or 's' flags!
+23:42:1: [OOC] Mason McVee: Что, простите?
+23:42:1: [OOC] Joshua Hughes: Не так.
+23:42:25: Mason McVee has used '/CharGiveFlags Mason McVee ept'.
+23:42:35: Mason McVee has used '/CharGiveFlags Mason McVee GTv'.
+23:42:43: Joshua Hughes has used '/Observer'.
+23:42:44: Joshua Hughes has used '/Observer'.
+23:42:45: Joshua Hughes has used '/Observer'.
+23:42:50: Mason McVee has used '/CharGiveFlags Mason McVee NCn'.
+23:42:52: Joshua Hughes has used '/Observer'.
+23:42:52: Joshua Hughes has used '/Observer'.
+23:42:56: Joshua Hughes has used '/Observer'.
+23:43:4: Mason McVee has used '/CharGiveFlags Mason McVee Vrcm'.
+23:43:11: [OOC] Mason McVee: Тут не выдать флаги, как обычно
+23:43:24: Test has used '/CharGiveFlags mason cenprt'.
+23:43:25: [OOC] Joshua Hughes: Вы уверены насчет этой карты?
+23:43:28: [OOC] Mason McVee: Именно те, которые есть. И при этом тут N и n - разные
+23:43:30: [OOC] Joshua Hughes: Мб Сити-18?
+23:43:31: [OOC] Mason McVee: Да.
+23:43:35: [OOC] Joshua Hughes: Ок.
+23:43:43: [OOC] Mason McVee: Не надо эксперементировать. Сити-17 имеет все нужное.
+23:43:48: [OOC] Mason McVee: Главное - умело использовать
+23:43:52: Mason McVee has used '/Observer'.
+23:43:54: Mason McVee has used '/Observer'.
+23:43:54: Mason McVee has used '/Observer'.
+23:43:56: [OOC] Joshua Hughes: Покажи мне тут все.
+23:43:58: [OOC] Mason McVee: НОУКЛИП СЛОМАН.
+23:44:1: [OOC] Mason McVee: ЧЕРТ
+23:44:3: Mason McVee has used '/Observer'.
+23:44:4: Mason McVee has used '/Observer'.
+23:44:8: [OOC] Test: Сек
+23:44:11: Joshua Hughes has used '/Observer'.
+23:44:13: Mason McVee has used '/Observer'.
+23:44:13: [OOC] Test: Это фишка такая
+23:44:14: Test has used '/Observer'.
+23:44:15: Mason McVee has used '/Observer'.
+23:44:15: Test has used '/Observer'.
+23:44:16: Mason McVee has used '/Observer'.
+23:44:16: Test has used '/Observer'.
+23:44:17: Test has used '/Observer'.
+23:44:17: [OOC] Joshua Hughes: Это фишка же.
+23:44:18: Test has used '/Observer'.
+23:44:18: Test has used '/Observer'.
+23:44:19: Test has used '/Observer'.
+23:44:19: Test has used '/Observer'.
+23:44:19: [OOC] Joshua Hughes: Ага.
+23:44:20: Test has used '/Observer'.
+23:44:20: Test has used '/Observer'.
+23:44:21: [OOC] Mason McVee: Ааа....
+23:44:23: Test has used '/Observer'.
+23:44:25: [OOC] Joshua Hughes: Отключи Админ ЕСП.
+23:44:25: [OOC] Mason McVee: Плохая фишка.
+23:44:27: Joshua Hughes has used '/Observer'.
+23:44:29: Test has used '/Observer'.
+23:44:39: Test has used '/Observer'.
+23:44:40: Test has used '/Observer'.
+23:44:41: Test has used '/Observer'.
+23:44:41: Test has used '/Observer'.
+23:44:42: Test has used '/Observer'.
+23:44:42: Mason McVee has spawned 'models/props_c17/chair02a.mdl'.
+23:44:42: Mason McVee has spawned 'models/props_c17/chair02a.mdl'.
+23:44:42: Test has used '/Observer'.
+23:44:44: Test has used '/Observer'.
+23:44:46: Mason McVee has used '/Observer'.
+23:44:48: Mason McVee has used '/Observer'.
+23:44:57: [OOC] Joshua Hughes: Где третий режим?
+23:44:58: [OOC] Mason McVee: Итак. Как я и говорил
+23:45:1: Joshua Hughes has used '/Observer'.
+23:45:2: Joshua Hughes has used '/Observer'.
+23:45:3: [OOC] Mason McVee: Начнем с обустройки!
+23:45:4: Test has used '/Observer'.
+23:45:8: [OOC] Mason McVee: Его не запилил Шварц.
+23:45:9: [OOC] Test: Третьего режима нету
+23:45:19: [OOC] Mason McVee: Он есть, но нужен (кажись) плагин
+23:45:23: Mason McVee has used '/Observer'.
+23:45:25: Mason McVee has used '/Observer'.
+23:45:25: [OOC] Test: Есть у меня плагин
+23:45:29: [OOC] Joshua Hughes: Покажи сначала все.
+23:45:42: [OOC] Mason McVee: Отключите 'Фишечный' ноуклип. Мешает. Я привык вхыодить из него
+23:45:47: [OOC] Test: щас
+23:45:47: Joshua Hughes has used '/Observer'.
+23:45:48: Joshua Hughes has used '/Observer'.
+23:46:0: Joshua Hughes has used '/Observer'.
+23:46:1: Joshua Hughes has used '/Observer'.
+23:46:10: Mason McVee has used '/Observer'.
+23:46:11: Mason McVee has used '/Observer'.
+23:46:22: Mason McVee has spawned 'models/props_combine/combine_barricade_med02a.mdl'.
+23:46:23: [OOC] Joshua Hughes: Сначала покажите, что тут да как на карте. Я на ней не играл никогда.
+23:46:25: Mason McVee has used '/Observer'.
+23:46:25: Joshua Hughes has used '/Observer'.
+23:46:27: Joshua Hughes has used '/Observer'.
+23:46:27: [OOC] Test: Dsrk.xbk
+23:46:28: Mason McVee has spawned 'models/props_combine/combine_barricade_med02a.mdl'.
+23:46:33: [OOC] Test: Выключил
+23:46:34: Test has used '/Observer'.
+23:46:34: Test has used '/Observer'.
+23:46:35: Test has used '/Observer'.
+23:46:35: Test has used '/Observer'.
+23:46:35: Mason McVee has spawned 'models/props_combine/combine_barricade_med02a.mdl'.
+23:46:36: Joshua Hughes has used '/Observer'.
+23:46:36: Test has used '/Observer'.
+23:46:36: Joshua Hughes has used '/Observer'.
+23:46:36: Joshua Hughes has used '/Observer'.
+23:46:37: Mason McVee has spawned 'models/props_combine/combine_barricade_med02a.mdl'.
+23:46:44: [OOC] Mason McVee: И для пропов нужны токены.
+23:46:49: [OOC] Test: ЩАс выключу
+23:46:53: Joshua Hughes has spawned 'models/props_junk/wood_crate001a.mdl'.
+23:46:53: Joshua Hughes has spawned 'models/props_junk/wood_crate001a.mdl'.
+23:47:1: Joshua Hughes has used '/StorageClose'.
+23:47:1: Mason McVee has used '/StorageClose'.
+23:47:17: [OOC] Test: все
+23:47:22: [OOC] Mason McVee: Охх... Теперь придется сделать админского вендора
+23:47:26: Mason McVee has spawned 'models/props_combine/combine_barricade_med02a.mdl'.
+23:47:26: Mason McVee has spawned 'models/props_combine/combine_barricade_med02a.mdl'.
+23:47:26: Mason McVee has used '/Observer'.
+23:47:29: Mason McVee has used '/Observer'.
+23:47:32: Joshua Hughes has used '/Observer'.
+23:47:39: Test has used '/StorageClose'.
+23:47:40: Test has used '/Observer'.
+23:47:43: Joshua Hughes has used '/Observer'.
+23:47:48: Joshua Hughes has spawned 'models/items/redammo.mdl'.
+23:47:48: Joshua Hughes has spawned 'models/items/redammo.mdl'.
+23:47:49: [OOC] Test: Тут уже есть смертная кукла регдола
+23:47:54: [OOC] Test: с лутом
+23:47:56: [OOC] Mason McVee: Ммм... Стакер. Ура.
+23:48:7: [OOC] Mason McVee: Форсфилды - плагин?...
+23:48:20: Joshua Hughes has used '/Observer'.
+23:48:20: Joshua Hughes has used '/Observer'.
+23:48:37: [OOC] Mason McVee: Нажимаю такой на C
+23:48:39: Joshua Hughes has used '/Observer'.
+23:48:40: Joshua Hughes has used '/Observer'.
+23:48:44: [OOC] Mason McVee: Навожу на проп
+23:48:46: [OOC] Mason McVee: И ничего
+23:48:49: Test has used '/Observer'.
+23:48:49: Joshua Hughes has used '/Observer'.
+23:48:54: Joshua Hughes has used '/Observer'.
+23:48:54: Mason McVee has used '/Observer'.
+23:48:54: Joshua Hughes has used '/Observer'.
+23:48:54: Joshua Hughes has used '/Observer'.
+23:48:55: [OOC] Test: Блеа
+23:48:57: Test has used '/Observer'.
+23:48:57: Joshua Hughes has used '/Observer'.
+23:48:58: Joshua Hughes has used '/Observer'.
+23:48:59: Joshua Hughes has used '/Observer'.
+23:48:59: Test has used '/Observer'.
+23:48:59: Joshua Hughes has used '/Observer'.
+23:49:44: Joshua Hughes has used '/Observer'.
+23:50:2: [OOC] Joshua Hughes: Покажите мне все на карте, я строить не могу из-за этого.
+23:50:12: Mason McVee has used '/Observer'.
+23:50:12: Mason McVee has used '/Observer'.
+23:50:16: [OOC] Mason McVee: Итак
+23:50:21: [OOC] Mason McVee: Осмотри ее. Просто осмотри
+23:50:28: Joshua Hughes has used '/Observer'.
+23:50:37: [OOC] Mason McVee: Я тоже в первые дни на ней не мог запомнить места
+23:51:1: [OOC] Mason McVee: Но главное - использовать карту с умом.
+23:51:5: [OOC] Mason McVee: Сдерживать граждан
+23:51:17: [OOC] Joshua Hughes: Нашел офис ГСР. ГДе комбайн локи?
+23:51:20: [OOC] Mason McVee: Полями, пропами. Чем угодно, но чтобы ГО могли провести через это граждан
+23:51:24: [OOC] Mason McVee: У вендоров...
+23:51:31: Mason McVee has used '/SalesmanAdd'.
+23:51:38: [OOC] Mason McVee: /salesmanadd
+23:51:42: [OOC] Mason McVee: Легко его создать
+23:51:46: Joshua Hughes has used '/SalesmanAdd'.
+23:51:51: [OOC] Mason McVee: Сделаю админского салесмана. Сейчас
+23:52:2: Mason McVee has used '/Observer'.
+23:52:11: Mason McVee has used '/SalesmanAdd'.
+23:52:44: Mason McVee has lost a Suitcase 1427657951.
+23:52:44: Mason McVee has used '/InvAction use cw_suitcase 1427657951.00'.
+23:52:51: [OOC] Joshua Hughes: Нету его там.
+23:52:56: Mason McVee has used '/SalesmanEdit'.
+23:52:56: Joshua Hughes has used '/Observer'.
+23:53:15: [OOC] Test: Ммм Как тогда персистить? =D
+23:53:20: Test has used '/Observer'.
+23:53:29: [OOC] Joshua Hughes: Это ты кодер. Может по старинке?
+23:53:29: [OOC] Test: Может автоматом они персистятся?
+23:53:31: Test has used '/Observer'.
+23:53:32: Test has used '/Observer'.
+23:53:36: Joshua Hughes has used '/Observer'.
+23:53:40: Joshua Hughes has used '/Observer'.
+23:53:41: Joshua Hughes has used '/Observer'.
+23:54:3: [OOC] Joshua Hughes: ГСР и ГО локов нету.
+23:54:9: [OOC] Test: ГО локи есть
+23:54:13: [OOC] Test: Они не через ентити ставятся
+23:54:36: [OOC] Joshua Hughes: А как?
+23:55:8: [OOC] Test: А вообще через предметы
+23:55:14: [OOC] Test: Добавь себе предмет combine_lock
+23:55:15: Joshua Hughes has spawned 'models/props_wasteland/cafeteria_table001a.mdl'.
+23:55:15: Joshua Hughes has spawned 'models/props_wasteland/cafeteria_table001a.mdl'.
+23:55:15: Joshua Hughes has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+23:55:15: Joshua Hughes has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+23:55:16: Joshua Hughes has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+23:55:16: Joshua Hughes has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+23:55:26: [OOC] Joshua Hughes: Команду в студию.
+23:55:37: Joshua Hughes has spawned 'models/props_c17/FurnitureCouch002a.mdl'.
+23:55:37: Joshua Hughes has spawned 'models/props_c17/FurnitureCouch002a.mdl'.
+23:55:38: [OOC] Test: /chargiveitem
+23:55:56: Joshua Hughes has spawned 'models/props_interiors/Furniture_Desk01a.mdl'.
+23:55:56: Joshua Hughes has spawned 'models/props_interiors/Furniture_Desk01a.mdl'.
+23:56:14: Mason McVee has used '/CharGiveItem Mason McVee union_lock'.
+23:56:15: Joshua Hughes has used '/StorageClose'.
+23:56:18: Joshua Hughes has spawned 'models/props_interiors/Furniture_chair01a.mdl'.
+23:56:18: Joshua Hughes has spawned 'models/props_interiors/Furniture_chair01a.mdl'.
+23:56:19: [OOC] Mason McVee: А юнион лок...
+23:56:28: [OOC] Mason McVee: Как его получить? Или опять плагин?
+23:56:36: [OOC] Test: А юнион лок чем отличается?
+23:56:38: Joshua Hughes has spawned 'models/props_combine/breenchair.mdl'.
+23:56:38: Joshua Hughes has spawned 'models/props_combine/breenchair.mdl'.
+23:56:40: Mason McVee has gained a Combine Lock 1427659022.
+23:56:40: Mason McVee has used '/CharGiveItem Mason McVee combine_lock'.
+23:56:42: Mason McVee has used '/Observer'.
+23:56:48: Mason McVee has used '/Observer'.
+23:57:1: Mason McVee has gained a Backpack 1427659044.
+23:57:1: Mason McVee has used '/CharGiveItem Mason McVee backpack'.
+23:57:5: Joshua Hughes has gained a Combine Lock 1427659049.
+23:57:5: Joshua Hughes has used '/CharGiveItem Joshua combine_lock'.
+23:57:8: Joshua Hughes has gained a Combine Lock 1427659053.
+23:57:8: Joshua Hughes has used '/CharGiveItem Joshua combine_lock'.
+23:57:9: Joshua Hughes has gained a Combine Lock 1427659055.
+23:57:9: Joshua Hughes has used '/CharGiveItem Joshua combine_lock'.
+23:57:10: Joshua Hughes has gained a Combine Lock 1427659057.
+23:57:10: Joshua Hughes has used '/CharGiveItem Joshua combine_lock'.
+23:57:10: Joshua Hughes has gained a Combine Lock 1427659058.
+23:57:10: Joshua Hughes has used '/CharGiveItem Joshua combine_lock'.
+23:57:11: Joshua Hughes has gained a Combine Lock 1427659060.
+23:57:11: Joshua Hughes has used '/CharGiveItem Joshua combine_lock'.
+23:57:16: Mason McVee has gained a Backpack 1427659066.
+23:57:16: Mason McVee has used '/CharGiveItem Mason McVee backpack'.
+23:57:21: Mason McVee has gained a Backpack 1427659072.
+23:57:21: Mason McVee has used '/CharGiveItem Mason McVee backpack'.
+23:57:21: Joshua Hughes has lost a Combine Lock 1427659049.
+23:57:21: Joshua Hughes has used '/InvAction use combine_lock 1427659049.00'.
+23:57:27: Mason McVee has gained a Backpack 1427659079.
+23:57:27: Mason McVee has used '/CharGiveItem Mason McVee backpack'.
+23:57:30: Mason McVee has gained a Backpack 1427659083.
+23:57:30: Mason McVee has used '/CharGiveItem Mason McVee backpack'.
+23:57:33: Mason McVee has gained a Backpack 1427659087.
+23:57:33: Mason McVee has used '/CharGiveItem Mason McVee backpack'.
+23:57:33: Joshua Hughes has spawned 'models/props_combine/breenchair.mdl'.
+23:57:33: Joshua Hughes has spawned 'models/props_combine/breenchair.mdl'.
+23:57:40: [OOC] Test: Мм?
+23:57:40: Test has used '/Observer'.
+23:57:45: [OOC] Mason McVee: Комбайн локи весят много.
+23:57:50: Joshua Hughes has used '/CharGiveItem Joshua union_lock'.
+23:57:54: [OOC] Mason McVee: Юнион лок могут открыть с юнион картой (Для ГСР. Синий)
+23:58:0: [OOC] Joshua Hughes: Для ГСР какие локи?
+23:58:2: [OOC] Mason McVee: А Комбайн лок для ГО и ОТА
+23:58:9: [OOC] Mason McVee: Синие. Их почему-то нет
+23:58:19: [OOC] Test: Давайте рестарт сделаю. Посмотрим засейвятся пропы или нет
+23:58:22: [OOC] Mason McVee: Оранжевый - комбайн лок. Для ГО. В офис нужны синие.
+23:58:23: [OOC] Joshua Hughes: Ок.
+23:58:26: Mason McVee has lost a Combine Lock 1427659022.
+23:58:26: Mason McVee has used '/InvAction use combine_lock 1427659022.00'.
+23:58:27: Joshua Hughes has used '/Observer'.
+23:58:29: Joshua Hughes has used '/Observer'.
+23:58:30: Joshua Hughes has used '/Observer'.
+23:58:32: Mason McVee has used '/Observer'.
+23:58:37: Joshua Hughes (STEAM_0:1:98196438) has disconnected.
+23:59:38: [Silence] (STEAM_0:1:58463998) has connected.

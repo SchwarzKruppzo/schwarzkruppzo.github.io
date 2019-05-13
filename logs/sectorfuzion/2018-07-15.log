@@ -1,0 +1,756 @@
+15:01:56: Septic&K (STEAM_0:0:34008601 / 94.181.42.24:27005) has connected.
+15:03:05: Septic&K has loaded the character 'CCA:c17.sc.0328'.
+15:03:09: CCA:c17.sc.0328 has used '/Observer'.
+15:03:19: CCA:c17.sc.0328 has used '/Observer'.
+15:03:32: CCA:c17.sc.0328 has used '/Observer'.
+15:03:34: CCA:c17.sc.0328 has used '/Observer'.
+15:04:04: CCA:c17.sc.0328 has used '/Observer'.
+15:04:34: CCA:c17.sc.0328 has used '/Observer'.
+15:04:36: CCA:c17.sc.0328 has used '/Observer'.
+15:05:16: CCA:c17.sc.0328 has used '/Observer'.
+15:05:19: CCA:c17.sc.0328 has spawned 'models/props_c17/fence04a.mdl'.
+15:05:19: CCA:c17.sc.0328 has spawned 'models/props_c17/fence04a.mdl'.
+15:06:17: CCA:c17.sc.0328 has used '/Observer'.
+15:06:19: CCA:c17.sc.0328 has used '/Observer'.
+15:06:20: CCA:c17.sc.0328 has used '/Observer'.
+15:06:20: CCA:c17.sc.0328 has used '/Observer'.
+15:06:22: CCA:c17.sc.0328 has used '/Observer'.
+15:06:42: CCA:c17.sc.0328 has used '/Observer'.
+15:07:03: CCA:c17.sc.0328 has used '/Observer'.
+15:07:04: CCA:c17.sc.0328 has used '/Observer'.
+15:07:32: CCA:c17.sc.0328 has used '/Observer'.
+15:07:33: CCA:c17.sc.0328 has used '/Observer'.
+15:07:34: CCA:c17.sc.0328 has used '/Observer'.
+15:07:42: CCA:c17.sc.0328 has used '/Observer'.
+15:08:08: CCA:c17.sc.0328 has used '/Observer'.
+15:08:31: CCA:c17.sc.0328 has used '/Observer'.
+15:09:09: CCA:c17.sc.0328 has used '/Observer'.
+15:09:29: CCA:c17.sc.0328 has used '/ContainmentBoxStartPos'.
+15:09:52: CCA:c17.sc.0328 has used '/ContainmentBoxEndPos'.
+15:09:55: CCA:c17.sc.0328 has used '/Observer'.
+15:10:05: CCA:c17.sc.0328 has used '/ContainmentSave'.
+15:10:26: CCA:c17.sc.0328 has gained a ������ 1531656626.
+15:11:21: CCA:c17.sc.0328 has used '/ContainmentSpherePlace 5 5'.
+15:11:51: CCA:c17.sc.0328 has gained a Дозиметр 1531656712.
+15:11:54: CCA:c17.sc.0328 has used '/Observer'.
+15:11:58: CCA:c17.sc.0328 has used '/Observer'.
+15:12:03: Septic&K has loaded the character '1111111111111111111111111'.
+15:12:03: 1111111111111111111111111 has used '/Observer'.
+15:12:05: 1111111111111111111111111 has used '/Observer'.
+15:12:11: 1111111111111111111111111 has used '/CharGiveFlags 111 G'.
+15:12:11: 1111111111111111111111111 has used '/Observer'.
+15:12:18: 1111111111111111111111111 has used '/Observer'.
+15:12:22: 1111111111111111111111111 has gained a Дозиметр 1531656744.
+15:12:36: 1111111111111111111111111 has lost a Дозиметр 1531656744.
+15:12:36: 1111111111111111111111111 has used '/InvAction #Drop geiger_counter 1531656744.00'.
+15:12:38: 1111111111111111111111111 has gained a Дозиметр 1531656744.
+15:13:17: 1111111111111111111111111 has used '/ContainmentBoxPlace 10'.
+15:13:29: 1111111111111111111111111 has used '/Observer'.
+15:13:30: 1111111111111111111111111 has used '/Observer'.
+15:13:59: 1111111111111111111111111 has used '/ContainmentBoxPlace 50'.
+15:14:02: 1111111111111111111111111 has used '/Observer'.
+15:14:05: 1111111111111111111111111 has used '/Observer'.
+15:14:11: 1111111111111111111111111 has gained a Health Kit 1531656854.
+15:14:11: 1111111111111111111111111 has lost a Health Kit 1531656854.
+15:14:11: 1111111111111111111111111 has used '/InvAction use health_kit 1531656854'.
+15:14:12: 1111111111111111111111111 has used '/Observer'.
+15:14:23: 1111111111111111111111111 has used '/ContainmentRemove 10'.
+15:14:25: 1111111111111111111111111 has used '/ContainmentRemove 10'.
+15:14:26: 1111111111111111111111111 has used '/ContainmentRemove 10'.
+15:14:26: 1111111111111111111111111 has used '/Observer'.
+15:14:27: 1111111111111111111111111 has used '/ContainmentRemove 10'.
+15:14:28: 1111111111111111111111111 has used '/ContainmentRemove 10'.
+15:14:28: 1111111111111111111111111 has used '/ContainmentRemove 10'.
+15:14:29: 1111111111111111111111111 has used '/Observer'.
+15:14:32: 1111111111111111111111111 has used '/ContainmentRemove 200'.
+15:14:33: 1111111111111111111111111 has used '/Observer'.
+15:14:34: 1111111111111111111111111 has used '/ContainmentRemove 200'.
+15:14:38: 1111111111111111111111111 has used '/ContainmentRemove 2000'.
+15:14:39: 1111111111111111111111111 has used '/ContainmentRemove 2000'.
+15:14:40: 1111111111111111111111111 has used '/ContainmentRemove 2000'.
+15:14:41: 1111111111111111111111111 has used '/ContainmentRemove 2000'.
+15:14:44: 1111111111111111111111111 has gained a Health Kit 1531656887.
+15:14:44: 1111111111111111111111111 has lost a Health Kit 1531656887.
+15:14:44: 1111111111111111111111111 has used '/InvAction use health_kit 1531656887'.
+15:14:56: 1111111111111111111111111 has used '/Observer'.
+15:15:00: 1111111111111111111111111 has used '/Observer'.
+15:15:02: 1111111111111111111111111 has used '/Observer'.
+15:15:33: 1111111111111111111111111 has used '/ContainmentBoxStartPos'.
+15:15:45: 1111111111111111111111111 has used '/ContainmentBoxEndPos'.
+15:15:51: 1111111111111111111111111 has used '/Observer'.
+15:15:59: 1111111111111111111111111 has used '/ContainmentBoxPlace 1000'.
+15:15:59: 1111111111111111111111111 has taken 15 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 85 health!
+15:16:00: 1111111111111111111111111 has taken 8 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 77 health!
+15:16:00: 1111111111111111111111111 has taken 7 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 70 health!
+15:16:01: 1111111111111111111111111 has taken 5 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 65 health!
+15:16:01: 1111111111111111111111111 has taken 4 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 61 health!
+15:16:02: 1111111111111111111111111 has used '/Observer'.
+15:16:06: 1111111111111111111111111 has gained a Health Kit 1531656971.
+15:16:06: 1111111111111111111111111 has lost a Health Kit 1531656971.
+15:16:06: 1111111111111111111111111 has used '/InvAction use health_kit 1531656971'.
+15:16:24: 1111111111111111111111111 has used '/PlyRespawnStay 111'.
+15:16:25: 1111111111111111111111111 has used '/Observer'.
+15:16:25: 1111111111111111111111111 has taken 6 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 85 health!
+15:16:26: 1111111111111111111111111 has taken 6 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 79 health!
+15:16:26: 1111111111111111111111111 has taken 5 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 74 health!
+15:16:27: 1111111111111111111111111 has taken 5 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 69 health!
+15:16:27: 1111111111111111111111111 has taken 5 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 64 health!
+15:16:28: 1111111111111111111111111 has taken 4 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 60 health!
+15:16:28: 1111111111111111111111111 has taken 4 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 56 health!
+15:16:29: 1111111111111111111111111 has taken 4 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 52 health!
+15:16:29: 1111111111111111111111111 has taken 4 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 48 health!
+15:16:30: 1111111111111111111111111 has taken 3 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 45 health!
+15:16:30: 1111111111111111111111111 has taken 3 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 42 health!
+15:16:31: 1111111111111111111111111 has taken 3 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 39 health!
+15:16:31: 1111111111111111111111111 has taken 3 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 36 health!
+15:16:32: 1111111111111111111111111 has taken 3 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 33 health!
+15:16:32: 1111111111111111111111111 has taken 3 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 30 health!
+15:16:33: 1111111111111111111111111 has taken 2 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 28 health!
+15:16:33: 1111111111111111111111111 has taken 2 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 26 health!
+15:16:34: 1111111111111111111111111 has taken 2 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 24 health!
+15:16:34: 1111111111111111111111111 has taken 2 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 22 health!
+15:16:35: 1111111111111111111111111 has taken 2 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 20 health!
+15:16:35: 1111111111111111111111111 has taken 2 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 18 health!
+15:16:36: 1111111111111111111111111 has taken 2 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 16 health!
+15:16:36: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 15 health!
+15:16:37: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 14 health!
+15:16:37: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 13 health!
+15:16:38: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 12 health!
+15:16:38: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 11 health!
+15:16:39: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 10 health!
+15:16:39: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 9 health!
+15:16:40: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 8 health!
+15:16:40: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 7 health!
+15:16:41: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 6 health!
+15:16:41: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 5 health!
+15:16:42: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 4 health!
+15:16:42: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 3 health!
+15:16:43: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with weapon_physgun, leaving them at 2 health!
+15:16:43: 1111111111111111111111111 has dealt 1 damage to 1111111111111111111111111, killing them!
+15:17:48: 1111111111111111111111111 (STEAM_0:0:34008601 / 94.181.42.24:27005) has disconnected.
+15:20:49: Septic&K (STEAM_0:0:34008601 / 94.181.42.24:27005) has connected.
+15:21:28: Septic&K has loaded the character '1111111111111111111111111'.
+15:21:31: 1111111111111111111111111 has used '/Observer'.
+15:21:35: 1111111111111111111111111 has used '/Observer'.
+15:22:08: 1111111111111111111111111 has gained a ������ 1531657324.
+15:22:08: 1111111111111111111111111 has lost a ������ 1531657324.
+15:22:08: 1111111111111111111111111 has used '/InvAction use ������ 1531657324'.
+15:22:22: 1111111111111111111111111 has gained a Gasmask 1531657344.
+15:22:22: 1111111111111111111111111 has used '/InvAction use gasmask 1531657344'.
+15:22:27: 1111111111111111111111111 has gained a Фильтр 1531657350.
+15:22:27: 1111111111111111111111111 has gained a Фильтр 1531657352.
+15:22:27: 1111111111111111111111111 has lost a Фильтр 1531657350.
+15:22:27: 1111111111111111111111111 has used '/InvAction use filter 1531657350'.
+15:22:36: 1111111111111111111111111 has taken 11 damage from 1111111111111111111111111 with gmod_tool, leaving them at 89 health!
+15:22:37: 1111111111111111111111111 has taken 7 damage from 1111111111111111111111111 with gmod_tool, leaving them at 82 health!
+15:22:37: 1111111111111111111111111 has used '/Observer'.
+15:22:41: 1111111111111111111111111 has gained a ������ 1531657366.
+15:22:41: 1111111111111111111111111 has lost a ������ 1531657366.
+15:22:41: 1111111111111111111111111 has used '/InvAction use ������ 1531657366'.
+15:22:49: 1111111111111111111111111 has gained a ������ 1531657375.
+15:22:49: 1111111111111111111111111 has lost a ������ 1531657375.
+15:22:49: 1111111111111111111111111 has used '/InvAction use ������ 1531657375'.
+15:23:02: 1111111111111111111111111 has gained a Health Vial 1531657389.
+15:23:02: 1111111111111111111111111 has lost a Health Vial 1531657389.
+15:23:02: 1111111111111111111111111 has used '/InvAction use health_vial 1531657389'.
+15:23:06: 1111111111111111111111111 has gained a Health Vial 1531657393.
+15:23:06: 1111111111111111111111111 has lost a Health Vial 1531657393.
+15:23:06: 1111111111111111111111111 has used '/InvAction use health_vial 1531657393'.
+15:23:08: 1111111111111111111111111 has gained a Health Kit 1531657397.
+15:23:08: 1111111111111111111111111 has lost a Health Kit 1531657397.
+15:23:08: 1111111111111111111111111 has used '/InvAction use health_kit 1531657397'.
+15:23:11: 1111111111111111111111111 has gained a Paracetamol 1531657401.
+15:23:11: 1111111111111111111111111 has lost a Paracetamol 1531657401.
+15:23:11: 1111111111111111111111111 has used '/InvAction use paracetamol 1531657401'.
+15:23:13: 1111111111111111111111111 has used '/Observer'.
+15:23:14: 1111111111111111111111111 has taken 8 damage from 1111111111111111111111111 with gmod_tool, leaving them at 92 health!
+15:23:14: 1111111111111111111111111 has taken 8 damage from 1111111111111111111111111 with gmod_tool, leaving them at 84 health!
+15:23:15: 1111111111111111111111111 has taken 7 damage from 1111111111111111111111111 with gmod_tool, leaving them at 77 health!
+15:23:15: 1111111111111111111111111 has taken 6 damage from 1111111111111111111111111 with gmod_tool, leaving them at 71 health!
+15:23:16: 1111111111111111111111111 has taken 6 damage from 1111111111111111111111111 with gmod_tool, leaving them at 65 health!
+15:23:16: 1111111111111111111111111 has taken 5 damage from 1111111111111111111111111 with gmod_tool, leaving them at 60 health!
+15:23:17: 1111111111111111111111111 has taken 5 damage from 1111111111111111111111111 with gmod_tool, leaving them at 55 health!
+15:23:18: 1111111111111111111111111 has taken 5 damage from 1111111111111111111111111 with gmod_tool, leaving them at 50 health!
+15:23:18: 1111111111111111111111111 has taken 4 damage from 1111111111111111111111111 with gmod_tool, leaving them at 46 health!
+15:23:19: 1111111111111111111111111 has taken 4 damage from 1111111111111111111111111 with gmod_tool, leaving them at 42 health!
+15:23:19: 1111111111111111111111111 has used '/Observer'.
+15:23:48: 1111111111111111111111111 has gained a ПДБ-6 1531657438.
+15:23:48: 1111111111111111111111111 has used '/InvAction use rad_checker 1531657438'.
+15:23:48: 1111111111111111111111111 has lost a ПДБ-6 1531657438.
+15:24:18: 1111111111111111111111111 has gained a Руководство по использованию ПДБ 1531657470.
+15:24:18: 1111111111111111111111111 has used '/InvAction use pdb_book 1531657470'.
+15:24:18: 1111111111111111111111111 has lost a Руководство по использованию ПДБ 1531657470.
+15:24:22: 1111111111111111111111111 has gained a ПДБ-6 1531657438.
+15:24:22: 1111111111111111111111111 has lost a ПДБ-6 1531657438.
+15:24:42: 1111111111111111111111111 has gained a ПДБ-6 1531657438.
+15:24:42: 1111111111111111111111111 has lost a ПДБ-6 1531657438.
+15:24:51: 1111111111111111111111111 has lost a Suitcase 1531312195.
+15:24:51: 1111111111111111111111111 has used '/InvAction #Drop cw_suitcase 1531312195.00'.
+15:24:52: 1111111111111111111111111 has gained a ПДБ-6 1531657438.
+15:24:54: 1111111111111111111111111 has used '/InvAction use rad_checker 1531657438.00'.
+15:25:01: 1111111111111111111111111 has used '/Observer'.
+15:25:01: 1111111111111111111111111 has taken 2 damage from 1111111111111111111111111 with gmod_tool, leaving them at 40 health!
+15:25:02: 1111111111111111111111111 has taken 2 damage from 1111111111111111111111111 with gmod_tool, leaving them at 38 health!
+15:25:02: 1111111111111111111111111 has taken 2 damage from 1111111111111111111111111 with gmod_tool, leaving them at 36 health!
+15:25:03: 1111111111111111111111111 has taken 2 damage from 1111111111111111111111111 with gmod_tool, leaving them at 34 health!
+15:25:03: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with gmod_tool, leaving them at 33 health!
+15:25:04: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with gmod_tool, leaving them at 32 health!
+15:25:04: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with gmod_tool, leaving them at 31 health!
+15:25:05: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with gmod_tool, leaving them at 30 health!
+15:25:06: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with gmod_tool, leaving them at 29 health!
+15:25:06: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with gmod_tool, leaving them at 28 health!
+15:25:07: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with gmod_tool, leaving them at 27 health!
+15:25:07: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with gmod_tool, leaving them at 26 health!
+15:25:08: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with gmod_tool, leaving them at 25 health!
+15:25:08: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with gmod_tool, leaving them at 24 health!
+15:25:09: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with gmod_tool, leaving them at 23 health!
+15:25:10: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with gmod_tool, leaving them at 22 health!
+15:25:10: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with gmod_tool, leaving them at 21 health!
+15:25:11: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with gmod_tool, leaving them at 20 health!
+15:25:11: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with gmod_tool, leaving them at 19 health!
+15:25:12: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with gmod_tool, leaving them at 18 health!
+15:25:12: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with gmod_tool, leaving them at 17 health!
+15:25:13: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with gmod_tool, leaving them at 16 health!
+15:25:13: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with gmod_tool, leaving them at 15 health!
+15:25:14: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with gmod_tool, leaving them at 14 health!
+15:25:15: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with gmod_tool, leaving them at 13 health!
+15:25:15: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with gmod_tool, leaving them at 12 health!
+15:25:16: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with gmod_tool, leaving them at 11 health!
+15:25:16: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with gmod_tool, leaving them at 10 health!
+15:25:17: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with gmod_tool, leaving them at 9 health!
+15:25:17: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with gmod_tool, leaving them at 8 health!
+15:25:18: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with gmod_tool, leaving them at 7 health!
+15:25:19: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with gmod_tool, leaving them at 6 health!
+15:25:19: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with gmod_tool, leaving them at 5 health!
+15:25:20: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with gmod_tool, leaving them at 4 health!
+15:25:20: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with gmod_tool, leaving them at 3 health!
+15:25:21: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with gmod_tool, leaving them at 2 health!
+15:25:21: 1111111111111111111111111 has dealt 1 damage to 1111111111111111111111111, killing them!
+15:25:26: 1111111111111111111111111 has used '/PlyRespawnStay 1111'.
+15:25:33: 1111111111111111111111111 has used '/CharSetHealth 111 1000'.
+15:25:40: 1111111111111111111111111 has lost a Gasmask 1531657344.
+15:25:56: 1111111111111111111111111 has gained a Фильтр 1531657568.
+15:25:56: 1111111111111111111111111 has used '/InvAction use filter 1531657568'.
+15:25:56: 1111111111111111111111111 has lost a Фильтр 1531657568.
+15:26:00: 1111111111111111111111111 has gained a Gasmask 1531657344.
+15:26:00: 1111111111111111111111111 has used '/InvAction use gasmask 1531657344'.
+15:26:02: 1111111111111111111111111 has gained a Фильтр 1531657568.
+15:26:02: 1111111111111111111111111 has lost a Фильтр 1531657568.
+15:26:02: 1111111111111111111111111 has used '/InvAction use filter 1531657568'.
+15:26:37: 1111111111111111111111111 has used '/InvAction use rad_checker 1531657438.00'.
+15:26:41: 1111111111111111111111111 has gained a Фильтр 1531657617.
+15:26:41: 1111111111111111111111111 has lost a Фильтр 1531657352.
+15:26:41: 1111111111111111111111111 has used '/InvAction use filter 1531657352.00'.
+15:26:47: 1111111111111111111111111 has used '/Observer'.
+15:27:12: 1111111111111111111111111 has lost a Фильтр 1531657617.
+15:27:12: 1111111111111111111111111 has used '/InvAction use filter 1531657617.00'.
+15:27:26: 1111111111111111111111111 has used '/ContainmentRemove 10000'.
+15:27:30: 1111111111111111111111111 has used '/Observer'.
+15:27:30: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with cw_keys, leaving them at 99 health!
+15:27:31: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with cw_keys, leaving them at 98 health!
+15:27:31: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with cw_keys, leaving them at 97 health!
+15:27:32: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with cw_keys, leaving them at 96 health!
+15:27:32: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with cw_keys, leaving them at 95 health!
+15:27:33: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with cw_keys, leaving them at 94 health!
+15:27:34: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with cw_keys, leaving them at 93 health!
+15:27:34: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with cw_keys, leaving them at 92 health!
+15:27:35: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with cw_keys, leaving them at 91 health!
+15:27:35: 1111111111111111111111111 has taken 1 damage from 1111111111111111111111111 with cw_keys, leaving them at 90 health!
+15:27:35: 1111111111111111111111111 has used '/PlySlay 111'.
+15:28:13: 1111111111111111111111111 (STEAM_0:0:34008601 / 94.181.42.24:27005) has disconnected.
+15:36:13: Septic&K (STEAM_0:0:34008601 / 94.181.42.24:27005) has connected.
+15:37:17: Septic&K has loaded the character '1111111111111111111111111'.
+15:37:19: 1111111111111111111111111 has used '/Observer'.
+15:37:23: 1111111111111111111111111 has used '/Observer'.
+15:37:31: 1111111111111111111111111 has used '/ContainmentRemove 2000'.
+15:37:33: 1111111111111111111111111 has used '/ContainmentRemove 2000'.
+15:37:39: 1111111111111111111111111 has used '/Observer'.
+15:38:59: 1111111111111111111111111 has used '/Observer'.
+15:39:13: 1111111111111111111111111 has used '/ContainmentSpherePlace 100 0'.
+15:39:16: 1111111111111111111111111 has used '/Observer'.
+15:39:19: 1111111111111111111111111 has used '/Observer'.
+15:39:29: 1111111111111111111111111 has used '/ContainmentRemove 100'.
+15:39:45: 1111111111111111111111111 has used '/ContainmentSpherePlace 2000 0'.
+15:39:49: 1111111111111111111111111 has used '/Observer'.
+15:40:06: 1111111111111111111111111 has used '/Observer'.
+15:40:14: 1111111111111111111111111 has used '/ContainmentRemove 2'.
+15:40:17: 1111111111111111111111111 has used '/ContainmentRemove 2000'.
+15:40:28: 1111111111111111111111111 has used '/ContainmentSpherePlace 1000 0'.
+15:40:31: 1111111111111111111111111 has used '/Observer'.
+15:40:48: 1111111111111111111111111 has used '/Observer'.
+15:40:58: 1111111111111111111111111 has used '/ContainmentRemove 1000'.
+15:40:59: 1111111111111111111111111 has used '/Observer'.
+15:41:17: 1111111111111111111111111 has used '/ContainmentBoxStartPos'.
+15:41:32: 1111111111111111111111111 has used '/ContainmentBoxEndPos'.
+15:42:50: 1111111111111111111111111 has used '/Observer'.
+15:43:03: 1111111111111111111111111 has gained a Gasmask 1531658583.
+15:43:03: 1111111111111111111111111 has used '/InvAction use gasmask 1531658583'.
+15:43:08: 1111111111111111111111111 has gained a Фильтр 1531658589.
+15:43:08: 1111111111111111111111111 has gained a Фильтр 1531658591.
+15:43:08: 1111111111111111111111111 has lost a Фильтр 1531658589.
+15:43:08: 1111111111111111111111111 has used '/InvAction use filter 1531658589'.
+15:43:32: 1111111111111111111111111 has used '/ContainmentBoxPlace 45'.
+15:43:41: 1111111111111111111111111 has used '/Observer'.
+15:43:42: 1111111111111111111111111 has used '/Observer'.
+15:43:52: 1111111111111111111111111 has used '/ContainmentRemove 1000'.
+15:43:52: 1111111111111111111111111 has used '/Observer'.
+15:43:54: 1111111111111111111111111 has used '/Observer'.
+15:43:55: 1111111111111111111111111 has used '/Observer'.
+15:44:32: 1111111111111111111111111 has used '/ContainmentBoxStartPos'.
+15:44:40: 1111111111111111111111111 has used '/ContainmentBoxEndPos'.
+15:44:46: 1111111111111111111111111 has used '/Observer'.
+15:44:49: 1111111111111111111111111 has gained a Фильтр 1531658693.
+15:44:49: 1111111111111111111111111 has lost a Фильтр 1531658591.
+15:44:49: 1111111111111111111111111 has used '/InvAction use filter 1531658591.00'.
+15:44:53: 1111111111111111111111111 has lost a Фильтр 1531658693.
+15:44:53: 1111111111111111111111111 has used '/InvAction #Drop filter 1531658693.00'.
+15:45:28: 1111111111111111111111111 has used '/ContainmentBoxPlace 25'.
+15:45:48: 1111111111111111111111111 has used '/Observer'.
+15:45:50: 1111111111111111111111111 has used '/Observer'.
+15:46:47: 1111111111111111111111111 has used '/ContainmentRemove 1000'.
+15:46:48: 1111111111111111111111111 has used '/Observer'.
+15:46:51: 1111111111111111111111111 has used '/Observer'.
+15:46:57: 1111111111111111111111111 has gained a Фильтр 1531658821.
+15:46:57: 1111111111111111111111111 has gained a Фильтр 1531658823.
+15:46:57: 1111111111111111111111111 has lost a Фильтр 1531658821.
+15:46:57: 1111111111111111111111111 has used '/InvAction use filter 1531658821'.
+15:46:59: 1111111111111111111111111 has lost a Фильтр 1531658823.
+15:46:59: 1111111111111111111111111 has used '/InvAction #Drop filter 1531658823.00'.
+15:47:03: 1111111111111111111111111 has used '/Observer'.
+15:47:17: 1111111111111111111111111 has used '/ContainmentBoxStartPos'.
+15:47:27: 1111111111111111111111111 has used '/ContainmentBoxEndPos'.
+15:47:31: 1111111111111111111111111 has used '/Observer'.
+15:47:31: 1111111111111111111111111 has used '/Observer'.
+15:47:32: 1111111111111111111111111 has used '/Observer'.
+15:47:43: 1111111111111111111111111 has used '/ContainmentBoxPlace 10'.
+15:48:15: 1111111111111111111111111 has gained a Дозиметр 1531658901.
+15:49:04: 1111111111111111111111111 has gained a Gasmask 1531658583.
+15:49:24: 1111111111111111111111111 has gained a ПДБ-6 1531658971.
+15:49:24: 1111111111111111111111111 has lost a ПДБ-6 1531658971.
+15:49:31: 1111111111111111111111111 has gained a ПДБ-6 1531658971.
+15:49:33: 1111111111111111111111111 has used '/InvAction use rad_checker 1531658971.00'.
+15:49:48: 1111111111111111111111111 has used '/Observer'.
+15:49:52: 1111111111111111111111111 has used '/Observer'.
+15:49:57: 1111111111111111111111111 has used '/ContainmentRemove 1000'.
+15:49:58: 1111111111111111111111111 has used '/Observer'.
+15:50:19: 1111111111111111111111111 has used '/ContainmentBoxStartPos'.
+15:50:41: 1111111111111111111111111 has used '/ContainmentBoxEndPos'.
+15:50:47: 1111111111111111111111111 has used '/ContainmentRemove 1000'.
+15:50:48: 1111111111111111111111111 has used '/ContainmentRemove 1000'.
+15:50:50: 1111111111111111111111111 has used '/ContainmentRemove 1000'.
+15:50:51: 1111111111111111111111111 has used '/ContainmentRemove 1000'.
+15:50:57: 1111111111111111111111111 has used '/ContainmentBoxPlace 0'.
+15:50:58: 1111111111111111111111111 has used '/ContainmentRemove 1000'.
+15:51:00: 1111111111111111111111111 has used '/ContainmentRemove 10000'.
+15:51:28: 1111111111111111111111111 has used '/ContainmentSpherePlace 1000 0'.
+15:51:55: 1111111111111111111111111 has used '/ContainmentRemove 10000'.
+15:52:08: 1111111111111111111111111 has used '/ContainmentSpherePlace 2000 0'.
+15:52:51: 1111111111111111111111111 has used '/ContainmentRemove 10000'.
+15:53:05: 1111111111111111111111111 has used '/ContainmentSpherePlace 1000 0'.
+15:53:24: 1111111111111111111111111 has used '/ContainmentSpherePlace 1000 0'.
+15:53:48: 1111111111111111111111111 has used '/ContainmentSpherePlace 1000 0'.
+15:54:35: 1111111111111111111111111 has used '/ContainmentSpherePlace 1000 0'.
+15:55:51: 1111111111111111111111111 has used '/ContainmentRemove 10000'.
+15:57:13: 1111111111111111111111111 has used '/ContainmentBoxStartPos'.
+15:57:25: 1111111111111111111111111 has used '/Observer'.
+15:57:25: 1111111111111111111111111 has used '/Observer'.
+15:57:26: 1111111111111111111111111 has used '/Observer'.
+15:57:26: 1111111111111111111111111 has used '/Observer'.
+15:57:42: 1111111111111111111111111 has used '/Observer'.
+15:57:42: 1111111111111111111111111 has used '/Observer'.
+15:58:22: 1111111111111111111111111 has used '/ContainmentBoxEndPos'.
+15:58:39: 1111111111111111111111111 has used '/ContainmentBoxPlace 1'.
+15:58:40: 1111111111111111111111111 has used '/Observer'.
+15:58:45: 1111111111111111111111111 has used '/InvAction use gasmask 1531658583.00'.
+15:58:48: 1111111111111111111111111 has gained a Фильтр 1531659536.
+15:58:48: 1111111111111111111111111 has gained a Фильтр 1531659538.
+15:58:48: 1111111111111111111111111 has lost a Фильтр 1531659536.
+15:58:48: 1111111111111111111111111 has used '/InvAction use filter 1531659536'.
+15:59:49: 1111111111111111111111111 has used '/Observer'.
+15:59:57: 1111111111111111111111111 has used '/Observer'.
+15:59:59: 1111111111111111111111111 has used '/Observer'.
+16:00:23: 1111111111111111111111111 has used '/ContainmentSpherePlace 1500 1'.
+16:00:40: 1111111111111111111111111 has used '/ContainmentRemove 100000'.
+16:01:13: 1111111111111111111111111 has used '/ContainmentBoxStartPos'.
+16:01:29: 1111111111111111111111111 has used '/ContainmentBoxEndPos'.
+16:01:35: 1111111111111111111111111 has used '/ContainmentBoxPlace 0'.
+16:01:54: 1111111111111111111111111 has used '/ContainmentRemove 100000'.
+16:02:05: 1111111111111111111111111 has used '/ContainmentBoxStartPos'.
+16:02:22: 1111111111111111111111111 has used '/ContainmentBoxEndPos'.
+16:02:27: 1111111111111111111111111 has used '/ContainmentBoxPlace 0'.
+16:02:36: 1111111111111111111111111 has used '/ContainmentRemove 1000000000'.
+16:02:50: 1111111111111111111111111 has used '/Observer'.
+16:02:50: 1111111111111111111111111 has used '/Observer'.
+16:02:52: 1111111111111111111111111 has used '/Observer'.
+16:02:52: 1111111111111111111111111 has used '/Observer'.
+16:02:52: 1111111111111111111111111 has used '/Observer'.
+16:02:54: 1111111111111111111111111 has used '/Observer'.
+16:03:17: 1111111111111111111111111 has used '/ContainmentBoxStartPos'.
+16:03:28: 1111111111111111111111111 has used '/ContainmentBoxEndPos'.
+16:03:31: 1111111111111111111111111 has used '/ContainmentBoxPlace 0'.
+16:03:47: 1111111111111111111111111 has used '/ContainmentRemove 1000000000'.
+16:04:01: 1111111111111111111111111 has used '/ContainmentBoxStartPos'.
+16:04:12: 1111111111111111111111111 has used '/ContainmentBoxEndPos'.
+16:04:38: 1111111111111111111111111 has used '/ContainmentBoxPlace 0'.
+16:05:14: 1111111111111111111111111 has used '/Observer'.
+16:05:17: 1111111111111111111111111 has used '/Observer'.
+16:05:27: 1111111111111111111111111 has used '/ContainmentRemove 1000000000'.
+16:05:36: 1111111111111111111111111 has used '/ContainmentBoxStartPos'.
+16:05:53: 1111111111111111111111111 has used '/ContainmentBoxEndPos'.
+16:05:57: 1111111111111111111111111 has used '/ContainmentBoxPlace 0'.
+16:06:11: 1111111111111111111111111 has used '/ContainmentBoxPlace 1'.
+16:06:43: 1111111111111111111111111 has used '/ContainmentRemove 1000000000'.
+16:06:45: 1111111111111111111111111 has used '/ContainmentRemove 1000000000'.
+16:06:50: 1111111111111111111111111 has used '/Observer'.
+16:10:01: Septic&K (STEAM_0:0:34008601 / 94.181.42.24:27005) has connected.
+16:10:45: Septic&K has loaded the character '1111111111111111111111111'.
+16:10:46: 1111111111111111111111111 has used '/Observer'.
+16:12:25: 1111111111111111111111111 has used '/Observer'.
+16:12:29: Septic&K has loaded the character 'CCA:c17.sc.0328'.
+16:12:29: CCA:c17.sc.0328 has gained a 9mm Pistol Bullets 1531660350.
+16:12:29: CCA:c17.sc.0328 has gained a 9mm Pistol Bullets 1531660351.
+16:12:30: CCA:c17.sc.0328 has used '/Observer'.
+16:13:24: CCA:c17.sc.0328 has used '/ContainmentBoxStartPos'.
+16:13:51: CCA:c17.sc.0328 has used '/ContainmentBoxEndPos'.
+16:14:05: CCA:c17.sc.0328 has used '/ContainmentBoxPlace 0'.
+16:15:20: CCA:c17.sc.0328 has used '/ContainmentRemove 100000'.
+16:16:01: CCA:c17.sc.0328 has used '/ContainmentBoxStartPos'.
+16:16:12: CCA:c17.sc.0328 has used '/ContainmentBoxEndPos'.
+16:16:14: CCA:c17.sc.0328 has used '/ContainmentBoxPlace 1'.
+16:16:31: CCA:c17.sc.0328 has used '/ContainmentBoxStartPos'.
+16:16:41: CCA:c17.sc.0328 has used '/ContainmentBoxEndPos'.
+16:16:42: CCA:c17.sc.0328 has used '/ContainmentBoxPlace 1'.
+16:16:54: CCA:c17.sc.0328 has used '/ContainmentBoxStartPos'.
+16:17:01: CCA:c17.sc.0328 has used '/ContainmentBoxEndPos'.
+16:17:01: CCA:c17.sc.0328 has used '/ContainmentBoxPlace 1'.
+16:17:47: CCA:c17.sc.0328 has used '/ContainmentBoxStartPos'.
+16:18:02: CCA:c17.sc.0328 has used '/ContainmentBoxEndPos'.
+16:18:03: CCA:c17.sc.0328 has used '/ContainmentBoxPlace 1'.
+16:18:26: CCA:c17.sc.0328 has used '/ContainmentBoxStartPos'.
+16:18:32: CCA:c17.sc.0328 has used '/ContainmentBoxEndPos'.
+16:18:32: CCA:c17.sc.0328 has used '/ContainmentBoxPlace 1'.
+16:18:44: CCA:c17.sc.0328 has used '/ContainmentBoxStartPos'.
+16:18:49: CCA:c17.sc.0328 has used '/ContainmentBoxEndPos'.
+16:18:50: CCA:c17.sc.0328 has used '/ContainmentBoxPlace 1'.
+16:19:10: CCA:c17.sc.0328 has used '/ContainmentBoxStartPos'.
+16:19:14: CCA:c17.sc.0328 has used '/ContainmentBoxEndPos'.
+16:19:16: CCA:c17.sc.0328 has used '/ContainmentBoxPlace 1'.
+16:19:41: CCA:c17.sc.0328 has used '/ContainmentBoxStartPos'.
+16:19:53: CCA:c17.sc.0328 has used '/ContainmentBoxEndPos'.
+16:19:54: CCA:c17.sc.0328 has used '/ContainmentBoxPlace 1'.
+16:20:42: CCA:c17.sc.0328 has used '/ContainmentBoxStartPos'.
+16:20:47: CCA:c17.sc.0328 has used '/ContainmentBoxEndPos'.
+16:20:48: CCA:c17.sc.0328 has used '/ContainmentBoxPlace 1'.
+16:20:52: CCA:c17.sc.0328 has used '/ContainmentBoxStartPos'.
+16:20:56: CCA:c17.sc.0328 has used '/ContainmentBoxEndPos'.
+16:20:56: CCA:c17.sc.0328 has used '/ContainmentBoxPlace 1'.
+16:21:38: CCA:c17.sc.0328 has used '/Observer'.
+16:21:40: CCA:c17.sc.0328 has used '/Observer'.
+16:21:49: CCA:c17.sc.0328 has used '/Observer'.
+16:21:52: CCA:c17.sc.0328 has used '/Observer'.
+16:22:11: CCA:c17.sc.0328 has used '/Observer'.
+16:23:02: CCA:c17.sc.0328 has used '/Observer'.
+16:23:07: CCA:c17.sc.0328 has used '/Observer'.
+16:23:11: Septic&K has loaded the character '11111111111111'.
+16:23:12: 11111111111111 has used '/Observer'.
+16:23:23: 11111111111111 has used '/Observer'.
+16:23:39: 11111111111111 has used '/Observer'.
+16:23:51: 11111111111111 has used '/Observer'.
+16:24:05: 11111111111111 has lost a Suitcase 1531571170.
+16:24:05: 11111111111111 has used '/InvAction #Drop cw_suitcase 1531571170.00'.
+16:26:40: 11111111111111 has used '/CharGiveFlags 1111 G'.
+16:26:43: 11111111111111 has gained a ПДБ-6 1531661205.
+16:26:43: 11111111111111 has used '/InvAction use rad_checker 1531661205'.
+16:26:43: 11111111111111 has lost a ПДБ-6 1531661205.
+16:27:06: 11111111111111 has gained a Руководство по использованию ПДБ 1531661229.
+16:27:06: 11111111111111 has used '/InvAction use pdb_book 1531661229'.
+16:27:06: 11111111111111 has lost a Руководство по использованию ПДБ 1531661229.
+16:27:08: 11111111111111 has gained a ПДБ-6 1531661205.
+16:27:08: 11111111111111 has used '/InvAction use rad_checker 1531661205'.
+16:27:08: 11111111111111 has lost a ПДБ-6 1531661205.
+16:27:10: 11111111111111 has gained a Руководство по использованию ПДБ 1531661229.
+16:27:14: 11111111111111 has used '/InvAction use pdb_book 1531661229.00'.
+16:27:16: 11111111111111 has gained a ПДБ-6 1531661205.
+16:27:16: 11111111111111 has used '/InvAction use rad_checker 1531661205'.
+16:27:16: 11111111111111 has lost a ПДБ-6 1531661205.
+16:28:25: 11111111111111 has gained a Дозиметр 1531661309.
+16:28:32: 11111111111111 has gained a ПДБ-6 1531661205.
+16:28:32: 11111111111111 has used '/InvAction use rad_checker 1531661205'.
+16:28:32: 11111111111111 has lost a ПДБ-6 1531661205.
+16:28:34: 11111111111111 has gained a ПДБ-6 1531661205.
+16:28:35: 11111111111111 has used '/InvAction use rad_checker 1531661205.00'.
+16:28:36: 11111111111111 has lost a ПДБ-6 1531661205.
+16:28:36: 11111111111111 has used '/InvAction #Drop rad_checker 1531661205.00'.
+16:28:38: 11111111111111 has used '/InvAction use pdb_book 1531661229.00'.
+16:28:40: 11111111111111 has used '/InvAction use pdb_book 1531661229.00'.
+16:28:41: 11111111111111 has used '/InvAction use pdb_book 1531661229.00'.
+16:28:43: 11111111111111 has gained a ПДБ-6 1531661205.
+16:28:43: 11111111111111 has used '/InvAction use rad_checker 1531661205'.
+16:28:43: 11111111111111 has lost a ПДБ-6 1531661205.
+16:33:22: 11111111111111 has used '/Observer'.
+16:33:23: 11111111111111 has used '/ContainmentRemove 100000'.
+16:33:24: 11111111111111 has used '/ContainmentRemove 100000'.
+16:33:24: 11111111111111 has used '/ContainmentRemove 100000'.
+16:33:24: 11111111111111 has used '/ContainmentRemove 100000'.
+16:33:24: 11111111111111 has used '/ContainmentRemove 100000'.
+16:33:24: 11111111111111 has used '/ContainmentRemove 100000'.
+16:33:25: 11111111111111 has used '/ContainmentRemove 100000'.
+16:33:39: 11111111111111 has used '/Observer'.
+16:33:42: Septic&K has loaded the character '1111111111111111111111111'.
+16:33:43: 1111111111111111111111111 has used '/Observer'.
+16:33:53: 1111111111111111111111111 has used '/Observer'.
+16:33:55: Septic&K has loaded the character 'CCA:c17.sc.0328'.
+16:33:56: CCA:c17.sc.0328 has used '/Observer'.
+16:34:07: CCA:c17.sc.0328 has used '/ContainmentBoxStartPos'.
+16:34:13: CCA:c17.sc.0328 has used '/ContainmentBoxEndPos'.
+16:34:14: CCA:c17.sc.0328 has used '/ContainmentBoxPlace 5'.
+16:34:35: CCA:c17.sc.0328 has used '/ContainmentBoxStartPos'.
+16:34:43: CCA:c17.sc.0328 has used '/ContainmentBoxEndPos'.
+16:34:44: CCA:c17.sc.0328 has used '/ContainmentBoxPlace 5'.
+16:35:06: CCA:c17.sc.0328 has used '/ContainmentBoxStartPos'.
+16:35:09: CCA:c17.sc.0328 has used '/ContainmentBoxEndPos'.
+16:35:09: CCA:c17.sc.0328 has used '/ContainmentBoxPlace 5'.
+16:35:38: CCA:c17.sc.0328 has used '/ContainmentBoxStartPos'.
+16:35:46: CCA:c17.sc.0328 has used '/ContainmentBoxEndPos'.
+16:35:47: CCA:c17.sc.0328 has used '/ContainmentBoxPlace 5'.
+16:36:02: CCA:c17.sc.0328 has used '/ContainmentBoxStartPos'.
+16:36:09: CCA:c17.sc.0328 has used '/ContainmentBoxEndPos'.
+16:36:09: CCA:c17.sc.0328 has used '/ContainmentBoxPlace 5'.
+16:36:27: CCA:c17.sc.0328 has used '/ContainmentBoxStartPos'.
+16:36:33: CCA:c17.sc.0328 has used '/ContainmentBoxEndPos'.
+16:36:34: CCA:c17.sc.0328 has used '/ContainmentBoxPlace 5'.
+16:36:47: CCA:c17.sc.0328 has used '/ContainmentBoxStartPos'.
+16:36:54: CCA:c17.sc.0328 has used '/ContainmentBoxEndPos'.
+16:36:54: CCA:c17.sc.0328 has used '/ContainmentBoxPlace 5'.
+16:37:15: CCA:c17.sc.0328 has used '/ContainmentBoxStartPos'.
+16:37:22: CCA:c17.sc.0328 has used '/ContainmentBoxEndPos'.
+16:37:23: CCA:c17.sc.0328 has used '/ContainmentBoxPlace 5'.
+16:37:36: CCA:c17.sc.0328 has used '/Observer'.
+16:37:39: Septic&K has loaded the character '1111111111111111111111111'.
+16:37:40: 1111111111111111111111111 has used '/Observer'.
+16:37:44: 1111111111111111111111111 has used '/Observer'.
+16:37:46: Septic&K has deleted the character '11111111111111'.
+16:37:58: Septic&K has created a Citizen character called '3333333333333333'.
+16:38:01: Septic&K has loaded the character '3333333333333333'.
+16:38:02: 3333333333333333 has used '/Observer'.
+16:38:10: 3333333333333333 has used '/Observer'.
+16:38:18: 3333333333333333 has used '/ContainmentBoxStartPos'.
+16:39:00: 3333333333333333 has used '/CharGiveFlags 333 G'.
+16:39:02: 3333333333333333 has gained a Дозиметр 1531661948.
+16:41:35: 3333333333333333 has taken 21 damage from 3333333333333333 with cw_hands, leaving them at 79 health!
+16:41:35: 3333333333333333 has taken 17 damage from 3333333333333333 with cw_hands, leaving them at 62 health!
+16:41:36: 3333333333333333 has taken 13 damage from 3333333333333333 with cw_hands, leaving them at 49 health!
+16:41:36: 3333333333333333 has taken 11 damage from 3333333333333333 with cw_hands, leaving them at 38 health!
+16:41:37: 3333333333333333 has taken 8 damage from 3333333333333333 with cw_hands, leaving them at 30 health!
+16:41:37: 3333333333333333 has taken 7 damage from 3333333333333333 with cw_hands, leaving them at 23 health!
+16:41:38: 3333333333333333 has taken 5 damage from 3333333333333333 with cw_hands, leaving them at 18 health!
+16:41:38: 3333333333333333 has taken 4 damage from 3333333333333333 with cw_hands, leaving them at 14 health!
+16:41:39: 3333333333333333 has taken 3 damage from 3333333333333333 with cw_hands, leaving them at 11 health!
+16:41:39: 3333333333333333 has taken 3 damage from 3333333333333333 with cw_hands, leaving them at 8 health!
+16:41:40: 3333333333333333 has taken 2 damage from 3333333333333333 with cw_hands, leaving them at 6 health!
+16:41:40: 3333333333333333 has taken 2 damage from 3333333333333333 with cw_hands, leaving them at 4 health!
+16:41:41: 3333333333333333 has taken 1 damage from 3333333333333333 with cw_hands, leaving them at 3 health!
+16:41:41: 3333333333333333 has taken 1 damage from 3333333333333333 with cw_hands, leaving them at 2 health!
+16:41:42: 3333333333333333 has dealt 1 damage to 3333333333333333, killing them!
+16:42:48: 3333333333333333 has used '/PlyRespawn 333'.
+16:42:53: 3333333333333333 (STEAM_0:0:34008601 / 94.181.42.24:27005) has disconnected.
+16:56:03: Hosh (STEAM_0:1:37316814 / 46.172.18.50:27005) has connected.
+16:57:02: Hosh has loaded the character 'Hakku und Zagu'.
+16:57:39: Hakku und Zagu has used '/Observer'.
+16:57:42: Hakku und Zagu has used '/Observer'.
+16:57:42: Hakku und Zagu has used '/Observer'.
+16:57:46: Hakku und Zagu has used '/Observer'.
+16:57:52: Hakku und Zagu has used '/Observer'.
+16:57:58: Hakku und Zagu has used '/StorageClose'.
+16:58:23: Hakku und Zagu has used '/Observer'.
+16:58:25: Hakku und Zagu has used '/Observer'.
+16:58:29: Hakku und Zagu has used '/Observer'.
+16:58:50: Hakku und Zagu has used '/Observer'.
+16:59:02: Hakku und Zagu has used '/Observer'.
+17:00:08: Hakku und Zagu has spawned 'models/props_c17/chair02a.mdl'.
+17:00:08: Hakku und Zagu has spawned 'models/props_c17/chair02a.mdl'.
+17:00:13: Hakku und Zagu has spawned 'models/props_interiors/Furniture_Couch02a.mdl'.
+17:00:13: Hakku und Zagu has spawned 'models/props_interiors/Furniture_Couch02a.mdl'.
+17:00:18: Hakku und Zagu has spawned 'models/props_c17/Lockers001a.mdl'.
+17:00:18: Hakku und Zagu has spawned 'models/props_c17/Lockers001a.mdl'.
+17:01:00: Hakku und Zagu has spawned 'models/props_phx/construct/metal_plate1.mdl'.
+17:01:00: Hakku und Zagu has spawned 'models/props_phx/construct/metal_plate1.mdl'.
+17:01:26: Hakku und Zagu has spawned 'models/props_phx/construct/metal_wire1x1.mdl'.
+17:01:26: Hakku und Zagu has spawned 'models/props_phx/construct/metal_wire1x1.mdl'.
+17:01:55: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_angle_180.mdl'.
+17:01:55: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_angle_180.mdl'.
+17:01:58: Hakku und Zagu has spawned 'models/props_phx/construct/wood/wood_wire1x1x2b.mdl'.
+17:01:58: Hakku und Zagu has spawned 'models/props_phx/construct/wood/wood_wire1x1x2b.mdl'.
+17:02:33: Hakku und Zagu has spawned 'models/props_junk/storage_crate01_gib2.mdl'.
+17:02:33: Hakku und Zagu has spawned 'models/props_junk/storage_crate01_gib2.mdl'.
+17:03:40: Hakku und Zagu has used '/Observer'.
+17:03:41: Hakku und Zagu has used '/Observer'.
+17:05:17: Hakku und Zagu has used '/Observer'.
+17:05:18: Hakku und Zagu has used '/Observer'.
+17:05:54: Hakku und Zagu has used '/Observer'.
+17:05:56: Hakku und Zagu has used '/Observer'.
+17:37:00: Hakku und Zagu has used '/Observer'.
+17:37:01: Hakku und Zagu has used '/Observer'.
+17:37:05: Hakku und Zagu has used '/Observer'.
+17:37:06: Hakku und Zagu has used '/Observer'.
+17:37:35: Hakku und Zagu has used '/Observer'.
+17:37:41: Hakku und Zagu has used '/Observer'.
+17:37:42: Hakku und Zagu has used '/Observer'.
+17:37:43: Hakku und Zagu has used '/Observer'.
+17:37:44: Hakku und Zagu has used '/Observer'.
+17:37:45: Hakku und Zagu has used '/Observer'.
+17:37:49: Hakku und Zagu has used '/Observer'.
+17:37:51: Hakku und Zagu has used '/Observer'.
+17:37:51: Hakku und Zagu has used '/Observer'.
+17:37:55: Hakku und Zagu has used '/Observer'.
+17:37:55: Hakku und Zagu has used '/Observer'.
+17:37:56: Hakku und Zagu has used '/Observer'.
+17:37:57: Hakku und Zagu has used '/Observer'.
+17:37:58: Hakku und Zagu has used '/Observer'.
+17:38:04: Hakku und Zagu has used '/Observer'.
+17:38:05: Hakku und Zagu has used '/Observer'.
+17:38:18: Hakku und Zagu has used '/Observer'.
+17:38:19: Hakku und Zagu has used '/Observer'.
+17:38:45: Hakku und Zagu has used '/Observer'.
+17:38:46: Hakku und Zagu has used '/Observer'.
+17:38:47: Hakku und Zagu has used '/Observer'.
+17:38:48: Hakku und Zagu has used '/Observer'.
+17:38:51: Hakku und Zagu has used '/Observer'.
+17:38:52: Hakku und Zagu has used '/Observer'.
+17:39:15: Hakku und Zagu has used '/Observer'.
+17:39:18: Hakku und Zagu has used '/Observer'.
+17:44:20: Hakku und Zagu says: "!musicplayer"
+17:45:45: Hakku und Zagu has used '/Observer'.
+17:45:46: Hakku und Zagu has used '/Observer'.
+17:45:55: Hakku und Zagu has spawned 'models/props_phx/construct/metal_plate1.mdl'.
+17:45:55: Hakku und Zagu has spawned 'models/props_phx/construct/metal_plate1.mdl'.
+17:47:06: Hakku und Zagu has spawned 'models/props_phx/construct/metal_plate1x2.mdl'.
+17:47:06: Hakku und Zagu has spawned 'models/props_phx/construct/metal_plate1x2.mdl'.
+17:49:55: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_angle_180.mdl'.
+17:49:55: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_angle_180.mdl'.
+17:49:56: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_angle_90.mdl'.
+17:49:56: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_angle_90.mdl'.
+17:49:57: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel1x1.mdl'.
+17:49:57: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel1x1.mdl'.
+17:50:48: Hakku und Zagu has used '/Observer'.
+17:51:01: Hakku und Zagu has used '/Observer'.
+17:51:12: Hakku und Zagu has used '/Observer'.
+17:51:41: Hakku und Zagu has used '/Observer'.
+17:51:47: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel1x1.mdl'.
+17:51:47: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel1x1.mdl'.
+17:53:17: Hakku und Zagu has used '/Observer'.
+17:54:17: Hakku und Zagu has used '/Observer'.
+17:56:03: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel1x1.mdl'.
+17:56:03: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel1x1.mdl'.
+17:57:02: Hakku und Zagu has spawned 'models/props_phx/gears/bevel24.mdl'.
+17:57:02: Hakku und Zagu has spawned 'models/props_phx/gears/bevel24.mdl'.
+17:57:08: Hakku und Zagu has spawned 'models/XQM/Rails/gumball_1.mdl'.
+17:57:08: Hakku und Zagu has spawned 'models/XQM/Rails/gumball_1.mdl'.
+17:57:11: Hakku und Zagu has spawned 'models/XQM/Rails/trackball_1.mdl'.
+17:57:11: Hakku und Zagu has spawned 'models/XQM/Rails/trackball_1.mdl'.
+17:57:18: Hakku und Zagu has spawned 'models/XQM/Rails/gumball_1.mdl'.
+17:57:18: Hakku und Zagu has spawned 'models/XQM/Rails/gumball_1.mdl'.
+17:57:21: Hakku und Zagu has spawned 'models/XQM/coastertrain1seat.mdl'.
+17:57:21: Hakku und Zagu has spawned 'models/XQM/coastertrain1seat.mdl'.
+17:57:26: Hakku und Zagu has spawned 'models/XQM/CoasterTrack/train_1.mdl'.
+17:57:26: Hakku und Zagu has spawned 'models/XQM/CoasterTrack/train_1.mdl'.
+17:57:27: Hakku und Zagu has used '/Observer'.
+17:57:30: Hakku und Zagu has used '/Observer'.
+18:07:34: Hakku und Zagu has spawned 'models/props_phx/smallwheel.mdl'.
+18:07:34: Hakku und Zagu has spawned 'models/props_phx/smallwheel.mdl'.
+18:07:35: Hakku und Zagu has spawned 'models/props_phx/sp_screen.mdl'.
+18:07:35: Hakku und Zagu has spawned 'models/props_phx/sp_screen.mdl'.
+18:07:39: Hakku und Zagu has spawned 'models/props_phx/rt_screen.mdl'.
+18:07:39: Hakku und Zagu has spawned 'models/props_phx/rt_screen.mdl'.
+18:07:44: Hakku und Zagu has spawned 'models/props_phx/rt_screen.mdl'.
+18:07:44: Hakku und Zagu has spawned 'models/props_phx/rt_screen.mdl'.
+18:08:20: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel1x2.mdl'.
+18:08:20: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel1x2.mdl'.
+18:08:24: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel1x1.mdl'.
+18:08:24: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel1x1.mdl'.
+18:09:28: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel1x1.mdl'.
+18:09:28: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel1x1.mdl'.
+18:09:58: Hakku und Zagu has used '/Observer'.
+18:10:01: Hakku und Zagu has used '/Observer'.
+18:10:05: Hakku und Zagu has used '/Observer'.
+18:10:21: Hakku und Zagu has used '/Observer'.
+18:10:27: Hakku und Zagu has used '/StaticAdd'.
+18:10:28: Hakku und Zagu has used '/StaticAdd'.
+18:12:38: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel1x2.mdl'.
+18:12:38: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel1x2.mdl'.
+18:12:50: Hakku und Zagu has used '/Observer'.
+18:14:53: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel1x1.mdl'.
+18:14:53: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel1x1.mdl'.
+18:15:09: Hakku und Zagu has used '/Observer'.
+18:15:31: Hakku und Zagu has spawned 'models/props/cs_office/sofa.mdl'.
+18:15:31: Hakku und Zagu has spawned 'models/props/cs_office/sofa.mdl'.
+18:16:14: Hakku und Zagu has spawned 'models/props/cs_office/sofa_chair.mdl'.
+18:16:14: Hakku und Zagu has spawned 'models/props/cs_office/sofa_chair.mdl'.
+18:16:23: Hakku und Zagu has spawned 'models/props/cs_office/sofa_chair.mdl'.
+18:16:23: Hakku und Zagu has spawned 'models/props/cs_office/sofa_chair.mdl'.
+18:16:29: Hakku und Zagu has spawned 'models/props/cs_office/table_coffee.mdl'.
+18:16:29: Hakku und Zagu has spawned 'models/props/cs_office/table_coffee.mdl'.
+18:16:42: Hakku und Zagu has used '/CharFallOver'.
+18:16:43: Hakku und Zagu has used '/CharGetUp'.
+18:17:29: Hakku und Zagu has used '/Observer'.
+18:17:29: Hakku und Zagu has used '/Observer'.
+18:17:33: Hakku und Zagu has used '/Observer'.
+18:17:34: Hakku und Zagu has used '/Observer'.
+18:17:35: Hakku und Zagu has used '/Observer'.
+18:17:35: Hakku und Zagu has used '/Observer'.
+18:17:36: Hakku und Zagu has used '/Observer'.
+18:17:36: Hakku und Zagu has used '/Observer'.
+18:19:30: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel1x2.mdl'.
+18:19:30: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel1x2.mdl'.
+18:20:10: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel1x2.mdl'.
+18:20:10: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel1x2.mdl'.
+18:21:31: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel1x2.mdl'.
+18:21:31: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel1x2.mdl'.
+18:23:20: Hakku und Zagu has used '/StaticAdd'.
+18:23:22: Hakku und Zagu has used '/StaticAdd'.
+18:23:23: Hakku und Zagu has used '/StaticAdd'.
+18:23:23: Hakku und Zagu has used '/StaticAdd'.
+18:23:24: Hakku und Zagu has used '/StaticAdd'.
+18:23:27: Hakku und Zagu has used '/Observer'.
+18:23:28: Hakku und Zagu has used '/Observer'.
+18:23:31: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel1x2.mdl'.
+18:23:31: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel1x2.mdl'.
+18:23:34: Hakku und Zagu has used '/Observer'.
+18:23:35: Hakku und Zagu has used '/Observer'.
+18:23:38: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel1x2.mdl'.
+18:23:38: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel1x2.mdl'.
+18:23:40: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel2x2.mdl'.
+18:23:40: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel2x2.mdl'.
+18:26:30: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel1x1.mdl'.
+18:26:30: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel1x1.mdl'.
+18:26:49: Hakku und Zagu has used '/Observer'.
+18:27:33: Hakku und Zagu has used '/Observer'.
+18:27:34: Hakku und Zagu has used '/Observer'.
+18:27:34: Hakku und Zagu has used '/Observer'.
+18:27:37: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel1x2.mdl'.
+18:27:37: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel1x2.mdl'.
+18:28:12: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel1x2.mdl'.
+18:28:12: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel1x2.mdl'.
+18:29:06: Hakku und Zagu has used '/Observer'.
+18:30:13: Hakku und Zagu has used '/Observer'.
+18:30:13: Hakku und Zagu has used '/Observer'.
+18:30:14: Hakku und Zagu has used '/Observer'.
+18:30:22: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel1x1.mdl'.
+18:30:22: Hakku und Zagu has spawned 'models/props_phx/construct/plastic/plastic_panel1x1.mdl'.
+18:33:02: Hakku und Zagu has used '/StaticAdd'.
+18:33:03: Hakku und Zagu has used '/StaticAdd'.
+18:33:04: Hakku und Zagu has used '/StaticAdd'.
+18:33:05: Hakku und Zagu has used '/StaticAdd'.
+18:33:06: Hakku und Zagu has used '/StaticAdd'.
+18:33:06: Hakku und Zagu has used '/StaticAdd'.
+18:33:07: Hakku und Zagu has used '/StaticAdd'.
+18:33:08: Hakku und Zagu has used '/StaticAdd'.
+18:33:09: Hakku und Zagu has used '/StaticAdd'.
+18:33:10: Hakku und Zagu has used '/StaticAdd'.
+18:33:11: Hakku und Zagu has used '/StaticAdd'.
+18:33:11: Hakku und Zagu has used '/StaticAdd'.
+18:33:12: Hakku und Zagu has used '/StaticAdd'.
+18:33:13: Hakku und Zagu has used '/StaticAdd'.
+18:33:13: Hakku und Zagu has used '/StaticAdd'.
+18:33:38: Hakku und Zagu has used '/StaticAdd'.
+18:45:01: Hakku und Zagu (STEAM_0:1:37316814 / 46.172.18.50:27005) has disconnected.

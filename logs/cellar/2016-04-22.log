@@ -1,0 +1,90 @@
+23:45:28: SchωarzKrµppzo (STEAM_0:1:44629398) has connected.
+23:46:00: SchωarzKrµppzo has loaded the character 'CP:C17.RCT.1037'.
+23:46:24: CP:C17.RCT.1037 has used '/PillCharSet rct '''.
+23:46:27: worldspawn has dealt 120 damage to CP:C17.RCT.1037, killing them!
+23:46:34: CP:C17.RCT.1037 has used '/Observer'.
+23:46:36: CP:C17.RCT.1037 has used '/Observer'.
+23:46:42: CP:C17.RCT.1037 has gained a USP Match 1461358003.
+23:46:42: CP:C17.RCT.1037 has used '/CharGiveItem rct usp'.
+23:46:45: CP:C17.RCT.1037 has gained a 9mm Pistol Bullets 1461358007.
+23:46:45: CP:C17.RCT.1037 has gained a 9mm Pistol Bullets 1461358008.
+23:46:45: CP:C17.RCT.1037 has gained a 9mm Pistol Bullets 1461358009.
+23:46:45: CP:C17.RCT.1037 has gained a 9mm Pistol Bullets 1461358010.
+23:46:45: CP:C17.RCT.1037 has gained a 9mm Pistol Bullets 1461358011.
+23:46:45: CP:C17.RCT.1037 has gained a 9mm Pistol Bullets 1461358012.
+23:46:45: CP:C17.RCT.1037 has gained a 9mm Pistol Bullets 1461358013.
+23:46:45: CP:C17.RCT.1037 has gained a 9mm Pistol Bullets 1461358014.
+23:46:45: CP:C17.RCT.1037 has gained a 9mm Pistol Bullets 1461358015.
+23:46:45: CP:C17.RCT.1037 has gained a 9mm Pistol Bullets 1461358016.
+23:46:45: CP:C17.RCT.1037 has used '/CharGiveItem rct pistol 10'.
+23:48:15: CP:C17.RCT.1037 has used '/InvAction use ammo_pistol 1461358010.00'.
+23:48:17: CP:C17.RCT.1037 has lost a USP Match 1461358003.
+23:48:17: CP:C17.RCT.1037 has used '/InvAction use sxbase_uspmatch 1461358003.00'.
+23:48:20: CP:C17.RCT.1037 has lost a 9mm Pistol Bullets 1461358010.
+23:48:20: CP:C17.RCT.1037 has used '/InvAction use ammo_pistol 1461358010.00'.
+23:48:21: CP:C17.RCT.1037 has lost a 9mm Pistol Bullets 1461358009.
+23:48:21: CP:C17.RCT.1037 has used '/InvAction use ammo_pistol 1461358009.00'.
+23:48:22: CP:C17.RCT.1037 has lost a 9mm Pistol Bullets 1461358011.
+23:48:22: CP:C17.RCT.1037 has used '/InvAction use ammo_pistol 1461358011.00'.
+23:48:23: CP:C17.RCT.1037 has lost a 9mm Pistol Bullets 1461358012.
+23:48:23: CP:C17.RCT.1037 has used '/InvAction use ammo_pistol 1461358012.00'.
+23:48:23: CP:C17.RCT.1037 has lost a 9mm Pistol Bullets 1461358013.
+23:48:23: CP:C17.RCT.1037 has used '/InvAction use ammo_pistol 1461358013.00'.
+23:48:24: CP:C17.RCT.1037 has lost a 9mm Pistol Bullets 1461358014.
+23:48:24: CP:C17.RCT.1037 has used '/InvAction use ammo_pistol 1461358014.00'.
+23:48:25: CP:C17.RCT.1037 has lost a 9mm Pistol Bullets 1461358015.
+23:48:25: CP:C17.RCT.1037 has used '/InvAction use ammo_pistol 1461358015.00'.
+23:48:26: CP:C17.RCT.1037 has lost a 9mm Pistol Bullets 1461358016.
+23:48:26: CP:C17.RCT.1037 has used '/InvAction use ammo_pistol 1461358016.00'.
+23:48:41: CP:C17.RCT.1037 has used '/CharFallOver'.
+23:48:43: CP:C17.RCT.1037 has used '/CharGetUp'.
+23:48:57: CP:C17.RCT.1037 has used '/Sleep'.
+23:49:08: CP:C17.RCT.1037 has used '/charSetSleep rct 0'.
+23:49:10: CP:C17.RCT.1037 has used '/Sleep'.
+23:49:49: CP:C17.RCT.1037 has used '/Observer'.
+23:49:50: CP:C17.RCT.1037 has used '/Observer'.
+23:49:51: CP:C17.RCT.1037 has used '/Observer'.
+23:49:51: CP:C17.RCT.1037 has used '/Observer'.
+23:49:52: CP:C17.RCT.1037 has used '/Observer'.
+23:49:52: CP:C17.RCT.1037 has used '/Observer'.
+23:49:58: CP:C17.RCT.1037 has used '/Observer'.
+23:49:59: CP:C17.RCT.1037 has used '/Observer'.
+23:50:07: CP:C17.RCT.1037 has lost a 9mm Pistol Bullets 1461358008.
+23:50:07: CP:C17.RCT.1037 has used '/InvAction use ammo_pistol 1461358008.00'.
+23:50:08: CP:C17.RCT.1037 has lost a 9mm Pistol Bullets 1461358007.
+23:50:08: CP:C17.RCT.1037 has used '/InvAction use ammo_pistol 1461358007.00'.
+23:50:09: CP:C17.RCT.1037 has lost a 9mm Pistol Bullets 1458153452.
+23:50:09: CP:C17.RCT.1037 has used '/InvAction drop ammo_pistol 1458153452.00'.
+23:50:10: CP:C17.RCT.1037 has lost a 9mm Pistol Bullets 1458153451.
+23:50:10: CP:C17.RCT.1037 has used '/InvAction use ammo_pistol 1458153451.00'.
+23:50:14: CP:C17.RCT.1037 has gained a 9mm Pistol Bullets 1458153452.
+23:50:14: CP:C17.RCT.1037 has lost a 9mm Pistol Bullets 1458153452.
+23:50:14: CP:C17.RCT.1037 has used '/InvAction use ammo_pistol 1458153452'.
+23:50:16: CP:C17.RCT.1037 has lost a 7.62x51mm Bullets 1459595217.
+23:50:16: CP:C17.RCT.1037 has used '/InvAction drop ammo_762x51 1459595217.00'.
+23:50:16: CP:C17.RCT.1037 has lost a 7.62x51mm Bullets 1459595218.
+23:50:16: CP:C17.RCT.1037 has used '/InvAction drop ammo_762x51 1459595218.00'.
+23:50:22: CP:C17.RCT.1037 has lost a M7A3 Smoke Grenade 1459621788.
+23:50:22: CP:C17.RCT.1037 has used '/InvAction drop sxbase_sg 1459621788.00'.
+23:50:22: CP:C17.RCT.1037 has lost a M9 Beretta 1459618823.
+23:50:22: CP:C17.RCT.1037 has used '/InvAction drop sxbase_m9 1459618823.00'.
+23:50:24: CP:C17.RCT.1037 has lost a M40A1 w/ Optic 1459601237.
+23:50:24: CP:C17.RCT.1037 has used '/InvAction drop sxbase_m40a1optic 1459601237.00'.
+23:50:30: CP:C17.RCT.1037 has gained a USP Match 1461358003.
+23:50:33: CP:C17.RCT.1037 has lost a USP Match 1461358003.
+23:50:33: CP:C17.RCT.1037 has used '/InvAction use sxbase_uspmatch 1461358003.00'.
+23:53:38: CP:C17.RCT.1037 (STEAM_0:1:44629398) has disconnected.
+23:57:35: SchωarzKrµppzo (STEAM_0:1:44629398) has connected.
+23:58:45: SchωarzKrµppzo has created a Citizen character called 'asdasdasdada'.
+23:58:48: SchωarzKrµppzo has loaded the character 'CP:C17.RCT.1037'.
+23:58:57: CP:C17.RCT.1037 has lost a USP Match 1461358003.
+23:58:57: CP:C17.RCT.1037 has used '/InvAction use sxbase_uspmatch 1461358003.00'.
+23:59:10: SchωarzKrµppzo has loaded the character 'asdasdasdada'.
+23:59:14: asdasdasdada has used '/Observer'.
+23:59:23: asdasdasdada has used '/Observer'.
+23:59:27: SchωarzKrµppzo has loaded the character 'CP:C17.RCT.1037'.
+23:59:31: CP:C17.RCT.1037 has lost a USP Match 1461358003.
+23:59:31: CP:C17.RCT.1037 has used '/InvAction use sxbase_uspmatch 1461358003.00'.
+23:59:47: CP:C17.RCT.1037 has used '/CharFallOver'.
+23:59:50: SchωarzKrµppzo has loaded the character 'asdasdasdada'.
+23:59:55: SchωarzKrµppzo has loaded the character 'CP:C17.RCT.1037'.

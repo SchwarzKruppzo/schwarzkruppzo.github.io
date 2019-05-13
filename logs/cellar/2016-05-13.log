@@ -1,0 +1,1989 @@
+00:06:46: C45:CP.APEX.OfC.00228 has used '/Observer'.
+00:06:59: C45:CP.APEX.OfC.00228 has used '/Observer'.
+00:06:59: C45:CP.APEX.OfC.00228 has used '/Observer'.
+00:07:03: C45:CP.APEX.OfC.00228 has used '/Observer'.
+00:07:03: C45:CP.APEX.OfC.00228 has used '/Observer'.
+00:07:04: C45:CP.APEX.OfC.00228 has used '/Observer'.
+00:07:04: C45:CP.APEX.OfC.00228 has used '/Observer'.
+00:07:04: C45:CP.APEX.OfC.00228 has used '/Observer'.
+00:07:05: C45:CP.APEX.OfC.00228 has used '/Observer'.
+00:07:06: C45:CP.APEX.OfC.00228 has used '/Observer'.
+00:07:13: C45:CP.APEX.OfC.00228 has used '/Observer'.
+00:07:26: C45:CP.APEX.OfC.00228 has spawned 'models/Items/HealthKit.mdl'.
+00:07:26: C45:CP.APEX.OfC.00228 has spawned 'models/Items/HealthKit.mdl'.
+00:07:28: C45:CP.APEX.OfC.00228 has spawned 'models/Items/combine_rifle_ammo01.mdl'.
+00:07:28: C45:CP.APEX.OfC.00228 has spawned 'models/Items/combine_rifle_ammo01.mdl'.
+00:08:03: C45:CP.APEX.OfC.00228 has spawned 'models/Items/AR2_Grenade.mdl'.
+00:08:03: C45:CP.APEX.OfC.00228 has spawned 'models/Items/AR2_Grenade.mdl'.
+00:08:06: C45:CP.APEX.OfC.00228 has spawned 'models/Items/HealthKit.mdl'.
+00:08:06: C45:CP.APEX.OfC.00228 has spawned 'models/Items/HealthKit.mdl'.
+00:08:11: C45:CP.APEX.OfC.00228 has spawned 'models/Items/combine_rifle_cartridge01.mdl'.
+00:08:11: C45:CP.APEX.OfC.00228 has spawned 'models/Items/combine_rifle_cartridge01.mdl'.
+00:08:14: C45:CP.APEX.OfC.00228 has spawned 'models/Items/combine_rifle_cartridge01.mdl'.
+00:08:14: C45:CP.APEX.OfC.00228 has spawned 'models/Items/combine_rifle_cartridge01.mdl'.
+00:08:24: C45:CP.APEX.OfC.00228 has spawned 'models/healthvial.mdl'.
+00:08:24: C45:CP.APEX.OfC.00228 has spawned 'models/healthvial.mdl'.
+00:08:28: C45:CP.APEX.OfC.00228 has used '/Observer'.
+00:08:33: C45:CP.APEX.OfC.00228 has used '/Observer'.
+00:08:37: C45:CP.APEX.OfC.00228 has spawned 'models/items/m40a1.mdl'.
+00:08:37: C45:CP.APEX.OfC.00228 has spawned 'models/items/m40a1.mdl'.
+00:09:04: C45:CP.APEX.OfC.00228 has used '/Observer'.
+00:22:18: SchωarzKrµppzo (STEAM_0:1:44629398) has connected.
+00:23:22: SchωarzKrµppzo has loaded the character 'C45:CP.APEX.OfC.00228'.
+00:23:52: C45:CP.APEX.OfC.00228 has gained a Рад-дозиметр 1463088233.
+00:23:52: C45:CP.APEX.OfC.00228 has used '/CharGiveItem cp rad_checker'.
+00:23:56: C45:CP.APEX.OfC.00228 has gained a Фильтр 1463088238.
+00:23:56: C45:CP.APEX.OfC.00228 has used '/CharGiveItem cp filter'.
+00:24:33: C45:CP.APEX.OfC.00228 has lost a Фильтр 1463088238.
+00:24:33: C45:CP.APEX.OfC.00228 has used '/InvAction use filter 1463088238.00'.
+00:24:40: C45:CP.APEX.OfC.00228 has gained a Фильтр 1463088283.
+00:24:40: C45:CP.APEX.OfC.00228 has used '/CharGiveItem cp filter'.
+00:24:42: C45:CP.APEX.OfC.00228 has gained a Фильтр 1463088286.
+00:24:42: C45:CP.APEX.OfC.00228 has lost a Фильтр 1463088283.
+00:24:42: C45:CP.APEX.OfC.00228 has used '/InvAction use filter 1463088283.00'.
+00:24:45: C45:CP.APEX.OfC.00228 has gained a Фильтр 1463088290.
+00:24:45: C45:CP.APEX.OfC.00228 has lost a Фильтр 1463088286.
+00:24:45: C45:CP.APEX.OfC.00228 has used '/InvAction use filter 1463088286.00'.
+00:24:46: C45:CP.APEX.OfC.00228 has gained a Фильтр 1463088292.
+00:24:46: C45:CP.APEX.OfC.00228 has lost a Фильтр 1463088290.
+00:24:46: C45:CP.APEX.OfC.00228 has used '/InvAction use filter 1463088290.00'.
+00:25:06: C45:CP.APEX.OfC.00228 has gained a Фильтр 1463088313.
+00:25:06: C45:CP.APEX.OfC.00228 has lost a Фильтр 1463088292.
+00:25:06: C45:CP.APEX.OfC.00228 has used '/InvAction use filter 1463088292.00'.
+00:25:18: C45:CP.APEX.OfC.00228 has used '/InvAction use rad_checker 1463088233.00'.
+00:25:22: C45:CP.APEX.OfC.00228 has used '/InvAction use rad_checker 1463088233.00'.
+00:25:24: C45:CP.APEX.OfC.00228 says: "<:: c"
+00:25:37: C45:CP.APEX.OfC.00228 has used '/InvAction use rad_checker 1463088233.00'.
+00:43:47: SchωarzKrµppzo (STEAM_0:1:44629398) has connected.
+00:45:23: SchωarzKrµppzo has loaded the character 'C45:CP.APEX.OfC.00228'.
+00:45:25: C45:CP.APEX.OfC.00228 has used '/Observer'.
+00:45:26: C45:CP.APEX.OfC.00228 has used '/Observer'.
+00:45:26: C45:CP.APEX.OfC.00228 has used '/Observer'.
+00:45:27: C45:CP.APEX.OfC.00228 has used '/Observer'.
+00:50:35: C45:CP.APEX.OfC.00228 (STEAM_0:1:44629398) has disconnected.
+00:57:39: SchωarzKrµppzo (STEAM_0:1:44629398) has connected.
+00:59:08: SchωarzKrµppzo has loaded the character 'C45:CP.APEX.OfC.00228'.
+00:59:10: C45:CP.APEX.OfC.00228 has used '/Observer'.
+00:59:11: C45:CP.APEX.OfC.00228 has used '/Observer'.
+00:59:12: C45:CP.APEX.OfC.00228 has used '/Observer'.
+00:59:13: C45:CP.APEX.OfC.00228 has used '/Observer'.
+00:59:44: C45:CP.APEX.OfC.00228 has lost a Фильтр 1463088313.
+00:59:44: C45:CP.APEX.OfC.00228 has used '/InvAction use filter 1463088313.00'.
+01:02:18: C45:CP.APEX.OfC.00228 (STEAM_0:1:44629398) has disconnected.
+12:24:04: SchωarzKrµppzo (STEAM_0:1:44629398) has connected.
+12:24:47: SchωarzKrµppzo has loaded the character 'C45:CP.APEX.OfC.00228'.
+12:38:55: C45:CP.APEX.OfC.00228 has used '/Observer'.
+12:38:55: C45:CP.APEX.OfC.00228 has used '/Observer'.
+12:38:55: C45:CP.APEX.OfC.00228 has used '/Observer'.
+12:38:56: C45:CP.APEX.OfC.00228 has spawned 'models/props_lab/reciever01a.mdl'.
+12:38:56: C45:CP.APEX.OfC.00228 has spawned 'models/props_lab/reciever01a.mdl'.
+12:38:56: C45:CP.APEX.OfC.00228 has used '/Observer'.
+12:38:57: C45:CP.APEX.OfC.00228 has used '/Observer'.
+12:38:58: C45:CP.APEX.OfC.00228 has used '/Observer'.
+12:38:58: C45:CP.APEX.OfC.00228 has used '/Observer'.
+12:38:58: C45:CP.APEX.OfC.00228 has used '/Observer'.
+12:39:01: C45:CP.APEX.OfC.00228 has spawned 'models/props_lab/reciever01d.mdl'.
+12:39:01: C45:CP.APEX.OfC.00228 has spawned 'models/props_lab/reciever01d.mdl'.
+12:49:39: C45:CP.APEX.OfC.00228 (STEAM_0:1:44629398) has disconnected.
+13:38:14: SchωarzKrµppzo (STEAM_0:1:44629398) has connected.
+13:39:27: SchωarzKrµppzo has loaded the character 'C45:CP.APEX.OfC.00228'.
+13:39:45: C45:CP.APEX.OfC.00228 has gained a Радиометр 1463135986.
+13:39:45: C45:CP.APEX.OfC.00228 has used '/CharGiveItem cp geiger_counter'.
+13:39:48: C45:CP.APEX.OfC.00228 has lost a Радиометр 1463135986.
+13:39:48: C45:CP.APEX.OfC.00228 has used '/InvAction drop geiger_counter 1463135986.00'.
+13:39:49: C45:CP.APEX.OfC.00228 has used '/Observer'.
+13:39:54: C45:CP.APEX.OfC.00228 has used '/Observer'.
+13:39:59: C45:CP.APEX.OfC.00228 has lost a USP Match 1463074763.
+13:39:59: C45:CP.APEX.OfC.00228 has used '/InvAction drop sxbase_uspmatch 1463074763.00'.
+13:39:59: C45:CP.APEX.OfC.00228 has lost a MP7 1461406855.
+13:39:59: C45:CP.APEX.OfC.00228 has used '/InvAction drop sxbase_mp7 1461406855.00'.
+13:40:00: C45:CP.APEX.OfC.00228 has lost a USP Match 1461406497.
+13:40:00: C45:CP.APEX.OfC.00228 has used '/InvAction drop sxbase_uspmatch 1461406497.00'.
+13:40:02: C45:CP.APEX.OfC.00228 has lost a USP Match 1461358840.
+13:40:02: C45:CP.APEX.OfC.00228 has used '/InvAction drop sxbase_uspmatch 1461358840.00'.
+13:40:08: C45:CP.APEX.OfC.00228 has gained a Радиометр 1463136010.
+13:40:08: C45:CP.APEX.OfC.00228 has used '/CharGiveItem cp geiger_counter'.
+13:52:30: SchωarzKrµppzo (STEAM_0:1:44629398) has connected.
+13:54:00: SchωarzKrµppzo has loaded the character 'C45:CP.APEX.OfC.00228'.
+13:54:11: C45:CP.APEX.OfC.00228 has been cured of all diseases.
+13:54:11: C45:CP.APEX.OfC.00228 has dealt 100 damage to C45:CP.APEX.OfC.00228, killing them!
+13:55:13: C45:CP.APEX.OfC.00228 has been cured of all diseases.
+13:55:13: C45:CP.APEX.OfC.00228 has dealt 100 damage to C45:CP.APEX.OfC.00228, killing them!
+14:31:53: C45:CP.APEX.OfC.00228 (STEAM_0:1:44629398) has disconnected.
+14:39:21: SchωarzKrµppzo (STEAM_0:1:44629398) has connected.
+14:40:28: SchωarzKrµppzo has loaded the character 'C45:CP.APEX.OfC.00228'.
+14:42:30: C45:CP.APEX.OfC.00228 (STEAM_0:1:44629398) has disconnected.
+14:46:00: SchωarzKrµppzo (STEAM_0:1:44629398) has connected.
+14:46:59: SchωarzKrµppzo has loaded the character 'C45:CP.APEX.OfC.00228'.
+15:01:31: SchωarzKrµppzo (STEAM_0:1:44629398) has connected.
+15:02:31: SchωarzKrµppzo has loaded the character 'C45:CP.APEX.OfC.00228'.
+15:02:51: C45:CP.APEX.OfC.00228 has been cured of all diseases.
+15:02:51: C45:CP.APEX.OfC.00228 has dealt 100 damage to C45:CP.APEX.OfC.00228, killing them!
+15:03:40: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:03:55: C45:CP.APEX.OfC.00228 has used '/ContainmentSpherePlace 256 100'.
+15:04:05: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:04:05: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:04:05: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:04:06: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:04:06: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:04:51: C45:CP.APEX.OfC.00228 has been cured of all diseases.
+15:04:51: C45:CP.APEX.OfC.00228 has dealt 100 damage to C45:CP.APEX.OfC.00228, killing them!
+15:04:58: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:04:58: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:09:46: C45:CP.APEX.OfC.00228 has gained a Beer 1463141387.
+15:09:46: C45:CP.APEX.OfC.00228 has used '/CharGiveItem c45 beer'.
+15:09:49: C45:CP.APEX.OfC.00228 has gained a Empty Glass Bottle 1463141391.
+15:09:49: C45:CP.APEX.OfC.00228 has lost a Beer 1463141387.
+15:09:49: C45:CP.APEX.OfC.00228 has used '/InvAction use beer 1463141387.00'.
+15:09:53: C45:CP.APEX.OfC.00228 has gained a Beer 1463141396.
+15:09:53: C45:CP.APEX.OfC.00228 has used '/CharGiveItem c45 beer'.
+15:09:54: C45:CP.APEX.OfC.00228 has gained a Beer 1463141398.
+15:09:54: C45:CP.APEX.OfC.00228 has used '/CharGiveItem c45 beer'.
+15:09:54: C45:CP.APEX.OfC.00228 has gained a Beer 1463141399.
+15:09:54: C45:CP.APEX.OfC.00228 has used '/CharGiveItem c45 beer'.
+15:09:56: C45:CP.APEX.OfC.00228 has gained a Empty Glass Bottle 1463141402.
+15:09:56: C45:CP.APEX.OfC.00228 has lost a Beer 1463141399.
+15:09:56: C45:CP.APEX.OfC.00228 has used '/InvAction use beer 1463141399.00'.
+15:09:57: C45:CP.APEX.OfC.00228 has gained a Empty Glass Bottle 1463141404.
+15:09:57: C45:CP.APEX.OfC.00228 has lost a Beer 1463141398.
+15:09:57: C45:CP.APEX.OfC.00228 has used '/InvAction use beer 1463141398.00'.
+15:09:57: C45:CP.APEX.OfC.00228 has gained a Empty Glass Bottle 1463141405.
+15:09:57: C45:CP.APEX.OfC.00228 has lost a Beer 1463141396.
+15:09:57: C45:CP.APEX.OfC.00228 has used '/InvAction use beer 1463141396.00'.
+15:09:59: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:10:01: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:12:43: C45:CP.APEX.OfC.00228 (STEAM_0:1:44629398) has disconnected.
+15:22:25: SchωarzKrµppzo (STEAM_0:1:44629398) has connected.
+15:24:27: SchωarzKrµppzo has loaded the character 'C45:CP.APEX.OfC.00228'.
+15:24:39: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:24:56: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:24:57: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:25:01: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:25:01: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:25:14: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:25:14: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:25:53: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:25:53: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:26:06: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:26:07: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:26:07: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:26:09: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:26:10: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:26:11: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:26:12: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:26:12: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:26:14: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:26:18: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:26:19: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:26:22: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:26:28: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:26:31: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:26:31: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:26:32: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:26:43: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:26:44: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:26:45: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:26:47: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:26:48: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:26:49: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:27:13: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:29:36: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:30:29: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:43:39: C45:CP.APEX.OfC.00228 has used '/Observer'.
+15:43:39: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:00:26: Macleod962 (STEAM_0:1:18294986) has connected.
+16:02:14: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:02:15: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:02:23: Macleod962 has created a Citizen character called 'Frank KeKser'.
+16:02:23: Macleod962 has loaded the character 'Frank KeKser'.
+16:02:38: C45:CP.APEX.OfC.00228 has used '/PlySetGroup Frank KeKser superadmin'.
+16:02:54: [OOC] Frank KeKser: А вот и эррор первый, лул
+16:02:56: Frank KeKser has used '/Observer'.
+16:02:58: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:03:05: Frank KeKser has used '/Observer'.
+16:03:06: Frank KeKser has used '/Observer'.
+16:03:06: Frank KeKser has used '/Observer'.
+16:03:13: Frank KeKser has used '/Observer'.
+16:04:19: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:04:39: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:04:43: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:04:45: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:04:45: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:04:49: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:04:49: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:04:51: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:04:52: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:04:54: Frank KeKser has used '/Observer'.
+16:05:24: Frank KeKser says: "Это блок Д?"
+16:05:27: C45:CP.APEX.OfC.00228 says: "<:: idk"
+16:05:29: C45:CP.APEX.OfC.00228 says: "<:: раньше"
+16:05:32: C45:CP.APEX.OfC.00228 says: "<:: здесь был блок А"
+16:05:34: C45:CP.APEX.OfC.00228 says: "<:: и тут"
+16:05:55: Frank KeKser says: "Так. Погоди. Осмотрю тут все. А то я чет про другую с17 думал. Которая очень на 45 похожа"
+16:05:58: C45:CP.APEX.OfC.00228 says: "<:: и там сидел Сайрус-вахтер у входа"
+16:06:01: Frank KeKser has used '/Observer'.
+16:06:09: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:06:25: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:06:25: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:06:26: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:10:13: [OOC] Frank KeKser: Чет она не меньше с2. Еще и запутанная вся. Давай к делу, что ли. Где тут офис ГСР и жилые блоки?
+16:10:22: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:10:25: Frank KeKser has used '/Observer'.
+16:10:28: Frank KeKser has used '/Observer'.
+16:10:33: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:10:43: [OOC] C45:CP.APEX.OfC.00228: здесь первый жилой блок
+16:10:44: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:10:44: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:10:45: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:10:46: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:10:50: [OOC] C45:CP.APEX.OfC.00228: там где я
+16:10:51: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:10:51: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:10:52: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:10:52: Frank KeKser has used '/Observer'.
+16:10:53: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:10:55: Frank KeKser says: "А?"
+16:11:02: Frank KeKser says: "Блок А?"
+16:11:06: [LOOC] C45:CP.APEX.OfC.00228: да
+16:11:06: [LOOC] C45:CP.APEX.OfC.00228: да
+16:11:12: Frank KeKser says: "Остальные блоки?"
+16:11:21: [LOOC] C45:CP.APEX.OfC.00228: щас по порядку все
+16:11:21: [LOOC] C45:CP.APEX.OfC.00228: щас по порядку все
+16:11:24: Frank KeKser has used '/Observer'.
+16:11:25: Frank KeKser has used '/Observer'.
+16:11:43: [LOOC] C45:CP.APEX.OfC.00228: в этих двух зданиях ранее (на старом подвале) размещалось Брокерское ГСР
+16:11:43: [LOOC] C45:CP.APEX.OfC.00228: в этих двух зданиях ранее (на старом подвале) размещалось Брокерское ГСР
+16:11:49: Frank KeKser has used '/Observer'.
+16:11:52: Frank KeKser has used '/Observer'.
+16:12:04: [LOOC] C45:CP.APEX.OfC.00228: это здание вроде бы не использовалось
+16:12:04: [LOOC] C45:CP.APEX.OfC.00228: это здание вроде бы не использовалось
+16:12:17: [LOOC] C45:CP.APEX.OfC.00228: секунду
+16:12:17: [LOOC] C45:CP.APEX.OfC.00228: секунду
+16:12:17: Taishō Septic (STEAM_0:0:34008601) has connected.
+16:12:28: Twifsie Spiral (STEAM_0:0:22550015) has connected.
+16:12:31: [LOOC] Frank KeKser: У-у-ух, темно
+16:12:31: [LOOC] Frank KeKser: У-у-ух, темно
+16:12:52: [LOOC] C45:CP.APEX.OfC.00228: раньше здесь был бар с столиками и пианино
+16:12:52: [LOOC] C45:CP.APEX.OfC.00228: раньше здесь был бар с столиками и пианино
+16:13:03: [LOOC] C45:CP.APEX.OfC.00228: это мед блок
+16:13:03: [LOOC] C45:CP.APEX.OfC.00228: это мед блок
+16:13:03: Frank KeKser says: "Это уже видел"
+16:13:32: [LOOC] C45:CP.APEX.OfC.00228: это блок Б, (на старом подвале сюда заселялись лоялисты)
+16:13:32: [LOOC] C45:CP.APEX.OfC.00228: это блок Б, (на старом подвале сюда заселялись лоялисты)
+16:13:36: [LOOC] C45:CP.APEX.OfC.00228: там очень жирная обстановка
+16:13:36: [LOOC] C45:CP.APEX.OfC.00228: там очень жирная обстановка
+16:13:40: [LOOC] C45:CP.APEX.OfC.00228: и красивая
+16:13:40: [LOOC] C45:CP.APEX.OfC.00228: и красивая
+16:13:42: Frank KeKser says: "Хорошо"
+16:14:06: Frank KeKser has used '/Observer'.
+16:14:07: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:14:08: Frank KeKser has used '/Observer'.
+16:14:09: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:14:09: Frank KeKser has used '/Observer'.
+16:14:11: Frank KeKser has used '/Observer'.
+16:14:13: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:14:18: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:15:11: [LOOC] C45:CP.APEX.OfC.00228: про это здание я ничего не знаю, там странная планировка. типо спецназовская
+16:15:11: [LOOC] C45:CP.APEX.OfC.00228: про это здание я ничего не знаю, там странная планировка. типо спецназовская
+16:15:12: Vesthamer (STEAM_0:1:10947122) has connected.
+16:15:14: [LOOC] C45:CP.APEX.OfC.00228: там есть
+16:15:14: [LOOC] C45:CP.APEX.OfC.00228: там есть
+16:15:24: C45:CP.APEX.OfC.00228 says: "<:: там планировка такая что там связаны комнаты"
+16:15:33: [LOOC] C45:CP.APEX.OfC.00228: в одну комнату все ведут
+16:15:33: [LOOC] C45:CP.APEX.OfC.00228: в одну комнату все ведут
+16:15:37: Taishō Septic has loaded the character 'Jack Whitehouse'.
+16:15:38: Frank KeKser says: "Хер с ним. Мне важнее заводы, офис, блоки."
+16:15:50: [LOOC] C45:CP.APEX.OfC.00228: там тюремный блок
+16:15:50: [LOOC] C45:CP.APEX.OfC.00228: там тюремный блок
+16:15:53: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:15:56: Frank KeKser has used '/Observer'.
+16:15:58: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:16:00: Frank KeKser has used '/Observer'.
+16:16:03: Hellstorm (STEAM_0:0:26343107) has connected.
+16:16:18: [LOOC] C45:CP.APEX.OfC.00228: Здесь два здания под магазины. раньше тут был реальный продавец лет 6-7
+16:16:18: [LOOC] C45:CP.APEX.OfC.00228: Здесь два здания под магазины. раньше тут был реальный продавец лет 6-7
+16:16:22: [LOOC] C45:CP.APEX.OfC.00228: наученный игрой
+16:16:22: [LOOC] C45:CP.APEX.OfC.00228: наученный игрой
+16:16:32: [LOOC] C45:CP.APEX.OfC.00228: он говорил так в IC: "сер вам что воду или еду"
+16:16:32: [LOOC] C45:CP.APEX.OfC.00228: он говорил так в IC: "сер вам что воду или еду"
+16:16:57: Vesthamer has loaded the character 'CP:C45.i3.0793'.
+16:16:59: Frank KeKser says: "Придумаю что сюда пихнуть"
+16:17:05: CP:C45.i3.0793 has gained a Armband: 'i1' 1463145427.
+16:17:05: CP:C45.i3.0793 has used '/CharGiveItem 793 i1'.
+16:17:12: [LOOC] C45:CP.APEX.OfC.00228: здесь какое то промышленное здание
+16:17:12: [LOOC] C45:CP.APEX.OfC.00228: здесь какое то промышленное здание
+16:17:20: CP:C45.i1.0793 has lost a Armband: 'i1' 1463145427.
+16:17:20: CP:C45.i1.0793 has used '/InvAction use armband_i1 1463145427.00'.
+16:17:22: Frank KeKser says: "Это хорошо"
+16:17:25: Hellstorm has loaded the character 'Hellstorm'.
+16:17:37: Hellstorm has used '/Observer'.
+16:17:39: Hellstorm has used '/Observer'.
+16:17:40: Hellstorm has used '/Observer'.
+16:17:42: Hellstorm has used '/Observer'.
+16:17:44: CP:C45.i1.0793 has used '/Observer'.
+16:17:53: Frank KeKser says: "Завод рационов или склад?"
+16:17:54: [OOC] Hellstorm: hello everybody
+16:17:55: Hellstorm has used '/Observer'.
+16:18:00: [LOOC] C45:CP.APEX.OfC.00228: раньше здесь был завод по переработке мусора
+16:18:00: [LOOC] C45:CP.APEX.OfC.00228: раньше здесь был завод по переработке мусора
+16:18:02: Hellstorm has used '/Observer'.
+16:18:09: [LOOC] C45:CP.APEX.OfC.00228: но сюда можно было даже два впихнуть завода
+16:18:09: [LOOC] C45:CP.APEX.OfC.00228: но сюда можно было даже два впихнуть завода
+16:18:16: [LOOC] Hellstorm: а черт, помню тот завод, и хаос на нем
+16:18:16: [LOOC] Hellstorm: а черт, помню тот завод, и хаос на нем
+16:18:21: Hellstorm has used '/Observer'.
+16:18:22: Hellstorm has used '/Observer'.
+16:18:30: Frank KeKser says: "Да, думаю, для мусора найду помещение поменьше"
+16:18:46: [LOOC] C45:CP.APEX.OfC.00228: там ход в каналы, оно было заблочено
+16:18:46: [LOOC] C45:CP.APEX.OfC.00228: там ход в каналы, оно было заблочено
+16:18:50: Hellstorm says: "вопрос намба ван"
+16:18:53: CP:C45.i1.0793 has used '/Observer'.
+16:18:58: Hellstorm says: "гср"
+16:18:58: [LOOC] C45:CP.APEX.OfC.00228: че?
+16:18:58: [LOOC] C45:CP.APEX.OfC.00228: че?
+16:19:03: [LOOC] C45:CP.APEX.OfC.00228: а
+16:19:03: [LOOC] C45:CP.APEX.OfC.00228: а
+16:19:03: [LOOC] CP:C45.i1.0793: прост пришел
+16:19:03: [LOOC] CP:C45.i1.0793: прост пришел
+16:19:09: Hellstorm says: "есть места для них, но спорненькие. "
+16:19:19: Frank KeKser says: "Что значит "спорненькие"?"
+16:19:21: [LOOC] C45:CP.APEX.OfC.00228: за ГСР маклауд ручается, с ним поговорите
+16:19:21: [LOOC] C45:CP.APEX.OfC.00228: за ГСР маклауд ручается, с ним поговорите
+16:19:25: CP:C45.i1.0793 has used '/Observer'.
+16:19:26: Hellstorm says: "окей"
+16:19:26: Hellstorm has used '/Observer'.
+16:19:27: CP:C45.i1.0793 has used '/Observer'.
+16:19:27: Hellstorm has used '/Observer'.
+16:19:27: CP:C45.i1.0793 has taken 26 damage from worldspawn, leaving them at 74 health and 120 armor!
+16:19:28: CP:C45.i1.0793 has used '/Observer'.
+16:19:30: CP:C45.i1.0793 has used '/Observer'.
+16:19:32: Hellstorm says: "Хммм"
+16:19:33: [LOOC] C45:CP.APEX.OfC.00228: тут еще какое то здание есть маленькое
+16:19:33: [LOOC] C45:CP.APEX.OfC.00228: тут еще какое то здание есть маленькое
+16:19:35: CP:C45.i1.0793 has used '/CharSetHealth 793 100'.
+16:19:36: CP:C45.i1.0793 has used '/Observer'.
+16:19:36: CP:C45.i1.0793 has used '/Observer'.
+16:19:39: Hellstorm has used '/Observer'.
+16:19:40: Hellstorm has used '/Observer'.
+16:19:40: Hellstorm has used '/Observer'.
+16:19:41: Hellstorm has used '/Observer'.
+16:19:48: Hellstorm has used '/Observer'.
+16:19:49: Hellstorm has used '/Observer'.
+16:19:52: [LOOC] C45:CP.APEX.OfC.00228: похоже на сарай
+16:19:52: [LOOC] C45:CP.APEX.OfC.00228: похоже на сарай
+16:19:54: Hellstorm has used '/Observer'.
+16:19:56: CP:C45.i1.0793 has used '/Ad Шварц, мб поставить силовое поле у таможни ?'.
+16:20:01: Frank KeKser says: "Под склад или что-то в этом роде пойдет"
+16:20:04: Hellstorm has used '/Observer'.
+16:20:08: CP:C45.i1.0793 has used '/Ad i love forcefields'.
+16:20:09: CP:C45.i1.0793 has used '/Observer'.
+16:20:15: Hellstorm has spawned 'models/props_wasteland/interior_fence001g.mdl'.
+16:20:15: Hellstorm has spawned 'models/props_wasteland/interior_fence001g.mdl'.
+16:20:18: C45:CP.APEX.OfC.00228 has used '/Ad поставьте'.
+16:20:33: Hellstorm has used '/Observer'.
+16:20:42: CP:C45.i1.0793 has used '/Ad дык я ж не могу ставить силовые поля'.
+16:20:47: [LOOC] C45:CP.APEX.OfC.00228: далее идет отдаленная часть которая никогда не была у нас задействована
+16:20:47: [LOOC] C45:CP.APEX.OfC.00228: далее идет отдаленная часть которая никогда не была у нас задействована
+16:20:51: [LOOC] C45:CP.APEX.OfC.00228: она была закрыто полем
+16:20:51: [LOOC] C45:CP.APEX.OfC.00228: она была закрыто полем
+16:20:53: Hellstorm has used '/Ad ya stavlu'.
+16:20:58: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:21:04: [LOOC] CP:C45.i1.0793: Смотри
+16:21:04: [LOOC] CP:C45.i1.0793: Смотри
+16:21:04: CP:C45.i1.0793 has used '/Observer'.
+16:21:05: Frank KeKser has used '/Observer'.
+16:21:07: CP:C45.i1.0793 has used '/Observer'.
+16:21:09: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:21:09: Frank KeKser has used '/Observer'.
+16:21:09: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:21:10: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:21:19: [LOOC] C45:CP.APEX.OfC.00228: однако тут имеется какой-то жилой блок
+16:21:19: [LOOC] C45:CP.APEX.OfC.00228: однако тут имеется какой-то жилой блок
+16:21:22: Hellstorm says: "ща"
+16:21:22: Frank KeKser has used '/Observer'.
+16:21:23: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:21:25: Hellstorm says: "это говно непослушное"
+16:21:28: Frank KeKser has used '/Observer'.
+16:21:29: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:21:35: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:21:37: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:21:37: Frank KeKser says: "Фиг с ним."
+16:21:39: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:21:39: Hellstorm says: "и ноу коллид на нем не работает"
+16:21:41: Frank KeKser has used '/Observer'.
+16:21:47: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:21:48: Frank KeKser has used '/Observer'.
+16:22:08: CP:C45.i1.0793 has spawned 'models/hunter/blocks/cube025x6x025.mdl'.
+16:22:08: CP:C45.i1.0793 has spawned 'models/hunter/blocks/cube025x6x025.mdl'.
+16:22:10: Frank KeKser says: "Это, наверное, лучше оставить ребелам или тем, кто тут обитать будет."
+16:22:11: Hellstorm says: "тут короч не пролезает ,сейчас разные места попробую"
+16:22:11: CP:C45.i1.0793 has spawned 'models/hunter/blocks/cube025x5x025.mdl'.
+16:22:11: CP:C45.i1.0793 has spawned 'models/hunter/blocks/cube025x5x025.mdl'.
+16:22:14: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:22:15: Frank KeKser has used '/Observer'.
+16:22:18: Frank KeKser has used '/Observer'.
+16:22:19: CP:C45.i1.0793 has spawned 'models/hunter/blocks/cube025x4x025.mdl'.
+16:22:19: CP:C45.i1.0793 has spawned 'models/hunter/blocks/cube025x4x025.mdl'.
+16:22:26: Frank KeKser has used '/Observer'.
+16:22:28: Frank KeKser has used '/Observer'.
+16:22:34: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:22:35: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:22:36: Hellstorm says: "у будки какая то невидимая преграда"
+16:22:37: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:22:37: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:22:38: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:22:42: [OOC] C45:CP.APEX.OfC.00228: маклауд сюда
+16:22:44: Frank KeKser has used '/Observer'.
+16:22:44: CP:C45.i1.0793 says: "<:: Где ?"
+16:22:45: CP:C45.i1.0793 has used '/Observer'.
+16:22:51: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:22:52: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:22:52: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:22:53: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:22:53: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:22:54: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:22:54: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:22:55: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:22:55: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:22:55: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:22:57: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:22:57: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:22:59: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:23:00: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:23:02: CP:C45.i1.0793 has used '/Observer'.
+16:23:05: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:23:06: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:23:17: C45:CP.APEX.OfC.00228 has used '/Ad маклауд '.
+16:23:17: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:23:19: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:23:19: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:23:20: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:23:24: [OOC] Frank KeKser: Да ищу тебя
+16:23:25: C45:CP.APEX.OfC.00228 has used '/Ad тут два здания есть'.
+16:23:26: Frank KeKser has used '/Observer'.
+16:23:26: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:23:27: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:23:27: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:23:28: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:23:29: Frank KeKser says: "Нашел"
+16:23:34: Hellstorm has spawned 'models/props_c17/fence01b.mdl'.
+16:23:34: Hellstorm has spawned 'models/props_c17/fence01b.mdl'.
+16:23:38: Hellstorm has spawned 'models/props_c17/fence01a.mdl'.
+16:23:38: Hellstorm has spawned 'models/props_c17/fence01a.mdl'.
+16:23:41: Frank KeKser says: "Да, видел. Сейчас посмотрим..."
+16:23:44: [OOC] CP:C45.i1.0793: Мак, /plygoto поможет найти любого
+16:23:46: Frank KeKser has used '/Observer'.
+16:23:48: Frank KeKser has used '/Observer'.
+16:24:01: Hellstorm has spawned 'models/props_wasteland/exterior_fence002c.mdl'.
+16:24:01: Hellstorm has spawned 'models/props_wasteland/exterior_fence002c.mdl'.
+16:24:05: Frank KeKser has used '/Observer'.
+16:24:07: Frank KeKser has used '/Observer'.
+16:24:11: Frank KeKser says: "Это тут походу"
+16:24:16: CP:C45.i1.0793 has spawned 'models/hunter/blocks/cube025x4x025.mdl'.
+16:24:16: CP:C45.i1.0793 has spawned 'models/hunter/blocks/cube025x4x025.mdl'.
+16:24:17: Frank KeKser says: "Пункт выдачи рационов, не?"
+16:24:30: [LOOC] C45:CP.APEX.OfC.00228: Может быть
+16:24:30: [LOOC] C45:CP.APEX.OfC.00228: Может быть
+16:24:31: Shadow Wing (STEAM_0:1:39002271) has connected.
+16:24:44: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:24:45: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:24:45: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:24:46: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:24:51: CP:C45.i1.0793 has spawned 'models/hunter/blocks/cube05x3x025.mdl'.
+16:24:51: CP:C45.i1.0793 has spawned 'models/hunter/blocks/cube05x3x025.mdl'.
+16:24:57: CP:C45.i1.0793 has spawned 'models/hunter/blocks/cube05x5x025.mdl'.
+16:24:57: CP:C45.i1.0793 has spawned 'models/hunter/blocks/cube05x5x025.mdl'.
+16:25:07: CP:C45.i1.0793 has spawned 'models/hunter/blocks/cube05x4x025.mdl'.
+16:25:07: CP:C45.i1.0793 has spawned 'models/hunter/blocks/cube05x4x025.mdl'.
+16:25:09: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:25:10: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:25:11: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:25:13: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:25:14: Hellstorm has spawned 'models/props_combine/combine_generator01.mdl'.
+16:25:14: Hellstorm has spawned 'models/props_combine/combine_generator01.mdl'.
+16:25:26: [LOOC] C45:CP.APEX.OfC.00228: тут типа один из путей в каналы
+16:25:26: [LOOC] C45:CP.APEX.OfC.00228: тут типа один из путей в каналы
+16:25:30: Frank KeKser says: "А"
+16:25:44: CP:C45.i1.0793 says: "<:: Стой"
+16:25:50: CP:C45.i1.0793 says: "<:: Нет же смысла прямо у полей генератор ставить"
+16:25:58: CP:C45.i1.0793 says: "<:: Там есть помещеньице"
+16:26:01: [LOOC] C45:CP.APEX.OfC.00228: а тут просто какая то комната. у нас не задействованы были они
+16:26:01: [LOOC] C45:CP.APEX.OfC.00228: а тут просто какая то комната. у нас не задействованы были они
+16:26:04: Frank KeKser says: "Вообще пока не знаю под что эти здания сделать"
+16:26:23: Frank KeKser says: "Так. Дай мне тогда пару флагов. Пойду начну офис ГСР обстраивать."
+16:26:34: CP:C45.i1.0793 has spawned 'models/hunter/blocks/cube05x4x025.mdl'.
+16:26:34: CP:C45.i1.0793 has spawned 'models/hunter/blocks/cube05x4x025.mdl'.
+16:26:35: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:26:35: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:26:40: C45:CP.APEX.OfC.00228 has used '/CharGiveFlags frank ept'.
+16:26:53: C45:CP.APEX.OfC.00228 has used '/CharGiveFlags frank SnNRrCc'.
+16:26:57: [LOOC] Frank KeKser: Потом все сохрани, окей?
+16:26:57: [LOOC] Frank KeKser: Потом все сохрани, окей?
+16:27:05: [LOOC] C45:CP.APEX.OfC.00228: постой
+16:27:05: [LOOC] C45:CP.APEX.OfC.00228: постой
+16:27:05: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:27:07: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:27:14: [LOOC] C45:CP.APEX.OfC.00228: так как ты суперадмин
+16:27:14: [LOOC] C45:CP.APEX.OfC.00228: так как ты суперадмин
+16:27:19: [LOOC] C45:CP.APEX.OfC.00228: в тулах есть static add
+16:27:19: [LOOC] C45:CP.APEX.OfC.00228: в тулах есть static add
+16:27:24: Frank KeKser says: "А, окей"
+16:27:34: [LOOC] C45:CP.APEX.OfC.00228: тыкаешь на проп и он ейвится
+16:27:34: [LOOC] C45:CP.APEX.OfC.00228: тыкаешь на проп и он ейвится
+16:27:41: [LOOC] C45:CP.APEX.OfC.00228: ЛКМом
+16:27:41: [LOOC] C45:CP.APEX.OfC.00228: ЛКМом
+16:27:51: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:27:51: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:27:55: Frank KeKser says: "Только потом снять не забудь. На новом персе только флаг на физган понадобится."
+16:28:13: Frank KeKser has used '/Observer'.
+16:28:16: Shadow Wing has created a Citizen character called 'Erick "Satan" Woods'.
+16:28:16: Shadow Wing has loaded the character 'Erick "Satan" Woods'.
+16:28:26: Frank KeKser has used '/Observer'.
+16:28:32: Frank KeKser has used '/Observer'.
+16:29:07: CP:C45.i1.0793 has used '/StaticAdd'.
+16:29:17: CP:C45.i1.0793 has used '/StaticAdd'.
+16:29:18: CP:C45.i1.0793 has used '/StaticAdd'.
+16:29:34: CP:C45.i1.0793 has used '/Observer'.
+16:29:38: CP:C45.i1.0793 says: "<:: Хуитизей"
+16:29:40: CP:C45.i1.0793 says: "<:: Хуеплай"
+16:29:42: CP:C45.i1.0793 has used '/Observer'.
+16:29:45: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:29:48: Erick "Satan" Woods says: "Шта?"
+16:30:03: CP:C45.i1.0793 has used '/Observer'.
+16:30:07: [OOC] C45:CP.APEX.OfC.00228: хелл шторм оставь поле это, я его поправлю
+16:30:11: CP:C45.i1.0793 has used '/Observer'.
+16:30:14: Frank KeKser has spawned 'models/props_c17/bench01a.mdl'.
+16:30:14: Frank KeKser has spawned 'models/props_c17/bench01a.mdl'.
+16:30:27: Shaftoe (STEAM_0:1:46567150) has connected.
+16:30:32: C45:CP.APEX.OfC.00228 has used '/Ad шадоу винга звали?'.
+16:30:44: C45:CP.APEX.OfC.00228 has used '/Ad кто-то? или это рандомный тип угадавший пароль?'.
+16:30:53: Frank KeKser has spawned 'models/props_wasteland/controlroom_chair001a.mdl'.
+16:30:53: Frank KeKser has spawned 'models/props_wasteland/controlroom_chair001a.mdl'.
+16:31:24: Frank KeKser has spawned 'models/props_interiors/Furniture_Couch01a.mdl'.
+16:31:24: Frank KeKser has spawned 'models/props_interiors/Furniture_Couch01a.mdl'.
+16:31:29: Frank KeKser has spawned 'models/props_wasteland/controlroom_chair001a.mdl'.
+16:31:29: Frank KeKser has spawned 'models/props_wasteland/controlroom_chair001a.mdl'.
+16:31:31: CP:C45.i1.0793 has used '/Observer'.
+16:31:33: [OOC] Erick "Satan" Woods: Вот и я, Септик...
+16:31:34: CP:C45.i1.0793 says: "<:: Шадоу"
+16:31:37: Erick "Satan" Woods says: "хай"
+16:31:40: Frank KeKser has spawned 'models/props_wasteland/controlroom_chair001a.mdl'.
+16:31:40: Frank KeKser has spawned 'models/props_wasteland/controlroom_chair001a.mdl'.
+16:31:42: CP:C45.i1.0793 says: "<:: Тебя звали или ты угадал пароль ?"
+16:31:45: CP:C45.i1.0793 says: "<:: Просто интересно."
+16:31:46: Erick "Satan" Woods says: "Звали."
+16:31:49: CP:C45.i1.0793 says: "<:: Септик ?"
+16:31:54: Erick "Satan" Woods says: "Я слился с ПБ."
+16:31:57: Erick "Satan" Woods says: "Да, Септик."
+16:31:59: C45:CP.APEX.OfC.00228 has used '/Ad я уже кикать его хотел, а то септик не отвечает, тогда все понятно'.
+16:31:59: Frank KeKser has spawned 'models/props_c17/chair02a.mdl'.
+16:31:59: Frank KeKser has spawned 'models/props_c17/chair02a.mdl'.
+16:32:02: Erick "Satan" Woods says: "Теперь я работаю на него."
+16:32:07: CP:C45.i1.0793 has used '/Observer'.
+16:32:07: Frank KeKser has spawned 'models/props_c17/chair02a.mdl'.
+16:32:07: Frank KeKser has spawned 'models/props_c17/chair02a.mdl'.
+16:32:15: Frank KeKser has spawned 'models/props_c17/chair02a.mdl'.
+16:32:15: Frank KeKser has spawned 'models/props_c17/chair02a.mdl'.
+16:32:15: CP:C45.i1.0793 says: "<:: Оки-доки, жди."
+16:32:25: CP:C45.i1.0793 has used '/Ad В общем-с, надеюсь, ты сам все слышал'.
+16:32:34: Frank KeKser has spawned 'models/props_c17/bench01a.mdl'.
+16:32:34: Frank KeKser has spawned 'models/props_c17/bench01a.mdl'.
+16:32:43: Frank KeKser has spawned 'models/props_trainstation/traincar_seats001.mdl'.
+16:32:43: Frank KeKser has spawned 'models/props_trainstation/traincar_seats001.mdl'.
+16:33:03: Shaftoe has created a Citizen character called 'CpT.0915'.
+16:33:03: Shaftoe has loaded the character 'CpT.0915'.
+16:33:09: Frank KeKser has spawned 'models/props_interiors/Furniture_Desk01a.mdl'.
+16:33:09: Frank KeKser has spawned 'models/props_interiors/Furniture_Desk01a.mdl'.
+16:33:16: C45:CP.APEX.OfC.00228 has used '/PlySetGroup cpt superadmin'.
+16:33:19: [OOC] CpT.0915: Поехали?
+16:33:25: C45:CP.APEX.OfC.00228 has used '/CharGiveItem cpt eptrncS'.
+16:33:30: C45:CP.APEX.OfC.00228 has used '/CharGiveFlags cpt eptrncS'.
+16:33:34: CpT.0915 has used '/Observer'.
+16:33:46: CP:C45.i1.0793 has used '/Observer'.
+16:33:49: CP:C45.i1.0793 has used '/Observer'.
+16:33:55: Frank KeKser has spawned 'models/props_c17/Frame002a.mdl'.
+16:33:55: Frank KeKser has spawned 'models/props_c17/Frame002a.mdl'.
+16:34:09: CP:C45.i1.0793 has used '/Observer'.
+16:34:09: Jack Whitehouse has used '/Observer'.
+16:34:14: CP:C45.i1.0793 has used '/Ad Хелл, забацай тут поле'.
+16:34:21: CP:C45.i1.0793 has used '/Observer'.
+16:34:26: Hellstorm has used '/Observer'.
+16:34:28: Hellstorm has used '/Observer'.
+16:34:30: Frank KeKser has spawned 'models/props_interiors/VendingMachineSoda01a.mdl'.
+16:34:30: Frank KeKser has spawned 'models/props_interiors/VendingMachineSoda01a.mdl'.
+16:34:33: CP:C45.i1.0793 has used '/Observer'.
+16:34:34: CP:C45.i1.0793 has used '/Observer'.
+16:34:35: CP:C45.i1.0793 has used '/Observer'.
+16:34:36: Hellstorm has used '/Ad ща'.
+16:34:45: Hellstorm has used '/Observer'.
+16:34:49: [OOC] CpT.0915: вы где там?
+16:34:51: Hellstorm has used '/Observer'.
+16:35:02: Frank KeKser has spawned 'models/props_c17/Frame002a.mdl'.
+16:35:02: Frank KeKser has spawned 'models/props_c17/Frame002a.mdl'.
+16:35:05: CP:C45.i1.0793 has used '/Observer'.
+16:35:11: Hellstorm says: "двигать его можешь?"
+16:35:12: CP:C45.i1.0793 says: "<:: Я имел ввиду тут"
+16:35:12: Hellstorm has used '/Observer'.
+16:35:12: Hellstorm has used '/Observer'.
+16:35:12: CP:C45.i1.0793 has used '/Observer'.
+16:35:13: CP:C45.i1.0793 has used '/Observer'.
+16:35:17: CP:C45.i1.0793 says: "<:: Могу"
+16:35:21: CP:C45.i1.0793 has used '/Observer'.
+16:35:22: CP:C45.i1.0793 has used '/Observer'.
+16:35:23: CP:C45.i1.0793 has used '/Observer'.
+16:35:26: Hellstorm says: "во, норм"
+16:35:29: CP:C45.i1.0793 says: "<:: Ага"
+16:35:31: CP:C45.i1.0793 has used '/Observer'.
+16:35:33: [OOC] CpT.0915: Карту застраиваем либерально. Поменьше полей и баррикад
+16:35:51: [OOC] CpT.0915: Должны быть обходные пути, чтобы с гкморроем, но была возможность пролезть.
+16:36:00: Hellstorm has spawned 'models/props_phx/construct/windows/window2x4.mdl'.
+16:36:00: Hellstorm has spawned 'models/props_phx/construct/windows/window2x4.mdl'.
+16:36:18: Erick "Satan" Woods (STEAM_0:1:39002271) has disconnected.
+16:36:23: Hellstorm has used '/Observer'.
+16:36:26: Hellstorm has used '/Observer'.
+16:36:34: Frank KeKser has spawned 'models/props_c17/chair02a.mdl'.
+16:36:34: Frank KeKser has spawned 'models/props_c17/chair02a.mdl'.
+16:36:55: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:36:57: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:36:58: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:36:59: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:37:01: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:37:02: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:37:06: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:37:08: CP:C45.i1.0793 has spawned 'models/props_combine/combinetower001.mdl'.
+16:37:08: CP:C45.i1.0793 has spawned 'models/props_combine/combinetower001.mdl'.
+16:37:14: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:37:18: Frank KeKser has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+16:37:18: Frank KeKser has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+16:37:19: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:37:20: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:37:20: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:37:21: Frank KeKser has spawned 'models/props_wasteland/controlroom_desk001a.mdl'.
+16:37:21: Frank KeKser has spawned 'models/props_wasteland/controlroom_desk001a.mdl'.
+16:37:23: Frank KeKser has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+16:37:23: Frank KeKser has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+16:37:36: Frank KeKser has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+16:37:36: Frank KeKser has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+16:37:39: Hellstorm has used '/Observer'.
+16:37:40: Hellstorm has used '/Observer'.
+16:37:43: [OOC] CP:C45.i1.0793: Мне, вот зачем автор карты на дороге эти машины поставил
+16:37:55: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:38:02: Twifsie Spiral has created a Citizen character called 'Twifsie Spiral'.
+16:38:02: Twifsie Spiral has loaded the character 'Twifsie Spiral'.
+16:38:18: Jack Whitehouse has used '/PlySetGroup Twifsie Spiral admin'.
+16:38:20: CP:C45.i1.0793 has used '/Observer'.
+16:38:22: Twifsie Spiral has used '/Observer'.
+16:38:23: Jack Whitehouse has used '/CharGiveFlags Twifsie Spiral ept'.
+16:38:30: [OOC] Hellstorm: во многих картах, которые почти во всем классные, обязательно есть какая нибудь неудобная критичная вещь
+16:38:36: CP:C45.i1.0793 has used '/Observer'.
+16:38:38: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:38:40: CP:C45.i1.0793 has used '/Observer'.
+16:38:43: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:38:43: Frank KeKser has spawned 'models/props_wasteland/kitchen_shelf001a.mdl'.
+16:38:43: Frank KeKser has spawned 'models/props_wasteland/kitchen_shelf001a.mdl'.
+16:38:47: CP:C45.i1.0793 has used '/Observer'.
+16:38:48: Frank KeKser has spawned 'models/props_wasteland/kitchen_shelf001a.mdl'.
+16:38:48: Frank KeKser has spawned 'models/props_wasteland/kitchen_shelf001a.mdl'.
+16:38:51: [OOC] Twifsie Spiral: Боже ... плохое зрение = катаракта
+16:39:00: Frank KeKser has spawned 'models/props_wasteland/controlroom_storagecloset001b.mdl'.
+16:39:00: Frank KeKser has spawned 'models/props_wasteland/controlroom_storagecloset001b.mdl'.
+16:39:03: Frank KeKser has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+16:39:03: Frank KeKser has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+16:39:08: [OOC] CP:C45.i1.0793: А чо, видение мира меняется с этим трейтом ?
+16:39:14: CP:C45.i1.0793 has used '/Observer'.
+16:39:15: [OOC] Twifsie Spiral: Вообще
+16:39:17: CP:C45.i1.0793 has used '/Observer'.
+16:39:19: Frank KeKser has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+16:39:19: Frank KeKser has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+16:39:23: [OOC] Twifsie Spiral: Как белена на глаах
+16:39:25: Frank KeKser has spawned 'models/props_wasteland/controlroom_filecabinet002a.mdl'.
+16:39:25: Frank KeKser has spawned 'models/props_wasteland/controlroom_filecabinet002a.mdl'.
+16:39:35: Twifsie Spiral has used '/Observer'.
+16:39:36: [OOC] Hellstorm: Что случилось
+16:39:37: CP:C45.i1.0793 has used '/Observer'.
+16:39:38: Twifsie Spiral has used '/Observer'.
+16:39:39: CP:C45.i1.0793 says: "<:: Мне кажется"
+16:39:44: CP:C45.i1.0793 says: "<:: Или тут прям аппартаменты для ГОшников ?"
+16:39:47: CP:C45.i1.0793 has used '/Observer'.
+16:39:49: Hellstorm has used '/StaticAdd'.
+16:39:51: Hellstorm has used '/StaticAdd'.
+16:39:53: Frank KeKser has spawned 'models/props_interiors/Furniture_chair03a.mdl'.
+16:39:53: Frank KeKser has spawned 'models/props_interiors/Furniture_chair03a.mdl'.
+16:40:00: [OOC] CP:C45.i1.0793: Аппартаменты рядом с НН для кого будут ?
+16:40:07: Frank KeKser has spawned 'models/props_interiors/Furniture_chair03a.mdl'.
+16:40:07: Frank KeKser has spawned 'models/props_interiors/Furniture_chair03a.mdl'.
+16:40:14: [OOC] Twifsie Spiral: Как это убрать?
+16:40:18: [OOC] CpT.0915: Это не аппартаменты. Это продолжение НН. там кабинеты и архив
+16:40:19: Frank KeKser has spawned 'models/props_interiors/Furniture_chair03a.mdl'.
+16:40:19: Frank KeKser has spawned 'models/props_interiors/Furniture_chair03a.mdl'.
+16:40:23: [OOC] Hellstorm: хороший вопрос. Кто то за то, чтобы для ГСР, кто то за то что это  часть нексуса
+16:40:31: Jack Whitehouse has used '/Observer'.
+16:40:34: Jack Whitehouse has used '/Observer'.
+16:40:37: [OOC] Hellstorm: НН с падиком грязным, хах
+16:40:38: [OOC] CP:C45.i1.0793: Оффицерский дом, инфа сотка
+16:40:39: [OOC] CpT.0915: Там оружейная. Аппартаменты и так есть
+16:40:57: [OOC] CpT.0915: Нельзя чтобы ситы слушали разговоры ГО. Это только НН и ничего больше
+16:41:01: Frank KeKser has spawned 'models/props_interiors/Furniture_chair03a.mdl'.
+16:41:01: Frank KeKser has spawned 'models/props_interiors/Furniture_chair03a.mdl'.
+16:41:10: [OOC] CP:C45.i1.0793: А я тут подумал. Крутые ворота есть, но рядом есть проходы в НН через другой райончик. Это огораживать или оставлять ?
+16:41:24: [OOC] CpT.0915: где проходы?
+16:41:34: [OOC] CP:C45.i1.0793: Лети ко мне
+16:41:38: Hellstorm has used '/Observer'.
+16:41:39: CP:C45.i1.0793 has used '/Observer'.
+16:41:41: [OOC] CpT.0915: ты где
+16:41:41: CP:C45.i1.0793 has used '/Observer'.
+16:41:42: Hellstorm has used '/Observer'.
+16:41:43: CP:C45.i1.0793 has used '/Observer'.
+16:41:52: [OOC] CP:C45.i1.0793: /plygoto поможет. А так - я у Нексуса.
+16:41:55: Hellstorm has used '/Observer'.
+16:41:57: Hellstorm has used '/Observer'.
+16:41:59: Frank KeKser has spawned 'models/props_combine/breenbust.mdl'.
+16:41:59: Frank KeKser has spawned 'models/props_combine/breenbust.mdl'.
+16:42:00: Hellstorm has used '/Observer'.
+16:42:02: CpT.0915 has used '/PlyGoto 793'.
+16:42:04: [LOOC] CP:C45.i1.0793: Вот тут проход
+16:42:04: [LOOC] CP:C45.i1.0793: Вот тут проход
+16:42:04: CP:C45.i1.0793 has used '/Observer'.
+16:42:05: CP:C45.i1.0793 has used '/Observer'.
+16:42:09: [LOOC] CP:C45.i1.0793: Там есть
+16:42:09: [LOOC] CP:C45.i1.0793: Там есть
+16:42:12: CpT.0915 says: "не трогать"
+16:42:14: Hellstorm says: "это еще нормальные проходы"
+16:42:15: [LOOC] CP:C45.i1.0793: И там вроде
+16:42:15: [LOOC] CP:C45.i1.0793: И там вроде
+16:42:16: CP:C45.i1.0793 has used '/Observer'.
+16:42:16: CP:C45.i1.0793 has used '/Observer'.
+16:42:17: Frank KeKser has spawned 'models/hunter/blocks/cube025x075x025.mdl'.
+16:42:17: Frank KeKser has spawned 'models/hunter/blocks/cube025x075x025.mdl'.
+16:42:17: Twifsie Spiral has used '/CharPhysDesc'.
+16:42:18: Hellstorm says: "это часть города"
+16:42:19: CP:C45.i1.0793 has used '/Observer'.
+16:42:19: Frank KeKser has spawned 'models/hunter/blocks/cube025x1x025.mdl'.
+16:42:19: Frank KeKser has spawned 'models/hunter/blocks/cube025x1x025.mdl'.
+16:42:19: CP:C45.i1.0793 has used '/Observer'.
+16:42:19: Hellstorm has used '/Observer'.
+16:42:20: CP:C45.i1.0793 has used '/Observer'.
+16:42:24: CpT.0915 has used '/Y СЮДА'.
+16:42:24: Hellstorm says: "а вот этот над закрыть"
+16:42:29: [OOC] CpT.0915: вот здесь поле
+16:42:31: CpT.0915 has used '/Observer'.
+16:42:53: Frank KeKser has spawned 'models/hunter/blocks/cube025x1x025.mdl'.
+16:42:53: Frank KeKser has spawned 'models/hunter/blocks/cube025x1x025.mdl'.
+16:42:56: [OOC] CpT.0915: Не надо дрочить на поля и баррикады. только там где это совсем критично
+16:42:59: Hellstorm has used '/Observer'.
+16:43:06: [OOC] Hellstorm: маклауд, подойди ко мне плес
+16:43:09: Hellstorm has used '/Observer'.
+16:43:10: Hellstorm has used '/Observer'.
+16:43:12: Hellstorm has used '/Observer'.
+16:43:12: Hellstorm has used '/Observer'.
+16:43:13: Hellstorm has used '/Observer'.
+16:43:15: Hellstorm has used '/Observer'.
+16:43:20: Hellstorm has used '/Observer'.
+16:43:24: Hellstorm has used '/Observer'.
+16:43:27: Hellstorm has used '/Observer'.
+16:43:28: Hellstorm has used '/Observer'.
+16:43:31: Frank KeKser has used '/PlyGoto kek'.
+16:43:42: Frank KeKser has used '/PlyGoto hell'.
+16:43:43: Frank KeKser has used '/Observer'.
+16:43:46: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:43:48: Hellstorm has used '/PM Frank не хочешь под основной офис гср обустроить это хорошее помещение в котором я стою?'.
+16:43:49: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:43:58: Hellstorm has used '/AnimIdle 1'.
+16:44:02: Hellstorm has used '/Observer'.
+16:44:06: Commander (STEAM_0:1:39417809) has connected.
+16:44:12: Hellstorm has used '/Observer'.
+16:44:12: CP:C45.i1.0793 has used '/Observer'.
+16:44:14: Hellstorm has used '/Observer'.
+16:44:14: Hellstorm has used '/Observer'.
+16:44:15: Hellstorm has used '/Observer'.
+16:44:15: Hellstorm has used '/Observer'.
+16:44:19: Twifsie Spiral has used '/CharAddTrait twifsie плохое зрение'.
+16:44:21: CP:C45.i1.0793 has used '/Observer'.
+16:44:23: CP:C45.i1.0793 has used '/Observer'.
+16:44:24: Frank KeKser has used '/PM hellstorm Тут блок для лоялистов будет. А для ГСР вон то здание напротив блока А'.
+16:44:28: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:44:30: Twifsie Spiral has used '/Observer'.
+16:44:34: CP:C45.i1.0793 has used '/Observer'.
+16:44:48: Hellstorm has used '/PM Frank не, я про дом в котором я сейчас стою а не мажорские квартирки'.
+16:44:57: Twifsie Spiral has used '/CharPhysDesc'.
+16:44:58: Frank KeKser has used '/Observer'.
+16:45:00: CP:C45.i1.0793 has used '/Observer'.
+16:45:07: Hellstorm has used '/PM Frank двухэтажный дом, светлый, просторный, пустой'.
+16:45:09: Frank KeKser has used '/Observer'.
+16:45:16: CP:C45.i1.0793 has used '/Observer'.
+16:45:17: Hellstorm has used '/Observer'.
+16:45:17: Hellstorm has used '/Observer'.
+16:45:18: Frank KeKser has used '/Observer'.
+16:45:20: [OOC] CpT.0915: Хеллшторм, ты вроде был барменом в местной Балтике? Застрой ее. Я там пианино поставил.
+16:45:21: CP:C45.i1.0793 has used '/Observer'.
+16:45:23: Frank KeKser says: "А, это..."
+16:45:25: Twifsie Spiral has used '/CharBan Twifsie Spiral'.
+16:45:26: Gazbax (STEAM_0:0:30292126) has connected.
+16:45:28: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:45:28: Hellstorm says: "Как тебе? можно ли тут что то сделать?"
+16:45:32: CP:C45.i1.0793 has used '/Observer'.
+16:45:38: Hellstorm says: "для гср точно хорошее здание"
+16:45:41: Frank KeKser has used '/Observer'.
+16:45:42: Hellstorm says: "для каких нибудь нужд"
+16:45:44: Frank KeKser has used '/Observer'.
+16:45:44: Hellstorm has used '/Observer'.
+16:45:48: [OOC] CpT.0915: а как и где взять юнионлоки?
+16:45:55: Hellstorm has used '/Observer'.
+16:45:56: Hellstorm has used '/Observer'.
+16:45:59: Hellstorm has used '/Observer'.
+16:46:03: Hellstorm has used '/Observer'.
+16:46:07: [OOC] CP:C45.i1.0793: Замками вроде Шварц заниматься будет
+16:46:12: C45:CP.APEX.OfC.00228 has used '/r /chargiveitem cpt combine_lock_<уровень от 1 до 4>'.
+16:46:18: [OOC] C45:CP.APEX.OfC.00228: /chargiveitem cpt combine_lock_<уровень от 1 до 4>
+16:46:46: Frank KeKser has used '/PM hell Бля. Походу ты прав. Неплохое место. А под те две комнатки что-то другое запилю.'.
+16:46:49: Frank KeKser has used '/Observer'.
+16:46:50: CP:C45.i1.0793 has used '/Observer'.
+16:46:53: CP:C45.i1.0793 has used '/Observer'.
+16:46:56: Twifsie Spiral has created a Citizen character called 'Twifsie Spiral2'.
+16:47:03: Twifsie Spiral has loaded the character 'Twifsie Spiral2'.
+16:47:12: Twifsie Spiral has deleted the character 'Twifsie Spiral'.
+16:47:22: [OOC] Twifsie Spiral2: Фух
+16:47:22: Twifsie Spiral2 has used '/Observer'.
+16:47:27: Hellstorm has used '/PM Frank можно в одном из помещений центральный офис, где будет директор и место для совещаний, а в мелких домиках возню с ситами, выдача работы'.
+16:47:28: [OOC] Twifsie Spiral2: Убралось
+16:47:32: Commander has created a Citizen character called 'Jane Verner'.
+16:47:32: Commander has loaded the character 'Jane Verner'.
+16:47:46: Frank KeKser has used '/PM hell Думаю, что так и сделаю.'.
+16:47:58: Twifsie Spiral has used '/CharSetName Twifsie Twifsie Spiral'.
+16:48:00: Frank KeKser has spawned 'models/props_trainstation/traincar_seats001.mdl'.
+16:48:00: Frank KeKser has spawned 'models/props_trainstation/traincar_seats001.mdl'.
+16:48:03: C45:CP.APEX.OfC.00228 has used '/PlySetGroup jane admin'.
+16:48:07: C45:CP.APEX.OfC.00228 has used '/CharGiveItem jane ept'.
+16:48:12: C45:CP.APEX.OfC.00228 has used '/CharGiveFlags jane ept'.
+16:48:14: Frank KeKser has spawned 'models/props_interiors/Furniture_Desk01a.mdl'.
+16:48:14: Frank KeKser has spawned 'models/props_interiors/Furniture_Desk01a.mdl'.
+16:48:18: Commandeeeeer has used '/CharSetName Jane Commandeeeeer'.
+16:48:22: Commandeeeeer has used '/Observer'.
+16:48:23: CP:C45.i1.0793 has used '/Observer'.
+16:48:24: CP:C45.i1.0793 has used '/Observer'.
+16:48:24: CP:C45.i1.0793 has used '/Observer'.
+16:48:28: CP:C45.i1.0793 has used '/Observer'.
+16:48:28: Gazbax has created a Citizen character called 'Какой-то Волшебник'.
+16:48:28: Gazbax has loaded the character 'Какой-то Волшебник'.
+16:48:34: CP:C45.i1.0793 has used '/Observer'.
+16:48:38: [OOC] CpT.0915: странно. исчезли все надписи - какая кнопка что означает
+16:48:49: [OOC] CP:C45.i1.0793: Камеры оставлять пустыми или обставлять тюремной фигней ?
+16:48:53: Twifsie Spiral has used '/Observer'.
+16:49:00: [LOOC] Twifsie Spiral: Првиет
+16:49:00: [LOOC] Twifsie Spiral: Првиет
+16:49:01: [OOC] CpT.0915: по скамейке к стене прибей и хватит
+16:49:03: [LOOC] Какой-то Волшебник: Салют.
+16:49:03: [LOOC] Какой-то Волшебник: Салют.
+16:49:18: Jack Whitehouse has used '/PlySetGroup Какой-то Волшебник admin'.
+16:49:18: CP:C45.i1.0793 says: "<:: ааа памагити"
+16:49:21: Jack Whitehouse has used '/CharGiveFlags Какой-то Волшебник ept'.
+16:49:22: Commandeeeeer has used '/Observer'.
+16:49:23: [OOC] CpT.0915: Ну... или нары и толчок. так лучше. Нары и толчок
+16:49:26: [OOC] Twifsie Spiral: Черт ... ept пропаои ... удалила с персонажем.
+16:49:26: [OOC] C45:CP.APEX.OfC.00228: волшебник
+16:49:29: Какой-то Волшебник has used '/Observer'.
+16:49:37: CP:C45.i1.0793 has used '/PlyRespawnStay 793'.
+16:49:37: C45:CP.APEX.OfC.00228 has used '/CharGiveFlags twilf ept'.
+16:49:37: [OOC] Какой-то Волшебник: вингардиум левиоса
+16:49:39: [OOC] Twifsie Spiral: Пропали*
+16:49:40: CP:C45.i1.0793 says: "<:: аа памагити"
+16:49:41: C45:CP.APEX.OfC.00228 has used '/CharGiveFlags twil ept'.
+16:49:41: Frank KeKser has spawned 'models/props_wasteland/kitchen_shelf001a.mdl'.
+16:49:41: Frank KeKser has spawned 'models/props_wasteland/kitchen_shelf001a.mdl'.
+16:49:45: Frank KeKser has spawned 'models/props_wasteland/kitchen_shelf001a.mdl'.
+16:49:45: Frank KeKser has spawned 'models/props_wasteland/kitchen_shelf001a.mdl'.
+16:49:46: C45:CP.APEX.OfC.00228 has used '/CharGiveFlags twif ept'.
+16:49:48: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:49:49: CP:C45.i1.0793 has been cured of all diseases.
+16:49:49: CP:C45.i1.0793 has dealt 100 damage to CP:C45.i1.0793, killing them!
+16:49:49: CP:C45.i1.0793 has used '/PlySlay 793'.
+16:49:54: [OOC] Twifsie Spiral: Спасибо
+16:49:55: CP:C45.i1.0793 has used '/Observer'.
+16:50:06: [OOC] C45:CP.APEX.OfC.00228: волшебник сюда  покажу кеку
+16:50:06: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:50:07: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:50:09: Commandeeeeer has used '/Observer'.
+16:50:10: CP:C45.i1.0793 has used '/Observer'.
+16:50:10: Commandeeeeer has used '/Observer'.
+16:50:14: Commandeeeeer has used '/Observer'.
+16:50:19: Frank KeKser has spawned 'models/props_wasteland/kitchen_counter001b.mdl'.
+16:50:19: Frank KeKser has spawned 'models/props_wasteland/kitchen_counter001b.mdl'.
+16:50:22: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_bedframe001b.mdl'.
+16:50:22: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_bedframe001b.mdl'.
+16:50:23: Frank KeKser has spawned 'models/props_wasteland/kitchen_counter001d.mdl'.
+16:50:23: Frank KeKser has spawned 'models/props_wasteland/kitchen_counter001d.mdl'.
+16:50:24: [LOOC] C45:CP.APEX.OfC.00228: бля изменяфашистасделалил
+16:50:24: [LOOC] C45:CP.APEX.OfC.00228: бля изменяфашистасделалил
+16:50:24: Commandeeeeer has used '/Observer'.
+16:50:37: Frank KeKser has spawned 'models/props_c17/chair02a.mdl'.
+16:50:37: Frank KeKser has spawned 'models/props_c17/chair02a.mdl'.
+16:50:43: [OOC] CP:C45.i1.0793: В камерах, кстати, будут одного распологать или двух ? Ибо довольно просторные камеры
+16:50:45: Commandeeeeer has used '/CharGiveItem Commandeer light'.
+16:50:47: C45:CP.APEX.OfC.00228 has used '/PlyWhitelist волш Civil protection'.
+16:50:50: Frank KeKser has spawned 'models/props_c17/chair02a.mdl'.
+16:50:50: Frank KeKser has spawned 'models/props_c17/chair02a.mdl'.
+16:50:51: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_shelf002a.mdl'.
+16:50:51: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_shelf002a.mdl'.
+16:51:02: [OOC] CpT.0915: По 2-4 нары сделай, 1 толчок и может 1 раковину
+16:51:06: C45:CP.APEX.OfC.00228 has used '/PlyBring Какой-то Волшебник'.
+16:51:07: Frank KeKser has spawned 'models/props_c17/chair02a.mdl'.
+16:51:07: Frank KeKser has spawned 'models/props_c17/chair02a.mdl'.
+16:51:08: [OOC] Hellstorm: камеры шикарнее и освещеннее чем кабинеты гыо на сити 45
+16:51:10: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_bedframe001b.mdl'.
+16:51:10: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_bedframe001b.mdl'.
+16:51:11: [LOOC] CpT.0915: не слышу
+16:51:11: [LOOC] CpT.0915: не слышу
+16:51:12: Какой-то Волшебник has used '/Observer'.
+16:51:13: Какой-то Волшебник says: "але"
+16:51:23: Frank KeKser has spawned 'models/props_c17/chair02a.mdl'.
+16:51:23: Frank KeKser has spawned 'models/props_c17/chair02a.mdl'.
+16:51:29: Frank KeKser has spawned 'models/props_c17/chair02a.mdl'.
+16:51:29: Frank KeKser has spawned 'models/props_c17/chair02a.mdl'.
+16:51:30: [OOC] CP:C45.i1.0793: Не заслужили они раковины :(
+16:51:31: Jack Whitehouse has used '/CharGiveFlags Какой-то Волшебник V'.
+16:51:38: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_throwswitchlever001.mdl'.
+16:51:38: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_throwswitchlever001.mdl'.
+16:51:39: C45:CP.APEX.OfC.00228 has used '/PlyWhitelist Волшебник Civil Protection'.
+16:51:46: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_metalbed001a.mdl'.
+16:51:46: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_metalbed001a.mdl'.
+16:51:47: CP:C45.RCT.9440 has gained a 9mm Pistol Bullets 1463147518.
+16:51:47: CP:C45.RCT.9440 has gained a 9mm Pistol Bullets 1463147519.
+16:51:47: C45:CP.APEX.OfC.00228 has used '/CharTransfer Волшебник Civil Protection'.
+16:51:48: Jack Whitehouse has used '/Observer'.
+16:51:49: Hellstorm has used '/PM Jack без них сложно обустроить это говно, придется комбайн лайты ставить'.
+16:51:53: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_metalbed001a.mdl'.
+16:51:53: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_metalbed001a.mdl'.
+16:51:53: [LOOC] C45:CP.APEX.OfC.00228: смотри
+16:51:53: [LOOC] C45:CP.APEX.OfC.00228: смотри
+16:52:03: Jack Whitehouse has used '/PM Hellstorm Ну поставь их'.
+16:52:04: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:52:05: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:52:09: C45:CP.APEX.OfC.00228 has used '/PlyRespawn 9440'.
+16:52:12: C45:CP.APEX.OfC.00228 has used '/PlyRespawnBring 9440'.
+16:52:12: Commandeeeeer has used '/CharPhysDesc'.
+16:52:13: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:52:14: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:52:14: Hellstorm has gained a Union Light 1463147547.
+16:52:14: Hellstorm has gained a Union Light 1463147548.
+16:52:14: Hellstorm has gained a Union Light 1463147549.
+16:52:14: Hellstorm has gained a Union Light 1463147550.
+16:52:14: Hellstorm has gained a Union Light 1463147551.
+16:52:14: Hellstorm has gained a Union Light 1463147552.
+16:52:14: Hellstorm has gained a Union Light 1463147553.
+16:52:14: Hellstorm has gained a Union Light 1463147554.
+16:52:14: Hellstorm has gained a Union Light 1463147555.
+16:52:14: Hellstorm has gained a Union Light 1463147556.
+16:52:14: Jack Whitehouse has used '/CharGiveItem Hellstorm Union 10'.
+16:52:17: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_metalbed001a.mdl'.
+16:52:17: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_metalbed001a.mdl'.
+16:52:17: Frank KeKser has spawned 'models/props_c17/FurnitureCouch001a.mdl'.
+16:52:17: Frank KeKser has spawned 'models/props_c17/FurnitureCouch001a.mdl'.
+16:52:22: Jack Whitehouse has used '/Observer'.
+16:52:22: Frank KeKser has spawned 'models/props_interiors/Furniture_Couch01a.mdl'.
+16:52:22: Frank KeKser has spawned 'models/props_interiors/Furniture_Couch01a.mdl'.
+16:52:24: Jack Whitehouse has used '/Observer'.
+16:52:24: Twifsie Spiral has used '/Observer'.
+16:52:24: Hellstorm has used '/InvAction use union_light 1463147547.00'.
+16:52:26: [LOOC] CpT.0915: не слышу
+16:52:26: [LOOC] CpT.0915: не слышу
+16:52:26: Twifsie Spiral has used '/Observer'.
+16:52:27: C45:CP.APEX.OfC.00228 has used '/ContainmentSpherePlace 256 50'.
+16:52:27: Hellstorm has lost a Union Light 1463147547.
+16:52:27: Hellstorm has used '/InvAction use union_light 1463147547.00'.
+16:52:33: C45:CP.APEX.OfC.00228 has been cured of all diseases.
+16:52:33: C45:CP.APEX.OfC.00228 has dealt 100 damage to C45:CP.APEX.OfC.00228, killing them!
+16:52:33: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_sink001a.mdl'.
+16:52:33: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_sink001a.mdl'.
+16:52:34: Hellstorm has used '/Observer'.
+16:52:36: Frank KeKser has spawned 'models/props_interiors/Furniture_Couch01a.mdl'.
+16:52:36: Frank KeKser has spawned 'models/props_interiors/Furniture_Couch01a.mdl'.
+16:52:39: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:52:41: Hellstorm has used '/Observer'.
+16:52:42: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:52:43: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:52:45: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:52:46: CP:C45.RCT.9440 has used '/Observer'.
+16:52:47: Twifsie Spiral has been cured of all diseases.
+16:52:47: Twifsie Spiral has dealt 100 damage to Twifsie Spiral, killing them!
+16:52:47: CP:C45.RCT.9440 has used '/Observer'.
+16:52:49: Frank KeKser has spawned 'models/props_c17/FurnitureTable003a.mdl'.
+16:52:49: Frank KeKser has spawned 'models/props_c17/FurnitureTable003a.mdl'.
+16:52:54: Twifsie Spiral has used '/Observer'.
+16:52:58: Twifsie Spiral has used '/Observer'.
+16:52:59: Jack Whitehouse has been cured of all diseases.
+16:52:59: Jack Whitehouse has dealt 100 damage to Jack Whitehouse, killing them!
+16:53:00: Twifsie Spiral has used '/Observer'.
+16:53:05: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_toilet01.mdl'.
+16:53:05: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_toilet01.mdl'.
+16:53:06: Jack Whitehouse has used '/Observer'.
+16:53:16: Twifsie Spiral has been cured of all diseases.
+16:53:16: Twifsie Spiral has dealt 100 damage to Twifsie Spiral, killing them!
+16:53:23: Twifsie Spiral has used '/Observer'.
+16:53:23: Frank KeKser has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+16:53:23: Frank KeKser has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+16:53:27: CP:C45.i1.0793 has used '/StaticAdd'.
+16:53:27: Commandeeeeer has used '/PlyRespawnStay Commandeeeeer'.
+16:53:28: CP:C45.i1.0793 has used '/StaticAdd'.
+16:53:29: CP:C45.i1.0793 has used '/StaticAdd'.
+16:53:31: CP:C45.i1.0793 has used '/StaticAdd'.
+16:53:37: CP:C45.i1.0793 has used '/Observer'.
+16:53:41: [LOOC] C45:CP.APEX.OfC.00228: ща стой
+16:53:41: [LOOC] C45:CP.APEX.OfC.00228: ща стой
+16:53:43: CP:C45.i1.0793 has used '/Observer'.
+16:53:44: C45:CP.APEX.OfC.00228 has used '/InvAction use rad_checker 1463088233.00'.
+16:53:46: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_sink001a.mdl'.
+16:53:46: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_sink001a.mdl'.
+16:53:48: Jack Whitehouse has used '/Observer'.
+16:53:49: Jack Whitehouse has used '/Observer'.
+16:53:50: Jack Whitehouse has used '/Observer'.
+16:53:53: C45:CP.APEX.OfC.00228 has used '/InvAction use rad_checker 1463088233.00'.
+16:53:54: Commandeeeeer has spawned 'models/props_trainstation/bench_indoor001a.mdl'.
+16:53:54: Commandeeeeer has spawned 'models/props_trainstation/bench_indoor001a.mdl'.
+16:53:55: C45:CP.APEX.OfC.00228 has used '/InvAction use rad_checker 1463088233.00'.
+16:53:57: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_sink001b.mdl'.
+16:53:57: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_sink001b.mdl'.
+16:53:58: Frank KeKser has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+16:53:58: Frank KeKser has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+16:54:04: Commandeeeeer has spawned 'models/props_trainstation/bench_indoor001a.mdl'.
+16:54:04: Commandeeeeer has spawned 'models/props_trainstation/bench_indoor001a.mdl'.
+16:54:04: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_toilet01.mdl'.
+16:54:04: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_toilet01.mdl'.
+16:54:05: Frank KeKser has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+16:54:05: Frank KeKser has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+16:54:06: Jack Whitehouse has used '/Observer'.
+16:54:11: Hellstorm has used '/Observer'.
+16:54:14: Hellstorm has used '/Observer'.
+16:54:18: Jack Whitehouse has used '/Observer'.
+16:54:21: C45:CP.APEX.OfC.00228 has used '/InvAction use rad_checker 1463088233.00'.
+16:54:21: Hellstorm has lost a Union Light 1463147548.
+16:54:21: Hellstorm has used '/InvAction use union_light 1463147548.00'.
+16:54:23: C45:CP.APEX.OfC.00228 has used '/InvAction use rad_checker 1463088233.00'.
+16:54:26: Twifsie Spiral has used '/Observer'.
+16:54:29: Frank KeKser has spawned 'models/hunter/blocks/cube025x1x025.mdl'.
+16:54:29: Frank KeKser has spawned 'models/hunter/blocks/cube025x1x025.mdl'.
+16:54:31: Jack Whitehouse has used '/Observer'.
+16:54:37: C45:CP.APEX.OfC.00228 has used '/InvAction use rad_checker 1463088233.00'.
+16:54:42: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_metalbed001a.mdl'.
+16:54:42: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_metalbed001a.mdl'.
+16:54:42: Commandeeeeer has used '/SalesmanAdd'.
+16:54:43: Frank KeKser has spawned 'models/hunter/blocks/cube025x1x025.mdl'.
+16:54:43: Frank KeKser has spawned 'models/hunter/blocks/cube025x1x025.mdl'.
+16:54:44: [LOOC] Twifsie Spiral: На армбанде РКТ
+16:54:44: [LOOC] Twifsie Spiral: На армбанде РКТ
+16:54:53: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_metalbed001a.mdl'.
+16:54:53: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_metalbed001a.mdl'.
+16:54:55: Frank KeKser has spawned 'models/hunter/blocks/cube025x05x025.mdl'.
+16:54:55: Frank KeKser has spawned 'models/hunter/blocks/cube025x05x025.mdl'.
+16:54:58: Jack Whitehouse has used '/Observer'.
+16:55:03: CP:C45.i1.0793 has used '/StaticAdd'.
+16:55:04: CP:C45.i1.0793 has used '/StaticAdd'.
+16:55:05: CP:C45.i1.0793 has used '/StaticAdd'.
+16:55:06: CP:C45.i1.0793 has used '/StaticAdd'.
+16:55:07: CP:C45.i1.0793 has used '/Observer'.
+16:55:09: CP:C45.i1.0793 has used '/Observer'.
+16:55:10: Commandeeeeer has used '/StaticAdd'.
+16:55:10: Commandeeeeer has used '/StaticAdd'.
+16:55:23: Hellstorm has used '/Observer'.
+16:55:30: Hellstorm has used '/Observer'.
+16:55:38: CP:C45.i1.0793 has used '/Ad В общем, пока делаю 2 нары в камеру, понадобится - добавлю еще'.
+16:55:42: Twifsie Spiral has used '/Observer'.
+16:55:45: Twifsie Spiral has used '/Observer'.
+16:55:45: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_metalbed001a.mdl'.
+16:55:45: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_metalbed001a.mdl'.
+16:55:49: CP:C45.i1.0793 has used '/Observer'.
+16:55:52: Hellstorm has lost a Union Light 1463147551.
+16:55:52: Hellstorm has used '/InvAction use union_light 1463147551.00'.
+16:55:54: Commandeeeeer has spawned 'models/props_trainstation/bench_indoor001a.mdl'.
+16:55:54: Commandeeeeer has spawned 'models/props_trainstation/bench_indoor001a.mdl'.
+16:55:56: CP:C45.RCT.9440получил 55 из 105 с усилением 0 из-за чего выпало 55.
+16:55:56: CP:C45.RCT.9440 has used '/Roll'.
+16:56:02: Twifsie Spiral has been cured of all diseases.
+16:56:02: Twifsie Spiral has dealt 100 damage to Twifsie Spiral, killing them!
+16:56:02: Commandeeeeer has used '/StaticAdd'.
+16:56:03: Commandeeeeer has used '/StaticAdd'.
+16:56:07: Jack Whitehouse has used '/Observer'.
+16:56:16: Frank KeKser has spawned 'models/props_combine/breenbust.mdl'.
+16:56:16: Frank KeKser has spawned 'models/props_combine/breenbust.mdl'.
+16:56:19: [OOC] CP:C45.i1.0793: Охуеть, радиация ?
+16:56:19: [OOC] Hellstorm: игра в амбиенты :D
+16:56:22: Twifsie Spiral has used '/Observer'.
+16:56:23: Commandeeeeer has used '/Observer'.
+16:56:23: Commandeeeeer has used '/Observer'.
+16:56:25: Commandeeeeer has used '/Observer'.
+16:56:26: Hellstorm has used '/Observer'.
+16:56:27: CP:C45.i1.0793 has used '/Observer'.
+16:56:28: Twifsie Spiral has used '/Observer'.
+16:56:29: Commandeeeeer has used '/Observer'.
+16:56:30: Twifsie Spiral has used '/Observer'.
+16:56:32: Commandeeeeer has used '/Observer'.
+16:56:32: Hellstorm has used '/Observer'.
+16:56:32: Twifsie Spiral has used '/Observer'.
+16:56:33: Commandeeeeer has used '/Observer'.
+16:56:33: Hellstorm has used '/Observer'.
+16:56:38: Hellstorm has used '/Observer'.
+16:56:42: Commandeeeeer has used '/Observer'.
+16:56:42: Frank KeKser has spawned 'models/props_c17/Frame002a.mdl'.
+16:56:42: Frank KeKser has spawned 'models/props_c17/Frame002a.mdl'.
+16:56:43: Commandeeeeer has used '/Observer'.
+16:56:47: C45:CP.APEX.OfC.00228 has used '/InvAction use rad_checker 1463088233.00'.
+16:56:47: C45:CP.APEX.OfC.00228 has been cured of all diseases.
+16:56:47: C45:CP.APEX.OfC.00228 has dealt 100 damage to C45:CP.APEX.OfC.00228, killing them!
+16:56:47: [LOOC] CP:C45.i1.0793: Это что за форма личных стриптизеров ГА ?
+16:56:47: [LOOC] CP:C45.i1.0793: Это что за форма личных стриптизеров ГА ?
+16:56:50: Twifsie Spiral has been cured of all diseases.
+16:56:50: Twifsie Spiral has dealt 100 damage to Twifsie Spiral, killing them!
+16:56:53: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:56:57: Frank KeKser has spawned 'models/props_c17/Frame002a.mdl'.
+16:56:57: Frank KeKser has spawned 'models/props_c17/Frame002a.mdl'.
+16:56:58: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:57:01: Twifsie Spiral has used '/Observer'.
+16:57:05: CP:C45.i1.0793 has used '/Observer'.
+16:57:09: Twifsie Spiral has used '/Observer'.
+16:57:14: Twifsie Spiral has used '/Observer'.
+16:57:16: Twifsie Spiral has used '/Observer'.
+16:57:19: CP:C45.i1.0793 has used '/Observer'.
+16:57:20: CP:C45.i1.0793 has used '/Observer'.
+16:57:22: CP:C45.i1.0793 has used '/Observer'.
+16:57:23: CP:C45.i1.0793 has used '/Observer'.
+16:57:23: CP:C45.i1.0793 has used '/Observer'.
+16:57:28: C45:CP.APEX.OfC.00228 has gained a Фильтр 1463147871.
+16:57:28: C45:CP.APEX.OfC.00228 has gained a Фильтр 1463147872.
+16:57:28: C45:CP.APEX.OfC.00228 has gained a Фильтр 1463147873.
+16:57:28: C45:CP.APEX.OfC.00228 has gained a Фильтр 1463147874.
+16:57:28: C45:CP.APEX.OfC.00228 has gained a Фильтр 1463147875.
+16:57:28: C45:CP.APEX.OfC.00228 has used '/CharGiveItem apex filter 5'.
+16:57:30: Hellstorm has used '/Observer'.
+16:57:31: C45:CP.APEX.OfC.00228 has lost a Фильтр 1463147873.
+16:57:31: C45:CP.APEX.OfC.00228 has used '/InvAction drop filter 1463147873.00'.
+16:57:32: Frank KeKser has spawned 'models/props_lab/desklamp01.mdl'.
+16:57:32: Frank KeKser has spawned 'models/props_lab/desklamp01.mdl'.
+16:57:34: Commandeeeeer has spawned 'models/props_wasteland/interior_fence001g.mdl'.
+16:57:34: Commandeeeeer has spawned 'models/props_wasteland/interior_fence001g.mdl'.
+16:57:35: CP:C45.RCT.9440 has gained a Фильтр 1463147873.
+16:57:37: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_metalbed001a.mdl'.
+16:57:37: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_metalbed001a.mdl'.
+16:57:37: CP:C45.RCT.9440 has lost a Фильтр 1463147873.
+16:57:37: CP:C45.RCT.9440 has used '/InvAction use filter 1463147873.00'.
+16:57:38: CP:C45.RCT.9440 has lost a Suitcase 1463147318.
+16:57:38: CP:C45.RCT.9440 has used '/InvAction use cw_suitcase 1463147318.00'.
+16:57:42: Commandeeeeer has spawned 'models/props_wasteland/interior_fence001e.mdl'.
+16:57:42: Commandeeeeer has spawned 'models/props_wasteland/interior_fence001e.mdl'.
+16:57:43: Commandeeeeer has spawned 'models/props_wasteland/interior_fence001g.mdl'.
+16:57:43: Commandeeeeer has spawned 'models/props_wasteland/interior_fence001g.mdl'.
+16:57:45: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_sinkchunk001b.mdl'.
+16:57:45: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_sinkchunk001b.mdl'.
+16:57:47: Frank KeKser says: "Лучше пиши"
+16:57:48: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_sink001b.mdl'.
+16:57:48: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_sink001b.mdl'.
+16:57:48: C45:CP.APEX.OfC.00228 has used '/InvAction use rad_checker 1463088233.00'.
+16:57:49: Frank KeKser has used '/Observer'.
+16:57:50: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_sink001a.mdl'.
+16:57:50: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_sink001a.mdl'.
+16:57:55: [LOOC] Twifsie Spiral: У меня единственной описание нормальное
+16:57:55: [LOOC] Twifsie Spiral: У меня единственной описание нормальное
+16:58:00: Twifsie Spiral has used '/Observer'.
+16:58:01: Hellstorm says: "офис директора гср будет? И кстати, ты им будешь?"
+16:58:03: Twifsie Spiral has used '/Observer'.
+16:58:04: [LOOC] C45:CP.APEX.OfC.00228: я тебя спаас
+16:58:04: [LOOC] C45:CP.APEX.OfC.00228: я тебя спаас
+16:58:06: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_toilet01.mdl'.
+16:58:06: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_toilet01.mdl'.
+16:58:09: [LOOC] C45:CP.APEX.OfC.00228: дозировка 500 рад
+16:58:09: [LOOC] C45:CP.APEX.OfC.00228: дозировка 500 рад
+16:58:13: C45:CP.APEX.OfC.00228 has used '/InvAction use rad_checker 1463088233.00'.
+16:58:14: Hellstorm says: "ну или угол где его стол стоять будет..."
+16:58:16: [LOOC] C45:CP.APEX.OfC.00228: 800
+16:58:16: [LOOC] C45:CP.APEX.OfC.00228: 800
+16:58:18: CP:C45.i1.0793 has used '/StaticAdd'.
+16:58:18: CP:C45.i1.0793 has used '/StaticAdd'.
+16:58:20: Commandeeeeer has used '/Observer'.
+16:58:20: CP:C45.i1.0793 has used '/StaticAdd'.
+16:58:21: CP:C45.i1.0793 has used '/StaticAdd'.
+16:58:31: Frank KeKser says: "Думаю, что да. И это место - место совещаний или что-то в этом роде. А вот что снизу сделать... Хотя, есть идея."
+16:58:35: Hellstorm has used '/Observer'.
+16:58:37: [OOC] CP:C45.i1.0793: Играл, кстати, в халфу и чот показалось после Нова Проспект, что ОТАшни там вполне себе разумные, а не киборги
+16:58:38: Twifsie Spiral has used '/Observer'.
+16:58:38: Hellstorm has used '/Observer'.
+16:58:39: Frank KeKser says: "Не нужен стол"
+16:58:39: CP:C45.i1.0793 has used '/Observer'.
+16:58:43: Frank KeKser has used '/Observer'.
+16:58:44: Twifsie Spiral has used '/Observer'.
+16:58:45: C45:CP.APEX.OfC.00228 has gained a Радиометр 1463147953.
+16:58:45: C45:CP.APEX.OfC.00228 has used '/CharGiveItem apex geiger_counter'.
+16:58:45: Commandeeeeer has used '/Observer'.
+16:58:51: Commandeeeeer has used '/StaticAdd'.
+16:58:51: C45:CP.APEX.OfC.00228 has gained a Рад-дозиметр 1463147960.
+16:58:51: C45:CP.APEX.OfC.00228 has used '/CharGiveItem apex rad_checker'.
+16:58:52: CP:C45.i1.0793 has used '/Observer'.
+16:58:52: Frank KeKser says: "Уже все есть, читай"
+16:58:55: C45:CP.APEX.OfC.00228 has lost a Радиометр 1463147953.
+16:58:55: C45:CP.APEX.OfC.00228 has used '/InvAction drop geiger_counter 1463147953.00'.
+16:58:56: C45:CP.APEX.OfC.00228 has lost a Рад-дозиметр 1463147960.
+16:58:56: C45:CP.APEX.OfC.00228 has used '/InvAction drop rad_checker 1463147960.00'.
+16:58:58: Hellstorm says: "а этот, для совещаний может тот из каески? или вместо стола просто диваны?"
+16:58:58: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_metalbed001a.mdl'.
+16:58:58: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_metalbed001a.mdl'.
+16:58:58: Commandeeeeer has used '/Observer'.
+16:59:03: Frank KeKser says: "Не стоит"
+16:59:07: C45:CP.APEX.OfC.00228 has lost a Фильтр 1463147875.
+16:59:07: C45:CP.APEX.OfC.00228 has used '/InvAction drop filter 1463147875.00'.
+16:59:08: C45:CP.APEX.OfC.00228 has lost a Противогаз 1463083704.
+16:59:08: C45:CP.APEX.OfC.00228 has used '/InvAction drop gasmask 1463083704.00'.
+16:59:10: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_metalbed001a.mdl'.
+16:59:10: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_metalbed001a.mdl'.
+16:59:12: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:59:13: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:59:13: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:59:14: C45:CP.APEX.OfC.00228 has used '/Observer'.
+16:59:14: Commandeeeeer has used '/Observer'.
+16:59:15: Hellstorm says: "лан, пока пойду"
+16:59:15: Commandeeeeer has used '/Observer'.
+16:59:15: Hellstorm has used '/Observer'.
+16:59:21: Frank KeKser has spawned 'models/props_lab/partsbin01.mdl'.
+16:59:21: Frank KeKser has spawned 'models/props_lab/partsbin01.mdl'.
+16:59:21: [OOC] C45:CP.APEX.OfC.00228: командер сюда
+16:59:22: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_sink001a.mdl'.
+16:59:22: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_sink001a.mdl'.
+16:59:23: Commandeeeeer has used '/Observer'.
+16:59:30: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_toilet01.mdl'.
+16:59:30: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_toilet01.mdl'.
+16:59:32: Frank KeKser has spawned 'models/props_lab/clipboard.mdl'.
+16:59:32: Frank KeKser has spawned 'models/props_lab/clipboard.mdl'.
+16:59:34: C45:CP.APEX.OfC.00228 has used '/PlyWhitelist command Civil protection'.
+16:59:37: [OOC] Hellstorm: либо в нова проспекте оставили даунов которые мямлят в рацию и все такое :D
+16:59:40: CP:C45.i1.0793 has used '/StaticAdd'.
+16:59:41: CP:C45.i1.0793 has used '/StaticAdd'.
+16:59:43: [OOC] CP:C45.RCT.9440: memлят
+16:59:44: Twifsie Spiral has gained a Противогаз 1463083704.
+16:59:44: Twifsie Spiral has used '/InvAction use gasmask 1463083704'.
+16:59:45: Frank KeKser has spawned 'models/props_lab/clipboard.mdl'.
+16:59:45: Frank KeKser has spawned 'models/props_lab/clipboard.mdl'.
+16:59:46: Twifsie Spiral has gained a Фильтр 1463147875.
+16:59:46: C45:CP.APEX.OfC.00228 has used '/CharTransfer command Civil protection'.
+16:59:47: Twifsie Spiral has gained a Рад-дозиметр 1463147960.
+16:59:48: Twifsie Spiral has gained a Радиометр 1463147953.
+16:59:48: CP:C45.i1.0793 has used '/Observer'.
+16:59:50: Frank KeKser has spawned 'models/props_lab/desklamp01.mdl'.
+16:59:50: Frank KeKser has spawned 'models/props_lab/desklamp01.mdl'.
+16:59:51: CP:C45.RCT.4189 has gained a 9mm Pistol Bullets 1463148021.
+16:59:51: CP:C45.RCT.4189 has gained a 9mm Pistol Bullets 1463148022.
+16:59:51: C45:CP.APEX.OfC.00228 has used '/CharTransfer command Civil Protection'.
+16:59:53: CP:C45.i1.0793 has used '/Observer'.
+16:59:55: Hellstorm has spawned 'models/props/cs_militia/bar01.mdl'.
+16:59:55: Hellstorm has spawned 'models/props/cs_militia/bar01.mdl'.
+16:59:57: [LOOC] C45:CP.APEX.OfC.00228: пусть оденет кеков
+16:59:57: [LOOC] C45:CP.APEX.OfC.00228: пусть оденет кеков
+16:59:59: CP:C45.RCT.4189 has used '/CharSetName Commander Существо необузданное. '.
+16:59:59: [OOC] CP:C45.i1.0793: ты чо мемы увожать надо
+17:00:03: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_metalbed001a.mdl'.
+17:00:03: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_metalbed001a.mdl'.
+17:00:08: [LOOC] Twifsie Spiral: Я тоже ГОшница
+17:00:08: [LOOC] Twifsie Spiral: Я тоже ГОшница
+17:00:11: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_metalbed001a.mdl'.
+17:00:11: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_metalbed001a.mdl'.
+17:00:14: Jack Whitehouse has used '/Observer'.
+17:00:14: CP:C45.RCT.4189 has used '/Observer'.
+17:00:16: Hellstorm has spawned 'models/props_wasteland/controlroom_storagecloset001b.mdl'.
+17:00:16: Hellstorm has spawned 'models/props_wasteland/controlroom_storagecloset001b.mdl'.
+17:00:19: Hellstorm has used '/StorageClose'.
+17:00:21: Frank KeKser has spawned 'models/props_lab/reciever_cart.mdl'.
+17:00:21: Frank KeKser has spawned 'models/props_lab/reciever_cart.mdl'.
+17:00:26: Jack Whitehouse has used '/Observer'.
+17:00:26: Hellstorm has spawned 'models/props_c17/FurnitureFridge001a.mdl'.
+17:00:26: Hellstorm has spawned 'models/props_c17/FurnitureFridge001a.mdl'.
+17:00:26: CP:C45.RCT.4189 has used '/Observer'.
+17:00:30: Hellstorm has used '/StorageClose'.
+17:00:30: CP:C45.i1.0793 has used '/Observer'.
+17:00:33: CP:C45.i1.0793 has used '/StaticAdd'.
+17:00:35: Twifsie Spiral has used '/Observer'.
+17:00:37: CP:C45.i1.0793 has used '/Observer'.
+17:00:39: Twifsie Spiral has used '/Observer'.
+17:00:40: Frank KeKser has spawned 'models/props_c17/Frame002a.mdl'.
+17:00:40: Frank KeKser has spawned 'models/props_c17/Frame002a.mdl'.
+17:00:42: CP:C45.i1.0793 has used '/Observer'.
+17:00:42: Hellstorm has used '/Observer'.
+17:00:43: CP:C45.RCT.4189 has used '/Observer'.
+17:00:48: CP:C45.RCT.4189 has used '/Observer'.
+17:00:55: [OOC] Hellstorm: сирена выключается кстати?
+17:00:56: [OOC] Twifsie Spiral: АФК.
+17:01:13: CP:C45.i1.0793 has used '/Observer'.
+17:01:16: [OOC] Hellstorm: а, это мой баг, просто надо было стопсаунд прописать
+17:01:17: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_sink001a.mdl'.
+17:01:17: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_sink001a.mdl'.
+17:01:27: CP:C45.RCT.4189 has spawned 'models/props_building_details/Storefront_Template001a_Bars.mdl'.
+17:01:27: CP:C45.RCT.4189 has spawned 'models/props_building_details/Storefront_Template001a_Bars.mdl'.
+17:01:30: C45:CP.APEX.OfC.00228 has gained a Противогаз 1463148122.
+17:01:30: C45:CP.APEX.OfC.00228 has used '/CharGiveItem apex gasmask'.
+17:01:30: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_toilet01.mdl'.
+17:01:30: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_toilet01.mdl'.
+17:01:51: [OOC] CP:C45.i1.0793: Да бля, я чот все время появляюсь в поде
+17:01:53: Jack Whitehouse has used '/Observer'.
+17:01:55: CP:C45.i1.0793 has been cured of all diseases.
+17:01:55: CP:C45.i1.0793 has dealt 100 damage to CP:C45.i1.0793, killing them!
+17:01:55: CP:C45.i1.0793 has used '/PlySlay 793'.
+17:02:02: CP:C45.i1.0793 has used '/Observer'.
+17:02:09: [OOC] Hellstorm: умираешь и спаунишься прям в нем?
+17:02:11: CP:C45.RCT.4189 has used '/AdminHelp Швурц, а ко мне, вопросики.'.
+17:02:17: [OOC] CP:C45.i1.0793: Не, со временем появляюсь в нем
+17:02:17: Frank KeKser has spawned 'models/props_interiors/Furniture_Desk01a.mdl'.
+17:02:17: Frank KeKser has spawned 'models/props_interiors/Furniture_Desk01a.mdl'.
+17:02:23: [OOC] Hellstorm: система АНТИПОБЕГ
+17:02:34: CP:C45.RCT.4189 has used '/Ad Швурц, тут вопросики. Сюда подлети.'.
+17:02:39: CP:C45.RCT.4189 has used '/StaticAdd'.
+17:02:43: Frank KeKser has spawned 'models/props_interiors/Furniture_Desk01a.mdl'.
+17:02:43: Frank KeKser has spawned 'models/props_interiors/Furniture_Desk01a.mdl'.
+17:02:45: [OOC] Hellstorm: давай тебя отвезем до места ампутации, потом мб перестанешь появлятся
+17:02:45: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:02:51: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:03:00: [LOOC] C45:CP.APEX.OfC.00228: а
+17:03:00: [LOOC] C45:CP.APEX.OfC.00228: а
+17:03:02: CP:C45.i1.0793 has used '/Observer'.
+17:03:06: Frank KeKser has spawned 'models/props_c17/chair02a.mdl'.
+17:03:06: Frank KeKser has spawned 'models/props_c17/chair02a.mdl'.
+17:03:10: CP:C45.i1.0793 says: "<:: Параша упроводов - самое то"
+17:03:15: Frank KeKser has spawned 'models/props_c17/chair02a.mdl'.
+17:03:15: Frank KeKser has spawned 'models/props_c17/chair02a.mdl'.
+17:03:18: [LOOC] C45:CP.APEX.OfC.00228: да
+17:03:18: [LOOC] C45:CP.APEX.OfC.00228: да
+17:03:22: CP:C45.i1.0793 says: "<:: Они такие срут"
+17:03:31: CP:C45.i1.0793 says: "<:: и бах, говно электризуется"
+17:03:37: CP:C45.i1.0793 says: "<:: я называю это электроговнобомба"
+17:03:45: Frank KeKser has spawned 'models/props_c17/FurnitureCouch002a.mdl'.
+17:03:45: Frank KeKser has spawned 'models/props_c17/FurnitureCouch002a.mdl'.
+17:03:49: Jack Whitehouse has used '/Observer'.
+17:03:50: CP:C45.i1.0793 says: "<:: и вода наэлектризированная чтоб экономили"
+17:03:50: Hellstorm has used '/Observer'.
+17:03:51: Frank KeKser has spawned 'models/props_interiors/Furniture_Couch01a.mdl'.
+17:03:51: Frank KeKser has spawned 'models/props_interiors/Furniture_Couch01a.mdl'.
+17:03:53: CP:C45.i1.0793 has used '/StaticAdd'.
+17:03:53: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:03:53: Hellstorm has used '/Observer'.
+17:03:53: CP:C45.i1.0793 has used '/StaticAdd'.
+17:03:54: CP:C45.i1.0793 has used '/StaticAdd'.
+17:03:56: CP:C45.i1.0793 has used '/StaticAdd'.
+17:03:58: Frank KeKser has spawned 'models/props_interiors/Furniture_Couch01a.mdl'.
+17:03:58: Frank KeKser has spawned 'models/props_interiors/Furniture_Couch01a.mdl'.
+17:03:59: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:04:01: CP:C45.i1.0793 has used '/Observer'.
+17:04:02: Frank KeKser has spawned 'models/props_interiors/Furniture_Couch01a.mdl'.
+17:04:02: Frank KeKser has spawned 'models/props_interiors/Furniture_Couch01a.mdl'.
+17:04:05: CP:C45.i1.0793 has used '/Observer'.
+17:04:10: CP:C45.RCT.4189 has spawned 'models/props_junk/TrashDumpster02b.mdl'.
+17:04:10: CP:C45.RCT.4189 has spawned 'models/props_junk/TrashDumpster02b.mdl'.
+17:04:11: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_metalbed001a.mdl'.
+17:04:11: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_metalbed001a.mdl'.
+17:04:11: Hellstorm has spawned 'models/props_wasteland/interior_fence002d.mdl'.
+17:04:11: Hellstorm has spawned 'models/props_wasteland/interior_fence002d.mdl'.
+17:04:13: Frank KeKser has spawned 'models/props_c17/FurnitureTable003a.mdl'.
+17:04:13: Frank KeKser has spawned 'models/props_c17/FurnitureTable003a.mdl'.
+17:04:16: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_metalbed001a.mdl'.
+17:04:16: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_metalbed001a.mdl'.
+17:04:19: Hellstorm has spawned 'models/props_wasteland/interior_fence003b.mdl'.
+17:04:19: Hellstorm has spawned 'models/props_wasteland/interior_fence003b.mdl'.
+17:04:22: CP:C45.i1.0793 has used '/Nightvision'.
+17:04:27: Hellstorm has spawned 'models/props_c17/fence03a.mdl'.
+17:04:27: Hellstorm has spawned 'models/props_c17/fence03a.mdl'.
+17:04:29: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_sink001a.mdl'.
+17:04:29: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_sink001a.mdl'.
+17:04:29: Jack Whitehouse has used '/Observer'.
+17:04:31: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:04:33: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:04:33: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:04:36: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_toilet01.mdl'.
+17:04:36: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_toilet01.mdl'.
+17:04:38: Hellstorm has used '/Observer'.
+17:04:39: Frank KeKser has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+17:04:39: Frank KeKser has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+17:04:40: Jack Whitehouse has used '/DoorSetUnownable A101  '.
+17:04:43: CP:C45.i1.0793 has used '/StaticAdd'.
+17:04:43: Frank KeKser has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+17:04:43: Frank KeKser has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+17:04:43: CP:C45.i1.0793 has used '/StaticAdd'.
+17:04:44: CP:C45.i1.0793 has used '/StaticAdd'.
+17:04:45: CP:C45.i1.0793 has used '/StaticAdd'.
+17:04:46: CP:C45.i1.0793 has used '/Observer'.
+17:04:47: Jack Whitehouse has used '/DoorSetUnownable A102  '.
+17:04:48: Hellstorm has used '/Observer'.
+17:04:48: Hellstorm has used '/Observer'.
+17:04:50: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:04:50: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:04:52: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:04:52: CP:C45.i1.0793 has used '/Observer'.
+17:04:55: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_metalbed001a.mdl'.
+17:04:55: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_metalbed001a.mdl'.
+17:04:56: Frank KeKser has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+17:04:56: Frank KeKser has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+17:04:59: Jack Whitehouse has used '/DoorSetUnownable A103  '.
+17:05:01: Hellstorm has used '/Observer'.
+17:05:01: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_metalbed001a.mdl'.
+17:05:01: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_metalbed001a.mdl'.
+17:05:04: Jack Whitehouse has used '/DoorSetUnownable A104  '.
+17:05:06: Jack Whitehouse has used '/Observer'.
+17:05:09: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_sink001a.mdl'.
+17:05:09: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_sink001a.mdl'.
+17:05:16: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_toilet01.mdl'.
+17:05:16: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_toilet01.mdl'.
+17:05:18: Frank KeKser has spawned 'models/props_junk/TrashBin01a.mdl'.
+17:05:18: Frank KeKser has spawned 'models/props_junk/TrashBin01a.mdl'.
+17:05:24: CP:C45.i1.0793 has used '/StaticAdd'.
+17:05:25: CP:C45.i1.0793 has used '/StaticAdd'.
+17:05:26: CP:C45.i1.0793 has used '/StaticAdd'.
+17:05:27: CP:C45.i1.0793 has used '/StaticAdd'.
+17:05:32: CP:C45.RCT.4189 has spawned 'models/props_junk/garbage128_composite001b.mdl'.
+17:05:32: CP:C45.RCT.4189 has spawned 'models/props_junk/garbage128_composite001b.mdl'.
+17:05:38: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:05:38: Hellstorm has used '/Observer'.
+17:05:38: CP:C45.RCT.4189 has spawned 'models/props_junk/garbage256_composite001a.mdl'.
+17:05:38: CP:C45.RCT.4189 has spawned 'models/props_junk/garbage256_composite001a.mdl'.
+17:05:39: CP:C45.i1.0793 has used '/Observer'.
+17:05:39: Hellstorm has used '/Observer'.
+17:05:40: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:05:41: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:05:45: CP:C45.RCT.4189 has spawned 'models/props_junk/garbage256_composite002b.mdl'.
+17:05:45: CP:C45.RCT.4189 has spawned 'models/props_junk/garbage256_composite002b.mdl'.
+17:05:45: CP:C45.i1.0793 has used '/Observer'.
+17:05:46: Frank KeKser has spawned 'models/props_c17/Lockers001a.mdl'.
+17:05:46: Frank KeKser has spawned 'models/props_c17/Lockers001a.mdl'.
+17:05:47: CP:C45.i1.0793 has used '/Observer'.
+17:05:51: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:05:53: CP:C45.i1.0793 has used '/Observer'.
+17:05:55: Frank KeKser has spawned 'models/props_c17/FurnitureRadiator001a.mdl'.
+17:05:55: Frank KeKser has spawned 'models/props_c17/FurnitureRadiator001a.mdl'.
+17:05:58: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_metalbed001a.mdl'.
+17:05:58: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_metalbed001a.mdl'.
+17:05:59: CP:C45.RCT.4189 has spawned 'models/props_junk/garbage128_composite001a.mdl'.
+17:05:59: CP:C45.RCT.4189 has spawned 'models/props_junk/garbage128_composite001a.mdl'.
+17:06:01: Hellstorm has spawned 'models/props_c17/fence01a.mdl'.
+17:06:01: Hellstorm has spawned 'models/props_c17/fence01a.mdl'.
+17:06:03: CP:C45.RCT.4189 has used '/StaticAdd'.
+17:06:04: CP:C45.RCT.4189 has used '/StaticAdd'.
+17:06:04: CP:C45.RCT.4189 has used '/StaticAdd'.
+17:06:06: CP:C45.RCT.4189 has used '/Observer'.
+17:06:08: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_metalbed001a.mdl'.
+17:06:08: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_metalbed001a.mdl'.
+17:06:19: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:06:20: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:07:01: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:07:03: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:07:13: [OOC] Hellstorm: лаги?
+17:07:14: Hellstorm (STEAM_0:0:26343107) has disconnected.
+17:07:33: [OOC] CpT.0915: все ок?
+17:07:38: Frank KeKser has spawned 'models/props_c17/FurnitureDrawer001a.mdl'.
+17:07:38: Frank KeKser has spawned 'models/props_c17/FurnitureDrawer001a.mdl'.
+17:07:40: [OOC] C45:CP.APEX.OfC.00228: сейчас да
+17:07:46: CP:C45.RCT.4189 has used '/Observer'.
+17:07:49: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_sink001a.mdl'.
+17:07:49: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_sink001a.mdl'.
+17:07:53: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:07:53: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:07:58: [LOOC] CP:C45.RCT.4189: Проблему с секторами надо решить.
+17:07:58: [LOOC] CP:C45.RCT.4189: Проблему с секторами надо решить.
+17:08:00: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_toilet01.mdl'.
+17:08:00: CP:C45.i1.0793 has spawned 'models/props_wasteland/prison_toilet01.mdl'.
+17:08:03: Frank KeKser has spawned 'models/props_c17/chair02a.mdl'.
+17:08:03: Frank KeKser has spawned 'models/props_c17/chair02a.mdl'.
+17:08:04: [LOOC] CP:C45.RCT.4189: Где 1, 2, 3, 4
+17:08:04: [LOOC] CP:C45.RCT.4189: Где 1, 2, 3, 4
+17:08:08: CP:C45.i1.0793 has used '/StaticAdd'.
+17:08:09: CP:C45.i1.0793 has used '/StaticAdd'.
+17:08:10: CP:C45.i1.0793 has used '/StaticAdd'.
+17:08:10: CP:C45.i1.0793 has used '/StaticAdd'.
+17:08:11: [LOOC] CP:C45.RCT.4189: 5 6 7 8 9 10 11 12 13 14 15
+17:08:11: [LOOC] CP:C45.RCT.4189: 5 6 7 8 9 10 11 12 13 14 15
+17:08:12: CP:C45.i1.0793 has used '/Observer'.
+17:08:13: [LOOC] C45:CP.APEX.OfC.00228: да, мне этим септик уже сказал занятся
+17:08:13: [LOOC] C45:CP.APEX.OfC.00228: да, мне этим септик уже сказал занятся
+17:08:20: [LOOC] CP:C45.RCT.4189: Поехали тогда.
+17:08:20: [LOOC] CP:C45.RCT.4189: Поехали тогда.
+17:08:20: [LOOC] C45:CP.APEX.OfC.00228: войдите в помещение за мной
+17:08:20: [LOOC] C45:CP.APEX.OfC.00228: войдите в помещение за мной
+17:08:26: CP:C45.RCT.9440 has used '/Observer'.
+17:08:29: [LOOC] CP:C45.RCT.4189: Границы отмечать.
+17:08:29: [LOOC] CP:C45.RCT.4189: Границы отмечать.
+17:08:50: [LOOC] C45:CP.APEX.OfC.00228: где будет отмечать?
+17:08:50: [LOOC] C45:CP.APEX.OfC.00228: где будет отмечать?
+17:08:52: Frank KeKser has used '/StaticAdd'.
+17:08:53: Frank KeKser has used '/StaticAdd'.
+17:08:53: [LOOC] CP:C45.RCT.4189: So much radiation.
+17:08:53: [LOOC] CP:C45.RCT.4189: So much radiation.
+17:08:54: Frank KeKser has used '/StaticAdd'.
+17:08:55: Frank KeKser has used '/StaticAdd'.
+17:08:56: Frank KeKser has used '/StaticAdd'.
+17:08:57: Frank KeKser has used '/StaticAdd'.
+17:08:57: Frank KeKser has used '/StaticAdd'.
+17:08:57: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:08:59: Frank KeKser has used '/StaticAdd'.
+17:08:59: Frank KeKser has used '/StaticAdd'.
+17:09:00: Frank KeKser has used '/StaticAdd'.
+17:09:01: Frank KeKser has used '/StaticAdd'.
+17:09:01: CP:C45.i1.0793 has used '/Observer'.
+17:09:01: Frank KeKser has used '/StaticAdd'.
+17:09:02: Frank KeKser has used '/StaticAdd'.
+17:09:03: Frank KeKser has used '/StaticAdd'.
+17:09:05: Frank KeKser has used '/StaticAdd'.
+17:09:06: [LOOC] CP:C45.RCT.4189: С вокзала.
+17:09:06: [LOOC] CP:C45.RCT.4189: С вокзала.
+17:09:08: Frank KeKser has used '/StaticAdd'.
+17:09:09: Frank KeKser has used '/StaticAdd'.
+17:09:09: Frank KeKser has used '/StaticAdd'.
+17:09:10: Frank KeKser has used '/StaticAdd'.
+17:09:11: Frank KeKser has used '/StaticAdd'.
+17:09:12: Frank KeKser has used '/StaticAdd'.
+17:09:12: Frank KeKser has used '/StaticAdd'.
+17:09:13: Frank KeKser has used '/StaticAdd'.
+17:09:15: Frank KeKser has used '/StaticAdd'.
+17:09:16: Frank KeKser has used '/StaticAdd'.
+17:09:18: Frank KeKser has used '/StaticAdd'.
+17:09:19: Frank KeKser has used '/StaticAdd'.
+17:09:20: Frank KeKser has used '/StaticAdd'.
+17:09:21: Frank KeKser has used '/StaticAdd'.
+17:09:22: Frank KeKser has used '/StaticAdd'.
+17:09:23: Frank KeKser has used '/StaticAdd'.
+17:09:24: Frank KeKser has used '/StaticAdd'.
+17:09:25: Frank KeKser has used '/StaticAdd'.
+17:09:26: Frank KeKser has used '/StaticAdd'.
+17:09:27: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:09:28: CP:C45.i1.0793 has used '/Observer'.
+17:09:31: [LOOC] CP:C45.RCT.4189: Но тут сложно сказать... где наметить.
+17:09:31: [LOOC] CP:C45.RCT.4189: Но тут сложно сказать... где наметить.
+17:09:34: Frank KeKser has used '/StaticAdd'.
+17:09:34: Frank KeKser has used '/StaticAdd'.
+17:09:38: [LOOC] CP:C45.RCT.4189: Я думаю это поставить сектор 1.
+17:09:38: [LOOC] CP:C45.RCT.4189: Я думаю это поставить сектор 1.
+17:09:40: Frank KeKser has used '/StaticAdd'.
+17:09:41: Frank KeKser has used '/StaticAdd'.
+17:09:45: [LOOC] CP:C45.RCT.4189: Только вот границы..
+17:09:45: [LOOC] CP:C45.RCT.4189: Только вот границы..
+17:09:46: C45:CP.APEX.OfC.00228 says: "<:: представь себе коробку"
+17:09:53: CP:C45.RCT.4189 has spawned 'models/props_junk/wood_crate001a.mdl'.
+17:09:53: CP:C45.RCT.4189 has spawned 'models/props_junk/wood_crate001a.mdl'.
+17:09:59: C45:CP.APEX.OfC.00228 says: "<:: нужно"
+17:10:05: CP:C45.RCT.4189 has spawned 'models/props_junk/wood_crate002a.mdl'.
+17:10:05: CP:C45.RCT.4189 has spawned 'models/props_junk/wood_crate002a.mdl'.
+17:10:10: C45:CP.APEX.OfC.00228 says: "<:: стартовую точку"
+17:10:12: C45:CP.APEX.OfC.00228 says: "<:: и конечную"
+17:10:19: CP:C45.RCT.4189 says: "<:: думаю отсюда до.."
+17:10:32: CP:C45.RCT.4189 says: "<:: До сюда может?"
+17:10:38: CP:C45.RCT.4189 has spawned 'models/hunter/plates/plate1x1.mdl'.
+17:10:38: CP:C45.RCT.4189 has spawned 'models/hunter/plates/plate1x1.mdl'.
+17:10:41: CP:C45.i1.0793 has used '/Observer'.
+17:10:44: CP:C45.RCT.4189 says: "<:: Тут такая надпись"
+17:10:45: CP:C45.RCT.4189 says: "<:: якобы"
+17:10:47: CP:C45.RCT.4189 says: "<:: Суктор 1."
+17:10:49: CP:C45.i1.0793 has used '/Observer'.
+17:10:51: C45:CP.APEX.OfC.00228 says: "<:: так тогда"
+17:10:53: C45:CP.APEX.OfC.00228 says: "<:: от сюда"
+17:10:59: C45:CP.APEX.OfC.00228 says: "<:: до"
+17:11:00: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:11:00: CP:C45.i1.0793 has used '/Observer'.
+17:11:02: CP:C45.RCT.4189 has used '/Observer'.
+17:11:04: CP:C45.RCT.4189 has used '/Observer'.
+17:11:04: CP:C45.RCT.4189 has used '/Observer'.
+17:11:05: CP:C45.i1.0793 has used '/Observer'.
+17:11:11: CP:C45.i1.0793 has used '/Ad Ареасы ставите ?'.
+17:11:18: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:11:22: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:11:24: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:11:25: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:11:26: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:11:26: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:11:26: CP:C45.i1.0793 has used '/Observer'.
+17:11:27: CP:C45.RCT.4189 has used '/Observer'.
+17:11:27: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:11:32: C45:CP.APEX.OfC.00228 says: "<:: смотри в чем суть"
+17:11:40: CP:C45.RCT.4189 says: "<:: А.."
+17:11:43: CP:C45.RCT.4189 says: "<:: отображение слева будет?"
+17:11:47: CP:C45.i1.0793 has used '/Observer'.
+17:11:49: CP:C45.RCT.4189 says: "<:: Мол "Вы вошли в сектор 1... ""
+17:11:51: [LOOC] C45:CP.APEX.OfC.00228: да.
+17:11:51: [LOOC] C45:CP.APEX.OfC.00228: да.
+17:11:53: [LOOC] C45:CP.APEX.OfC.00228: смотри
+17:11:53: [LOOC] C45:CP.APEX.OfC.00228: смотри
+17:11:59: CP:C45.i1.0793 has used '/CharGiveItem 793 Filter'.
+17:12:01: CP:C45.i1.0793 has used '/CharGiveItem 793 Filtr'.
+17:12:12: C45:CP.APEX.OfC.00228 has spawned 'models/hunter/blocks/cube025x025x025.mdl'.
+17:12:12: C45:CP.APEX.OfC.00228 has spawned 'models/hunter/blocks/cube025x025x025.mdl'.
+17:12:17: C45:CP.APEX.OfC.00228 says: "<:: есть начальная точка"
+17:12:21: C45:CP.APEX.OfC.00228 has spawned 'models/hunter/blocks/cube025x025x025.mdl'.
+17:12:21: C45:CP.APEX.OfC.00228 has spawned 'models/hunter/blocks/cube025x025x025.mdl'.
+17:12:24: CP:C45.RCT.4189 says: "<:: Все, понятно "
+17:12:25: C45:CP.APEX.OfC.00228 says: "<:: есть конечная"
+17:12:26: CP:C45.RCT.4189 says: "<:: Суть понятна."
+17:12:28: Hellstorm (STEAM_0:0:26343107) has connected.
+17:12:28: CP:C45.i1.0793 has used '/Observer'.
+17:12:28: CP:C45.i1.0793 has taken 2 damage from env_fire, leaving them at 98 health and 120 armor!
+17:12:29: CP:C45.i1.0793 has used '/Observer'.
+17:12:30: C45:CP.APEX.OfC.00228 says: "<:: смотри"
+17:12:36: CP:C45.RCT.4189 says: "<:: Но лучше туда."
+17:12:44: CP:C45.RCT.4189 says: "<:: У поля."
+17:12:53: C45:CP.APEX.OfC.00228 says: "<:: из этих точек сформмировывается квадрат-зона в которую входиш и срабатывает скрикпт"
+17:12:59: CP:C45.RCT.4189 says: "<:: Хм.."
+17:13:00: CP:C45.RCT.4189 says: "<:: Смотри."
+17:13:06: CP:C45.RCT.4189 says: "<:: можно тут"
+17:13:07: Frank KeKser has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+17:13:07: Frank KeKser has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+17:13:11: CP:C45.RCT.4189 says: "<:: КОгда выходят за поле"
+17:13:12: CP:C45.RCT.4189 says: "<:: и там"
+17:13:12: Frank KeKser has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+17:13:12: Frank KeKser has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+17:13:15: Frank KeKser has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+17:13:15: Frank KeKser has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+17:13:21: CP:C45.RCT.4189 says: "<:: Вы попали в на чердак."
+17:13:21: CP:C45.i1.0793 has used '/Observer'.
+17:13:22: CP:C45.RCT.4189 says: "<:: Например."
+17:13:26: Frank KeKser has spawned 'models/props_wasteland/controlroom_filecabinet002a.mdl'.
+17:13:26: Frank KeKser has spawned 'models/props_wasteland/controlroom_filecabinet002a.mdl'.
+17:13:29: Frank KeKser has spawned 'models/props_wasteland/controlroom_filecabinet002a.mdl'.
+17:13:29: Frank KeKser has spawned 'models/props_wasteland/controlroom_filecabinet002a.mdl'.
+17:13:30: C45:CP.APEX.OfC.00228 says: "<:: смысле на чердак?"
+17:13:33: Frank KeKser has spawned 'models/props_wasteland/controlroom_filecabinet002a.mdl'.
+17:13:33: Frank KeKser has spawned 'models/props_wasteland/controlroom_filecabinet002a.mdl'.
+17:13:34: CP:C45.RCT.4189 says: "<:: Ну пример как."
+17:13:36: C45:CP.APEX.OfC.00228 says: "<:: а"
+17:13:39: Frank KeKser has used '/StaticAdd'.
+17:13:39: Frank KeKser has used '/StaticAdd'.
+17:13:40: Frank KeKser has used '/StaticAdd'.
+17:13:41: Frank KeKser has used '/StaticAdd'.
+17:13:41: Frank KeKser has used '/StaticAdd'.
+17:13:42: Frank KeKser has used '/StaticAdd'.
+17:13:43: C45:CP.APEX.OfC.00228 says: "<:: допустим"
+17:13:45: CP:C45.i1.0793 has used '/Observer'.
+17:13:48: C45:CP.APEX.OfC.00228 says: "<:: начинатся будет отсюда"
+17:13:55: CP:C45.RCT.4189 has spawned 'models/hunter/blocks/cube025x025x025.mdl'.
+17:13:55: CP:C45.RCT.4189 has spawned 'models/hunter/blocks/cube025x025x025.mdl'.
+17:14:07: C45:CP.APEX.OfC.00228 says: "<:: а это что?"
+17:14:15: CP:C45.RCT.4189 says: "<:: А не, думаю как это работает."
+17:14:18: CP:C45.RCT.4189 says: "<:: Дистанция какая."
+17:14:18: CP:C45.i1.0793 has used '/Observer'.
+17:14:21: CP:C45.i1.0793 has used '/Observer'.
+17:14:27: Hellstorm has loaded the character 'Hellstorm'.
+17:14:30: Hellstorm has used '/Observer'.
+17:14:35: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:14:36: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:14:50: C45:CP.APEX.OfC.00228 says: "<:: теперь нужно вторую точку поставить. "
+17:15:05: C45:CP.APEX.OfC.00228 says: "<:: где будет заканчиватся эти границы?"
+17:17:44: Frank KeKser (STEAM_0:1:18294986) has disconnected.
+17:17:44: Jack Whitehouse (STEAM_0:0:34008601) has disconnected.
+17:17:44: Twifsie Spiral (STEAM_0:0:22550015) has disconnected.
+17:17:44: CP:C45.i1.0793 (STEAM_0:1:10947122) has disconnected.
+17:17:44: Hellstorm (STEAM_0:0:26343107) has disconnected.
+17:17:45: CP:C45.RCT.4189 (STEAM_0:1:39417809) has disconnected.
+17:17:45: CpT.0915 (STEAM_0:1:46567150) has disconnected.
+17:17:45: CP:C45.RCT.9440 (STEAM_0:0:30292126) has disconnected.
+17:18:07: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:18:07: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:18:09: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:18:10: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:18:11: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:18:12: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:18:20: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:18:21: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:18:23: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:18:27: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:19:37: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:19:46: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:19:47: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:19:54: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:19:54: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:19:56: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:21:14: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:21:15: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:21:17: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:21:17: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:21:40: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:21:40: Commander (STEAM_0:1:39417809) has connected.
+17:21:42: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:21:43: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:21:44: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:21:49: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:21:50: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:21:50: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:21:52: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:21:52: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:21:53: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:21:54: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:21:55: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:21:56: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:22:31: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:22:33: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:22:36: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:23:48: Twifsie Spiral (STEAM_0:0:22550015) has connected.
+17:24:06: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:24:10: Shaftoe (STEAM_0:1:46567150) has connected.
+17:24:18: Twifsie Spiral has loaded the character 'Twifsie Spiral'.
+17:24:28: Twifsie Spiral has used '/Observer'.
+17:24:29: Twifsie Spiral has used '/Observer'.
+17:24:32: C45:CP.APEX.OfC.00228 has used '/ContainmentRemove 100'.
+17:24:46: Twifsie Spiral has spawned 'models/props_wasteland/kitchen_shelf001a.mdl'.
+17:24:46: Twifsie Spiral has spawned 'models/props_wasteland/kitchen_shelf001a.mdl'.
+17:24:48: [OOC] C45:CP.APEX.OfC.00228: все осталось на месте, я сохранил если что
+17:24:49: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:24:49: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:24:50: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:25:00: [OOC] C45:CP.APEX.OfC.00228: не держит людей столько сеть
+17:25:15: Twifsie Spiral has spawned 'models/props/cs_italy/it_mkt_shelf1.mdl'.
+17:25:15: Twifsie Spiral has spawned 'models/props/cs_italy/it_mkt_shelf1.mdl'.
+17:25:21: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:25:22: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:25:23: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:25:24: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:25:25: Twifsie Spiral has spawned 'models/props/cs_italy/it_mkt_shelf1.mdl'.
+17:25:25: Twifsie Spiral has spawned 'models/props/cs_italy/it_mkt_shelf1.mdl'.
+17:25:25: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:25:25: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:25:26: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:25:27: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:25:27: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:25:28: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:25:32: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:25:32: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:25:33: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:25:33: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:25:36: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:25:37: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:26:07: Twifsie Spiral has spawned 'models/props/cs_militia/crate_stackmill.mdl'.
+17:26:07: Twifsie Spiral has spawned 'models/props/cs_militia/crate_stackmill.mdl'.
+17:26:15: Twifsie Spiral has spawned 'models/props/cs_militia/crate_stackmill.mdl'.
+17:26:15: Twifsie Spiral has spawned 'models/props/cs_militia/crate_stackmill.mdl'.
+17:26:20: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:26:22: Twifsie Spiral has used '/Observer'.
+17:26:25: Twifsie Spiral has used '/Observer'.
+17:26:27: Vesthamer (STEAM_0:1:10947122) has connected.
+17:26:39: Twifsie Spiral has used '/Observer'.
+17:26:41: Twifsie Spiral has used '/Observer'.
+17:27:00: Shaftoe has loaded the character 'CpT.0915'.
+17:27:12: CpT.0915 has used '/Observer'.
+17:27:25: Hellstorm (STEAM_0:0:26343107) has connected.
+17:27:26: Twifsie Spiral has used '/CharSetCPArmband twifsie EpU'.
+17:27:34: Twifsie Spiral has used '/CharSetCPArmband twifsie i4'.
+17:27:49: [OOC] Twifsie Spiral: Хммм ... без фонарика трудно.
+17:27:56: Twifsie Spiral has spawned 'models/props/cs_militia/shelves.mdl'.
+17:27:56: Twifsie Spiral has spawned 'models/props/cs_militia/shelves.mdl'.
+17:28:00: Vesthamer has loaded the character 'CP:C45.i1.0793'.
+17:28:09: CP:C45.i1.0793 has used '/Observer'.
+17:28:23: Commander (STEAM_0:1:39417809) has connected.
+17:28:28: CP:C45.i1.0793 has used '/PlyGoto 228'.
+17:28:30: CP:C45.i1.0793 has used '/Observer'.
+17:28:37: Twifsie Spiral has spawned 'models/props/cs_militia/shelves_wood.mdl'.
+17:28:37: Twifsie Spiral has spawned 'models/props/cs_militia/shelves_wood.mdl'.
+17:28:55: [OOC] C45:CP.APEX.OfC.00228: я все засейвил вест
+17:29:03: Twifsie Spiral has spawned 'models/props_wasteland/controlroom_desk001a.mdl'.
+17:29:03: Twifsie Spiral has spawned 'models/props_wasteland/controlroom_desk001a.mdl'.
+17:29:04: [OOC] CP:C45.i1.0793: Ок-с.
+17:30:21: Twifsie Spiral has spawned 'models/props_junk/wood_crate001a_damaged.mdl'.
+17:30:21: Twifsie Spiral has spawned 'models/props_junk/wood_crate001a_damaged.mdl'.
+17:30:29: Hellstorm has loaded the character 'Hellstorm'.
+17:30:30: Shadow Wing (STEAM_0:1:39002271) has connected.
+17:30:32: Hellstorm has used '/Observer'.
+17:30:35: Commander has loaded the character 'CP:C45.RCT.4189'.
+17:30:37: Twifsie Spiral has spawned 'models/props_c17/oildrum001.mdl'.
+17:30:37: Twifsie Spiral has spawned 'models/props_c17/oildrum001.mdl'.
+17:30:46: Twifsie Spiral has spawned 'models/props_c17/oildrum001.mdl'.
+17:30:46: Twifsie Spiral has spawned 'models/props_c17/oildrum001.mdl'.
+17:30:47: CP:C45.RCT.4189 has used '/Observer'.
+17:30:49: [OOC] CP:C45.i1.0793: Как, кстати, фильтр пополнить свой ?
+17:30:52: CP:C45.RCT.4189 has used '/Observer'.
+17:30:52: CP:C45.RCT.4189 has used '/CharFallOver'.
+17:30:52: CP:C45.RCT.4189 has been cured of all diseases.
+17:30:52: worldspawn has dealt 114 damage to CP:C45.RCT.4189, killing them!
+17:30:58: CP:C45.RCT.4189 has used '/PlyRespawnStay CP:C45.RCT.4189'.
+17:30:59: CP:C45.RCT.4189 has used '/Observer'.
+17:31:00: [OOC] C45:CP.APEX.OfC.00228: фильтрами
+17:31:01: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:31:02: CP:C45.RCT.4189 has used '/Observer'.
+17:31:07: [OOC] CP:C45.i1.0793: Логично.
+17:31:11: [LOOC] C45:CP.APEX.OfC.00228: итак
+17:31:11: [LOOC] C45:CP.APEX.OfC.00228: итак
+17:31:12: CP:C45.RCT.4189 says: "<:: Продолжаем?"
+17:31:13: Hellstorm has spawned 'models/props_c17/fence03a.mdl'.
+17:31:13: Hellstorm has spawned 'models/props_c17/fence03a.mdl'.
+17:31:14: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:31:18: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:31:19: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:31:20: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:31:21: CP:C45.i1.0793 has used '/Observer'.
+17:31:21: CP:C45.i1.0793 has used '/Observer'.
+17:31:23: CP:C45.i1.0793 has used '/Observer'.
+17:31:23: CP:C45.RCT.4189 has used '/Observer'.
+17:31:25: CP:C45.RCT.4189 has used '/Observer'.
+17:31:26: CP:C45.i1.0793 has used '/SalesmanAdd'.
+17:31:28: [OOC] Twifsie Spiral: Оппааа
+17:31:32: [OOC] Twifsie Spiral: Такс
+17:31:32: Twifsie Spiral has used '/Observer'.
+17:31:39: Twifsie Spiral has used '/Observer'.
+17:31:40: CP:C45.RCT.4189 says: "<:: Это как большой квадрат работает?"
+17:31:44: C45:CP.APEX.OfC.00228 says: "<:: нужно конечную точку задать"
+17:31:46: Shadow Wing has loaded the character 'Erick "Satan" Woods'.
+17:31:51: [LOOC] C45:CP.APEX.OfC.00228: короче
+17:31:51: [LOOC] C45:CP.APEX.OfC.00228: короче
+17:31:55: CP:C45.RCT.4189 says: "<:: По четырем точкам?"
+17:31:57: [LOOC] C45:CP.APEX.OfC.00228: я щас запущу скрипт и ты все поймешь
+17:31:57: [LOOC] C45:CP.APEX.OfC.00228: я щас запущу скрипт и ты все поймешь
+17:32:00: [OOC] Erick "Satan" Woods: I'm back
+17:32:02: [LOOC] C45:CP.APEX.OfC.00228: сек
+17:32:02: [LOOC] C45:CP.APEX.OfC.00228: сек
+17:32:03: CP:C45.RCT.4189 says: "<:: Угу."
+17:32:20: Twifsie Spiral has used '/Observer'.
+17:32:30: CP:C45.i1.0793 has used '/SalesmanRemove'.
+17:32:31: CP:C45.i1.0793 has used '/Observer'.
+17:32:37: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:32:38: CP:C45.i1.0793 has gained a UU-Branded Metropolice Supplements 1463149991.
+17:32:38: CP:C45.i1.0793 has used '/CharGiveItem 793 metr'.
+17:32:39: CP:C45.RCT.4189 has used '/Observer'.
+17:32:39: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:32:41: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:32:41: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:32:44: CP:C45.RCT.4189 has used '/Observer'.
+17:32:47: CP:C45.i1.0793 has gained a Handheld Radio 1463150001.
+17:32:47: CP:C45.i1.0793 has used '/CharGiveItem 793 radio'.
+17:32:50: CP:C45.RCT.4189 has used '/AnimIdle 1'.
+17:32:56: C45:CP.APEX.OfC.00228 has used '/PlySetGroup erick admin'.
+17:33:01: C45:CP.APEX.OfC.00228 has used '/CharGiveFlags erick ept'.
+17:33:03: Twifsie Spiral has used '/Observer'.
+17:33:25: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:33:28: CP:C45.RCT.4189 has used '/Observer'.
+17:33:29: CP:C45.RCT.4189 has used '/Observer'.
+17:33:40: CP:C45.RCT.4189 has spawned 'models/props_combine/breenchair.mdl'.
+17:33:40: CP:C45.RCT.4189 has spawned 'models/props_combine/breenchair.mdl'.
+17:33:46: Hellstorm has spawned 'models/props/de_tides/patio_chair.mdl'.
+17:33:46: Hellstorm has spawned 'models/props/de_tides/patio_chair.mdl'.
+17:33:49: Hellstorm has used '/Observer'.
+17:33:52: Hellstorm has spawned 'models/props/de_tides/menu_stand.mdl'.
+17:33:52: Hellstorm has spawned 'models/props/de_tides/menu_stand.mdl'.
+17:34:05: CP:C45.RCT.4189 has used '/PlyGod CP:C45.RCT.4189'.
+17:34:06: CP:C45.RCT.4189 has used '/Observer'.
+17:34:07: CP:C45.RCT.4189 has used '/Observer'.
+17:34:10: CP:C45.i1.0793 has used '/Observer'.
+17:34:12: CP:C45.i1.0793 has used '/Observer'.
+17:34:13: Hellstorm has used '/Observer'.
+17:34:21: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:34:22: CP:C45.i1.0793 has used '/Observer'.
+17:34:22: CP:C45.i1.0793 has used '/Observer'.
+17:34:24: [LOOC] C45:CP.APEX.OfC.00228: итак
+17:34:24: [LOOC] C45:CP.APEX.OfC.00228: итак
+17:34:32: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:34:37: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:34:43: CP:C45.RCT.4189 has used '/Y Ничего себе технологии. ** упав со стула. **'.
+17:34:50: [LOOC] C45:CP.APEX.OfC.00228: про это и я говорю
+17:34:50: [LOOC] C45:CP.APEX.OfC.00228: про это и я говорю
+17:34:51: CP:C45.RCT.4189 says: "<:: А вот оно как работает."
+17:35:01: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:35:04: CP:C45.RCT.4189 says: "<:: Так..."
+17:35:05: CP:C45.RCT.4189 has used '/Observer'.
+17:35:06: Hellstorm has spawned 'models/props/de_inferno/fountain_bowl_p8.mdl'.
+17:35:06: Hellstorm has spawned 'models/props/de_inferno/fountain_bowl_p8.mdl'.
+17:35:06: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:35:07: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:35:08: Hellstorm has spawned 'models/props/de_inferno/fountain_bowl_p6.mdl'.
+17:35:08: Hellstorm has spawned 'models/props/de_inferno/fountain_bowl_p6.mdl'.
+17:35:13: CP:C45.RCT.4189 has used '/Observer'.
+17:35:15: Hellstorm has used '/StaticAdd'.
+17:35:19: [LOOC] C45:CP.APEX.OfC.00228: так вот. нужно решить с конечной точкой
+17:35:19: [LOOC] C45:CP.APEX.OfC.00228: так вот. нужно решить с конечной точкой
+17:35:20: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:35:23: CP:C45.RCT.4189 says: "<:: Угу."
+17:35:25: CP:C45.RCT.4189 says: "<:: Пошли тогда."
+17:35:26: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:35:27: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:35:30: Erick "Satan" Woods has used '/Observer'.
+17:35:30: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:35:31: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:35:38: Hellstorm has used '/StaticAdd'.
+17:35:51: Twifsie Spiral has spawned 'models/props_c17/suitcase001a.mdl'.
+17:35:51: Twifsie Spiral has spawned 'models/props_c17/suitcase001a.mdl'.
+17:35:52: CP:C45.RCT.4189 says: "<:: А там что?"
+17:35:53: Hellstorm has spawned 'models/props/de_inferno/largebush04.mdl'.
+17:35:53: Hellstorm has spawned 'models/props/de_inferno/largebush04.mdl'.
+17:35:57: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:35:58: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:35:59: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:36:00: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:36:04: Hellstorm has spawned 'models/props/de_inferno/flower_barrel_p8.mdl'.
+17:36:04: Hellstorm has spawned 'models/props/de_inferno/flower_barrel_p8.mdl'.
+17:36:12: [LOOC] C45:CP.APEX.OfC.00228: тут соединение с тюрьмой
+17:36:12: [LOOC] C45:CP.APEX.OfC.00228: тут соединение с тюрьмой
+17:36:17: CP:C45.RCT.4189 says: "<:: Как-то замудренно."
+17:36:24: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:36:24: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:36:25: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:36:34: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:37:05: CP:C45.i1.0793 (STEAM_0:1:10947122) has disconnected.
+17:37:05: Twifsie Spiral (STEAM_0:0:22550015) has disconnected.
+17:37:05: CpT.0915 (STEAM_0:1:46567150) has disconnected.
+17:37:05: CP:C45.RCT.4189 (STEAM_0:1:39417809) has disconnected.
+17:37:05: Hellstorm (STEAM_0:0:26343107) has disconnected.
+17:37:05: Erick "Satan" Woods (STEAM_0:1:39002271) has disconnected.
+17:37:08: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:37:15: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:37:19: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:37:26: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:37:27: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:37:27: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:37:28: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:37:29: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:37:29: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:37:30: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:37:44: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:38:34: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:38:36: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:38:36: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:38:37: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:38:37: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:38:38: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:38:38: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:38:42: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:38:43: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:40:21: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:40:28: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:40:31: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:40:42: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:40:43: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:40:44: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:40:45: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:40:45: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:40:46: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:40:46: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:40:47: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:40:48: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:40:49: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:40:52: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:40:53: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:40:55: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:40:56: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:41:41: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:41:42: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:41:44: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:41:49: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:41:49: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:41:50: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:41:51: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:41:52: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:41:53: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:41:54: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:41:54: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:41:58: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:41:58: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:41:59: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:41:59: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:42:00: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:42:00: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:42:01: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:42:02: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:42:02: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:42:08: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:42:09: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:42:10: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:42:13: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:42:13: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:42:14: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:42:25: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:42:32: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:42:36: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:42:41: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:42:43: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:42:44: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:42:44: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:42:44: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:42:45: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:42:45: C45:CP.APEX.OfC.00228 has used '/Observer'.
+17:42:46: C45:CP.APEX.OfC.00228 has used '/Observer'.

@@ -1,0 +1,174 @@
+13:47:10: [EoAsm] schwarzkruppzo (STEAM_0:1:44629398) has connected.
+13:48:57: [EoAsm] schwarzkruppzo has loaded the character 'CP.RCT.17-96764'.
+13:49:0: CP.RCT.17-96764 has used '/Observer'.
+13:49:1: CP.RCT.17-96764 has used '/Observer'.
+13:49:8: CP.RCT.17-96764 has used '/Observer'.
+13:49:10: CP.RCT.17-96764 has used '/Observer'.
+13:50:21: CP.RCT.17-96764 has used '/Observer'.
+13:50:22: CP.RCT.17-96764 has used '/Observer'.
+13:50:22: CP.RCT.17-96764 has used '/Observer'.
+13:50:22: CP.RCT.17-96764 has used '/Observer'.
+13:51:13: CP.RCT.17-96764 has used '/Observer'.
+13:51:14: CP.RCT.17-96764 has used '/Observer'.
+13:51:14: CP.RCT.17-96764 has used '/Observer'.
+13:51:15: CP.RCT.17-96764 has used '/Observer'.
+13:51:16: CP.RCT.17-96764 has used '/Observer'.
+13:51:16: CP.RCT.17-96764 has used '/Observer'.
+13:51:17: CP.RCT.17-96764 has used '/Observer'.
+13:51:17: CP.RCT.17-96764 has used '/Observer'.
+13:51:18: CP.RCT.17-96764 has used '/Observer'.
+13:51:18: CP.RCT.17-96764 has used '/Observer'.
+13:51:19: CP.RCT.17-96764 has used '/Observer'.
+13:51:20: CP.RCT.17-96764 has used '/Observer'.
+13:51:21: CP.RCT.17-96764 has used '/Observer'.
+13:51:22: CP.RCT.17-96764 has used '/Observer'.
+13:51:23: CP.RCT.17-96764 has used '/Observer'.
+13:51:23: CP.RCT.17-96764 has used '/Observer'.
+13:51:23: CP.RCT.17-96764 has used '/Observer'.
+14:8:45: [EoAsm] schwarzkruppzo (STEAM_0:1:44629398) has connected.
+14:9:1: [EoAsm] schwarzkruppzo has deleted the character 'Test'.
+14:13:9: [EoAsm] schwarzkruppzo (STEAM_0:1:44629398) has connected.
+14:17:43: [EoAsm] schwarzkruppzo has created a Citizen character called 'Test Test'.
+14:17:54: [EoAsm] schwarzkruppzo has loaded the character 'Test Test'.
+14:18:25: Test Test has used '/CharGiveFlags test qwertyipdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM'.
+14:19:3: Test Test has gained a CWU Shirt 1427797145.
+14:19:3: Test Test has used '/CharGiveItem test CWU Shirt'.
+14:19:10: Test Test has used '/InvAction use cwu_shirt 1427797145.00'.
+14:19:23: Test Test has used '/InvAction drop cwu_shirt 1427797145.00'.
+14:19:24: Test Test has used '/InvAction use cwu_shirt 1427797145.00'.
+14:19:25: Test Test has used '/InvAction use cwu_shirt 1427797145.00'.
+14:19:25: Test Test has used '/InvAction use cwu_shirt 1427797145.00'.
+14:19:25: Test Test has used '/InvAction use cwu_shirt 1427797145.00'.
+14:19:25: Test Test has used '/InvAction use cwu_shirt 1427797145.00'.
+14:19:25: Test Test has used '/InvAction use cwu_shirt 1427797145.00'.
+14:19:26: Test Test has used '/InvAction use cwu_shirt 1427797145.00'.
+14:19:26: Test Test has used '/InvAction use cwu_shirt 1427797145.00'.
+14:19:26: Test Test has used '/InvAction use cwu_shirt 1427797145.00'.
+14:22:20: Test Test has used '/InvAction use cwu_shirt 1427797145.00'.
+14:22:27: Test Test has used '/InvAction use cwu_shirt 1427797145.00'.
+14:22:34: Test Test has used '/InvAction Remove cwu_shirt 1427797145.00'.
+14:22:42: Test Test has used '/InvAction use cwu_shirt 1427797145.00'.
+14:23:30: Test Test has gained a MP7 1427797413.
+14:23:30: Test Test has used '/CharGiveItem test weapon_smg1'.
+14:23:48: Test Test has lost a MP7 1427797413.
+14:23:48: Test Test has used '/InvAction use weapon_smg1 1427797413.00'.
+14:23:57: Test Test has gained a MP7 1427797413.
+14:38:30: [EoAsm] schwarzkruppzo (STEAM_0:1:44629398) has connected.
+14:38:51: [EoAsm] schwarzkruppzo has loaded the character 'Test Test'.
+18:55:25: [EoAsm] schwarzkruppzo (STEAM_0:1:44629398) has connected.
+18:56:22: [EoAsm] schwarzkruppzo has loaded the character 'Test Test'.
+18:56:36: Test Test has used '/CharGiveItem test Test'.
+18:56:53: Test Test has used '/CharGiveItem test Test'.
+18:58:22: Test Test has used '/CharGiveItem test Test'.
+18:58:25: Test Test (STEAM_0:1:44629398) has disconnected.
+19:1:34: [EoAsm] schwarzkruppzo (STEAM_0:1:44629398) has connected.
+19:4:3: [EoAsm] schwarzkruppzo has loaded the character 'Test Test'.
+19:4:9: Test Test has gained a Test 1427814250.
+19:4:9: Test Test has used '/CharGiveItem test Test'.
+19:4:50: Test Test has used '/InvAction use test 1427814250.00'.
+19:10:15: Test Test has lost a CWU Shirt 1427797145.
+19:10:15: Test Test has used '/InvAction drop cwu_shirt 1427797145.00'.
+19:10:16: Test Test has lost a Suitcase 1427797064.
+19:10:16: Test Test has used '/InvAction drop cw_suitcase 1427797064.00'.
+19:10:29: Test Test has used '/Observer'.
+19:10:30: Test Test has used '/Observer'.
+19:10:31: Test Test has used '/Observer'.
+19:10:31: Test Test has used '/Observer'.
+19:10:32: Test Test has used '/Observer'.
+19:10:32: Test Test has used '/Observer'.
+19:10:33: Test Test has used '/Observer'.
+19:10:34: Test Test has used '/Observer'.
+19:10:35: Test Test has used '/Observer'.
+19:10:35: Test Test has used '/Observer'.
+19:10:36: Test Test has used '/Observer'.
+19:10:37: Test Test has used '/Observer'.
+19:10:38: Test Test has used '/Observer'.
+19:10:38: Test Test has used '/Observer'.
+19:10:39: Test Test has used '/Observer'.
+19:10:48: Test Test has gained a MP7 1427814650.
+19:10:48: Test Test has used '/CharGiveItem test weapon_smg1'.
+19:10:51: Test Test has lost a MP7 1427814650.
+19:10:51: Test Test has used '/InvAction use weapon_smg1 1427814650.00'.
+19:10:56: Test Test has gained a MP7 1427814650.
+19:20:47: [EoAsm] schwarzkruppzo (STEAM_0:1:44629398) has connected.
+19:21:31: [EoAsm] schwarzkruppzo has loaded the character 'Test Test'.
+19:21:46: Test Test has gained a Test 1427815307.
+19:21:46: Test Test has used '/CharGiveItem test Test'.
+19:21:59: Test Test has used '/InvAction use test 1427815307.00'.
+19:22:9: Test Test has used '/Observer'.
+19:23:56: Test Test has used '/Observer'.
+19:23:57: Test Test has used '/Observer'.
+20:13:58: Test Test has used '/Observer'.
+20:14:4: Test Test has used '/Observer'.
+20:19:57: Test Test has used '/Observer'.
+20:19:58: Test Test has used '/Observer'.
+20:20:4: Test Test has used '/Observer'.
+20:20:5: Test Test has used '/Observer'.
+20:20:52: Test Test has used '/Observer'.
+20:20:55: Test Test has used '/Observer'.
+20:20:59: Test Test has used '/Observer'.
+20:20:59: Test Test has used '/Observer'.
+20:21:41: Test Test has used '/Observer'.
+20:21:53: Test Test has used '/Observer'.
+20:22:0: Test Test has used '/Observer'.
+20:22:4: Test Test has used '/Observer'.
+20:22:6: Test Test has used '/Observer'.
+20:22:28: Test Test has used '/Observer'.
+20:22:30: Test Test has used '/Observer'.
+20:24:9: Test Test has used '/Observer'.
+20:25:0: Test Test has used '/Observer'.
+20:25:1: Test Test has used '/Observer'.
+20:25:1: Test Test has used '/Observer'.
+20:25:2: Test Test has used '/Observer'.
+20:25:3: Test Test has used '/Observer'.
+20:25:4: Test Test has used '/Observer'.
+20:25:5: Test Test has used '/Observer'.
+20:25:6: Test Test has used '/Observer'.
+20:25:45: Test Test has used '/Observer'.
+20:25:46: Test Test has used '/Observer'.
+20:25:46: Test Test has used '/Observer'.
+20:25:48: Test Test has used '/Observer'.
+20:25:49: Test Test has used '/Observer'.
+20:25:50: Test Test has used '/Observer'.
+20:25:50: Test Test has used '/Observer'.
+20:25:51: Test Test has used '/Observer'.
+20:25:52: Test Test has used '/Observer'.
+20:25:53: Test Test has used '/Observer'.
+20:25:53: Test Test has used '/Observer'.
+20:25:54: Test Test has used '/Observer'.
+20:25:55: Test Test has used '/Observer'.
+20:25:55: Test Test has used '/Observer'.
+20:31:54: Test Test has used '/Observer'.
+20:31:56: Test Test has used '/Observer'.
+20:31:56: Test Test has used '/Observer'.
+20:31:57: Test Test has used '/Observer'.
+20:32:5: Test Test has used '/Observer'.
+20:32:7: Test Test has used '/Observer'.
+20:32:7: Test Test has used '/Observer'.
+20:32:8: Test Test has used '/Observer'.
+20:32:9: Test Test has used '/Observer'.
+20:32:10: Test Test has taken damage from worldspawn.
+20:32:11: Test Test has used '/Observer'.
+20:32:13: Test Test has used '/Observer'.
+20:32:14: Test Test has used '/Observer'.
+20:32:14: Test Test has used '/Observer'.
+20:32:15: Test Test has used '/Observer'.
+20:32:15: Test Test has used '/Observer'.
+20:32:17: Test Test has used '/Observer'.
+20:32:23: Test Test has used '/Observer'.
+20:32:24: Test Test has used '/Observer'.
+20:32:25: Test Test has used '/Observer'.
+20:32:28: Test Test has used '/Observer'.
+20:32:29: Test Test has used '/Observer'.
+20:32:29: Test Test has used '/Observer'.
+20:32:30: Test Test has used '/Observer'.
+20:32:31: Test Test has used '/Observer'.
+20:32:33: Test Test has used '/Observer'.
+20:32:33: Test Test has used '/Observer'.
+20:32:34: Test Test has used '/Observer'.
+20:32:34: Test Test has used '/Observer'.
+20:32:50: Test Test has used '/Observer'.
+20:32:50: Test Test has used '/Observer'.
+20:32:59: Test Test has used '/Observer'.
+20:33:0: Test Test has used '/Observer'.
+20:34:56: Test Test (STEAM_0:1:44629398) has disconnected.

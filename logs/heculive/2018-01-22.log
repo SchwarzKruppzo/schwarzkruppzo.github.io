@@ -1,0 +1,2739 @@
+15:09:05: Бубль-Гум (STEAM_0:0:143428035/84.51.200.110:10324) has connected.
+15:12:54: Бубль-Гум has loaded the character 'C17.OTA.GUARD.EOW:739'.
+15:13:28: C17.OTA.GUARD.EOW:739 has ordered #1 5.
+15:13:28: C17.OTA.GUARD.EOW:739 has used '/OrderShipment cw_flashgrenade'.
+15:13:31: C17.OTA.GUARD.EOW:739 has gained a Flash 1516623223.
+15:13:31: C17.OTA.GUARD.EOW:739 has used '/StorageTakeItem cw_flashgrenade 1516623223.00'.
+15:13:32: C17.OTA.GUARD.EOW:739 has gained a Flash 1516623222.
+15:13:32: C17.OTA.GUARD.EOW:739 has used '/StorageTakeItem cw_flashgrenade 1516623222.00'.
+15:13:32: C17.OTA.GUARD.EOW:739 has gained a Flash 1516623221.
+15:13:32: C17.OTA.GUARD.EOW:739 has used '/StorageTakeItem cw_flashgrenade 1516623221.00'.
+15:13:33: C17.OTA.GUARD.EOW:739 has used '/StorageTakeItem cw_flashgrenade 1516623220.00'.
+15:13:33: C17.OTA.GUARD.EOW:739 has used '/StorageTakeItem cw_flashgrenade 1516623219.00'.
+15:13:34: C17.OTA.GUARD.EOW:739 has used '/StorageClose'.
+15:13:40: C17.OTA.GUARD.EOW:739 has lost a Flash 1516623221.
+15:13:40: C17.OTA.GUARD.EOW:739 has used '/InvAction use cw_flashgrenade 1516623221.00'.
+15:13:53: C17.OTA.GUARD.EOW:739 has lost a Pulse-Rifle 1516555539.
+15:13:53: C17.OTA.GUARD.EOW:739 has used '/InvAction use weapon_ar2 1516555539.00'.
+15:13:54: C17.OTA.GUARD.EOW:739 has lost a 9mm Pistol 1516555585.
+15:13:54: C17.OTA.GUARD.EOW:739 has used '/InvAction use weapon_pistol 1516555585.00'.
+15:13:55: C17.OTA.GUARD.EOW:739 has used '/InvAction use weapon_shotgun 1516555688.00'.
+15:13:58: C17.OTA.GUARD.EOW:739 has used '/InvAction use weapon_shotgun 1516555688.00'.
+15:16:01: C17.OTA.GUARD.EOW:739 has used '/InvAction use weapon_shotgun 1516555688.00'.
+15:16:06: C17.OTA.GUARD.EOW:739 has gained a 9mm Pistol 1516555585.
+15:16:08: C17.OTA.GUARD.EOW:739 has used '/InvAction use weapon_shotgun 1516555688.00'.
+15:16:13: C17.OTA.GUARD.EOW:739 has used '/InvAction use weapon_shotgun 1516555688.00'.
+15:17:56: C17.OTA.GUARD.EOW:739 has used '/InvAction use ammo_pistol 1516531727.00'.
+15:17:59: C17.OTA.GUARD.EOW:739 has lost a 9mm Pistol 1516555585.
+15:17:59: C17.OTA.GUARD.EOW:739 has used '/InvAction use weapon_pistol 1516555585.00'.
+15:18:00: C17.OTA.GUARD.EOW:739 has lost a 9mm Pistol Bullets 1516531727.
+15:18:00: C17.OTA.GUARD.EOW:739 has used '/InvAction use ammo_pistol 1516531727.00'.
+15:24:07: Бубль-Гум has loaded the character 'C17.MPF.CmD.EpU:493'.
+15:24:34: C17.MPF.CmD.EpU:493 has used '/CharSetModel C17.MPF.CmD.EpU:493 models/hl2rp/metropolice/hl2_elitfemalecp1.mdl'.
+15:25:24: C17.MPF.CmD.EpU:493 has lost a Tomato 1516561928.
+15:25:24: C17.MPF.CmD.EpU:493 has used '/InvAction drop tomato 1516561928.00'.
+15:25:39: C17.MPF.CmD.EpU:493 has lost a .357 Magnum 1516372698.
+15:25:39: C17.MPF.CmD.EpU:493 has used '/InvAction use weapon_357 1516372698.00'.
+15:28:52: Helugon (STEAM_0:1:95283970/2.93.67.183:27005) has connected.
+15:30:08: Helugon has loaded the character 'C17.MPF.BLADE.01:917'.
+15:30:42: [LOOC] C17.MPF.CmD.EpU:493: Кхе...
+15:30:42: [LOOC] C17.MPF.CmD.EpU:493: Кхе...
+15:30:42: [LOOC] C17.MPF.CmD.EpU:493: Кхе...
+15:31:05: C17.MPF.BLADE.01:917 has used '/Me встал по стойке смирно, после чего отсалютовал и произнес:...'.
+15:31:18: C17.MPF.BLADE.01:917 says: "Служу Альянсу, старший юнит!"
+15:31:18: C17.MPF.BLADE.01:917 says "<:: Служу Альянсу, старший юнит!"
+15:31:24: [LOOC] C17.MPF.CmD.EpU:493: Зиг Хай...
+15:31:24: [LOOC] C17.MPF.CmD.EpU:493: Зиг Хай...
+15:31:24: [LOOC] C17.MPF.CmD.EpU:493: Зиг Хай...
+15:31:29: [LOOC] C17.MPF.CmD.EpU:493: А ты про это...
+15:31:29: [LOOC] C17.MPF.CmD.EpU:493: А ты про это...
+15:31:29: [LOOC] C17.MPF.CmD.EpU:493: А ты про это...
+15:31:37: [LOOC] C17.MPF.BLADE.01:917: ZIEG HAIL
+15:31:37: [LOOC] C17.MPF.BLADE.01:917: ZIEG HAIL
+15:31:37: [LOOC] C17.MPF.BLADE.01:917: ZIEG HAIL
+15:31:38: [LOOC] C17.MPF.CmD.EpU:493: В дискорд заходи.
+15:31:38: [LOOC] C17.MPF.CmD.EpU:493: В дискорд заходи.
+15:31:38: [LOOC] C17.MPF.CmD.EpU:493: В дискорд заходи.
+15:31:46: C17.MPF.CmD.EpU:493 says: "Служите, вольно."
+15:31:46: C17.MPF.CmD.EpU:493 says "<:: Служите, вольно."
+15:31:58: C17.MPF.BLADE.01:917 says: "Что прикажете делать...?"
+15:31:58: C17.MPF.BLADE.01:917 says "<:: Что прикажете делать...?"
+15:32:04: C17.MPF.CmD.EpU:493 says: "Пока ничего..."
+15:32:04: C17.MPF.CmD.EpU:493 says "<:: Пока ничего..."
+15:32:11: C17.MPF.BLADE.01:917 says: "Понял"
+15:32:11: C17.MPF.BLADE.01:917 says "<:: Понял"
+15:32:19: [LOOC] C17.MPF.BLADE.01:917: void
+15:32:19: [LOOC] C17.MPF.BLADE.01:917: void
+15:32:19: [LOOC] C17.MPF.BLADE.01:917: void
+15:32:25: C17.MPF.CmD.EpU:493 says: "Можете выйти в город с белопузиком...Кхе."
+15:32:25: C17.MPF.CmD.EpU:493 says "<:: Можете выйти в город с белопузиком...Кхе."
+15:32:28: C17.MPF.BLADE.01:917 says: "Serve; Preserve"
+15:32:28: C17.MPF.BLADE.01:917 says "<:: Serve; Preserve"
+15:32:57: C17.MPF.BLADE.01:917 says: "Serve:: Preserve"
+15:32:57: C17.MPF.BLADE.01:917 says "<:: Serve:: Preserve"
+15:33:02: [LOOC] C17.MPF.BLADE.01:917: void
+15:33:02: [LOOC] C17.MPF.BLADE.01:917: void
+15:33:02: [LOOC] C17.MPF.BLADE.01:917: void
+15:33:07: C17.MPF.BLADE.01:917 says: "Serve"
+15:33:15: [LOOC] C17.MPF.BLADE.01:917: void all
+15:33:15: [LOOC] C17.MPF.BLADE.01:917: void all
+15:33:15: [LOOC] C17.MPF.BLADE.01:917: void all
+15:33:17: C17.MPF.CmD.EpU:493 has used '/Radio ЦЕНТР -- ЕБЕ 739;Инициализировать процедуру выхода из стазис-сна;Задействавать протокол ПАТРУЛЬ-НОВА ЦЕЛЬ-ЖС.'.
+15:33:23: Бубль-Гум has loaded the character 'C17.OTA.GUARD.EOW:739'.
+15:33:29: C17.OTA.GUARD.EOW:739 has lost a Pulse-Rifle 1516555539.
+15:33:29: C17.OTA.GUARD.EOW:739 has used '/InvAction use weapon_ar2 1516555539.00'.
+15:33:30: C17.OTA.GUARD.EOW:739 has lost a 9mm Pistol 1516555585.
+15:33:30: C17.OTA.GUARD.EOW:739 has used '/InvAction use weapon_pistol 1516555585.00'.
+15:33:31: C17.MPF.BLADE.01:917 says: "Serve;; Preserve"
+15:33:31: C17.MPF.BLADE.01:917 says "<:: Serve;; Preserve"
+15:33:38: C17.OTA.GUARD.EOW:739 says: "Serve"
+15:33:42: C17.MPF.BLADE.01:917 says: "Serve"
+15:33:43: [LOOC] C17.OTA.GUARD.EOW:739: voed
+15:33:43: [LOOC] C17.OTA.GUARD.EOW:739: voed
+15:33:43: [LOOC] C17.OTA.GUARD.EOW:739: voed
+15:33:49: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+15:33:50: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+15:33:51: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+15:33:57: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+15:34:05: C17.MPF.BLADE.01:917 says: "Serve, Preserve"
+15:34:05: C17.MPF.BLADE.01:917 says "<:: Serve, Preserve"
+15:34:15: Бубль-Гум has loaded the character 'C17.MPF.CmD.EpU:493'.
+15:34:16: C17.MPF.CmD.EpU:493 has used '/Observer'.
+15:34:21: [OOC] C17.MPF.BLADE.01:917: Как делать двойные команды?
+15:34:26: [OOC] C17.MPF.BLADE.01:917: Я раньше умел
+15:34:28: C17.MPF.CmD.EpU:493 has used '/CharSetModel C17.MPF.CmD.EpU:493 models/hl2rp/metropolice/hl2_elitfemalecp1.mdl'.
+15:34:38: C17.MPF.CmD.EpU:493 has used '/Observer'.
+15:34:54: C17.MPF.CmD.EpU:493 has lost a .357 Magnum 1516372698.
+15:34:54: C17.MPF.CmD.EpU:493 has used '/InvAction use weapon_357 1516372698.00'.
+15:34:55: C17.MPF.CmD.EpU:493 has lost a RPG 1516210529.
+15:34:55: C17.MPF.CmD.EpU:493 has used '/InvAction use weapon_rpg 1516210529.00'.
+15:35:02: [LOOC] C17.MPF.BLADE.01:917: Как делать двойные реплики?
+15:35:02: [LOOC] C17.MPF.BLADE.01:917: Как делать двойные реплики?
+15:35:02: [LOOC] C17.MPF.BLADE.01:917: Как делать двойные реплики?
+15:35:11: [LOOC] C17.MPF.CmD.EpU:493: ХЗ.
+15:35:11: [LOOC] C17.MPF.CmD.EpU:493: ХЗ.
+15:35:11: [LOOC] C17.MPF.CmD.EpU:493: ХЗ.
+15:35:14: C17.MPF.BLADE.01:917 says: "Preserve"
+15:35:18: C17.MPF.CmD.EpU:493 has used '/Dispatch EXOGEN'.
+15:35:28: [LOOC] C17.MPF.CmD.EpU:493: сУКА, ФИКСИНИТИ ТРАБЛ
+15:35:28: [LOOC] C17.MPF.CmD.EpU:493: сУКА, ФИКСИНИТИ ТРАБЛ
+15:35:28: [LOOC] C17.MPF.CmD.EpU:493: сУКА, ФИКСИНИТИ ТРАБЛ
+15:35:31: [LOOC] C17.MPF.BLADE.01:917: КТО У НАС НА PB ИГРАЕТ?
+15:35:31: [LOOC] C17.MPF.BLADE.01:917: КТО У НАС НА PB ИГРАЕТ?
+15:35:31: [LOOC] C17.MPF.BLADE.01:917: КТО У НАС НА PB ИГРАЕТ?
+15:35:43: [LOOC] C17.MPF.CmD.EpU:493: Хули я от диспатчера говорить не могу.
+15:35:43: [LOOC] C17.MPF.CmD.EpU:493: Хули я от диспатчера говорить не могу.
+15:35:43: [LOOC] C17.MPF.CmD.EpU:493: Хули я от диспатчера говорить не могу.
+15:36:03: C17.MPF.CmD.EpU:493 says: "Кхе..."
+15:36:03: C17.MPF.CmD.EpU:493 says "<:: Кхе..."
+15:36:10: C17.MPF.BLADE.01:917 says: "Serve. Preserve"
+15:36:10: C17.MPF.BLADE.01:917 says "<:: Serve. Preserve"
+15:36:14: [LOOC] C17.MPF.BLADE.01:917: void all
+15:36:14: [LOOC] C17.MPF.BLADE.01:917: void all
+15:36:14: [LOOC] C17.MPF.BLADE.01:917: void all
+15:36:20: C17.MPF.CmD.EpU:493 says: "Serve Preserve"
+15:36:20: C17.MPF.CmD.EpU:493 says "<:: Serve Preserve"
+15:36:24: [LOOC] C17.MPF.CmD.EpU:493: voed
+15:36:24: [LOOC] C17.MPF.CmD.EpU:493: voed
+15:36:24: [LOOC] C17.MPF.CmD.EpU:493: voed
+15:36:30: [LOOC] C17.MPF.CmD.EpU:493: tyt nelsia
+15:36:30: [LOOC] C17.MPF.CmD.EpU:493: tyt nelsia
+15:36:30: [LOOC] C17.MPF.CmD.EpU:493: tyt nelsia
+15:36:36: [LOOC] C17.MPF.CmD.EpU:493: idi v discord
+15:36:36: [LOOC] C17.MPF.CmD.EpU:493: idi v discord
+15:36:36: [LOOC] C17.MPF.CmD.EpU:493: idi v discord
+15:36:45: C17.MPF.BLADE.01:917 says: "Serve! Preserve!"
+15:36:45: C17.MPF.BLADE.01:917 says "<:: Serve! Preserve!"
+15:36:54: [LOOC] C17.MPF.BLADE.01:917: Ne seychas
+15:36:54: [LOOC] C17.MPF.BLADE.01:917: Ne seychas
+15:36:54: [LOOC] C17.MPF.BLADE.01:917: Ne seychas
+15:36:59: [LOOC] C17.MPF.CmD.EpU:493: OK
+15:36:59: [LOOC] C17.MPF.CmD.EpU:493: OK
+15:36:59: [LOOC] C17.MPF.CmD.EpU:493: OK
+15:37:36: [LOOC] C17.MPF.CmD.EpU:493: Как диспатча фиксануть?
+15:37:36: [LOOC] C17.MPF.CmD.EpU:493: Как диспатча фиксануть?
+15:37:36: [LOOC] C17.MPF.CmD.EpU:493: Как диспатча фиксануть?
+15:38:16: [LOOC] C17.MPF.CmD.EpU:493: Sooqa!
+15:38:16: [LOOC] C17.MPF.CmD.EpU:493: Sooqa!
+15:38:16: [LOOC] C17.MPF.CmD.EpU:493: Sooqa!
+15:38:17: C17.MPF.BLADE.01:917 has used '/CharGiveItem C17.MPF.CmD.EpU:493 Хуй на блюде'.
+15:38:37: [LOOC] C17.MPF.BLADE.01:917: В чат
+15:38:37: [LOOC] C17.MPF.BLADE.01:917: В чат
+15:38:37: [LOOC] C17.MPF.BLADE.01:917: В чат
+15:38:52: [LOOC] C17.MPF.CmD.EpU:493: Хтьфу...
+15:38:52: [LOOC] C17.MPF.CmD.EpU:493: Хтьфу...
+15:38:52: [LOOC] C17.MPF.CmD.EpU:493: Хтьфу...
+15:39:15: [LOOC] C17.MPF.CmD.EpU:493: Хтьфу...
+15:39:15: [LOOC] C17.MPF.CmD.EpU:493: Хтьфу...
+15:39:15: [LOOC] C17.MPF.CmD.EpU:493: Хтьфу...
+15:39:22: [LOOC] C17.MPF.CmD.EpU:493: Хтьфу...
+15:39:22: [LOOC] C17.MPF.CmD.EpU:493: Хтьфу...
+15:39:22: [LOOC] C17.MPF.CmD.EpU:493: Хтьфу...
+15:39:35: [LOOC] C17.MPF.CmD.EpU:493: Напиши
+15:39:35: [LOOC] C17.MPF.CmD.EpU:493: Напиши
+15:39:35: [LOOC] C17.MPF.CmD.EpU:493: Напиши
+15:39:43: C17.MPF.BLADE.01:917 has used '/CharSetCustomClass 493 Elit Unit'.
+15:39:44: [LOOC] C17.MPF.CmD.EpU:493: /dispatch EXOGEN
+15:39:44: [LOOC] C17.MPF.CmD.EpU:493: /dispatch EXOGEN
+15:39:44: [LOOC] C17.MPF.CmD.EpU:493: /dispatch EXOGEN
+15:39:52: C17.MPF.CmD.EpU:493 has used '/Dispatch EXOGEN'.
+15:39:59: [LOOC] C17.MPF.CmD.EpU:493: ХУЙ там.
+15:39:59: [LOOC] C17.MPF.CmD.EpU:493: ХУЙ там.
+15:39:59: [LOOC] C17.MPF.CmD.EpU:493: ХУЙ там.
+15:40:11: [LOOC] C17.MPF.CmD.EpU:493: You are not ranked high enough to use this command!
+15:40:11: [LOOC] C17.MPF.CmD.EpU:493: You are not ranked high enough to use this command!
+15:40:11: [LOOC] C17.MPF.CmD.EpU:493: You are not ranked high enough to use this command!
+15:40:16: C17.MPF.BLADE.01:917 has used '/Dispatch EXOGEN'.
+15:40:46: C17.MPF.CmD.EpU:493 has used '/CharTakeCustomClass C17.MPF.CmD.EpU:493'.
+15:41:17: C17.MPF.CmD.EpU:493 has used '/CharSetCustomClass C17.MPF.CmD.EpU:493 Comander STAFF'.
+15:41:27: C17.MPF.CmD.EpU:493 has used '/Dispatch EXOGEN'.
+15:41:32: [LOOC] C17.MPF.CmD.EpU:493: Опять, хуй.
+15:41:32: [LOOC] C17.MPF.CmD.EpU:493: Опять, хуй.
+15:41:32: [LOOC] C17.MPF.CmD.EpU:493: Опять, хуй.
+15:41:41: C17.MPF.CmD.EpU:493 has used '/CharTakeCustomClass C17.MPF.CmD.EpU:493'.
+15:43:57: C17.MPF.BLADE.01:917 has lost a Whiskey 1516552790.
+15:43:57: C17.MPF.BLADE.01:917 has used '/InvAction use whiskey 1516552790.00'.
+15:43:58: C17.MPF.BLADE.01:917 has lost a Whiskey 1516561926.
+15:43:58: C17.MPF.BLADE.01:917 has used '/InvAction use whiskey 1516561926.00'.
+15:43:59: C17.MPF.BLADE.01:917 has lost a Whiskey 1516561929.
+15:43:59: C17.MPF.BLADE.01:917 has used '/InvAction use whiskey 1516561929.00'.
+15:43:59: C17.MPF.BLADE.01:917 has lost a Whiskey 1516561931.
+15:43:59: C17.MPF.BLADE.01:917 has used '/InvAction use whiskey 1516561931.00'.
+15:44:05: C17.MPF.BLADE.01:917 has gained a Whiskey 1516625061.
+15:44:11: C17.MPF.CmD.EpU:493 has gained a Whiskey 1516625068.
+15:44:11: C17.MPF.CmD.EpU:493 has gained a Whiskey 1516625069.
+15:44:11: C17.MPF.CmD.EpU:493 has gained a Whiskey 1516625070.
+15:44:11: C17.MPF.CmD.EpU:493 has gained a Whiskey 1516625071.
+15:44:11: C17.MPF.BLADE.01:917 has lost a Whiskey 1516625061.
+15:44:11: C17.MPF.BLADE.01:917 has used '/InvAction use whiskey 1516625061.00'.
+15:44:12: C17.MPF.CmD.EpU:493 has gained a Whiskey 1516625073.
+15:44:12: C17.MPF.CmD.EpU:493 has gained a Whiskey 1516625074.
+15:44:13: C17.MPF.CmD.EpU:493 has gained a Whiskey 1516625076.
+15:44:13: C17.MPF.CmD.EpU:493 has gained a Whiskey 1516625077.
+15:44:13: C17.MPF.CmD.EpU:493 has gained a Whiskey 1516625078.
+15:44:13: C17.MPF.CmD.EpU:493 has gained a Whiskey 1516625079.
+15:44:19: C17.MPF.BLADE.01:917 has gained a Whiskey 1516625086.
+15:44:25: C17.MPF.BLADE.01:917 has lost a Whiskey 1516625086.
+15:44:25: C17.MPF.BLADE.01:917 has used '/InvAction use whiskey 1516625086.00'.
+15:44:29: C17.MPF.BLADE.01:917 has lost a Shotgun 1516553635.
+15:44:29: C17.MPF.BLADE.01:917 has used '/InvAction use weapon_shotgun 1516553635.00'.
+15:44:29: C17.MPF.CmD.EpU:493 has used '/Y [[ Ну что погнали, нахуй?!Убаный в рот!'.
+15:44:30: C17.MPF.BLADE.01:917 has lost a 9mm Pistol 1516555584.
+15:44:30: C17.MPF.BLADE.01:917 has used '/InvAction use weapon_pistol 1516555584.00'.
+15:44:34: C17.MPF.BLADE.01:917 has gained a Whiskey 1516625102.
+15:44:35: C17.MPF.BLADE.01:917 has gained a Whiskey 1516625104.
+15:44:35: C17.MPF.CmD.EpU:493 has lost a Whiskey 1516625068.
+15:44:35: C17.MPF.CmD.EpU:493 has used '/InvAction use whiskey 1516625068.00'.
+15:44:36: C17.MPF.CmD.EpU:493 has used '/InvAction use whiskey 1516625068.00'.
+15:44:36: C17.MPF.BLADE.01:917 has gained a Whiskey 1516625106.
+15:44:36: C17.MPF.CmD.EpU:493 has lost a Whiskey 1516625069.
+15:44:36: C17.MPF.CmD.EpU:493 has used '/InvAction use whiskey 1516625069.00'.
+15:44:36: C17.MPF.BLADE.01:917 has gained a Whiskey 1516625107.
+15:44:36: C17.MPF.CmD.EpU:493 has lost a Whiskey 1516625070.
+15:44:36: C17.MPF.CmD.EpU:493 has used '/InvAction use whiskey 1516625070.00'.
+15:44:37: C17.MPF.CmD.EpU:493 has used '/InvAction use whiskey 1516625070.00'.
+15:44:37: C17.MPF.BLADE.01:917 has gained a Whiskey 1516625109.
+15:44:37: C17.MPF.CmD.EpU:493 has lost a Whiskey 1516625071.
+15:44:37: C17.MPF.CmD.EpU:493 has used '/InvAction use whiskey 1516625071.00'.
+15:44:37: C17.MPF.CmD.EpU:493 has lost a Whiskey 1516625073.
+15:44:37: C17.MPF.CmD.EpU:493 has used '/InvAction use whiskey 1516625073.00'.
+15:44:38: C17.MPF.CmD.EpU:493 has lost a Whiskey 1516625074.
+15:44:38: C17.MPF.CmD.EpU:493 has used '/InvAction use whiskey 1516625074.00'.
+15:44:38: C17.MPF.CmD.EpU:493 has lost a Whiskey 1516625076.
+15:44:38: C17.MPF.CmD.EpU:493 has used '/InvAction use whiskey 1516625076.00'.
+15:44:39: C17.MPF.CmD.EpU:493 has lost a Whiskey 1516625077.
+15:44:39: C17.MPF.CmD.EpU:493 has used '/InvAction use whiskey 1516625077.00'.
+15:44:39: C17.MPF.CmD.EpU:493 has lost a Whiskey 1516625078.
+15:44:39: C17.MPF.CmD.EpU:493 has used '/InvAction use whiskey 1516625078.00'.
+15:44:39: C17.MPF.CmD.EpU:493 has used '/InvAction use whiskey 1516625078.00'.
+15:44:40: C17.MPF.CmD.EpU:493 has lost a Whiskey 1516625079.
+15:44:40: C17.MPF.CmD.EpU:493 has used '/InvAction use whiskey 1516625079.00'.
+15:44:40: C17.MPF.BLADE.01:917 has lost a Whiskey 1516625102.
+15:44:40: C17.MPF.BLADE.01:917 has used '/InvAction use whiskey 1516625102.00'.
+15:44:41: C17.MPF.BLADE.01:917 has lost a Whiskey 1516625104.
+15:44:41: C17.MPF.BLADE.01:917 has used '/InvAction use whiskey 1516625104.00'.
+15:44:41: C17.MPF.BLADE.01:917 has lost a Whiskey 1516625106.
+15:44:41: C17.MPF.BLADE.01:917 has used '/InvAction use whiskey 1516625106.00'.
+15:44:42: C17.MPF.BLADE.01:917 has lost a Whiskey 1516625107.
+15:44:42: C17.MPF.BLADE.01:917 has used '/InvAction use whiskey 1516625107.00'.
+15:44:42: C17.MPF.BLADE.01:917 has lost a Whiskey 1516625109.
+15:44:42: C17.MPF.BLADE.01:917 has used '/InvAction use whiskey 1516625109.00'.
+15:44:46: C17.MPF.BLADE.01:917 has gained a Whiskey 1516625119.
+15:44:46: C17.MPF.BLADE.01:917 has gained a Whiskey 1516625120.
+15:44:46: C17.MPF.BLADE.01:917 has gained a Whiskey 1516625121.
+15:44:47: C17.MPF.BLADE.01:917 has gained a Whiskey 1516625123.
+15:44:47: C17.MPF.CmD.EpU:493 has gained a Beer 1516625124.
+15:44:47: C17.MPF.CmD.EpU:493 has gained a Beer 1516625125.
+15:44:47: C17.MPF.BLADE.01:917 has gained a Whiskey 1516625126.
+15:44:47: C17.MPF.CmD.EpU:493 has gained a Beer 1516625127.
+15:44:48: C17.MPF.CmD.EpU:493 has gained a Beer 1516625129.
+15:44:48: C17.MPF.CmD.EpU:493 has gained a Beer 1516625130.
+15:44:48: C17.MPF.CmD.EpU:493 has gained a Beer 1516625131.
+15:44:49: C17.MPF.CmD.EpU:493 has gained a Beer 1516625133.
+15:44:49: C17.MPF.CmD.EpU:493 has gained a Beer 1516625134.
+15:44:49: C17.MPF.CmD.EpU:493 has gained a Beer 1516625135.
+15:44:50: C17.MPF.BLADE.01:917 has lost a Whiskey 1516625119.
+15:44:50: C17.MPF.BLADE.01:917 has used '/InvAction use whiskey 1516625119.00'.
+15:44:50: C17.MPF.CmD.EpU:493 has gained a Beer 1516625137.
+15:44:50: C17.MPF.BLADE.01:917 has lost a Whiskey 1516625120.
+15:44:50: C17.MPF.BLADE.01:917 has used '/InvAction use whiskey 1516625120.00'.
+15:44:51: C17.MPF.BLADE.01:917 has lost a Whiskey 1516625121.
+15:44:51: C17.MPF.BLADE.01:917 has used '/InvAction use whiskey 1516625121.00'.
+15:44:51: C17.MPF.BLADE.01:917 has lost a Whiskey 1516625123.
+15:44:51: C17.MPF.BLADE.01:917 has used '/InvAction use whiskey 1516625123.00'.
+15:44:51: C17.MPF.BLADE.01:917 has lost a Whiskey 1516625126.
+15:44:51: C17.MPF.BLADE.01:917 has used '/InvAction use whiskey 1516625126.00'.
+15:44:52: C17.MPF.CmD.EpU:493 has lost a Beer 1516625124.
+15:44:52: C17.MPF.CmD.EpU:493 has used '/InvAction use beer 1516625124.00'.
+15:44:53: C17.MPF.CmD.EpU:493 has used '/InvAction use beer 1516625124.00'.
+15:44:53: C17.MPF.CmD.EpU:493 has lost a Beer 1516625125.
+15:44:53: C17.MPF.CmD.EpU:493 has used '/InvAction use beer 1516625125.00'.
+15:44:53: C17.MPF.CmD.EpU:493 has lost a Beer 1516625127.
+15:44:53: C17.MPF.CmD.EpU:493 has used '/InvAction use beer 1516625127.00'.
+15:44:53: C17.MPF.BLADE.01:917 has gained a Whiskey 1516625141.
+15:44:54: C17.MPF.CmD.EpU:493 has lost a Beer 1516625129.
+15:44:54: C17.MPF.CmD.EpU:493 has used '/InvAction use beer 1516625129.00'.
+15:44:54: C17.MPF.BLADE.01:917 has gained a Whiskey 1516625143.
+15:44:54: C17.MPF.CmD.EpU:493 has lost a Beer 1516625130.
+15:44:54: C17.MPF.CmD.EpU:493 has used '/InvAction use beer 1516625130.00'.
+15:44:55: C17.MPF.BLADE.01:917 has gained a Whiskey 1516625145.
+15:44:55: C17.MPF.CmD.EpU:493 has lost a Beer 1516625131.
+15:44:55: C17.MPF.CmD.EpU:493 has used '/InvAction use beer 1516625131.00'.
+15:44:55: C17.MPF.CmD.EpU:493 has used '/InvAction use beer 1516625131.00'.
+15:44:55: C17.MPF.CmD.EpU:493 has lost a Beer 1516625133.
+15:44:55: C17.MPF.CmD.EpU:493 has used '/InvAction use beer 1516625133.00'.
+15:44:56: C17.MPF.CmD.EpU:493 has lost a Beer 1516625134.
+15:44:56: C17.MPF.CmD.EpU:493 has used '/InvAction use beer 1516625134.00'.
+15:44:56: C17.MPF.CmD.EpU:493 has lost a Beer 1516625135.
+15:44:56: C17.MPF.CmD.EpU:493 has used '/InvAction use beer 1516625135.00'.
+15:44:57: C17.MPF.CmD.EpU:493 has lost a Beer 1516625137.
+15:44:57: C17.MPF.CmD.EpU:493 has used '/InvAction use beer 1516625137.00'.
+15:44:58: C17.MPF.BLADE.01:917 has lost a Whiskey 1516625141.
+15:44:58: C17.MPF.BLADE.01:917 has used '/InvAction use whiskey 1516625141.00'.
+15:44:59: C17.MPF.BLADE.01:917 has lost a Whiskey 1516625143.
+15:44:59: C17.MPF.BLADE.01:917 has used '/InvAction use whiskey 1516625143.00'.
+15:44:59: C17.MPF.BLADE.01:917 has lost a Whiskey 1516625145.
+15:44:59: C17.MPF.BLADE.01:917 has used '/InvAction use whiskey 1516625145.00'.
+15:45:07: [LOOC] C17.MPF.BLADE.01:917: Я поплыл...
+15:45:07: [LOOC] C17.MPF.BLADE.01:917: Я поплыл...
+15:45:07: [LOOC] C17.MPF.BLADE.01:917: Я поплыл...
+15:45:09: C17.MPF.BLADE.01:917 has used '/CharFallOver'.
+15:45:10: [LOOC] C17.MPF.CmD.EpU:493: Оооооо, пиздет меня шандохает.
+15:45:10: [LOOC] C17.MPF.CmD.EpU:493: Оооооо, пиздет меня шандохает.
+15:45:10: [LOOC] C17.MPF.CmD.EpU:493: Оооооо, пиздет меня шандохает.
+15:45:17: C17.MPF.BLADE.01:917 has used '/CharGetUp'.
+15:46:57: C17.MPF.CmD.EpU:493 has used '/CharFallOver'.
+15:46:58: C17.MPF.CmD.EpU:493 has used '/CharGetUp'.
+15:47:19: [OOC] C17.MPF.CmD.EpU:493: Soooqaaaaaaaaaaaaaaaaaaaaaa!
+15:47:45: C17.MPF.BLADE.01:917 has used '/Observer'.
+15:47:52: [LOOC] C17.MPF.CmD.EpU:493: Хочешь под юбку заглянуть?
+15:47:52: [LOOC] C17.MPF.CmD.EpU:493: Хочешь под юбку заглянуть?
+15:47:52: [LOOC] C17.MPF.CmD.EpU:493: Хочешь под юбку заглянуть?
+15:47:58: [LOOC] C17.MPF.BLADE.01:917: Ага
+15:47:58: [LOOC] C17.MPF.BLADE.01:917: Ага
+15:47:58: [LOOC] C17.MPF.BLADE.01:917: Ага
+15:47:59: C17.MPF.BLADE.01:917 has used '/Observer'.
+15:48:27: [LOOC] C17.MPF.CmD.EpU:493: Надо с описанием подшаманить.
+15:48:27: [LOOC] C17.MPF.CmD.EpU:493: Надо с описанием подшаманить.
+15:48:27: [LOOC] C17.MPF.CmD.EpU:493: Надо с описанием подшаманить.
+15:48:37: [LOOC] C17.MPF.CmD.EpU:493: И тебе тоже
+15:48:37: [LOOC] C17.MPF.CmD.EpU:493: И тебе тоже
+15:48:37: [LOOC] C17.MPF.CmD.EpU:493: И тебе тоже
+15:48:45: C17.MPF.CmD.EpU:493 has used '/CharPhysDesc'.
+15:49:56: C17.MPF.CmD.EpU:493 has used '/CharPhysDesc Female Elite CP unit|Ctolh on elit uniform of CP|On the spine backpack and AK47|The size of boobs 2'.
+15:50:02: [LOOC] C17.MPF.BLADE.01:917: паш
+15:50:02: [LOOC] C17.MPF.BLADE.01:917: паш
+15:50:02: [LOOC] C17.MPF.BLADE.01:917: паш
+15:50:07: [LOOC] C17.MPF.CmD.EpU:493: ?
+15:50:07: [LOOC] C17.MPF.CmD.EpU:493: ?
+15:50:07: [LOOC] C17.MPF.CmD.EpU:493: ?
+15:50:13: [LOOC] C17.MPF.BLADE.01:917: Хочу тян своему персу
+15:50:13: [LOOC] C17.MPF.BLADE.01:917: Хочу тян своему персу
+15:50:13: [LOOC] C17.MPF.BLADE.01:917: Хочу тян своему персу
+15:50:24: [LOOC] C17.MPF.CmD.EpU:493: А я какбуд-то не знаю...
+15:50:24: [LOOC] C17.MPF.CmD.EpU:493: А я какбуд-то не знаю...
+15:50:24: [LOOC] C17.MPF.CmD.EpU:493: А я какбуд-то не знаю...
+15:50:28: [LOOC] C17.MPF.CmD.EpU:493: Зови гучи.
+15:50:28: [LOOC] C17.MPF.CmD.EpU:493: Зови гучи.
+15:50:28: [LOOC] C17.MPF.CmD.EpU:493: Зови гучи.
+15:50:35: [LOOC] C17.MPF.BLADE.01:917: иди нахуй
+15:50:35: [LOOC] C17.MPF.BLADE.01:917: иди нахуй
+15:50:35: [LOOC] C17.MPF.BLADE.01:917: иди нахуй
+15:50:51: C17.MPF.CmD.EpU:493 has taken 29 damage from C17.MPF.CmD.EpU:493 with weapon_rpg, leaving them at 71 health and 0 armor!
+15:50:54: [LOOC] C17.MPF.BLADE.01:917: Я хочу, чтобы это был чар Гриня
+15:50:54: [LOOC] C17.MPF.BLADE.01:917: Я хочу, чтобы это был чар Гриня
+15:50:54: [LOOC] C17.MPF.BLADE.01:917: Я хочу, чтобы это был чар Гриня
+15:51:02: [LOOC] C17.MPF.CmD.EpU:493: ?
+15:51:02: [LOOC] C17.MPF.CmD.EpU:493: ?
+15:51:02: [LOOC] C17.MPF.CmD.EpU:493: ?
+15:51:07: C17.MPF.BLADE.01:917 has gained a Shotgun 1516553635.
+15:51:08: C17.MPF.BLADE.01:917 has gained a 9mm Pistol 1516555584.
+15:51:16: [LOOC] C17.MPF.BLADE.01:917: Гринь Кирилл
+15:51:16: [LOOC] C17.MPF.BLADE.01:917: Гринь Кирилл
+15:51:16: [LOOC] C17.MPF.BLADE.01:917: Гринь Кирилл
+15:51:39: [LOOC] C17.MPF.CmD.EpU:493: А я думал меня, все я обижен...
+15:51:39: [LOOC] C17.MPF.CmD.EpU:493: А я думал меня, все я обижен...
+15:51:39: [LOOC] C17.MPF.CmD.EpU:493: А я думал меня, все я обижен...
+15:51:54: [LOOC] C17.MPF.BLADE.01:917: Мне жо тебя переть и переть
+15:51:54: [LOOC] C17.MPF.BLADE.01:917: Мне жо тебя переть и переть
+15:51:54: [LOOC] C17.MPF.BLADE.01:917: Мне жо тебя переть и переть
+15:52:06: [LOOC] C17.MPF.CmD.EpU:493: Неа...Все продумано
+15:52:06: [LOOC] C17.MPF.CmD.EpU:493: Неа...Все продумано
+15:52:06: [LOOC] C17.MPF.CmD.EpU:493: Неа...Все продумано
+15:52:11: [LOOC] C17.MPF.BLADE.01:917: +тебе лишь бы что-нибудь в пизду засунуть
+15:52:11: [LOOC] C17.MPF.BLADE.01:917: +тебе лишь бы что-нибудь в пизду засунуть
+15:52:11: [LOOC] C17.MPF.BLADE.01:917: +тебе лишь бы что-нибудь в пизду засунуть
+15:52:11: [LOOC] C17.MPF.CmD.EpU:493: Зови гучи повторюсь.
+15:52:11: [LOOC] C17.MPF.CmD.EpU:493: Зови гучи повторюсь.
+15:52:11: [LOOC] C17.MPF.CmD.EpU:493: Зови гучи повторюсь.
+15:52:19: [LOOC] C17.MPF.CmD.EpU:493: Неа.
+15:52:19: [LOOC] C17.MPF.CmD.EpU:493: Неа.
+15:52:19: [LOOC] C17.MPF.CmD.EpU:493: Неа.
+15:52:31: [LOOC] C17.MPF.BLADE.01:917: Сам зови
+15:52:31: [LOOC] C17.MPF.BLADE.01:917: Сам зови
+15:52:31: [LOOC] C17.MPF.BLADE.01:917: Сам зови
+15:52:40: [LOOC] C17.MPF.CmD.EpU:493: Я не в сети в СТИМЕ.
+15:52:40: [LOOC] C17.MPF.CmD.EpU:493: Я не в сети в СТИМЕ.
+15:52:40: [LOOC] C17.MPF.CmD.EpU:493: Я не в сети в СТИМЕ.
+15:52:52: C17.MPF.CmD.EpU:493 has taken 82 damage from combine_mine, leaving them at 18 health and 0 armor!
+15:52:52: C17.MPF.BLADE.01:917 has taken 60 damage from combine_mine, leaving them at 40 health and 0 armor!
+15:53:10: [LOOC] C17.MPF.BLADE.01:917: Он не в сети
+15:53:10: [LOOC] C17.MPF.BLADE.01:917: Он не в сети
+15:53:10: [LOOC] C17.MPF.BLADE.01:917: Он не в сети
+15:55:35: [LOOC] C17.MPF.CmD.EpU:493: Ти будишь со мной, все продуманно уже...
+15:55:35: [LOOC] C17.MPF.CmD.EpU:493: Ти будишь со мной, все продуманно уже...
+15:55:35: [LOOC] C17.MPF.CmD.EpU:493: Ти будишь со мной, все продуманно уже...
+15:55:43: [LOOC] C17.MPF.CmD.EpU:493: +Гринь будет РКТ
+15:55:43: [LOOC] C17.MPF.CmD.EpU:493: +Гринь будет РКТ
+15:55:43: [LOOC] C17.MPF.CmD.EpU:493: +Гринь будет РКТ
+15:58:29: C17.MPF.CmD.EpU:493 has used '/Observer'.
+15:58:37: C17.MPF.CmD.EpU:493 has used '/Observer'.
+15:58:40: C17.MPF.CmD.EpU:493 has used '/Observer'.
+15:58:45: C17.MPF.CmD.EpU:493 has used '/Observer'.
+16:01:46: C17.MPF.CmD.EpU:493 has used '/Observer'.
+16:03:34: LogPlayerSpawnModel
+16:03:34: LogPlayerSpawnModel
+16:04:24: C17.MPF.CmD.EpU:493 has used '/Observer'.
+16:04:28: C17.MPF.CmD.EpU:493 has used '/Observer'.
+16:04:46: LogPlayerSpawnModel
+16:04:46: LogPlayerSpawnModel
+16:06:23: C17.MPF.CmD.EpU:493 (STEAM_0:0:143428035/84.51.200.110:10324) has disconnected.
+16:13:49: Бубль-Гум (STEAM_0:0:143428035/84.51.200.110:12705) has connected.
+16:15:59: Бубль-Гум has loaded the character 'C17.OTA.GUARD.EOW:739'.
+16:18:02: G13|Твой капитан (STEAM_0:0:168484685/2.62.162.238:27005) has connected.
+16:18:25: [OOC] C17.OTA.GUARD.EOW:739: Ти хто?
+16:18:44: C17.OTA.GUARD.EOW:739 has lost a Shotgun 1516555688.
+16:18:44: C17.OTA.GUARD.EOW:739 has used '/InvAction use weapon_shotgun 1516555688.00'.
+16:18:45: C17.OTA.GUARD.EOW:739 has lost a 9mm Pistol 1516555585.
+16:18:45: C17.OTA.GUARD.EOW:739 has used '/InvAction use weapon_pistol 1516555585.00'.
+16:19:13: G13|Твой капитан has loaded the character 'Gillion Vandersonn'.
+16:19:19: [OOC] C17.OTA.GUARD.EOW:739: Ти хто?
+16:19:22: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+16:19:31: [OOC] Gillion Vandersonn: я друг ;)
+16:19:33: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+16:19:51: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+16:19:56: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+16:20:29: [OOC] Gillion Vandersonn: я прост в первый день открытия еще заходил.
+16:20:37: C17.MPF.BLADE.01:917 has taken 53 damage from C17.OTA.GUARD.EOW:739 with weapon_shotgun, leaving them at 47 health and 0 armor!
+16:20:40: C17.OTA.GUARD.EOW:739 has dealt 53 damage to C17.MPF.BLADE.01:917 with Shotgun, killing them!
+16:20:49: C17.OTA.GUARD.EOW:739 has used '/StorageClose'.
+16:22:18: Gillion Vandersonn has used '/InvAction drop health_kit 1516440387.00'.
+16:22:21: Gillion Vandersonn has lost a Health Kit 1516440387.
+16:22:21: Gillion Vandersonn has used '/InvAction drop health_kit 1516440387.00'.
+16:22:42: [OOC] Gillion Vandersonn: где ота?
+16:23:18: Gillion Vandersonn has gained a Health Kit 1516440387.
+16:24:46: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+16:24:48: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+16:24:52: Gillion Vandersonn has used '/CharFallOver'.
+16:24:53: Gillion Vandersonn has used '/CharGetUp'.
+16:25:56: Gillion Vandersonn has lost a Breen's Water 1516442385.
+16:25:56: Gillion Vandersonn has used '/InvAction drop breen_s_water 1516442385.00'.
+16:26:06: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+16:26:35: Gillion Vandersonn has gained a Breen's Water 1516442385.
+16:27:10: Gillion Vandersonn has used '/PermitBuy business'.
+16:27:24: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+16:27:43: [OOC] Gillion Vandersonn: а почему хп убрали?
+16:27:54: [OOC] C17.OTA.GUARD.EOW:739: Не убрали...
+16:28:01: [OOC] Gillion Vandersonn: убрали.
+16:28:31: [OOC] Gillion Vandersonn: ты на хеку лайве кто?
+16:28:44: [OOC] C17.OTA.GUARD.EOW:739: Джон Мальборо...
+16:28:56: [OOC] Gillion Vandersonn: почему ты у меня в друзьях Джон Мальборо.
+16:29:06: [OOC] Gillion Vandersonn: наверное я тебя уважаю
+16:29:17: [OOC] C17.OTA.GUARD.EOW:739: Я админом был...
+16:29:25: [OOC] Gillion Vandersonn: pfff и что?
+16:30:08: [OOC] C17.OTA.GUARD.EOW:739: Который был нормальный, исключение Варга и Антон.Старшие админы не считаются.
+16:30:31: [OOC] Gillion Vandersonn: ты считаешь Варгу не нормальным одменом?
+16:30:44: Gillion Vandersonn has used '/StorageClose'.
+16:30:45: [OOC] C17.OTA.GUARD.EOW:739: Исключения- нормальные админы...Кхе.
+16:31:00: [OOC] C17.OTA.GUARD.EOW:739: Еще меня звали Гучи, Еду в магазин Гучи...
+16:31:05: [OOC] C17.OTA.GUARD.EOW:739: Как там еще...
+16:31:21: [OOC] Gillion Vandersonn: а помнишь великого Гиллиона? он конеш не был одменом
+16:31:22: [OOC] C17.OTA.GUARD.EOW:739: Vincent Delorenzy
+16:31:33: [OOC] C17.OTA.GUARD.EOW:739: Ты был постоянно фантомом.
+16:31:46: [OOC] Gillion Vandersonn: ты меня раскрылллл
+16:32:56: [OOC] C17.OTA.GUARD.EOW:739: Я не помню больше своих псевданимов...
+16:33:23: [OOC] Gillion Vandersonn: го меня и на этом сервере в фантомы? тут есть такие?
+16:33:26: [OOC] C17.OTA.GUARD.EOW:739: Помню лишь, что постоянно играл за Элитного рейнджера.
+16:33:34: [OOC] C17.OTA.GUARD.EOW:739: С 03.
+16:33:36: Gillion Vandersonn has used '/StorageClose'.
+16:33:46: Бубль-Гум has loaded the character 'C17.MPF.CmD.EpU:493'.
+16:33:55: [OOC] Gillion Vandersonn: ну се гоу мена
+16:34:08: C17.MPF.CmD.EpU:493 has used '/CharSetModel C17.MPF.CmD.EpU:493 models/hl2rp/metropolice/hl2_elitfemalecp1.mdl'.
+16:34:21: Gillion Vandersonn has gained a Pulse-Rifle 1516531728.
+16:34:21: Gillion Vandersonn has lost a Pulse-Rifle 1516531728.
+16:34:21: Gillion Vandersonn has used '/InvAction use weapon_ar2 1516531728'.
+16:34:39: [OOC] Gillion Vandersonn: серьезно? я кое ч т о нашел. подойди к гп или тп
+16:34:44: C17.MPF.CmD.EpU:493 has used '/Observer'.
+16:34:51: C17.MPF.CmD.EpU:493 has used '/Observer'.
+16:35:06: [LOOC] C17.MPF.CmD.EpU:493: Да забей...Тут постоянно подыхуют.
+16:35:06: [LOOC] C17.MPF.CmD.EpU:493: Да забей...Тут постоянно подыхуют.
+16:35:06: [LOOC] C17.MPF.CmD.EpU:493: Да забей...Тут постоянно подыхуют.
+16:35:14: Gillion Vandersonn has lost a Pulse-Rifle 1516531728.
+16:35:14: Gillion Vandersonn has used '/DropWeapon'.
+16:35:15: C17.MPF.CmD.EpU:493 has lost a .357 Magnum 1516372698.
+16:35:15: C17.MPF.CmD.EpU:493 has used '/InvAction use weapon_357 1516372698.00'.
+16:35:16: C17.MPF.CmD.EpU:493 has lost a RPG 1516210529.
+16:35:16: C17.MPF.CmD.EpU:493 has used '/InvAction use weapon_rpg 1516210529.00'.
+16:35:21: C17.MPF.CmD.EpU:493 has gained a Pulse-Rifle 1516531728.
+16:35:21: C17.MPF.CmD.EpU:493 has used '/InvAction use weapon_ar2 1516531728'.
+16:35:21: C17.MPF.CmD.EpU:493 has lost a Pulse-Rifle 1516531728.
+16:35:24: C17.MPF.CmD.EpU:493 has used '/Observer'.
+16:35:29: C17.MPF.CmD.EpU:493 has used '/Observer'.
+16:35:30: C17.MPF.CmD.EpU:493 has taken 28 damage from worldspawn, leaving them at 72 health and 0 armor!
+16:35:34: Gillion Vandersonn has lost a Health Kit 1516440387.
+16:35:34: Gillion Vandersonn has used '/InvAction drop health_kit 1516440387.00'.
+16:35:39: [LOOC] Gillion Vandersonn: это 3 дня назад нашел
+16:35:39: [LOOC] Gillion Vandersonn: это 3 дня назад нашел
+16:35:39: [LOOC] Gillion Vandersonn: это 3 дня назад нашел
+16:35:44: C17.MPF.CmD.EpU:493 has gained a Health Kit 1516440387.
+16:36:16: [LOOC] Gillion Vandersonn: как мне в ГэО пойти? проведите меня как елитного рпишера то то весемь.
+16:36:16: [LOOC] Gillion Vandersonn: как мне в ГэО пойти? проведите меня как елитного рпишера то то весемь.
+16:36:16: [LOOC] Gillion Vandersonn: как мне в ГэО пойти? проведите меня как елитного рпишера то то весемь.
+16:36:19: [LOOC] Gillion Vandersonn: mmmm ???
+16:36:19: [LOOC] Gillion Vandersonn: mmmm ???
+16:36:19: [LOOC] Gillion Vandersonn: mmmm ???
+16:36:37: [LOOC] C17.MPF.CmD.EpU:493: OOC nabor pered otkritiem.
+16:36:37: [LOOC] C17.MPF.CmD.EpU:493: OOC nabor pered otkritiem.
+16:36:37: [LOOC] C17.MPF.CmD.EpU:493: OOC nabor pered otkritiem.
+16:37:01: [LOOC] C17.MPF.CmD.EpU:493: Сек.
+16:37:01: [LOOC] C17.MPF.CmD.EpU:493: Сек.
+16:37:01: [LOOC] C17.MPF.CmD.EpU:493: Сек.
+16:37:03: C17.MPF.CmD.EpU:493 has used '/Observer'.
+16:37:11: C17.MPF.CmD.EpU:493 has used '/Observer'.
+16:37:21: Gillion Vandersonn has used '/AnimATW'.
+16:37:24: Gillion Vandersonn has used '/AnimDeny'.
+16:37:26: Gillion Vandersonn has used '/AnimSit'.
+16:37:41: Бубль-Гум has loaded the character 'C17.OTA.GUARD.EOW:739'.
+16:37:49: C17.OTA.GUARD.EOW:739 has used '/Dispatch EXOGEN'.
+16:37:51: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+16:37:55: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+16:38:08: C17.OTA.GUARD.EOW:739 has lost a Shotgun 1516555688.
+16:38:08: C17.OTA.GUARD.EOW:739 has used '/InvAction use weapon_shotgun 1516555688.00'.
+16:38:09: C17.OTA.GUARD.EOW:739 has lost a 9mm Pistol 1516555585.
+16:38:09: C17.OTA.GUARD.EOW:739 has used '/InvAction use weapon_pistol 1516555585.00'.
+16:38:31: [LOOC] Gillion Vandersonn: все вопросы к тебе?
+16:38:31: [LOOC] Gillion Vandersonn: все вопросы к тебе?
+16:38:31: [LOOC] Gillion Vandersonn: все вопросы к тебе?
+16:38:33: C17.OTA.GUARD.EOW:739 has used '/Dispatch FAILURE'.
+16:38:37: [LOOC] Gillion Vandersonn: так какой набор будыт?
+16:38:37: [LOOC] Gillion Vandersonn: так какой набор будыт?
+16:38:37: [LOOC] Gillion Vandersonn: так какой набор будыт?
+16:38:51: [LOOC] C17.OTA.GUARD.EOW:739: В ГО и ОТА, потом в пыщи.
+16:38:51: [LOOC] C17.OTA.GUARD.EOW:739: В ГО и ОТА, потом в пыщи.
+16:38:51: [LOOC] C17.OTA.GUARD.EOW:739: В ГО и ОТА, потом в пыщи.
+16:38:55: [LOOC] C17.OTA.GUARD.EOW:739: Мейби в ГСР.
+16:38:55: [LOOC] C17.OTA.GUARD.EOW:739: Мейби в ГСР.
+16:38:55: [LOOC] C17.OTA.GUARD.EOW:739: Мейби в ГСР.
+16:39:10: C17.OTA.GUARD.EOW:739 has lost a Flash 1516623222.
+16:39:10: C17.OTA.GUARD.EOW:739 has used '/InvAction use cw_flashgrenade 1516623222.00'.
+16:39:15: C17.OTA.GUARD.EOW:739 has used '/InvAction use cw_flashgrenade 1516623223.00'.
+16:39:21: [LOOC] Gillion Vandersonn: смотри план какой, надо чтобы меня 100% взяли в ГэО. Ну ты тип меня знаешь
+16:39:21: [LOOC] Gillion Vandersonn: смотри план какой, надо чтобы меня 100% взяли в ГэО. Ну ты тип меня знаешь
+16:39:21: [LOOC] Gillion Vandersonn: смотри план какой, надо чтобы меня 100 взяли в ГэО. Ну ты тип меня знаешь
+16:39:25: [LOOC] Gillion Vandersonn: тру рпшер
+16:39:25: [LOOC] Gillion Vandersonn: тру рпшер
+16:39:25: [LOOC] Gillion Vandersonn: тру рпшер
+16:39:28: [LOOC] Gillion Vandersonn: и т.д.
+16:39:28: [LOOC] Gillion Vandersonn: и т.д.
+16:39:28: [LOOC] Gillion Vandersonn: и т.д.
+16:39:30: [LOOC] Gillion Vandersonn: ну ты понял
+16:39:30: [LOOC] Gillion Vandersonn: ну ты понял
+16:39:30: [LOOC] Gillion Vandersonn: ну ты понял
+16:39:49: [LOOC] C17.OTA.GUARD.EOW:739: Блата не будет, сорри.
+16:39:49: [LOOC] C17.OTA.GUARD.EOW:739: Блата не будет, сорри.
+16:39:49: [LOOC] C17.OTA.GUARD.EOW:739: Блата не будет, сорри.
+16:40:08: [LOOC] C17.OTA.GUARD.EOW:739: Я стал куратором за послностью сделаную группу стим.
+16:40:08: [LOOC] C17.OTA.GUARD.EOW:739: Я стал куратором за послностью сделаную группу стим.
+16:40:08: [LOOC] C17.OTA.GUARD.EOW:739: Я стал куратором за послностью сделаную группу стим.
+16:40:29: [LOOC] Gillion Vandersonn: все - же...
+16:40:29: [LOOC] Gillion Vandersonn: все - же...
+16:40:29: [LOOC] Gillion Vandersonn: все - же...
+16:40:39: [LOOC] Gillion Vandersonn: ты меня знаешь.
+16:40:39: [LOOC] Gillion Vandersonn: ты меня знаешь.
+16:40:39: [LOOC] Gillion Vandersonn: ты меня знаешь.
+16:40:44: [LOOC] Gillion Vandersonn: уже есть шансэ
+16:40:44: [LOOC] Gillion Vandersonn: уже есть шансэ
+16:40:44: [LOOC] Gillion Vandersonn: уже есть шансэ
+16:40:52: Gillion Vandersonn has used '/AnimMotion Left'.
+16:40:55: Gillion Vandersonn has used '/AnimSitWall'.
+16:41:00: Gillion Vandersonn has used '/AnimThreat'.
+16:41:04: Gillion Vandersonn has used '/AnimSit'.
+16:41:07: [LOOC] C17.OTA.GUARD.EOW:739: Может быть, я все-ровно буду ЕПУ, у меня уже есть 01 блейд и 02 хеликс.
+16:41:07: [LOOC] C17.OTA.GUARD.EOW:739: Может быть, я все-ровно буду ЕПУ, у меня уже есть 01 блейд и 02 хеликс.
+16:41:07: [LOOC] C17.OTA.GUARD.EOW:739: Может быть, я все-ровно буду ЕПУ, у меня уже есть 01 блейд и 02 хеликс.
+16:41:21: [LOOC] C17.OTA.GUARD.EOW:739: Если что в открытие будет Инспекционная фаза.
+16:41:21: [LOOC] C17.OTA.GUARD.EOW:739: Если что в открытие будет Инспекционная фаза.
+16:41:21: [LOOC] C17.OTA.GUARD.EOW:739: Если что в открытие будет Инспекционная фаза.
+16:41:43: [LOOC] C17.OTA.GUARD.EOW:739: Потому что, по лору данный сектор обьявлен Асоциальным из-за множество наподений 505
+16:41:43: [LOOC] C17.OTA.GUARD.EOW:739: Потому что, по лору данный сектор обьявлен Асоциальным из-за множество наподений 505
+16:41:43: [LOOC] C17.OTA.GUARD.EOW:739: Потому что, по лору данный сектор обьявлен Асоциальным из-за множество наподений 505
+16:42:02: [LOOC] Gillion Vandersonn: ууу. А как у вас повышения будут?
+16:42:02: [LOOC] Gillion Vandersonn: ууу. А как у вас повышения будут?
+16:42:02: [LOOC] Gillion Vandersonn: ууу. А как у вас повышения будут?
+16:42:04: [LOOC] C17.OTA.GUARD.EOW:739: А из-за нехватки мест для граждан, этот решили востановить.
+16:42:04: [LOOC] C17.OTA.GUARD.EOW:739: А из-за нехватки мест для граждан, этот решили востановить.
+16:42:04: [LOOC] C17.OTA.GUARD.EOW:739: А из-за нехватки мест для граждан, этот решили востановить.
+16:42:13: [LOOC] C17.OTA.GUARD.EOW:739: Онлай + ОП.
+16:42:13: [LOOC] C17.OTA.GUARD.EOW:739: Онлай + ОП.
+16:42:13: [LOOC] C17.OTA.GUARD.EOW:739: Онлай + ОП.
+16:42:36: [LOOC] Gillion Vandersonn: сегодня на улице холодно.
+16:42:36: [LOOC] Gillion Vandersonn: сегодня на улице холодно.
+16:42:36: [LOOC] Gillion Vandersonn: сегодня на улице холодно.
+16:42:41: [LOOC] Gillion Vandersonn: мне написали идти нахуй
+16:42:41: [LOOC] Gillion Vandersonn: мне написали идти нахуй
+16:42:41: [LOOC] Gillion Vandersonn: мне написали идти нахуй
+16:42:44: [LOOC] Gillion Vandersonn: - зарплата.
+16:42:44: [LOOC] Gillion Vandersonn: - зарплата.
+16:42:44: [LOOC] Gillion Vandersonn: - зарплата.
+16:43:04: [LOOC] Gillion Vandersonn: а в блейд с какого звания?
+16:43:04: [LOOC] Gillion Vandersonn: а в блейд с какого звания?
+16:43:04: [LOOC] Gillion Vandersonn: а в блейд с какого звания?
+16:43:08: [LOOC] C17.OTA.GUARD.EOW:739: 03.
+16:43:08: [LOOC] C17.OTA.GUARD.EOW:739: 03.
+16:43:08: [LOOC] C17.OTA.GUARD.EOW:739: 03.
+16:43:15: [LOOC] Gillion Vandersonn: есть кто с 02?
+16:43:15: [LOOC] Gillion Vandersonn: есть кто с 02?
+16:43:15: [LOOC] Gillion Vandersonn: есть кто с 02?
+16:43:31: [LOOC] C17.OTA.GUARD.EOW:739: Подотряды блейд с 01.
+16:43:31: [LOOC] C17.OTA.GUARD.EOW:739: Подотряды блейд с 01.
+16:43:31: [LOOC] C17.OTA.GUARD.EOW:739: Подотряды блейд с 01.
+16:43:48: [LOOC] Gillion Vandersonn: я вроде их видел. может ошибаюсь... какие будут подотряды?
+16:43:48: [LOOC] Gillion Vandersonn: я вроде их видел. может ошибаюсь... какие будут подотряды?
+16:43:48: [LOOC] Gillion Vandersonn: я вроде их видел. может ошибаюсь... какие будут подотряды?
+16:44:05: [LOOC] C17.OTA.GUARD.EOW:739: Esence - "SUPPORT"
+16:44:05: [LOOC] C17.OTA.GUARD.EOW:739: Esence - "SUPPORT"
+16:44:05: [LOOC] C17.OTA.GUARD.EOW:739: Esence - "SUPPORT"
+16:44:24: [LOOC] C17.OTA.GUARD.EOW:739: Как хеликсы, только хеликсы служат в ЗС, а эти могут выходить на патрули.
+16:44:24: [LOOC] C17.OTA.GUARD.EOW:739: Как хеликсы, только хеликсы служат в ЗС, а эти могут выходить на патрули.
+16:44:24: [LOOC] C17.OTA.GUARD.EOW:739: Как хеликсы, только хеликсы служат в ЗС, а эти могут выходить на патрули.
+16:44:30: [LOOC] C17.OTA.GUARD.EOW:739: Chaos
+16:44:30: [LOOC] C17.OTA.GUARD.EOW:739: Chaos
+16:44:30: [LOOC] C17.OTA.GUARD.EOW:739: Chaos
+16:44:38: [LOOC] C17.OTA.GUARD.EOW:739: "Живой Щит"
+16:44:38: [LOOC] C17.OTA.GUARD.EOW:739: "Живой Щит"
+16:44:38: [LOOC] C17.OTA.GUARD.EOW:739: "Живой Щит"
+16:44:48: [LOOC] C17.OTA.GUARD.EOW:739: Destroyer
+16:44:48: [LOOC] C17.OTA.GUARD.EOW:739: Destroyer
+16:44:48: [LOOC] C17.OTA.GUARD.EOW:739: Destroyer
+16:45:05: [LOOC] C17.OTA.GUARD.EOW:739: Слабай броня, быстрое передвижение и достаточно сильное оружие.
+16:45:05: [LOOC] C17.OTA.GUARD.EOW:739: Слабай броня, быстрое передвижение и достаточно сильное оружие.
+16:45:05: [LOOC] C17.OTA.GUARD.EOW:739: Слабай броня, быстрое передвижение и достаточно сильное оружие.
+16:45:31: [LOOC] Gillion Vandersonn: стой
+16:45:31: [LOOC] Gillion Vandersonn: стой
+16:45:31: [LOOC] Gillion Vandersonn: стой
+16:45:35: [LOOC] Gillion Vandersonn: звук включу
+16:45:35: [LOOC] Gillion Vandersonn: звук включу
+16:45:35: [LOOC] Gillion Vandersonn: звук включу
+16:47:06: C17.OTA.GUARD.EOW:739 has used '/Dispatch INSPECTION'.
+16:48:29: Gillion Vandersonn says: "Http://steamcommunity.com/groups/CPhecuCW"
+16:48:29: Gillion Vandersonn says "Http://steamcommunity.com/groups/CPhecuCW"
+16:50:48: [LOOC] Gillion Vandersonn: слыш меня?
+16:50:48: [LOOC] Gillion Vandersonn: слыш меня?
+16:50:48: [LOOC] Gillion Vandersonn: слыш меня?
+16:51:49: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+16:51:54: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+16:52:30: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+16:52:34: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+16:54:15: C17.OTA.GUARD.EOW:739 says: "Угу."
+16:54:15: C17.OTA.GUARD.EOW:739 says "<:: Угу."
+16:54:46: C17.OTA.GUARD.EOW:739 says: "Сука, они Астона возращают пизда."
+16:54:46: C17.OTA.GUARD.EOW:739 says "<:: Сука, они Астона возращают пизда."
+16:55:02: Gillion Vandersonn says: "Кто такой, не помню."
+16:55:02: Gillion Vandersonn says "Кто такой, не помню."
+16:55:10: C17.OTA.GUARD.EOW:739 says: "Кхе..."
+16:55:10: C17.OTA.GUARD.EOW:739 says "<:: Кхе..."
+16:55:22: Gillion Vandersonn says: "Помню чувака с ником Антон"
+16:55:22: Gillion Vandersonn says "Помню чувака с ником Антон"
+16:55:27: C17.OTA.GUARD.EOW:739 says: "Reporting"
+16:55:27: C17.OTA.GUARD.EOW:739 says "<:: Reporting"
+16:55:33: Gillion Vandersonn says: "для меня был гондон. это максимум чо я помню"
+16:55:33: Gillion Vandersonn says "для меня был гондон. это максимум чо я помню"
+16:55:54: C17.OTA.GUARD.EOW:739 says: "Backup"
+16:56:09: C17.OTA.GUARD.EOW:739 says: "King"
+16:57:01: C17.OTA.GUARD.EOW:739 says: "CAN 5"
+16:57:28: C17.OTA.GUARD.EOW:739 says: "Owerwatch"
+16:57:28: C17.OTA.GUARD.EOW:739 says "<:: Owerwatch"
+16:57:43: Gillion Vandersonn says: "Haha"
+16:57:43: Gillion Vandersonn says "Haha"
+16:57:53: C17.OTA.GUARD.EOW:739 says: "Object is fine-on-fine"
+16:57:53: C17.OTA.GUARD.EOW:739 says "<:: Object is fine-on-fine"
+16:58:11: C17.OTA.GUARD.EOW:739 says: "Search"
+16:58:15: C17.OTA.GUARD.EOW:739 says: "Patrol"
+16:59:07: C17.OTA.GUARD.EOW:739 says: "Guard"
+16:59:07: C17.OTA.GUARD.EOW:739 says "<:: Guard"
+16:59:11: C17.OTA.GUARD.EOW:739 says: "Move in"
+16:59:22: C17.OTA.GUARD.EOW:739 says: "Payback"
+16:59:32: C17.OTA.GUARD.EOW:739 says: "Move back"
+16:59:40: C17.OTA.GUARD.EOW:739 says: "Get out"
+16:59:44: C17.OTA.GUARD.EOW:739 says: "Get out"
+17:00:31: C17.OTA.GUARD.EOW:739 says: "Как же белопузики ахуенно выгледит."
+17:00:31: C17.OTA.GUARD.EOW:739 says "<:: Как же белопузики ахуенно выгледит."
+17:00:50: C17.OTA.GUARD.EOW:739 says: "Просто, увидишь эту фигуру в переулке ночном, обосрешся."
+17:00:50: C17.OTA.GUARD.EOW:739 says "<:: Просто, увидишь эту фигуру в переулке ночном, обосрешся."
+17:01:03: C17.OTA.GUARD.EOW:739 says: "ХЗ."
+17:01:03: C17.OTA.GUARD.EOW:739 says "<:: ХЗ."
+17:01:26: C17.OTA.GUARD.EOW:739 says: "Сначало будет сектор статусRED"
+17:01:26: C17.OTA.GUARD.EOW:739 says "<:: Сначало будет сектор статусRED"
+17:01:33: C17.OTA.GUARD.EOW:739 says: "Потом статус ORANGE"
+17:01:33: C17.OTA.GUARD.EOW:739 says "<:: Потом статус ORANGE"
+17:01:48: C17.OTA.GUARD.EOW:739 says: "ЕОВ могут выходить в РЕД и в ОРАНДЖ код сектора."
+17:01:48: C17.OTA.GUARD.EOW:739 says "<:: ЕОВ могут выходить в РЕД и в ОРАНДЖ код сектора."
+17:03:05: C17.OTA.GUARD.EOW:739 says: "Не слышу."
+17:03:05: C17.OTA.GUARD.EOW:739 says "<:: Не слышу."
+17:03:12: C17.OTA.GUARD.EOW:739 says: "Они в дискорде говорят громко."
+17:03:12: C17.OTA.GUARD.EOW:739 says "<:: Они в дискорде говорят громко."
+17:03:52: Gillion Vandersonn says: "свой у вас там дискорд"
+17:03:52: Gillion Vandersonn says "свой у вас там дискорд"
+17:03:57: C17.OTA.GUARD.EOW:739 says: "+"
+17:03:57: C17.OTA.GUARD.EOW:739 says "<:: +"
+17:04:10: Gillion Vandersonn says: "о чем говорят хоть?"
+17:04:10: Gillion Vandersonn says "о чем говорят хоть?"
+17:04:13: Gillion Vandersonn says: "и кто там?"
+17:04:13: Gillion Vandersonn says "и кто там?"
+17:07:10: C17.OTA.GUARD.EOW:739 (STEAM_0:0:143428035/84.51.200.110:12705) has disconnected.
+17:09:06: Бубль-Гум (STEAM_0:0:143428035/87.117.54.96:3072) has connected.
+17:11:25: Бубль-Гум has loaded the character 'C17.OTA.GUARD.EOW:739'.
+17:11:34: C17.OTA.GUARD.EOW:739 has lost a 9mm Pistol 1516555585.
+17:11:34: C17.OTA.GUARD.EOW:739 has used '/InvAction use weapon_pistol 1516555585.00'.
+17:11:35: C17.OTA.GUARD.EOW:739 has lost a Shotgun 1516555688.
+17:11:35: C17.OTA.GUARD.EOW:739 has used '/InvAction use weapon_shotgun 1516555688.00'.
+17:12:25: C17.OTA.GUARD.EOW:739 has used '/Dispatch INSPECTION 2'.
+17:13:01: Gillion Vandersonn says: "Набор же OOC будет, это не по рп"
+17:13:01: Gillion Vandersonn says "Набор же OOC будет, это не по рп"
+17:13:12: C17.OTA.GUARD.EOW:739 says: "OOC"
+17:13:12: C17.OTA.GUARD.EOW:739 says "<:: OOC"
+17:13:21: Gillion Vandersonn says: "не рп, а значит что будет не интересно"
+17:13:21: Gillion Vandersonn says "не рп, а значит что будет не интересно"
+17:13:26: Gillion Vandersonn says: "Ну типо стандартные вопросы"
+17:13:26: Gillion Vandersonn says "Ну типо стандартные вопросы"
+17:13:29: Gillion Vandersonn says: "ответ уже все знают"
+17:13:29: Gillion Vandersonn says "ответ уже все знают"
+17:13:47: C17.OTA.GUARD.EOW:739 says: "Неа."
+17:13:47: C17.OTA.GUARD.EOW:739 says "<:: Неа."
+17:13:59: Gillion Vandersonn says: "а какие будут вопросы - то?"
+17:13:59: Gillion Vandersonn says "а какие будут вопросы - то?"
+17:14:04: Gillion Vandersonn says: "если ooc то ooc"
+17:14:04: Gillion Vandersonn says "если ooc то ooc"
+17:14:11: Gillion Vandersonn says: "ну логично что они будут связанны с правилами сервера?"
+17:14:11: Gillion Vandersonn says "ну логично что они будут связанны с правилами сервера?"
+17:14:21: C17.OTA.GUARD.EOW:739 says: "Угу..."
+17:14:21: C17.OTA.GUARD.EOW:739 says "<:: Угу..."
+17:14:27: Gillion Vandersonn says: "ООЙЙЙЙ"
+17:14:27: Gillion Vandersonn says "ООЙЙЙЙ"
+17:14:28: C17.OTA.GUARD.EOW:739 says: "Потом РП набор..."
+17:14:28: C17.OTA.GUARD.EOW:739 says "<:: Потом РП набор..."
+17:15:14: Gillion Vandersonn says: "а в чем смысл после ooc набора начинать рп набор?"
+17:15:14: Gillion Vandersonn says "а в чем смысл после ooc набора начинать рп набор?"
+17:16:21: C17.OTA.GUARD.EOW:739 has used '/Dispatch I tyta.'.
+17:16:33: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:16:47: [OOC] Gillion Vandersonn: го меня тп к вам ;3
+17:16:51: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:17:24: C17.OTA.GUARD.EOW:739 says: "Пиши..."
+17:17:24: C17.OTA.GUARD.EOW:739 says "<:: Пиши..."
+17:17:43: Gillion Vandersonn says: "ну вы чисто из админов набрали в ГэО, забыл о великом Гиллионе?"
+17:17:43: Gillion Vandersonn says "ну вы чисто из админов набрали в ГэО, забыл о великом Гиллионе?"
+17:18:08: C17.OTA.GUARD.EOW:739 says: "Неа."
+17:18:08: C17.OTA.GUARD.EOW:739 says "<:: Неа."
+17:18:08: Gillion Vandersonn says: "Я ЖЕ ПРАВ!!!"
+17:18:08: Gillion Vandersonn says "Я ЖЕ ПРАВ!!!"
+17:18:36: C17.OTA.GUARD.EOW:739 says: "Только Анкл, Я и Хелюган."
+17:18:36: C17.OTA.GUARD.EOW:739 says "<:: Только Анкл, Я и Хелюган."
+17:19:04: Gillion Vandersonn says: "а как же великие админы по типу Кенни и Варги?"
+17:19:04: Gillion Vandersonn says "а как же великие админы по типу Кенни и Варги?"
+17:19:24: C17.OTA.GUARD.EOW:739 says: "Dasf"
+17:19:24: C17.OTA.GUARD.EOW:739 says "<:: Dasf"
+17:19:55: C17.OTA.GUARD.EOW:739 has used '/SetTokens C17.OTA.GUARD.EOW:739 9999999'.
+17:20:15: C17.OTA.GUARD.EOW:739 says: "Угу..."
+17:20:15: C17.OTA.GUARD.EOW:739 says "<:: Угу..."
+17:20:42: C17.OTA.GUARD.EOW:739 says: "Кого?"
+17:20:42: C17.OTA.GUARD.EOW:739 says "<:: Кого?"
+17:20:50: Gillion Vandersonn says: "а что других не зовете"
+17:20:50: Gillion Vandersonn says "а что других не зовете"
+17:20:53: Gillion Vandersonn says: "пароль дадите и все"
+17:20:53: Gillion Vandersonn says "пароль дадите и все"
+17:20:54: C17.OTA.GUARD.EOW:739 says: "Мапить будем позже..."
+17:20:54: C17.OTA.GUARD.EOW:739 says "<:: Мапить будем позже..."
+17:20:55: Gillion Vandersonn says: "и пусть заходят"
+17:20:55: Gillion Vandersonn says "и пусть заходят"
+17:21:08: Gillion Vandersonn says: "Весело когда много"
+17:21:08: Gillion Vandersonn says "Весело когда много"
+17:21:13: C17.OTA.GUARD.EOW:739 says: "Все кто будут на КВ, они имеют пароли"
+17:21:13: C17.OTA.GUARD.EOW:739 says "<:: Все кто будут на КВ, они имеют пароли"
+17:21:21: C17.OTA.GUARD.EOW:739 says: "Их 7 челов, не влючая меня."
+17:21:21: C17.OTA.GUARD.EOW:739 says "<:: Их 7 челов, не влючая меня."
+17:21:22: Gillion Vandersonn says: "конечно... Гиллиона не... не замечают."
+17:21:22: Gillion Vandersonn says "конечно... Гиллиона не... не замечают."
+17:21:36: C17.OTA.GUARD.EOW:739 says: "Да они пиздят в дискорд."
+17:21:36: C17.OTA.GUARD.EOW:739 says "<:: Да они пиздят в дискорд."
+17:21:40: Gillion Vandersonn says: "я тоже имею пароли."
+17:21:40: Gillion Vandersonn says "я тоже имею пароли."
+17:21:52: C17.OTA.GUARD.EOW:739 says: "Не надо тут 100 тел"
+17:21:52: C17.OTA.GUARD.EOW:739 says "<:: Не надо тут 100 тел"
+17:21:58: C17.OTA.GUARD.EOW:739 says: "и 16 рук хватит"
+17:21:58: C17.OTA.GUARD.EOW:739 says "<:: и 16 рук хватит"
+17:22:01: Gillion Vandersonn says: "1253"
+17:22:01: Gillion Vandersonn says "1253"
+17:22:04: Gillion Vandersonn says: "или 1252"
+17:22:04: Gillion Vandersonn says "или 1252"
+17:22:11: C17.OTA.GUARD.EOW:739 says: "Да, боже.Я знаю!"
+17:22:11: C17.OTA.GUARD.EOW:739 says "<:: Да, боже.Я знаю!"
+17:22:24: Gillion Vandersonn says: ":D"
+17:22:24: Gillion Vandersonn says ":D"
+17:22:28: C17.OTA.GUARD.EOW:739 has used '/InvAction use weapon_ar2 1516555539.00'.
+17:22:33: Gillion Vandersonn says: "короче, 100 тел это весело."
+17:22:33: Gillion Vandersonn says "короче, 100 тел это весело."
+17:22:38: Gillion Vandersonn says: "Каждый день войны пыщей и ГэО"
+17:22:38: Gillion Vandersonn says "Каждый день войны пыщей и ГэО"
+17:22:44: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:22:46: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:22:48: C17.OTA.GUARD.EOW:739 has lost a 9mm Pistol 1516555585.
+17:22:48: C17.OTA.GUARD.EOW:739 has lost a Shotgun 1516555688.
+17:22:48: worldspawn has dealt 127 damage to C17.OTA.GUARD.EOW:739, killing them!
+17:22:49: Gillion Vandersonn says: "Вечный патруль ОТА"
+17:22:49: Gillion Vandersonn says "Вечный патруль ОТА"
+17:22:58: Gillion Vandersonn has gained a Shotgun 1516555688.
+17:22:58: Gillion Vandersonn has lost a Shotgun 1516555688.
+17:22:58: Gillion Vandersonn has used '/InvAction use weapon_shotgun 1516555688'.
+17:23:00: Gillion Vandersonn has gained a 9mm Pistol 1516555585.
+17:23:00: Gillion Vandersonn has lost a 9mm Pistol 1516555585.
+17:23:00: Gillion Vandersonn has used '/InvAction use weapon_pistol 1516555585'.
+17:23:32: Gillion Vandersonn has used '/StorageClose'.
+17:23:49: Gillion Vandersonn says: "ОДЕЖДУ СНИМАЙ!!!"
+17:23:49: Gillion Vandersonn says "ОДЕЖДУ СНИМАЙ!!!"
+17:23:52: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:23:59: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:24:06: C17.OTA.GUARD.EOW:739 says: "Дропай!"
+17:24:06: C17.OTA.GUARD.EOW:739 says "<:: Дропай!"
+17:24:08: Gillion Vandersonn has used '/DropWeapon'.
+17:24:13: Gillion Vandersonn says: "ты сам себе можешь выдать!!!"
+17:24:13: Gillion Vandersonn says "ты сам себе можешь выдать!!!"
+17:24:14: C17.OTA.GUARD.EOW:739 says: "Через инвентарь."
+17:24:14: C17.OTA.GUARD.EOW:739 says "<:: Через инвентарь."
+17:24:17: Gillion Vandersonn has lost a 9mm Pistol 1516555585.
+17:24:17: Gillion Vandersonn has used '/DropWeapon'.
+17:24:22: C17.OTA.GUARD.EOW:739 says: "Дропай!"
+17:24:22: C17.OTA.GUARD.EOW:739 says "<:: Дропай!"
+17:24:23: Gillion Vandersonn has lost a Shotgun 1516555688.
+17:24:23: Gillion Vandersonn has used '/DropWeapon'.
+17:24:34: C17.OTA.GUARD.EOW:739 has gained a Shotgun 1516555688.
+17:24:34: C17.OTA.GUARD.EOW:739 has lost a Shotgun 1516555688.
+17:24:34: C17.OTA.GUARD.EOW:739 has used '/InvAction use weapon_shotgun 1516555688'.
+17:24:37: C17.OTA.GUARD.EOW:739 has gained a 9mm Pistol 1516555585.
+17:24:37: C17.OTA.GUARD.EOW:739 has lost a 9mm Pistol 1516555585.
+17:24:37: C17.OTA.GUARD.EOW:739 has used '/InvAction use weapon_pistol 1516555585'.
+17:24:40: Gillion Vandersonn says: "!!"
+17:24:40: Gillion Vandersonn says "!!"
+17:24:42: Gillion Vandersonn says: "!!!!"
+17:24:42: Gillion Vandersonn says "!!!!"
+17:24:54: Gillion Vandersonn says: "Последние вещи отобрали"
+17:24:54: Gillion Vandersonn says "Последние вещи отобрали"
+17:25:13: Gillion Vandersonn says: "шучу конеш"
+17:25:13: Gillion Vandersonn says "шучу конеш"
+17:25:20: Gillion Vandersonn has lost a Breen's Water 1516442385.
+17:25:20: Gillion Vandersonn has used '/InvAction drop breen_s_water 1516442385.00'.
+17:25:21: Gillion Vandersonn has lost a Milk Carton 1516442404.
+17:25:21: Gillion Vandersonn has used '/InvAction drop milk_carton 1516442404.00'.
+17:25:23: Gillion Vandersonn has lost a Chinese Takeout 1516442406.
+17:25:23: Gillion Vandersonn has used '/InvAction use chinese_takeout 1516442406.00'.
+17:25:24: Gillion Vandersonn has lost a Suitcase 1516442225.
+17:25:24: Gillion Vandersonn has used '/InvAction use cw_suitcase 1516442225.00'.
+17:25:34: C17.OTA.GUARD.EOW:739 says: "Надо добавить функцию, руками отпидавать ситов."
+17:25:34: C17.OTA.GUARD.EOW:739 says "<:: Надо добавить функцию, руками отпидавать ситов."
+17:25:49: Gillion Vandersonn says: "У дубинка она есть"
+17:25:49: Gillion Vandersonn says "У дубинка она есть"
+17:25:54: Gillion Vandersonn says: "А дубинка встроенна"
+17:25:54: Gillion Vandersonn says "А дубинка встроенна"
+17:26:11: C17.OTA.GUARD.EOW:739 says: "APEX"
+17:26:26: C17.OTA.GUARD.EOW:739 says: "Can 2"
+17:26:33: C17.OTA.GUARD.EOW:739 says: "Can 3"
+17:26:40: C17.OTA.GUARD.EOW:739 says: "Can 4"
+17:26:44: C17.OTA.GUARD.EOW:739 says: "Can 5"
+17:26:55: [LOOC] C17.OTA.GUARD.EOW:739: В мусорку...
+17:26:55: [LOOC] C17.OTA.GUARD.EOW:739: В мусорку...
+17:26:55: [LOOC] C17.OTA.GUARD.EOW:739: В мусорку...
+17:27:03: Gillion Vandersonn says: "нет тут такой!"
+17:27:03: Gillion Vandersonn says "нет тут такой!"
+17:27:23: Gillion Vandersonn has gained a Milk Carton 1516442404.
+17:27:42: Gillion Vandersonn has gained a Breen's Water 1516442385.
+17:28:56: Gillion Vandersonn says: "дай ваш дискорд"
+17:28:56: Gillion Vandersonn says "дай ваш дискорд"
+17:28:58: Gillion Vandersonn says: "я тихо"
+17:28:58: Gillion Vandersonn says "я тихо"
+17:29:01: C17.OTA.GUARD.EOW:739 says: "Немогу..."
+17:29:01: C17.OTA.GUARD.EOW:739 says "<:: Немогу..."
+17:29:03: Gillion Vandersonn says: ";3"
+17:29:03: Gillion Vandersonn says ";3"
+17:29:05: Gillion Vandersonn says: ";("
+17:29:05: Gillion Vandersonn says ";("
+17:30:04: C17.OTA.GUARD.EOW:739 says: "No vis con"
+17:30:04: C17.OTA.GUARD.EOW:739 says "<:: No vis con"
+17:30:13: C17.OTA.GUARD.EOW:739 says: "Conntact"
+17:30:13: C17.OTA.GUARD.EOW:739 says "<:: Conntact"
+17:30:49: Gillion Vandersonn says: "No"
+17:30:49: Gillion Vandersonn says "No"
+17:30:53: Gillion Vandersonn says: "NO"
+17:30:53: Gillion Vandersonn says "NO"
+17:30:56: Gillion Vandersonn says: "No"
+17:30:56: Gillion Vandersonn says "No"
+17:30:59: Gillion Vandersonn says: "No"
+17:30:59: Gillion Vandersonn says "No"
+17:31:01: C17.OTA.GUARD.EOW:739 says: "Anti-citizen"
+17:31:06: C17.OTA.GUARD.EOW:739 says: "Amputate"
+17:31:25: Gillion Vandersonn says: "I not anti citizen, i use usp and what?"
+17:31:25: Gillion Vandersonn says "I not anti citizen, i use usp and what?"
+17:31:33: Gillion Vandersonn says: "это мой навык энглиша"
+17:31:33: Gillion Vandersonn says "это мой навык энглиша"
+17:31:34: C17.OTA.GUARD.EOW:739 says: "OK"
+17:31:34: C17.OTA.GUARD.EOW:739 says "<:: OK"
+17:31:40: C17.OTA.GUARD.EOW:739 says: "All right"
+17:31:40: C17.OTA.GUARD.EOW:739 says "<:: All right"
+17:31:47: C17.OTA.GUARD.EOW:739 says: "All right you can go"
+17:31:47: C17.OTA.GUARD.EOW:739 says "<:: All right you can go"
+17:31:54: Gillion Vandersonn says: "Все правые и ты идешь"
+17:31:54: Gillion Vandersonn says "Все правые и ты идешь"
+17:31:58: Gillion Vandersonn says: "Я как гугл переводчик"
+17:31:58: Gillion Vandersonn says "Я как гугл переводчик"
+17:32:18: C17.OTA.GUARD.EOW:739 says: "Necrotics"
+17:32:28: Gillion Vandersonn says: "Да, я некротик."
+17:32:28: Gillion Vandersonn says "Да, я некротик."
+17:32:33: C17.OTA.GUARD.EOW:739 has used '/Dispatch ANTI-CITIZEN'.
+17:32:33: Gillion Vandersonn says: "Но в этом нет ничего плохого"
+17:32:33: Gillion Vandersonn says "Но в этом нет ничего плохого"
+17:32:54: [LOOC] Gillion Vandersonn: s2rp
+17:32:54: [LOOC] Gillion Vandersonn: s2rp
+17:32:54: [LOOC] Gillion Vandersonn: s2rp
+17:32:54: C17.OTA.GUARD.EOW:739 has used '/Dispatch ANTI-CITIZEN'.
+17:32:57: [LOOC] Gillion Vandersonn: s2rp
+17:32:57: [LOOC] Gillion Vandersonn: s2rp
+17:32:57: [LOOC] Gillion Vandersonn: s2rp
+17:33:23: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:33:41: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:34:18: C17.OTA.GUARD.EOW:739 says: "To protect and to serve"
+17:34:18: C17.OTA.GUARD.EOW:739 says "<:: To protect and to serve"
+17:34:23: Gillion Vandersonn says: "а кто такие дегенераты с дарк рп?"
+17:34:23: Gillion Vandersonn says "а кто такие дегенераты с дарк рп?"
+17:34:28: Gillion Vandersonn says: "Papa?"
+17:34:28: Gillion Vandersonn says "Papa?"
+17:35:03: Gillion Vandersonn says: "а что вы решаете в дискорде?"
+17:35:03: Gillion Vandersonn says "а что вы решаете в дискорде?"
+17:35:12: Gillion Vandersonn says: "Варга сказал что вы с хеку что-то решаете?"
+17:35:12: Gillion Vandersonn says "Варга сказал что вы с хеку что-то решаете?"
+17:35:23: C17.OTA.GUARD.EOW:739 says: "Скок дмг?"
+17:35:23: C17.OTA.GUARD.EOW:739 says "<:: Скок дмг?"
+17:35:27: Gillion Vandersonn has taken 10 damage from C17.OTA.GUARD.EOW:739 with weapon_crowbar, leaving them at 90 health and 0 armor!
+17:35:31: C17.OTA.GUARD.EOW:739 says: "Скок дмг?"
+17:35:31: C17.OTA.GUARD.EOW:739 says "<:: Скок дмг?"
+17:35:33: Gillion Vandersonn says: "у меня нет хп"
+17:35:33: Gillion Vandersonn says "у меня нет хп"
+17:35:36: Gillion Vandersonn says: "почему-то"
+17:35:36: Gillion Vandersonn says "почему-то"
+17:35:51: Gillion Vandersonn says: "А"
+17:35:51: Gillion Vandersonn says "А"
+17:35:52: C17.OTA.GUARD.EOW:739 says: "Хилься..."
+17:35:52: C17.OTA.GUARD.EOW:739 says "<:: Хилься..."
+17:35:58: Gillion Vandersonn says: "Ну примерно 0.25"
+17:35:58: Gillion Vandersonn says "Ну примерно 0.25"
+17:36:06: Gillion Vandersonn says: "Я включил шкалу."
+17:36:06: Gillion Vandersonn says "Я включил шкалу."
+17:36:36: Gillion Vandersonn says: "ТАК ЧТО ВЫ решаете?"
+17:36:36: Gillion Vandersonn says "ТАК ЧТО ВЫ решаете?"
+17:36:51: Gillion Vandersonn says: "Anabelle"
+17:36:51: Gillion Vandersonn says "Anabelle"
+17:37:04: C17.OTA.GUARD.EOW:739 says: "Anti-citizen"
+17:37:07: C17.OTA.GUARD.EOW:739 says: "Get out"
+17:37:13: C17.OTA.GUARD.EOW:739 says: "Get out"
+17:37:43: Gillion Vandersonn says: "Я ушел."
+17:37:43: Gillion Vandersonn says "Я ушел."
+17:37:45: Gillion Vandersonn says: "что еще надо?"
+17:37:45: Gillion Vandersonn says "что еще надо?"
+17:37:53: C17.OTA.GUARD.EOW:739 says: "Нет..."
+17:37:53: C17.OTA.GUARD.EOW:739 says "<:: Нет..."
+17:38:08: C17.OTA.GUARD.EOW:739 says: "Играй сука!"
+17:38:08: C17.OTA.GUARD.EOW:739 says "<:: Играй сука!"
+17:38:15: C17.OTA.GUARD.EOW:739 says: "Играй сука!"
+17:38:15: C17.OTA.GUARD.EOW:739 says "<:: Играй сука!"
+17:38:44: C17.OTA.GUARD.EOW:739 says: "Играй лунную сонату!"
+17:38:44: C17.OTA.GUARD.EOW:739 says "<:: Играй лунную сонату!"
+17:40:12: C17.OTA.GUARD.EOW:739 says: ":с"
+17:40:12: C17.OTA.GUARD.EOW:739 says "<:: :с"
+17:42:01: C17.OTA.GUARD.EOW:739 says: "Я просто музыку проигрываю..."
+17:42:01: C17.OTA.GUARD.EOW:739 says "<:: Я просто музыку проигрываю..."
+17:45:02: C17.OTA.GUARD.EOW:739 says: "HL2 есть в стиме?"
+17:45:02: C17.OTA.GUARD.EOW:739 says "<:: HL2 есть в стиме?"
+17:45:16: C17.OTA.GUARD.EOW:739 says: "HL2 есть в стиме?"
+17:45:16: C17.OTA.GUARD.EOW:739 says "<:: HL2 есть в стиме?"
+17:45:17: C17.OTA.GUARD.EOW:739 says: "HL2 есть в стиме?"
+17:45:17: C17.OTA.GUARD.EOW:739 says "<:: HL2 есть в стиме?"
+17:45:18: C17.OTA.GUARD.EOW:739 says: "HL2 есть в стиме?"
+17:45:18: C17.OTA.GUARD.EOW:739 says "<:: HL2 есть в стиме?"
+17:45:19: C17.OTA.GUARD.EOW:739 says: "HL2 есть в стиме?"
+17:45:19: C17.OTA.GUARD.EOW:739 says "<:: HL2 есть в стиме?"
+17:46:32: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:46:36: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:46:54: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:46:56: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:46:57: Gillion Vandersonn (STEAM_0:0:168484685/2.62.162.238:27005) has disconnected.
+17:49:36: C17.OTA.GUARD.EOW:739 (STEAM_0:0:143428035/87.117.54.96:3072) has disconnected.
+17:51:15: Бубль-Гум (STEAM_0:0:143428035/31.23.124.65:10000) has connected.
+17:52:56: Бубль-Гум has loaded the character 'C17.OTA.GUARD.EOW:739'.
+17:53:15: C17.OTA.GUARD.EOW:739 has lost a Shotgun 1516555688.
+17:53:15: C17.OTA.GUARD.EOW:739 has used '/InvAction use weapon_shotgun 1516555688.00'.
+17:53:16: C17.OTA.GUARD.EOW:739 has lost a 9mm Pistol 1516555585.
+17:53:16: C17.OTA.GUARD.EOW:739 has used '/InvAction use weapon_pistol 1516555585.00'.
+17:55:29: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:55:37: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:55:52: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:55:56: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:55:56: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:55:57: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:56:05: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:56:14: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:56:24: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:56:35: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:56:46: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:57:01: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:57:29: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:57:32: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:58:05: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:58:06: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:58:10: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:58:12: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:58:26: C17.OTA.GUARD.EOW:739 has taken 91 damage from worldspawn, leaving them at 9 health and 0 armor!
+17:58:52: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:58:55: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:59:19: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:59:21: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:59:22: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+17:59:24: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+18:00:32: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+18:00:35: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+18:00:36: C17.OTA.GUARD.EOW:739 has taken 76 damage from worldspawn, leaving them at 24 health and 0 armor!
+18:00:44: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+18:00:51: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+18:01:07: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+18:01:16: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+18:01:22: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+18:01:23: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+18:01:28: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+18:01:46: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+18:01:50: C17.MPF.BLADE.01:917 has lost a Shotgun 1516555689.
+18:01:50: C17.MPF.BLADE.01:917 has used '/InvAction use weapon_shotgun 1516555689.00'.
+18:01:51: C17.MPF.BLADE.01:917 has lost a 9mm Pistol 1516555584.
+18:01:51: C17.MPF.BLADE.01:917 has used '/InvAction use weapon_pistol 1516555584.00'.
+18:01:51: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+18:01:55: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+18:01:55: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+18:01:57: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:01:58: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+18:01:59: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+18:02:00: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:02:01: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:02:18: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+18:02:21: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:02:32: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+18:02:33: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:02:33: C17.OTA.GUARD.EOW:739 has taken 97 damage from worldspawn, leaving them at 3 health and 0 armor!
+18:02:40: C17.OTA.GUARD.EOW:739 has lost a Shotgun 1516555688.
+18:02:40: C17.OTA.GUARD.EOW:739 has lost a 9mm Pistol 1516555585.
+18:02:40: worldspawn has dealt 56 damage to C17.OTA.GUARD.EOW:739, killing them!
+18:02:47: C17.MPF.BLADE.01:917 has gained a Shotgun 1516555688.
+18:02:49: C17.MPF.BLADE.01:917 has gained a 9mm Pistol 1516555585.
+18:02:53: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:02:54: C17.MPF.BLADE.01:917 has gained a Pulse-Rifle 1516531728.
+18:02:54: C17.MPF.BLADE.01:917 has used '/InvAction use weapon_ar2 1516531728'.
+18:02:54: C17.MPF.BLADE.01:917 has lost a Pulse-Rifle 1516531728.
+18:03:00: C17.MPF.BLADE.01:917 has gained a 9mm Pistol 1516555584.
+18:03:06: C17.MPF.BLADE.01:917 has lost a 9mm Pistol 1516122197.
+18:03:06: C17.MPF.BLADE.01:917 has used '/InvAction drop weapon_pistol 1516122197.00'.
+18:03:12: C17.MPF.BLADE.01:917 has gained a Pulse-Rifle 1516531728.
+18:03:12: C17.MPF.BLADE.01:917 has used '/InvAction use weapon_ar2 1516531728'.
+18:03:12: C17.MPF.BLADE.01:917 has lost a Pulse-Rifle 1516531728.
+18:03:22: C17.MPF.BLADE.01:917 has lost a 9mm Pistol 1516555584.
+18:03:22: C17.MPF.BLADE.01:917 has used '/InvAction drop weapon_pistol 1516555584.00'.
+18:03:23: C17.MPF.BLADE.01:917 has lost a 9mm Pistol 1516555585.
+18:03:23: C17.MPF.BLADE.01:917 has used '/InvAction drop weapon_pistol 1516555585.00'.
+18:03:27: C17.MPF.BLADE.01:917 has gained a Pulse-Rifle 1516531728.
+18:03:27: C17.MPF.BLADE.01:917 has used '/InvAction use weapon_ar2 1516531728'.
+18:03:27: C17.MPF.BLADE.01:917 has lost a Pulse-Rifle 1516531728.
+18:03:45: C17.MPF.BLADE.01:917 has gained a Pulse-Rifle 1516531728.
+18:03:45: C17.MPF.BLADE.01:917 has used '/InvAction use weapon_ar2 1516531728'.
+18:03:45: C17.MPF.BLADE.01:917 has lost a Pulse-Rifle 1516531728.
+18:03:48: C17.MPF.BLADE.01:917 has gained a Shotgun 1516555689.
+18:03:50: C17.MPF.BLADE.01:917 has gained a Pulse-Rifle 1516531728.
+18:03:50: C17.MPF.BLADE.01:917 has lost a Pulse-Rifle 1516531728.
+18:03:50: C17.MPF.BLADE.01:917 has used '/InvAction use weapon_ar2 1516531728'.
+18:04:04: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+18:04:07: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+18:04:40: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:04:45: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:04:47: C17.OTA.GUARD.EOW:739 has taken 98 damage from C17.MPF.BLADE.01:917 with weapon_ar2, leaving them at 2 health and 0 armor!
+18:04:48: C17.MPF.BLADE.01:917 has dealt 3 damage to C17.OTA.GUARD.EOW:739 with Pulse-Rifle, killing them!
+18:05:05: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:05:14: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:05:50: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:05:52: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+18:05:54: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:05:54: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:06:00: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+18:06:01: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+18:06:06: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+18:06:13: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:06:18: C17.OTA.GUARD.EOW:739 has taken 3 damage from C17.MPF.BLADE.01:917 with weapon_ar2, leaving them at 97 health and 0 armor!
+18:06:22: C17.OTA.GUARD.EOW:739 has taken 3 damage from C17.MPF.BLADE.01:917 with weapon_ar2, leaving them at 96 health and 0 armor!
+18:06:22: C17.OTA.GUARD.EOW:739 has taken 3 damage from C17.MPF.BLADE.01:917 with weapon_ar2, leaving them at 93 health and 0 armor!
+18:06:22: C17.OTA.GUARD.EOW:739 has taken 3 damage from C17.MPF.BLADE.01:917 with weapon_ar2, leaving them at 90 health and 0 armor!
+18:06:23: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+18:06:53: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+18:06:53: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+18:06:56: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+18:06:57: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+18:06:58: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+18:06:59: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+18:07:11: C17.MPF.BLADE.01:917 has lost a Pulse-Rifle 1516531728.
+18:07:11: C17.OTA.GUARD.EOW:739 has dealt 435 damage to C17.MPF.BLADE.01:917 with weapon_rpg, killing them!
+18:07:16: C17.OTA.GUARD.EOW:739 has gained a Pulse-Rifle 1516531728.
+18:07:16: C17.OTA.GUARD.EOW:739 has lost a Pulse-Rifle 1516531728.
+18:07:16: C17.OTA.GUARD.EOW:739 has used '/InvAction use weapon_ar2 1516531728'.
+18:07:24: C17.OTA.GUARD.EOW:739 has used '/StorageClose'.
+18:07:36: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+18:07:38: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+18:07:40: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+18:08:21: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:08:25: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:08:28: Бубль-Гум has loaded the character 'C17.MPF.CmD.EpU:493'.
+18:08:31: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:08:33: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:08:38: C17.MPF.BLADE.01:917 has gained a Pulse-Rifle 1516633767.
+18:08:38: C17.MPF.BLADE.01:917 has lost a Pulse-Rifle 1516633767.
+18:08:38: C17.MPF.BLADE.01:917 has used '/InvAction use weapon_ar2 1516633767'.
+18:08:51: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:09:01: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:09:12: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:09:14: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:09:15: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:09:17: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:09:17: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:09:18: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:09:25: C17.MPF.CmD.EpU:493 has used '/CharSetModel C17.MPF.CmD.EpU:493 models/hl2rp/metropolice/hl2_elitfemalecp1.mdl'.
+18:09:29: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:09:30: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:09:31: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:09:32: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:09:34: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:09:35: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:09:37: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:09:46: C17.MPF.BLADE.01:917 says: "Amputate"
+18:09:47: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:09:52: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:09:59: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:10:01: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:10:03: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:10:04: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:10:17: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:10:33: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:10:42: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:10:46: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:10:53: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:10:54: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:10:56: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:11:00: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:11:00: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:11:04: C17.MPF.BLADE.01:917 says: "Amputate"
+18:11:05: C17.MPF.CmD.EpU:493 has taken 17 damage from C17.MPF.BLADE.01:917 with weapon_ar2, leaving them at 83 health and 0 armor!
+18:11:05: C17.MPF.CmD.EpU:493 has taken 17 damage from C17.MPF.BLADE.01:917 with weapon_ar2, leaving them at 66 health and 0 armor!
+18:11:05: C17.MPF.CmD.EpU:493 has taken 17 damage from C17.MPF.BLADE.01:917 with weapon_ar2, leaving them at 51 health and 0 armor!
+18:11:05: C17.MPF.CmD.EpU:493 has taken 17 damage from C17.MPF.BLADE.01:917 with weapon_ar2, leaving them at 34 health and 0 armor!
+18:11:05: C17.MPF.CmD.EpU:493 has taken 17 damage from C17.MPF.BLADE.01:917 with weapon_ar2, leaving them at 17 health and 0 armor!
+18:11:05: C17.MPF.BLADE.01:917 has dealt 17 damage to C17.MPF.CmD.EpU:493 with Pulse-Rifle, killing them!
+18:11:13: C17.MPF.BLADE.01:917 has used '/StorageClose'.
+18:11:19: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:11:20: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:11:44: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:11:46: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:12:06: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:12:08: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:12:12: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:12:14: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:12:14: C17.MPF.BLADE.01:917 has taken 40 damage from worldspawn, leaving them at 60 health and 0 armor!
+18:12:16: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:12:21: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:12:24: C17.MPF.BLADE.01:917 says: "Amputate"
+18:12:25: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:12:37: C17.MPF.BLADE.01:917 has lost a Pulse-Rifle 1516633767.
+18:12:37: C17.MPF.CmD.EpU:493 has dealt 435 damage to C17.MPF.BLADE.01:917 with weapon_rpg, killing them!
+18:12:42: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:13:07: C17.MPF.CmD.EpU:493 has used '/CharSetModel C17.MPF.CmD.EpU:493 models/hl2rp/metropolice/hl2_elitfemalecp1.mdl'.
+18:14:59: C17.MPF.BLADE.01:917 has gained a Pulse-Rifle 1516633767.
+18:14:59: C17.MPF.BLADE.01:917 has lost a Pulse-Rifle 1516633767.
+18:14:59: C17.MPF.BLADE.01:917 has used '/InvAction use weapon_ar2 1516633767'.
+18:15:04: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:15:05: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:15:08: C17.MPF.CmD.EpU:493 has taken 17 damage from C17.MPF.BLADE.01:917 with weapon_ar2, leaving them at 83 health and 0 armor!
+18:15:09: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:15:11: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:16:05: C17.MPF.BLADE.01:917 says: "Amputate"
+18:16:08: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:16:12: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:16:22: C17.MPF.CmD.EpU:493 has used '/CharSetModel C17.MPF.CmD.EpU:493 models/hl2rp/metropolice/hl2_femalecp1.mdl'.
+18:17:49: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:17:52: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:18:09: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:18:12: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:18:14: C17.MPF.CmD.EpU:493 has used '/CharSetModel C17.MPF.CmD.EpU:493 models/hl2rp/metropolice/hl2_elitfemalecp1.mdl'.
+18:18:42: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:18:44: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:18:46: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:18:47: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:18:47: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:18:53: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:19:02: C17.MPF.CmD.EpU:493 has used '/CharSetModel C17.MPF.CmD.EpU:493 models/hl2rp/metropolice/hl2_femalecp1.mdl'.
+18:20:35: C17.MPF.BLADE.01:917 has ordered #1 5.
+18:20:35: C17.MPF.BLADE.01:917 has used '/OrderShipment weapon_smg1'.
+18:20:40: C17.MPF.CmD.EpU:493 has gained a MP7 1516634492.
+18:20:40: C17.MPF.CmD.EpU:493 has used '/StorageTakeItem weapon_smg1 1516634492.00'.
+18:20:41: C17.MPF.CmD.EpU:493 has used '/StorageClose'.
+18:21:11: C17.MPF.CmD.EpU:493 has lost a MP7 1516634492.
+18:21:11: C17.MPF.CmD.EpU:493 has used '/InvAction use weapon_smg1 1516634492.00'.
+18:21:13: C17.MPF.CmD.EpU:493 has lost a .357 Magnum 1516372698.
+18:21:13: C17.MPF.CmD.EpU:493 has used '/InvAction use weapon_357 1516372698.00'.
+18:22:12: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:22:23: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:22:33: LogPlayerSpawnModel
+18:22:33: LogPlayerSpawnModel
+18:22:36: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:22:40: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:23:16: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:23:18: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:23:18: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:23:21: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:23:22: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:23:24: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:23:24: C17.MPF.CmD.EpU:493 has used '/InvAction Frequency handheld_radio 1516123122.00'.
+18:23:25: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:23:26: C17.MPF.CmD.EpU:493 has used '/SetFreq 111.3'.
+18:23:30: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:23:30: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:23:31: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:23:32: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:23:32: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:24:16: C17.MPF.CmD.EpU:493 has used '/Radio #493-я;9-1-7 поднятся ко мне в кабинет для аудиенции.'.
+18:24:59: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:25:00: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:25:07: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:25:08: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:25:08: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:25:09: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:25:10: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:25:11: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:25:12: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:25:14: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:25:39: C17.MPF.CmD.EpU:493 has used '/Radio #493-я;9-1-7 поднятся ко мне в кабинет для аудиенции.'.
+18:25:40: C17.MPF.CmD.EpU:493 has used '/Radio #493-я;9-1-7 поднятся ко мне в кабинет для аудиенции.'.
+18:25:46: C17.MPF.CmD.EpU:493 says: "L"
+18:25:46: C17.MPF.CmD.EpU:493 says "<:: L"
+18:26:08: C17.MPF.BLADE.01:917 has used '/Radio 917, Copy'.
+18:26:25: C17.MPF.CmD.EpU:493 has used '/CharPhysDesc'.
+18:26:28: C17.MPF.CmD.EpU:493 has used '/CharPhysDesc Female Elite CP unit|Ctolh on elit uniform of CP|On the spine backpack and AK47|The size of boobs 2'.
+18:27:08: C17.MPF.BLADE.01:917 has used '/Me встал по стойке смирно, после чего отсалютовал и произнес:...'.
+18:27:17: C17.MPF.BLADE.01:917 says: "Служу Альянсу, старший юнит!"
+18:27:17: C17.MPF.BLADE.01:917 says "<:: Служу Альянсу, старший юнит!"
+18:27:23: C17.MPF.BLADE.01:917 says: "Вызывали?"
+18:27:23: C17.MPF.BLADE.01:917 says "<:: Вызывали?"
+18:27:24: C17.MPF.CmD.EpU:493 says: "Служите, вольно..."
+18:27:24: C17.MPF.CmD.EpU:493 says "<:: Служите, вольно..."
+18:28:01: C17.MPF.CmD.EpU:493 says: "Да...9-1-7 или же Майк.Весь высший состав обязан жить в Блоке С, а не в казармах..."
+18:28:01: C17.MPF.CmD.EpU:493 says "<:: Да...9-1-7 или же Майк.Весь высший состав обязан жить в Блоке С, а не в казармах..."
+18:28:52: C17.MPF.CmD.EpU:493 says: "Из-за того что у нас выделе только последний этаж, вы будете со мной расквантерованы, потому что 5-6-5 не такого высокого звания, чтобы видить м"
+18:28:52: C17.MPF.CmD.EpU:493 says "<:: Из-за того что у нас выделе только последний этаж, вы будете со мной расквантерованы, потому что 5-6-5 не такого высокого звания, чтобы видить м"
+18:29:03: C17.MPF.CmD.EpU:493 says: "Кзе...Меня без респиратора...."
+18:29:03: C17.MPF.CmD.EpU:493 says "<:: Кзе...Меня без респиратора...."
+18:29:10: [LOOC] C17.MPF.CmD.EpU:493: Кхе*
+18:29:10: [LOOC] C17.MPF.CmD.EpU:493: Кхе*
+18:29:10: [LOOC] C17.MPF.CmD.EpU:493: Кхе*
+18:29:21: C17.MPF.BLADE.01:917 says: "Я прекрасно понимаю, старший юнит..."
+18:29:21: C17.MPF.BLADE.01:917 says "<:: Я прекрасно понимаю, старший юнит..."
+18:29:29: C17.MPF.BLADE.01:917 says: "Как прикажут, так и сделаем!"
+18:29:29: C17.MPF.BLADE.01:917 says "<:: Как прикажут, так и сделаем!"
+18:29:34: C17.MPF.CmD.EpU:493 says: "И кстате, на аудиенции надо быть без респиратора."
+18:29:34: C17.MPF.CmD.EpU:493 says "<:: И кстате, на аудиенции надо быть без респиратора."
+18:29:47: C17.MPF.BLADE.01:917 says: "Извиняюсь...!"
+18:29:47: C17.MPF.BLADE.01:917 says "<:: Извиняюсь...!"
+18:30:04: C17.MPF.BLADE.01:917 has used '/Me стал поспешно снимать противогаз'.
+18:30:11: C17.MPF.CmD.EpU:493 says: "Передайте 5-6-5, то что он будет жить во второй квартире Блока С, а вы со мной во первом."
+18:30:11: C17.MPF.CmD.EpU:493 says "<:: Передайте 5-6-5, то что он будет жить во второй квартире Блока С, а вы со мной во первом."
+18:30:22: C17.MPF.CmD.EpU:493 says: "Я все сказала, вопросы имеются?"
+18:30:22: C17.MPF.CmD.EpU:493 says "<:: Я все сказала, вопросы имеются?"
+18:31:22: C17.MPF.CmD.EpU:493 says: "Models/hl2rp/metropolice/hl2_elitmalecp1.mdl"
+18:31:22: C17.MPF.CmD.EpU:493 says "<:: Models/hl2rp/metropolice/hl2_elitmalecp1.mdl"
+18:31:24: [LOOC] C17.MPF.CmD.EpU:493: voed
+18:31:24: [LOOC] C17.MPF.CmD.EpU:493: voed
+18:31:24: [LOOC] C17.MPF.CmD.EpU:493: voed
+18:32:06: C17.MPF.CmD.EpU:493 has used '/InvAction use weapon_rpg 1516210529.00'.
+18:33:19: C17.MPF.CmD.EpU:493 has used '/CharSetModel C17.MPF.BLADE.01:917 Models/hl2rp/metropolice/hl2_elitmalecp1.mdl'.
+18:34:09: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:34:17: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:35:26: C17.MPF.CmD.EpU:493 has taken 28 damage from worldspawn, leaving them at 72 health and 0 armor!
+18:35:49: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:35:54: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:36:02: C17.MPF.BLADE.01:917 has lost a Pulse-Rifle 1516633767.
+18:36:02: worldspawn has dealt 314 damage to C17.MPF.BLADE.01:917, killing them!
+18:36:09: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:36:15: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:36:30: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:36:43: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:36:54: LogPlayerSpawnModel
+18:36:54: LogPlayerSpawnModel
+18:37:04: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:37:05: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:37:38: LogPlayerSpawnModel
+18:37:38: LogPlayerSpawnModel
+18:37:42: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:37:50: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:37:50: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:37:59: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:38:13: C17.MPF.BLADE.01:917 says: "Тесно тут..."
+18:38:13: C17.MPF.BLADE.01:917 says "<:: Тесно тут..."
+18:38:20: C17.MPF.CmD.EpU:493 says: "Угу..."
+18:38:20: C17.MPF.CmD.EpU:493 says "<:: Угу..."
+18:38:47: C17.MPF.BLADE.01:917 has lost a Shotgun 1516553635.
+18:38:47: C17.MPF.BLADE.01:917 has used '/InvAction use weapon_shotgun 1516553635.00'.
+18:38:55: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:38:57: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:39:02: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:39:04: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:39:13: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:39:19: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:39:20: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:39:22: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:39:27: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:39:31: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:39:38: C17.MPF.BLADE.01:917 has gained a Shotgun 1516553635.
+18:39:41: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:39:42: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:40:07: LogPlayerSpawnModel
+18:40:07: LogPlayerSpawnModel
+18:40:08: LogPlayerSpawnModel
+18:40:08: LogPlayerSpawnModel
+18:40:18: LogPlayerSpawnModel
+18:40:18: LogPlayerSpawnModel
+18:40:34: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:40:36: C17.MPF.BLADE.01:917 has used '/Observer'.
+18:40:41: LogPlayerSpawnModel
+18:40:41: LogPlayerSpawnModel
+18:40:42: LogPlayerSpawnModel
+18:40:42: LogPlayerSpawnModel
+18:41:18: LogPlayerSpawnModel
+18:41:18: LogPlayerSpawnModel
+18:41:31: LogPlayerSpawnModel
+18:41:31: LogPlayerSpawnModel
+18:41:52: LogPlayerSpawnModel
+18:41:52: LogPlayerSpawnModel
+18:41:58: LogPlayerSpawnModel
+18:41:58: LogPlayerSpawnModel
+18:42:02: LogPlayerSpawnModel
+18:42:02: LogPlayerSpawnModel
+18:42:05: LogPlayerSpawnModel
+18:42:05: LogPlayerSpawnModel
+18:42:08: LogPlayerSpawnModel
+18:42:08: LogPlayerSpawnModel
+18:42:11: LogPlayerSpawnModel
+18:42:11: LogPlayerSpawnModel
+18:42:22: LogPlayerSpawnModel
+18:42:22: LogPlayerSpawnModel
+18:42:47: C17.MPF.BLADE.01:917 says: "И... И где кто будет спать...?"
+18:42:47: C17.MPF.BLADE.01:917 says "<:: И... И где кто будет спать...?"
+18:42:53: C17.MPF.CmD.EpU:493 says: "Еще меня смущает, что тут сдвоенная кравать..."
+18:42:53: C17.MPF.CmD.EpU:493 says "<:: Еще меня смущает, что тут сдвоенная кравать..."
+18:43:00: [LOOC] C17.MPF.CmD.EpU:493: AFK!
+18:43:00: [LOOC] C17.MPF.CmD.EpU:493: AFK!
+18:43:00: [LOOC] C17.MPF.CmD.EpU:493: AFK!
+18:43:53: [LOOC] C17.MPF.CmD.EpU:493: I tyt
+18:43:53: [LOOC] C17.MPF.CmD.EpU:493: I tyt
+18:43:53: [LOOC] C17.MPF.CmD.EpU:493: I tyt
+18:48:24: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:48:27: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:49:29: C17.MPF.BLADE.01:917 says: "Эм... Тут два дивана"
+18:49:29: C17.MPF.BLADE.01:917 says "<:: Эм... Тут два дивана"
+18:49:40: C17.MPF.CmD.EpU:493 says: "Не заметила..."
+18:49:40: C17.MPF.CmD.EpU:493 says "<:: Не заметила..."
+18:49:51: C17.MPF.CmD.EpU:493 has used '/Dispatch EXOGEN'.
+18:54:24: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:55:10: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:55:17: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:55:25: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:55:52: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:55:56: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:55:56: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:55:59: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:56:00: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:56:01: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:56:03: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:56:04: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:56:05: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:56:06: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:56:13: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:56:19: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:58:39: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:58:42: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:58:44: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:58:48: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:58:50: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:58:52: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:59:05: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:59:08: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:59:26: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:59:30: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:59:31: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:59:35: C17.MPF.CmD.EpU:493 has used '/Observer'.
+18:59:52: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:00:03: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:00:38: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:00:42: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:00:52: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:02:17: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:03:20: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:03:22: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:03:23: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:03:28: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:03:28: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:03:34: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:03:35: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:03:36: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:04:16: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:04:18: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:04:19: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:04:20: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:04:20: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:04:23: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:04:58: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:05:02: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:05:13: C17.MPF.CmD.EpU:493 has gained a Pulse-Rifle 1516633767.
+19:05:13: C17.MPF.CmD.EpU:493 has used '/InvAction use weapon_ar2 1516633767'.
+19:05:13: C17.MPF.CmD.EpU:493 has lost a Pulse-Rifle 1516633767.
+19:05:15: C17.MPF.CmD.EpU:493 has gained a Pulse-Rifle 1516633767.
+19:05:38: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:05:42: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:05:43: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:05:44: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:05:45: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:05:47: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:05:47: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:05:50: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:05:51: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:05:54: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:05:54: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:05:56: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:05:56: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:06:07: C17.MPF.BLADE.01:917 has used '/Observer'.
+19:06:21: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:06:21: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:06:36: C17.MPF.BLADE.01:917 has used '/Observer'.
+19:06:39: C17.MPF.BLADE.01:917 has used '/StorageClose'.
+19:06:58: C17.MPF.BLADE.01:917 has used '/Observer'.
+19:07:10: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:07:14: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:07:50: C17.MPF.BLADE.01:917 has used '/Observer'.
+19:07:54: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:08:28: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:08:29: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:08:30: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:08:32: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:08:33: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:08:34: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:08:35: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:08:38: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:08:39: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:08:40: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:08:40: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:08:45: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:08:46: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:08:47: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:08:48: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:08:54: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:08:54: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:08:59: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:09:00: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:09:02: C17.MPF.BLADE.01:917 has used '/StorageClose'.
+19:09:02: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:09:02: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:09:03: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:09:04: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:09:05: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:09:06: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:09:15: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:09:15: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:09:21: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:09:21: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:09:23: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:09:24: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:09:26: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:09:27: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:09:28: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:09:29: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:09:31: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:09:32: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:10:14: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:10:18: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:10:50: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:10:51: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:10:52: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:10:53: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:16:13: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:16:25: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:16:26: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:16:55: C17.MPF.CmD.EpU:493 says: "Stop right now"
+19:16:55: C17.MPF.CmD.EpU:493 says "<:: Stop right now"
+19:17:00: C17.MPF.CmD.EpU:493 says: "Move back"
+19:21:04: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:21:44: C17.MPF.CmD.EpU:493 has used '/Observer'.
+19:22:42: C17.MPF.CmD.EpU:493 has taken 16 damage from C17.MPF.CmD.EpU:493 with weapon_frag, leaving them at 84 health and 0 armor!
+19:22:49: Бубль-Гум has loaded the character 'C17.OTA.GUARD.EOW:739'.
+19:22:50: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+19:22:52: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+19:23:14: C17.OTA.GUARD.EOW:739 has ordered #1 5.
+19:23:14: C17.OTA.GUARD.EOW:739 has used '/OrderShipment weapon_shotgun'.
+19:23:19: C17.OTA.GUARD.EOW:739 has gained a Shotgun 1516638257.
+19:23:19: C17.OTA.GUARD.EOW:739 has used '/StorageTakeItem weapon_shotgun 1516638257.00'.
+19:23:20: C17.OTA.GUARD.EOW:739 has used '/StorageClose'.
+19:23:25: C17.OTA.GUARD.EOW:739 has ordered #1 5.
+19:23:25: C17.OTA.GUARD.EOW:739 has used '/OrderShipment weapon_pistol'.
+19:23:28: C17.OTA.GUARD.EOW:739 has used '/StorageTakeItem weapon_pistol 1516638274.00'.
+19:23:30: C17.OTA.GUARD.EOW:739 has used '/StorageClose'.
+19:23:35: C17.OTA.GUARD.EOW:739 has used '/StorageClose'.
+19:23:39: C17.OTA.GUARD.EOW:739 has lost a Pulse-Rifle 1516531728.
+19:23:39: C17.OTA.GUARD.EOW:739 has used '/InvAction drop weapon_ar2 1516531728.00'.
+19:23:43: C17.OTA.GUARD.EOW:739 has gained a 9mm Pistol 1516638274.
+19:23:43: C17.OTA.GUARD.EOW:739 has used '/StorageTakeItem weapon_pistol 1516638274.00'.
+19:23:43: C17.OTA.GUARD.EOW:739 has used '/StorageClose'.
+19:23:45: C17.OTA.GUARD.EOW:739 has lost a 9mm Pistol 1516638274.
+19:23:45: C17.OTA.GUARD.EOW:739 has used '/InvAction use weapon_pistol 1516638274.00'.
+19:23:46: C17.OTA.GUARD.EOW:739 has lost a Shotgun 1516638257.
+19:23:46: C17.OTA.GUARD.EOW:739 has used '/InvAction use weapon_shotgun 1516638257.00'.
+19:23:47: C17.OTA.GUARD.EOW:739 has lost a Flash 1516623223.
+19:23:47: C17.OTA.GUARD.EOW:739 has used '/InvAction use cw_flashgrenade 1516623223.00'.
+19:23:47: C17.OTA.GUARD.EOW:739 has used '/InvAction use weapon_ar2 1516555539.00'.
+19:26:06: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+19:26:06: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+19:27:05: C17.MPF.BLADE.01:917 has used '/Observer'.
+19:27:07: C17.MPF.BLADE.01:917 has used '/Observer'.
+19:27:08: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+19:27:08: C17.MPF.BLADE.01:917 has used '/Observer'.
+19:27:09: C17.MPF.BLADE.01:917 has used '/Observer'.
+19:27:12: C17.MPF.BLADE.01:917 has used '/Observer'.
+19:27:17: C17.MPF.BLADE.01:917 (STEAM_0:1:95283970/2.93.67.183:27005) has disconnected.
+19:27:26: C17.OTA.GUARD.EOW:739 has used '/Observer'.
+19:27:51: C17.OTA.GUARD.EOW:739 (STEAM_0:0:143428035/31.23.124.65:10000) has disconnected.
+20:02:43: RUSSIAN KNUCLES  | SUPREME (STEAM_0:0:86274736/5.19.3.77:14433) has connected.
+20:05:45: Кнакалс (STEAM_0:1:53234273/213.21.4.76:27005) has connected.
+20:06:04: RUSSIAN KNUCLES  | SUPREME has created a Citizen character called 'Ivan Kupenkov'.
+20:06:04: RUSSIAN KNUCLES  | SUPREME has loaded the character 'Ivan Kupenkov'.
+20:06:25: Flacs (STEAM_0:1:208305988/46.147.42.116:27005) has connected.
+20:08:52: yanybik (STEAM_0:0:201653185/46.151.246.29:17414) has connected.
+20:09:06: Ivan Kupenkov has lost a Suitcase 1516640769.
+20:09:06: Ivan Kupenkov has used '/StorageGiveItem cw_suitcase 1516640769.00'.
+20:09:07: Ivan Kupenkov has used '/StorageClose'.
+20:09:09: Ivan Kupenkov has taken 73 damage from prop_physics, leaving them at 27 health and 0 armor!
+20:09:37: Ivan Kupenkov has taken 15 damage from prop_physics, leaving them at 16 health and 0 armor!
+20:09:38: Ivan Kupenkov has taken 15 damage from prop_physics, leaving them at 3 health and 0 armor!
+20:09:42: prop_physics has dealt 146 damage to Ivan Kupenkov, killing them!
+20:10:08: Flacs has loaded the character 'Даниель Flacs'.
+20:10:13: Даниель Flacs has used '/Observer'.
+20:10:39: Даниель Flacs has used '/Observer'.
+20:10:41: 💎GUCCI💎 (STEAM_0:1:167437311/77.37.220.124:27005) has connected.
+20:11:02: Даниель Flacs says: "Здравствуй"
+20:11:02: Даниель Flacs says "Здравствуй"
+20:11:03: Кнакалс has created a Citizen character called 'Stefan Gaertner'.
+20:11:03: Кнакалс has loaded the character 'Stefan Gaertner'.
+20:11:08: Ivan Kupenkov says: "Здраствуй"
+20:11:08: Ivan Kupenkov says "Здраствуй"
+20:11:14: Ivan Kupenkov says: "Здраствуй"
+20:11:14: Ivan Kupenkov says "Здраствуй"
+20:11:24: yanybik (STEAM_0:0:201653185/46.151.246.29:17414) has connected.
+20:11:27: 💎GUCCI💎 has loaded the character 'C17.MPF.HELIX.02:565'.
+20:11:59: Даниель Flacs has used '/CharSearch'.
+20:12:00: Даниель Flacs has used '/CharSearch'.
+20:12:04: Stefan Gaertner has used '/StorageClose'.
+20:12:07: Ivan Kupenkov has used '/StorageClose'.
+20:12:25: C17.MPF.HELIX.02:565 has used '/InvAction use cps_uniform_helix 1516545197.00'.
+20:12:35: C17.MPF.HELIX.02:565 has used '/InvAction use cps_uniform_helix 1516545197.00'.
+20:12:36: C17.MPF.HELIX.02:565 has used '/InvAction use cps_neck 1516344876.00'.
+20:12:37: C17.MPF.HELIX.02:565 has used '/InvAction use cps_gear 1516344966.00'.
+20:12:37: C17.MPF.HELIX.02:565 has used '/InvAction use cps_mask_dd 1516545760.00'.
+20:12:38: C17.MPF.HELIX.02:565 has lost a Shotgun 1516540528.
+20:12:38: C17.MPF.HELIX.02:565 has used '/InvAction use weapon_shotgun 1516540528.00'.
+20:12:39: yanybik has loaded the character 'C17.MPF.GU.RCT:375'.
+20:12:47: Даниель Flacs has used '/StaticRemove'.
+20:13:01: Даниель Flacs has used '/Observer'.
+20:13:02: C17.MPF.GU.RCT:375 has used '/InvAction use cps_mask_off 1516365278.00'.
+20:13:04: Даниель Flacs has used '/Observer'.
+20:13:04: C17.MPF.GU.RCT:375 has used '/InvAction use cps_neck 1516545217.00'.
+20:13:05: C17.MPF.HELIX.02:565 has used '/Observer'.
+20:13:23: C17.MPF.HELIX.02:565 has used '/Observer'.
+20:13:24: Ivan Kupenkov says: "Слушай"
+20:13:24: Ivan Kupenkov says "Слушай"
+20:13:30: Даниель Flacs says: "Да?"
+20:13:30: Даниель Flacs says "Да?"
+20:13:31: Ivan Kupenkov says: "а что сдесь лучше делать?"
+20:13:31: Ivan Kupenkov says "а что сдесь лучше делать?"
+20:13:42: Даниель Flacs says: "В смысле,ты о чем?"
+20:13:42: Даниель Flacs says "В смысле,ты о чем?"
+20:13:50: C17.MPF.HELIX.02:565 says: "Назваться."
+20:13:50: C17.MPF.HELIX.02:565 says "<:: Назваться."
+20:13:58: Даниель Flacs says: "Даниель Flacs"
+20:13:58: Даниель Flacs says "Даниель Flacs"
+20:14:04: [LOOC] C17.MPF.HELIX.02:565: /APPLY
+20:14:04: [LOOC] C17.MPF.HELIX.02:565: /APPLY
+20:14:04: [LOOC] C17.MPF.HELIX.02:565: /APPLY
+20:14:06: Ivan Kupenkov has used '/Me Сказал как его зовут'.
+20:14:07: C17.MPF.GU.RCT:375 has used '/InvAction use cps_mask_def 1516545191.00'.
+20:14:14: C17.MPF.HELIX.02:565 has used '/Apply'.
+20:14:36: C17.MPF.HELIX.02:565 says: "Че встали то."
+20:14:36: C17.MPF.HELIX.02:565 says "<:: Че встали то."
+20:14:41: C17.MPF.HELIX.02:565 says: "Юнит."
+20:14:41: C17.MPF.HELIX.02:565 says "<:: Юнит."
+20:14:45: C17.MPF.HELIX.02:565 says: "Я вам давал приказ выходить?"
+20:14:45: C17.MPF.HELIX.02:565 says "<:: Я вам давал приказ выходить?"
+20:14:51: C17.MPF.GU.RCT:375 says: "Нет сэр"
+20:14:51: C17.MPF.GU.RCT:375 says "<:: Нет сэр"
+20:14:53: C17.MPF.HELIX.02:565 says: "За мной."
+20:14:53: C17.MPF.HELIX.02:565 says "<:: За мной."
+20:15:01: Даниель Flacs has used '/Observer'.
+20:15:03: Даниель Flacs has used '/Observer'.
+20:15:16: Ivan Kupenkov says: "ВАЛИМ?"
+20:15:16: Ivan Kupenkov says "ВАЛИМ?"
+20:15:31: Даниель Flacs has used '/Observer'.
+20:15:34: Даниель Flacs has used '/Observer'.
+20:15:35: C17.MPF.HELIX.02:565 says: "Вы вообще сума сошли?"
+20:15:35: C17.MPF.HELIX.02:565 says "<:: Вы вообще сума сошли?"
+20:15:39: C17.MPF.HELIX.02:565 says: "Сдать пистолет."
+20:15:39: C17.MPF.HELIX.02:565 says "<:: Сдать пистолет."
+20:15:42: Даниель Flacs has used '/Observer'.
+20:15:49: Даниель Flacs has used '/Observer'.
+20:15:51: worldspawn has dealt 138 damage to Даниель Flacs, killing them!
+20:15:59: [LOOC] C17.MPF.HELIX.02:565: инвентарь
+20:15:59: [LOOC] C17.MPF.HELIX.02:565: инвентарь
+20:15:59: [LOOC] C17.MPF.HELIX.02:565: инвентарь
+20:16:18: C17.MPF.HELIX.02:565 says: "Хорошо, юнит, за мной."
+20:16:18: C17.MPF.HELIX.02:565 says "<:: Хорошо, юнит, за мной."
+20:16:24: Ivan Kupenkov has used '/StorageClose'.
+20:16:50: C17.MPF.HELIX.02:565 says: "Вы будете заключены на 1 сутки, 24 часа, за мной."
+20:16:50: C17.MPF.HELIX.02:565 says "<:: Вы будете заключены на 1 сутки, 24 часа, за мной."
+20:16:52: Даниель Flacs has used '/Observer'.
+20:17:03: Ivan Kupenkov has used '/StorageClose'.
+20:17:08: [LOOC] C17.MPF.HELIX.02:565: Минут 20
+20:17:08: [LOOC] C17.MPF.HELIX.02:565: Минут 20
+20:17:08: [LOOC] C17.MPF.HELIX.02:565: Минут 20
+20:17:08: Stefan Gaertner has used '/StorageClose'.
+20:17:33: Stefan Gaertner has taken 8 damage from trigger_hurt, leaving them at 92 health and 0 armor!
+20:17:34: Stefan Gaertner has taken 8 damage from trigger_hurt, leaving them at 84 health and 0 armor!
+20:17:34: Ivan Kupenkov has taken 8 damage from trigger_hurt, leaving them at 92 health and 0 armor!
+20:17:34: Stefan Gaertner has taken 8 damage from trigger_hurt, leaving them at 76 health and 0 armor!
+20:17:35: Ivan Kupenkov has taken 8 damage from trigger_hurt, leaving them at 84 health and 0 armor!
+20:18:04: C17.MPF.GU.RCT:375 has gained a Potato Seeds 1516641484.
+20:18:04: C17.MPF.GU.RCT:375 has used '/InvAction use seed_potato 1516641484'.
+20:18:04: C17.MPF.GU.RCT:375 has lost a Potato Seeds 1516641484.
+20:18:10: C17.MPF.GU.RCT:375 has gained a Potato Seeds 1516641484.
+20:18:13: C17.MPF.GU.RCT:375 has gained a Orange Seeds 1516641482.
+20:18:16: C17.MPF.GU.RCT:375 has gained a Banana Seeds 1516641479.
+20:18:18: C17.MPF.HELIX.02:565 has gained a Tomato Seeds 1516641507.
+20:18:18: C17.MPF.HELIX.02:565 has used '/InvAction use seed_tomato 1516641507'.
+20:18:18: C17.MPF.HELIX.02:565 has lost a Tomato Seeds 1516641507.
+20:18:21: C17.MPF.GU.RCT:375 has used '/InvAction use seed_banana 1516641479.00'.
+20:18:24: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:18:34: C17.MPF.HELIX.02:565 has used '/Y [[ ЕСТЬ'.
+20:18:41: Stefan Gaertner has used '/StorageClose'.
+20:18:46: C17.MPF.HELIX.02:565 has used '/Observer'.
+20:18:47: Stefan Gaertner has used '/StorageClose'.
+20:18:49: Ivan Kupenkov has used '/CharSearch'.
+20:18:49: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:18:58: C17.MPF.HELIX.02:565 has used '/Observer'.
+20:19:01: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:19:03: Даниель Flacs has used '/CharSearch'.
+20:19:11: Ivan Kupenkov has used '/StorageClose'.
+20:19:17: Ivan Kupenkov has used '/StorageClose'.
+20:19:18: C17.MPF.HELIX.02:565 has used '/Observer'.
+20:19:21: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:19:23: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:19:25: [OOC] Даниель Flacs: Мм ероры!
+20:19:28: C17.MPF.HELIX.02:565 has used '/Observer'.
+20:19:34: [OOC] Даниель Flacs: Люблю!
+20:19:54: Даниель Flacs has used '/OrderShipment weapon_pistol'.
+20:20:07: C17.MPF.HELIX.02:565 has gained a Banana 1516641615.
+20:20:14: C17.MPF.GU.RCT:375 has used '/StorageClose'.
+20:20:14: C17.MPF.HELIX.02:565 has gained a Bleach 1516641630.
+20:20:17: C17.MPF.HELIX.02:565 has gained a Chinese Takeout 1516641633.
+20:20:17: C17.MPF.HELIX.02:565 has used '/Observer'.
+20:20:21: Даниель Flacs says: "хахахаха"
+20:20:21: Даниель Flacs says "хахахаха"
+20:20:32: Stefan Gaertner has used '/StorageClose'.
+20:20:33: Даниель Flacs has used '/StorageGiveTokens 459.00'.
+20:20:36: Stefan Gaertner has used '/StorageClose'.
+20:20:37: Даниель Flacs has used '/StorageTakeTokens 459.00'.
+20:20:39: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:20:41: Даниель Flacs has lost a Loyalist Jacket 1516546038.
+20:20:41: Даниель Flacs has used '/StorageGiveItem loyalist_jacket 1516546038.00'.
+20:20:43: Даниель Flacs has lost a Suitcase 1516203175.
+20:20:43: Даниель Flacs has used '/StorageGiveItem cw_suitcase 1516203175.00'.
+20:20:47: Даниель Flacs has gained a Suitcase 1516203175.
+20:20:47: Даниель Flacs has used '/StorageTakeItem cw_suitcase 1516203175.00'.
+20:20:50: Даниель Flacs has used '/StorageClose'.
+20:20:50: C17.MPF.HELIX.02:565 has used '/Observer'.
+20:21:01: Ivan Kupenkov says: "пиздец"
+20:21:01: Ivan Kupenkov says "пиздец"
+20:21:13: Ivan Kupenkov has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 96 health and 0 armor!
+20:21:13: Ivan Kupenkov says: "пиздец"
+20:21:13: Ivan Kupenkov says "пиздец"
+20:21:16: Ivan Kupenkov has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 94 health and 0 armor!
+20:21:21: Даниель Flacs has used '/Observer'.
+20:21:23: Даниель Flacs has used '/Observer'.
+20:21:25: Ivan Kupenkov has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 92 health and 0 armor!
+20:21:33: Stefan Gaertner has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 96 health and 0 armor!
+20:21:34: C17.MPF.GU.RCT:375 has taken 10 damage from Ivan Kupenkov with cw_hands, leaving them at 90 health and 0 armor!
+20:21:34: C17.MPF.GU.RCT:375 has taken 10 damage from Ivan Kupenkov with cw_hands, leaving them at 80 health and 0 armor!
+20:21:37: C17.MPF.GU.RCT:375 has taken 10 damage from Ivan Kupenkov with cw_hands, leaving them at 70 health and 0 armor!
+20:21:39: C17.MPF.GU.RCT:375 has taken 10 damage from Ivan Kupenkov with cw_hands, leaving them at 62 health and 0 armor!
+20:21:39: Ivan Kupenkov has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 94 health and 0 armor!
+20:21:45: Stefan Gaertner has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 94 health and 0 armor!
+20:21:47: Stefan Gaertner has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 92 health and 0 armor!
+20:21:48: Stefan Gaertner has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 88 health and 0 armor!
+20:21:49: Ivan Kupenkov has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 92 health and 0 armor!
+20:22:05: Ivan Kupenkov has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 94 health and 0 armor!
+20:22:06: C17.MPF.HELIX.02:565 has gained a Yava Cigarette 1516641742.
+20:22:06: C17.MPF.HELIX.02:565 has lost a Yava Cigarette 1516641742.
+20:22:06: C17.MPF.HELIX.02:565 has used '/InvAction use weapon_ciga_pachka 1516641742'.
+20:22:10: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:22:26: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:22:28: C17.MPF.HELIX.02:565 has used '/Observer'.
+20:22:30: C17.MPF.HELIX.02:565 has used '/Observer'.
+20:22:31: Stefan Gaertner has taken 10 damage from Ivan Kupenkov with cw_hands, leaving them at 90 health and 0 armor!
+20:22:36: Даниель Flacs has used '/Observer'.
+20:22:43: Даниель Flacs has used '/Observer'.
+20:22:45: Даниель Flacs has used '/Observer'.
+20:22:46: Даниель Flacs has used '/Observer'.
+20:22:51: Stefan Gaertner has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 92 health and 0 armor!
+20:22:53: Даниель Flacs says: "а откуда они знают пороль?"
+20:22:53: Даниель Flacs says "а откуда они знают пороль?"
+20:22:55: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:23:03: C17.MPF.HELIX.02:565 has used '/InvAction use cps_uniform_helix 1516545197.00'.
+20:23:03: Stefan Gaertner has taken 10 damage from Ivan Kupenkov with cw_hands, leaving them at 86 health and 0 armor!
+20:23:08: Даниель Flacs says: "а"
+20:23:08: Даниель Flacs says "а"
+20:23:13: C17.MPF.HELIX.02:565 has used '/InvAction Снять cps_mask_dd 1516545760.00'.
+20:23:14: C17.MPF.HELIX.02:565 has used '/InvAction Снять cps_neck 1516344876.00'.
+20:23:21: Ivan Kupenkov has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 96 health and 0 armor!
+20:23:22: Даниель Flacs has used '/Observer'.
+20:23:25: Даниель Flacs has used '/OrderShipment medic_uniform'.
+20:23:28: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:23:29: Даниель Flacs has used '/Observer'.
+20:23:33: Даниель Flacs has used '/Observer'.
+20:23:35: Stefan Gaertner has taken 11 damage from C17.MPF.GU.RCT:375 with cw_hands, leaving them at 85 health and 0 armor!
+20:23:37: Даниель Flacs has gained a Medic Uniform 1516641826.
+20:23:37: Даниель Flacs has used '/StorageTakeItem medic_uniform 1516641826.00'.
+20:23:38: Даниель Flacs has used '/StorageTakeItem medic_uniform 1516641827.00'.
+20:23:38: Ivan Kupenkov has used '/Me Нанес удар в лицо'.
+20:23:40: Stefan Gaertner has taken 10 damage from Ivan Kupenkov with cw_hands, leaving them at 77 health and 0 armor!
+20:23:40: Даниель Flacs has used '/StorageClose'.
+20:23:48: Ivan Kupenkov has rolled 76 out 100.
+20:23:48: Ivan Kupenkov has used '/Roll 100'.
+20:23:50: Stefan Gaertner has taken 11 damage from C17.MPF.GU.RCT:375 with cw_hands, leaving them at 70 health and 0 armor!
+20:23:52: C17.MPF.GU.RCT:375 has taken 9 damage from Stefan Gaertner with cw_hands, leaving them at 91 health and 0 armor!
+20:23:52: Ivan Kupenkov has used '/Me Нанес удар в лицо'.
+20:23:54: Ivan Kupenkov has rolled 92 out 100.
+20:23:54: Ivan Kupenkov has used '/Roll 100'.
+20:23:54: Даниель Flacs has used '/InvAction use medic_uniform 1516641826.00'.
+20:23:55: Stefan Gaertner has taken 10 damage from Ivan Kupenkov with cw_hands, leaving them at 62 health and 0 armor!
+20:24:00: Ivan Kupenkov has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 96 health and 0 armor!
+20:24:03: Ivan Kupenkov has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 94 health and 0 armor!
+20:24:04: Даниель Flacs has used '/Observer'.
+20:24:07: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:24:18: Ivan Kupenkov has used '/Me Нанес удар в лицо'.
+20:24:21: Ivan Kupenkov has rolled 97 out 100.
+20:24:21: Ivan Kupenkov has used '/Roll 100'.
+20:24:21: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:24:21: Даниель Flacs has gained a The F. Word 1516641887.
+20:24:22: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:24:23: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:24:24: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:24:26: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:24:26: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:24:29: Даниель Flacs has used '/Observer'.
+20:24:30: C17.MPF.HELIX.02:565 has used '/Observer'.
+20:24:31: C17.MPF.HELIX.02:565 has used '/Observer'.
+20:24:31: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:24:36: Stefan Gaertner has rolled 100 out 100.
+20:24:36: Stefan Gaertner has used '/Roll'.
+20:24:40: Stefan Gaertner has taken 10 damage from Ivan Kupenkov with cw_hands, leaving them at 68 health and 0 armor!
+20:24:41: Ivan Kupenkov has taken 9 damage from Stefan Gaertner with cw_hands, leaving them at 91 health and 0 armor!
+20:24:43: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:24:44: Даниель Flacs has used '/Observer'.
+20:24:44: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:24:45: Даниель Flacs has used '/Observer'.
+20:24:49: Ivan Kupenkov has taken 9 damage from Stefan Gaertner with cw_hands, leaving them at 84 health and 0 armor!
+20:24:51: Stefan Gaertner has taken 10 damage from Ivan Kupenkov with cw_hands, leaving them at 60 health and 0 armor!
+20:24:51: C17.MPF.HELIX.02:565 says: "Ух-ух.."
+20:24:51: C17.MPF.HELIX.02:565 says "<:: Ух-ух.."
+20:24:56: Stefan Gaertner has taken 10 damage from Ivan Kupenkov with cw_hands, leaving them at 52 health and 0 armor!
+20:24:58: C17.MPF.HELIX.02:565 says: "Сигаретка хорошая..."
+20:24:58: C17.MPF.HELIX.02:565 says "<:: Сигаретка хорошая..."
+20:25:00: Ivan Kupenkov has taken 9 damage from Stefan Gaertner with cw_hands, leaving them at 79 health and 0 armor!
+20:25:02: C17.MPF.HELIX.02:565 says: "Все, на выход"
+20:25:02: C17.MPF.HELIX.02:565 says "<:: Все, на выход"
+20:25:05: Ivan Kupenkov has used '/Me Нанес удар в лицо левой рукой'.
+20:25:05: Даниель Flacs has used '/Observer'.
+20:25:07: Ivan Kupenkov has rolled 4 out 100.
+20:25:07: Ivan Kupenkov has used '/Roll 100'.
+20:25:09: Stefan Gaertner has rolled 7 out 100.
+20:25:09: Stefan Gaertner has used '/Roll'.
+20:25:12: C17.MPF.HELIX.02:565 says: "Йава."
+20:25:12: C17.MPF.HELIX.02:565 says "<:: Йава."
+20:25:16: C17.MPF.GU.RCT:375 says: "Спасибо сэр"
+20:25:16: C17.MPF.GU.RCT:375 says "<:: Спасибо сэр"
+20:25:25: C17.MPF.GU.RCT:375 has lost a Banana Seeds 1516641479.
+20:25:25: C17.MPF.GU.RCT:375 has used '/InvAction drop seed_banana 1516641479.00'.
+20:25:27: Ivan Kupenkov has used '/Me Повторно нанёс удар в лицо'.
+20:25:27: C17.MPF.HELIX.02:565 says: "Хорошо."
+20:25:27: C17.MPF.HELIX.02:565 says "<:: Хорошо."
+20:25:27: C17.MPF.GU.RCT:375 has lost a Potato Seeds 1516641484.
+20:25:27: C17.MPF.GU.RCT:375 has used '/InvAction drop seed_potato 1516641484.00'.
+20:25:28: C17.MPF.GU.RCT:375 has used '/InvAction drop seed_orange 1516641482.00'.
+20:25:31: Ivan Kupenkov has rolled 48 out 100.
+20:25:31: Ivan Kupenkov has used '/Roll 100'.
+20:25:32: Stefan Gaertner has rolled 46 out 100.
+20:25:32: Stefan Gaertner has used '/Roll'.
+20:25:34: Stefan Gaertner has taken 10 damage from Ivan Kupenkov with cw_hands, leaving them at 56 health and 0 armor!
+20:25:39: C17.MPF.GU.RCT:375 has lost a Orange Seeds 1516641482.
+20:25:39: C17.MPF.GU.RCT:375 has used '/InvAction drop seed_orange 1516641482.00'.
+20:25:43: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:25:46: Stefan Gaertner has used '/Me ударил в лицо'.
+20:25:48: Stefan Gaertner has rolled 48 out 100.
+20:25:48: Stefan Gaertner has used '/Roll'.
+20:25:48: Ivan Kupenkov has used '/Me Блокировал удар'.
+20:25:48: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:25:50: Ivan Kupenkov has rolled 34 out 100.
+20:25:50: Ivan Kupenkov has used '/Roll 100'.
+20:25:52: Ivan Kupenkov has taken 9 damage from Stefan Gaertner with cw_hands, leaving them at 88 health and 0 armor!
+20:25:57: C17.MPF.HELIX.02:565 says: "Юнит.н"
+20:25:57: C17.MPF.HELIX.02:565 says "<:: Юнит.н"
+20:26:00: Stefan Gaertner has used '/Me ударил в лицо 2 раза'.
+20:26:00: Helugon (STEAM_0:1:95283970/2.93.67.183:27005) has connected.
+20:26:02: Ivan Kupenkov has used '/Me Сделал подножку '.
+20:26:03: Даниель Flacs has lost a The F. Word 1516641887.
+20:26:03: Даниель Flacs has used '/InvAction use book_tfw 1516641887.00'.
+20:26:03: C17.MPF.HELIX.02:565 says: "Вы долбоеб?"
+20:26:03: C17.MPF.HELIX.02:565 says "<:: Вы долбоеб?"
+20:26:05: Ivan Kupenkov has rolled 82 out 100.
+20:26:05: Ivan Kupenkov has used '/Roll 100'.
+20:26:10: Stefan Gaertner has rolled 0 out 100.
+20:26:10: Stefan Gaertner has used '/Roll'.
+20:26:11: C17.MPF.GU.RCT:375 says: "Разрешите уод 10-20"
+20:26:11: C17.MPF.GU.RCT:375 says "<:: Разрешите уод 10-20"
+20:26:11: Stefan Gaertner has taken 10 damage from Ivan Kupenkov with cw_hands, leaving them at 58 health and 0 armor!
+20:26:12: C17.MPF.HELIX.02:565 says: "Собирите это."
+20:26:12: C17.MPF.HELIX.02:565 says "<:: Собирите это."
+20:26:12: Даниель Flacs has gained a The F. Word 1516641999.
+20:26:14: Даниель Flacs has lost a The F. Word 1516641999.
+20:26:14: Даниель Flacs has used '/InvAction use book_tfw 1516641999.00'.
+20:26:16: Stefan Gaertner has used '/Me ударил в лицо 2 раза'.
+20:26:17: C17.MPF.GU.RCT:375 says: "Есть"
+20:26:17: C17.MPF.GU.RCT:375 says "<:: Есть"
+20:26:29: Даниель Flacs has ordered #1 5.
+20:26:29: Даниель Flacs has used '/OrderShipment request_device'.
+20:26:31: Stefan Gaertner has used '/Me упал'.
+20:26:31: C17.MPF.GU.RCT:375 has used '/Me нагнулся чтобы взять мусор'.
+20:26:33: Даниель Flacs has used '/StorageTakeItem request_device 1516642020.00'.
+20:26:34: C17.MPF.GU.RCT:375 has gained a Orange Seeds 1516641482.
+20:26:35: Даниель Flacs has used '/StorageClose'.
+20:26:37: Даниель Flacs has used '/Observer'.
+20:26:37: C17.MPF.HELIX.02:565 has used '/Observer'.
+20:26:38: Helugon has loaded the character 'C17.MPF.BLADE.01:917'.
+20:26:39: worldspawn has dealt 123 damage to C17.MPF.BLADE.01:917, killing them!
+20:26:41: Даниель Flacs has used '/Observer'.
+20:26:41: C17.MPF.HELIX.02:565 has used '/Observer'.
+20:26:42: Stefan Gaertner has used '/Me встал'.
+20:26:44: C17.MPF.GU.RCT:375 has gained a Banana Seeds 1516641479.
+20:26:45: Даниель Flacs has used '/StorageTakeItem request_device 1516642019.00'.
+20:26:47: Даниель Flacs has used '/StorageClose'.
+20:26:50: Ivan Kupenkov has used '/Me Ударил ногой в живот пока человек лежал'.
+20:26:52: C17.MPF.GU.RCT:375 has gained a Tomato Seeds 1516641507.
+20:26:52: Ivan Kupenkov has rolled 90 out 100.
+20:26:52: Ivan Kupenkov has used '/Roll 100'.
+20:26:57: C17.MPF.GU.RCT:375 has gained a Potato Seeds 1516641484.
+20:27:00: Stefan Gaertner has rolled 41 out 100.
+20:27:00: Stefan Gaertner has used '/Roll'.
+20:27:00: Даниель Flacs has lost a Medic Uniform 1516641826.
+20:27:00: Даниель Flacs has used '/InvAction drop medic_uniform 1516641826.00'.
+20:27:01: Stefan Gaertner has taken 10 damage from Ivan Kupenkov with cw_hands, leaving them at 66 health and 0 armor!
+20:27:04: Даниель Flacs has gained a Request Device 1516642018.
+20:27:04: Даниель Flacs has used '/StorageTakeItem request_device 1516642018.00'.
+20:27:05: Даниель Flacs has used '/StorageClose'.
+20:27:08: Даниель Flacs has lost a Request Device 1516642018.
+20:27:08: Даниель Flacs has used '/InvAction drop request_device 1516642018.00'.
+20:27:10: C17.MPF.GU.RCT:375 says: "Разрешите код 10-12?"
+20:27:10: C17.MPF.GU.RCT:375 says "<:: Разрешите код 10-12?"
+20:27:12: Stefan Gaertner has used '/Me ударил в лицо 2 раза'.
+20:27:13: Даниель Flacs has gained a Request Device 1516642018.
+20:27:15: Stefan Gaertner has rolled 18 out 100.
+20:27:15: Stefan Gaertner has used '/Roll'.
+20:27:18: Ivan Kupenkov has rolled 72 out 100.
+20:27:18: Ivan Kupenkov has used '/Roll 100'.
+20:27:18: Даниель Flacs has lost a Request Device 1516642018.
+20:27:18: Даниель Flacs has used '/InvAction drop request_device 1516642018.00'.
+20:27:19: Stefan Gaertner has taken 10 damage from Ivan Kupenkov with cw_hands, leaving them at 62 health and 0 armor!
+20:27:30: Даниель Flacs has used '/Observer'.
+20:27:32: C17.MPF.HELIX.02:565 has used '/Observer'.
+20:27:36: Stefan Gaertner has used '/Me увернулся влево'.
+20:27:37: Даниель Flacs has used '/Observer'.
+20:27:38: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:27:40: Даниель Flacs has used '/Observer'.
+20:27:40: Ivan Kupenkov has used '/Me Ударил в живот правой рукой '.
+20:27:42: Stefan Gaertner has rolled 20 out 100.
+20:27:42: Stefan Gaertner has used '/Roll'.
+20:27:42: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:27:46: Ivan Kupenkov has rolled 8 out 100.
+20:27:46: Ivan Kupenkov has used '/Roll 100'.
+20:27:54: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:28:00: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:28:13: Даниель Flacs has used '/Observer'.
+20:28:17: C17.MPF.BLADE.01:917 has used '/Radio 917-565, доложить 10-20!'.
+20:28:20: C17.MPF.HELIX.02:565 has used '/Observer'.
+20:28:28: C17.MPF.HELIX.02:565 has used '/Radio Сзади вас.'.
+20:28:33: Stefan Gaertner has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 84 health and 0 armor!
+20:28:34: C17.MPF.HELIX.02:565 has used '/Radio Мое 10-20'.
+20:28:39: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:28:40: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:28:45: C17.MPF.BLADE.01:917 says: "Ну здравствуй!"
+20:28:45: C17.MPF.BLADE.01:917 says "<:: Ну здравствуй!"
+20:28:47: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:28:49: C17.MPF.BLADE.01:917 says: "Друг мой..."
+20:28:49: C17.MPF.BLADE.01:917 says "<:: Друг мой..."
+20:28:51: C17.MPF.HELIX.02:565 says: "Да? Ух.. Сигарочка хорошая.."
+20:28:51: C17.MPF.HELIX.02:565 says "<:: Да? Ух.. Сигарочка хорошая.."
+20:28:51: Даниель Flacs has used '/Observer'.
+20:28:52: Даниель Flacs has used '/Observer'.
+20:28:53: Даниель Flacs has used '/Observer'.
+20:28:54: Даниель Flacs has used '/Observer'.
+20:28:54: Даниель Flacs has used '/Observer'.
+20:28:55: C17.MPF.HELIX.02:565 says: "Здарова."
+20:28:55: C17.MPF.HELIX.02:565 says "<:: Здарова."
+20:28:55: Даниель Flacs has used '/Observer'.
+20:28:55: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:28:57: C17.MPF.BLADE.01:917 says: "Ммм..."
+20:28:57: C17.MPF.BLADE.01:917 says "<:: Ммм..."
+20:29:03: C17.MPF.BLADE.01:917 says: "У меня для тебя новость"
+20:29:03: C17.MPF.BLADE.01:917 says "<:: У меня для тебя новость"
+20:29:03: Даниель Flacs has used '/Observer'.
+20:29:04: Даниель Flacs has used '/Observer'.
+20:29:04: Ivan Kupenkov has used '/Me Сделал вертуху'.
+20:29:04: Даниель Flacs has used '/Observer'.
+20:29:07: Ivan Kupenkov has rolled 76 out 100.
+20:29:07: Ivan Kupenkov has used '/Roll 100'.
+20:29:07: C17.MPF.HELIX.02:565 says: "Какая?"
+20:29:07: C17.MPF.HELIX.02:565 says "<:: Какая?"
+20:29:11: Даниель Flacs has used '/Observer'.
+20:29:12: C17.MPF.BLADE.01:917 says: "Воспринимай ее ккак желаешь"
+20:29:12: C17.MPF.BLADE.01:917 says "<:: Воспринимай ее ккак желаешь"
+20:29:14: Stefan Gaertner has used '/Me нагнулся'.
+20:29:17: Stefan Gaertner has rolled 2 out 100.
+20:29:17: Stefan Gaertner has used '/Roll'.
+20:29:17: Даниель Flacs has gained a Medic Uniform 1516641829.
+20:29:17: Stefan Gaertner has taken 10 damage from Ivan Kupenkov with cw_hands, leaving them at 88 health and 0 armor!
+20:29:22: Даниель Flacs has lost a Medic Uniform 1516641829.
+20:29:22: Даниель Flacs has used '/InvAction drop medic_uniform 1516641829.00'.
+20:29:23: [LOOC] C17.MPF.BLADE.01:917: *как
+20:29:23: [LOOC] C17.MPF.BLADE.01:917: *как
+20:29:23: [LOOC] C17.MPF.BLADE.01:917: *как
+20:29:31: Ivan Kupenkov has gained a Medic Uniform 1516641829.
+20:29:32: Даниель Flacs has used '/Observer'.
+20:29:34: Даниель Flacs has used '/Observer'.
+20:29:36: Stefan Gaertner has gained a Medic Uniform 1516641830.
+20:29:42: Ivan Kupenkov has used '/InvAction use medic_uniform 1516641829.00'.
+20:29:47: Stefan Gaertner has used '/InvAction use medic_uniform 1516641830.00'.
+20:29:48: C17.MPF.BLADE.01:917 says: "Командный состав живет на верхнем этаже блока А"
+20:29:48: C17.MPF.BLADE.01:917 says "<:: Командный состав живет на верхнем этаже блока А"
+20:29:50: C17.MPF.BLADE.01:917 says: "И..."
+20:29:50: C17.MPF.BLADE.01:917 says "<:: И..."
+20:29:50: Даниель Flacs says: "нет"
+20:29:50: Даниель Flacs says "нет"
+20:29:56: Даниель Flacs says: "у меня нет столько токенов"
+20:29:56: Даниель Flacs says "у меня нет столько токенов"
+20:30:00: Ivan Kupenkov has used '/CharSearch'.
+20:30:01: C17.MPF.HELIX.02:565 says: "Ебать, я хочу уже туда."
+20:30:01: C17.MPF.HELIX.02:565 says "<:: Ебать, я хочу уже туда."
+20:30:07: C17.MPF.GU.RCT:375 says: "Разрешите код 10-12?"
+20:30:07: C17.MPF.GU.RCT:375 says "<:: Разрешите код 10-12?"
+20:30:12: C17.MPF.BLADE.01:917 says: "Меня садят в одну комнату с 493-ей..."
+20:30:12: C17.MPF.BLADE.01:917 says "<:: Меня садят в одну комнату с 493-ей..."
+20:30:23: C17.MPF.BLADE.01:917 says: "Тебя- в соседнюю"
+20:30:23: C17.MPF.BLADE.01:917 says "<:: Тебя- в соседнюю"
+20:30:28: Даниель Flacs has used '/Observer'.
+20:30:29: C17.MPF.HELIX.02:565 says: "375. можно."
+20:30:29: C17.MPF.HELIX.02:565 says "<:: 375. можно."
+20:30:34: Даниель Flacs has used '/Observer'.
+20:30:42: C17.MPF.HELIX.02:565 says: "М-м, давай поменяемся, братан."
+20:30:42: C17.MPF.HELIX.02:565 says "<:: М-м, давай поменяемся, братан."
+20:30:51: Даниель Flacs (STEAM_0:1:208305988/46.147.42.116:27005) has disconnected.
+20:30:51: Ivan Kupenkov has gained a Breen's Water 1516642285.
+20:30:52: Ivan Kupenkov has gained a Citizen Supplements 1516642287.
+20:30:53: Ivan Kupenkov has gained a Large Soda 1516642289.
+20:30:55: C17.MPF.BLADE.01:917 has used '/Me оглянулся по сторонам, после чего рывком оказался возле хеликса'.
+20:31:06: C17.MPF.BLADE.01:917 has used '/W Друг, я тебе скажу так...'.
+20:31:09: Ivan Kupenkov has used '/Me Достал из кармана банку с водой'.
+20:31:13: Ivan Kupenkov has used '/Me Выпил'.
+20:31:18: C17.MPF.HELIX.02:565 says: "Ух.."
+20:31:18: C17.MPF.HELIX.02:565 says "<:: Ух.."
+20:31:18: Ivan Kupenkov has lost a Breen's Water 1516642285.
+20:31:18: Ivan Kupenkov has used '/InvAction use breen_s_water 1516642285.00'.
+20:31:25: C17.MPF.GU.RCT:375 says: "стоять"
+20:31:25: C17.MPF.GU.RCT:375 says "<:: стоять"
+20:31:31: Stefan Gaertner says: "стою"
+20:31:31: Stefan Gaertner says "стою"
+20:31:37: C17.MPF.BLADE.01:917 has used '/W Эта дамочка ведет себя так, буд-то она желает меня видеть в ее постели...'.
+20:31:40: Ivan Kupenkov has used '/CharSearch'.
+20:31:54: C17.MPF.HELIX.02:565 has used '/W Ну-с, мне уже похуй, я гражданку вчера трахнул'.
+20:32:01: C17.MPF.HELIX.02:565 has used '/W Действуй.'.
+20:32:05: C17.MPF.GU.RCT:375 has used '/Radio #375 Докладывет гражданин нарушил уод-415 жду указаний'.
+20:32:16: [OOC] C17.MPF.GU.RCT:375: код
+20:32:26: C17.MPF.HELIX.02:565 has used '/Radio 565. Завести в НН, двойное перевоспитание, отпустить.'.
+20:32:31: C17.MPF.BLADE.01:917 has used '/W Она не посадила тебя к себе, основываясь на том, что ты не достаточно высокого ранга, чтоб видеть ее без маски'.
+20:32:34: C17.MPF.GU.RCT:375 says: "За мной"
+20:32:34: C17.MPF.GU.RCT:375 says "<:: За мной"
+20:32:44: C17.MPF.HELIX.02:565 says: "Хорошо."
+20:32:44: C17.MPF.HELIX.02:565 says "<:: Хорошо."
+20:32:45: C17.MPF.BLADE.01:917 has used '/W Друг, действовать тебе надо...'.
+20:32:49: C17.MPF.GU.RCT:375 says: "К стене"
+20:32:49: C17.MPF.GU.RCT:375 says "<:: К стене"
+20:33:01: C17.MPF.GU.RCT:375 says: "повернитесь"
+20:33:01: C17.MPF.GU.RCT:375 says "<:: повернитесь"
+20:33:11: C17.MPF.BLADE.01:917 has used '/W А то я и опомниться не успею, как окажусь голый в кровати рядом с ней...'.
+20:33:14: Ivan Kupenkov says: "БЛЯ"
+20:33:14: Ivan Kupenkov says "БЛЯ"
+20:33:15: Ivan Kupenkov says: "БРАТ"
+20:33:15: Ivan Kupenkov says "БРАТ"
+20:33:18: Ivan Kupenkov says: "ФУХ НАХУЙ"
+20:33:18: Ivan Kupenkov says "ФУХ НАХУЙ"
+20:33:19: Ivan Kupenkov says: "ТЫ ТУТ"
+20:33:19: Ivan Kupenkov says "ТЫ ТУТ"
+20:33:20: Ivan Kupenkov says: "ПОШЛИ"
+20:33:20: Ivan Kupenkov says "ПОШЛИ"
+20:33:22: Ivan Kupenkov says: "ОТ СУДА"
+20:33:22: Ivan Kupenkov says "ОТ СУДА"
+20:33:24: Stefan Gaertner says: "да"
+20:33:24: Stefan Gaertner says "да"
+20:33:24: C17.MPF.GU.RCT:375 has used '/Me снял дезентыгратор и ударил гражданина 14 раз'.
+20:33:26: Stefan Gaertner says: "го"
+20:33:26: Stefan Gaertner says "го"
+20:33:26: Ivan Kupenkov says: "ТУТ ОДНИ ПИДОРЫ"
+20:33:26: Ivan Kupenkov says "ТУТ ОДНИ ПИДОРЫ"
+20:33:28: C17.MPF.HELIX.02:565 has used '/W Повысь меня..'.
+20:33:30: C17.MPF.BLADE.01:917 has used '/W Я хочу тебе помочь'.
+20:33:31: C17.MPF.HELIX.02:565 has used '/W И вс..'.
+20:33:47: Stefan Gaertner has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 96 health and 0 armor!
+20:33:48: Stefan Gaertner has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 92 health and 0 armor!
+20:33:49: Stefan Gaertner has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 88 health and 0 armor!
+20:33:50: Stefan Gaertner has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 84 health and 0 armor!
+20:33:52: Stefan Gaertner has taken 2 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 82 health and 0 armor!
+20:33:52: C17.MPF.BLADE.01:917 has used '/W Просто уделяй ей больше внимания'.
+20:33:53: Stefan Gaertner has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 78 health and 0 armor!
+20:33:54: Stefan Gaertner has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 74 health and 0 armor!
+20:33:55: Stefan Gaertner has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 70 health and 0 armor!
+20:33:56: Stefan Gaertner has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 68 health and 0 armor!
+20:33:58: Stefan Gaertner has taken 5 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 63 health and 0 armor!
+20:34:00: Stefan Gaertner has taken 5 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 58 health and 0 armor!
+20:34:01: Stefan Gaertner has taken 5 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 53 health and 0 armor!
+20:34:02: Stefan Gaertner has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 51 health and 0 armor!
+20:34:03: Stefan Gaertner has taken 5 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 46 health and 0 armor!
+20:34:06: C17.MPF.HELIX.02:565 has used '/W Можно мне повышение? Или мне похуй на нее.'.
+20:34:17: C17.MPF.HELIX.02:565 says: "Ух-ух.."
+20:34:17: C17.MPF.HELIX.02:565 says "<:: Ух-ух.."
+20:34:19: C17.MPF.GU.RCT:375 has used '/Me включил дезентыгратор '.
+20:34:22: C17.MPF.BLADE.01:917 has used '/W нас определили на постоянную основу, смена мест не произойдет'.
+20:34:38: C17.MPF.HELIX.02:565 says: "Окей, еу, травка то качает, хахаха.."
+20:34:38: C17.MPF.HELIX.02:565 says "<:: Окей, еу, травка то качает, хахаха.."
+20:34:39: C17.MPF.HELIX.02:565 says: "Haha"
+20:34:40: C17.MPF.HELIX.02:565 says: "Haha"
+20:34:45: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:34:46: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:34:52: C17.MPF.BLADE.01:917 says: "Ладно... Не буду мешать..."
+20:34:52: C17.MPF.BLADE.01:917 says "<:: Ладно... Не буду мешать..."
+20:34:54: C17.MPF.HELIX.02:565 has used '/It Юнит 565 курил Марихуану, было видно.'.
+20:34:55: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:34:57: C17.MPF.HELIX.02:565 says: "Стой-да."
+20:34:57: C17.MPF.HELIX.02:565 says "<:: Стой-да."
+20:34:59: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:35:04: C17.MPF.HELIX.02:565 says: "Дай повышение, я все сам сделаю."
+20:35:04: C17.MPF.HELIX.02:565 says "<:: Дай повышение, я все сам сделаю."
+20:35:25: C17.MPF.BLADE.01:917 has used '/Me медленным шагом попятился назад'.
+20:35:33: C17.MPF.BLADE.01:917 says: "Повышение...?"
+20:35:33: C17.MPF.BLADE.01:917 says "<:: Повышение...?"
+20:35:34: Stefan Gaertner has taken 10 damage from Ivan Kupenkov with cw_hands, leaving them at 64 health and 0 armor!
+20:35:35: Stefan Gaertner has taken 6 damage from Ivan Kupenkov with cw_hands, leaving them at 58 health and 0 armor!
+20:35:37: Stefan Gaertner has taken 12 damage from Ivan Kupenkov with cw_hands, leaving them at 46 health and 0 armor!
+20:35:40: C17.MPF.HELIX.02:565 says: "Так точн.."
+20:35:40: C17.MPF.HELIX.02:565 says "<:: Так точн.."
+20:35:42: Stefan Gaertner has taken 30 damage from Ivan Kupenkov with cw_hands, leaving them at 18 health and 0 armor!
+20:35:50: C17.MPF.GU.RCT:375 has used '/Radio требуеться поддержка срочно массавые нарушения'.
+20:35:50: C17.MPF.BLADE.01:917 says: "Повышение...?!?! "
+20:35:50: C17.MPF.BLADE.01:917 says "<:: Повышение...?!?! "
+20:35:58: C17.MPF.HELIX.02:565 has used '/Radio Выхожу, 10-23 .'.
+20:35:58: Stefan Gaertner has taken 10 damage from Ivan Kupenkov with cw_hands, leaving them at 10 health and 0 armor!
+20:35:58: C17.MPF.BLADE.01:917 has used '/Observer'.
+20:36:01: Ivan Kupenkov has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 96 health and 0 armor!
+20:36:01: C17.MPF.HELIX.02:565 says: "Прсоти."
+20:36:01: C17.MPF.HELIX.02:565 says "<:: Прсоти."
+20:36:01: C17.MPF.HELIX.02:565 has used '/Observer'.
+20:36:03: C17.MPF.HELIX.02:565 has used '/Observer'.
+20:36:05: Stefan Gaertner has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 8 health and 0 armor!
+20:36:09: C17.MPF.BLADE.01:917 has used '/Radio Выдвигаюсь!'.
+20:36:11: C17.MPF.HELIX.02:565 says: "Стоять."
+20:36:11: C17.MPF.HELIX.02:565 says "<:: Стоять."
+20:36:13: Ivan Kupenkov has taken 18 damage from C17.MPF.HELIX.02:565 with weapon_shotgun, leaving them at 80 health and 0 armor!
+20:36:13: Ivan Kupenkov has taken 66 damage from C17.MPF.HELIX.02:565 with weapon_shotgun, leaving them at 14 health and 0 armor!
+20:36:14: C17.MPF.HELIX.02:565 has dealt 22 damage to Ivan Kupenkov with Shotgun, killing them!
+20:36:14: C17.MPF.BLADE.01:917 has used '/Observer'.
+20:36:18: C17.MPF.BLADE.01:917 has lost a Shotgun 1516553635.
+20:36:18: C17.MPF.BLADE.01:917 has used '/InvAction use weapon_shotgun 1516553635.00'.
+20:36:26: C17.MPF.HELIX.02:565 says: "Все?"
+20:36:26: C17.MPF.HELIX.02:565 says "<:: Все?"
+20:36:30: C17.MPF.BLADE.01:917 has used '/Observer'.
+20:36:31: C17.MPF.BLADE.01:917 has used '/Observer'.
+20:36:44: C17.MPF.HELIX.02:565 has used '/Observer'.
+20:36:46: C17.MPF.HELIX.02:565 has used '/Observer'.
+20:36:47: C17.MPF.BLADE.01:917 says: "Кто тут нарушает?"
+20:36:47: C17.MPF.BLADE.01:917 says "<:: Кто тут нарушает?"
+20:37:02: C17.MPF.BLADE.01:917 says: "Встать, гражданин!"
+20:37:02: C17.MPF.BLADE.01:917 says "<:: Встать, гражданин!"
+20:37:17: C17.MPF.BLADE.01:917 says: "Что вы делали в кустах...?"
+20:37:17: C17.MPF.BLADE.01:917 says "<:: Что вы делали в кустах...?"
+20:37:19: C17.MPF.BLADE.01:917 says: "Haha"
+20:37:20: C17.MPF.HELIX.02:565 says: "К стене, вы признаны антинарушителем 2 уровня."
+20:37:20: C17.MPF.HELIX.02:565 says "<:: К стене, вы признаны антинарушителем 2 уровня."
+20:37:23: Stefan Gaertner says: "лежал"
+20:37:23: Stefan Gaertner says "лежал"
+20:37:24: C17.MPF.HELIX.02:565 has used '/Me спустил курок'.
+20:37:26: C17.MPF.HELIX.02:565 has dealt 57 damage to Stefan Gaertner with Shotgun, killing them!
+20:37:35: C17.MPF.BLADE.01:917 says: "Антинарушителем...?"
+20:37:35: C17.MPF.BLADE.01:917 says "<:: Антинарушителем...?"
+20:37:40: C17.MPF.HELIX.02:565 says: "Мудак, только приехал а уже выебувается.."
+20:37:40: C17.MPF.HELIX.02:565 says "<:: Мудак, только приехал а уже выебувается.."
+20:37:45: Ivan Kupenkov has used '/CharSearch'.
+20:37:47: C17.MPF.BLADE.01:917 says: "Ты что-то не то спизданул..."
+20:37:47: C17.MPF.BLADE.01:917 says "<:: Ты что-то не то спизданул..."
+20:37:48: [LOOC] C17.MPF.HELIX.02:565: Dst,sdftncz
+20:37:48: [LOOC] C17.MPF.HELIX.02:565: Dst,sdftncz
+20:37:48: [LOOC] C17.MPF.HELIX.02:565: Dst,sdftncz
+20:37:54: Ivan Kupenkov has used '/InvAction use medic_uniform 1516641829.00'.
+20:37:58: C17.MPF.HELIX.02:565 says: "То-то, это нарушение их прав."
+20:37:58: C17.MPF.HELIX.02:565 says "<:: То-то, это нарушение их прав."
+20:38:00: [LOOC] C17.MPF.HELIX.02:565: Нет.
+20:38:00: [LOOC] C17.MPF.HELIX.02:565: Нет.
+20:38:00: [LOOC] C17.MPF.HELIX.02:565: Нет.
+20:38:06: C17.MPF.BLADE.01:917 has gained a Shotgun Shells 1516642722.
+20:38:06: C17.MPF.BLADE.01:917 has lost a Shotgun Shells 1516642722.
+20:38:06: C17.MPF.BLADE.01:917 has used '/InvAction use ammo_buckshot 1516642722'.
+20:38:10: C17.MPF.BLADE.01:917 has gained a Shotgun Shells 1516642727.
+20:38:10: C17.MPF.BLADE.01:917 has lost a Shotgun Shells 1516642727.
+20:38:10: C17.MPF.BLADE.01:917 has used '/InvAction use ammo_buckshot 1516642727'.
+20:38:11: C17.MPF.BLADE.01:917 has gained a Shotgun Shells 1516642729.
+20:38:11: C17.MPF.BLADE.01:917 has lost a Shotgun Shells 1516642729.
+20:38:11: C17.MPF.BLADE.01:917 has used '/InvAction use ammo_buckshot 1516642729'.
+20:38:17: C17.MPF.BLADE.01:917 has used '/Observer'.
+20:38:26: C17.MPF.BLADE.01:917 has used '/Observer'.
+20:38:33: C17.MPF.BLADE.01:917 says: "Опа..."
+20:38:33: C17.MPF.BLADE.01:917 says "<:: Опа..."
+20:38:38: Ivan Kupenkov says: "Что?"
+20:38:38: Ivan Kupenkov says "Что?"
+20:38:46: Ivan Kupenkov says: "ААААААА"
+20:38:46: Ivan Kupenkov says "ААААААА"
+20:38:56: C17.MPF.BLADE.01:917 says: "Тихо!"
+20:38:56: C17.MPF.BLADE.01:917 says "<:: Тихо!"
+20:38:59: Ivan Kupenkov says: "Мне сказали"
+20:38:59: Ivan Kupenkov says "Мне сказали"
+20:39:07: Ivan Kupenkov says: "её одеть люди в масках"
+20:39:07: Ivan Kupenkov says "её одеть люди в масках"
+20:39:13: Ivan Kupenkov says: "не такие как у вас"
+20:39:13: Ivan Kupenkov says "не такие как у вас"
+20:39:16: Ivan Kupenkov says: "а в других"
+20:39:16: Ivan Kupenkov says "а в других"
+20:39:23: [LOOC] C17.MPF.BLADE.01:917: Брат, смени модель этому игроку
+20:39:23: [LOOC] C17.MPF.BLADE.01:917: Брат, смени модель этому игроку
+20:39:23: [LOOC] C17.MPF.BLADE.01:917: Брат, смени модель этому игроку
+20:39:30: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:39:34: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:39:38: [LOOC] C17.MPF.BLADE.01:917: b2rp
+20:39:38: [LOOC] C17.MPF.BLADE.01:917: b2rp
+20:39:38: [LOOC] C17.MPF.BLADE.01:917: b2rp
+20:39:39: Ivan Kupenkov says: ":)"
+20:39:39: Ivan Kupenkov says ":)"
+20:39:48: Ivan Kupenkov has used '/InvAction use medic_uniform 1516641829.00'.
+20:39:58: C17.MPF.GU.RCT:375 says: "Возвращаюсь к коду 10-12"
+20:39:58: C17.MPF.GU.RCT:375 says "<:: Возвращаюсь к коду 10-12"
+20:39:58: Ivan Kupenkov says: "ей"
+20:39:58: Ivan Kupenkov says "ей"
+20:40:08: Ivan Kupenkov has used '/Me Сел на лавку'.
+20:40:13: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:40:37: Ivan Kupenkov says: "какой у вас красивый"
+20:40:37: Ivan Kupenkov says "какой у вас красивый"
+20:40:45: Ivan Kupenkov says: "шлем"
+20:40:45: Ivan Kupenkov says "шлем"
+20:40:55: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:41:11: C17.MPF.BLADE.01:917 says: "Спасибо..."
+20:41:11: C17.MPF.BLADE.01:917 says "<:: Спасибо..."
+20:41:12: C17.MPF.BLADE.01:917 says: "Haha"
+20:41:16: Ivan Kupenkov says: ":D"
+20:41:16: Ivan Kupenkov says ":D"
+20:41:24: Ivan Kupenkov has used '/Me Выражает эмоцию'.
+20:41:33: [LOOC] C17.MPF.BLADE.01:917: Бля... Смайлы в РП чате...
+20:41:33: [LOOC] C17.MPF.BLADE.01:917: Бля... Смайлы в РП чате...
+20:41:33: [LOOC] C17.MPF.BLADE.01:917: Бля... Смайлы в РП чате...
+20:41:37: Ivan Kupenkov has used '/Me Понравился дым'.
+20:41:47: C17.MPF.GU.RCT:375 says: "Разрешите пойти домой старший юнит?"
+20:41:47: C17.MPF.GU.RCT:375 says "<:: Разрешите пойти домой старший юнит?"
+20:41:50: [LOOC] C17.MPF.BLADE.01:917: в первый раз такое вижу...
+20:41:50: [LOOC] C17.MPF.BLADE.01:917: в первый раз такое вижу...
+20:41:50: [LOOC] C17.MPF.BLADE.01:917: в первый раз такое вижу...
+20:42:06: [LOOC] Ivan Kupenkov: Ну тип выразил эмоцию
+20:42:06: [LOOC] Ivan Kupenkov: Ну тип выразил эмоцию
+20:42:06: [LOOC] Ivan Kupenkov: Ну тип выразил эмоцию
+20:42:08: [LOOC] Ivan Kupenkov: :D
+20:42:08: [LOOC] Ivan Kupenkov: :D
+20:42:08: [LOOC] Ivan Kupenkov: :D
+20:42:08: C17.MPF.BLADE.01:917 says: "Вы уже где-то прописанны? "
+20:42:08: C17.MPF.BLADE.01:917 says "<:: Вы уже где-то прописанны? "
+20:42:14: Ivan Kupenkov says: "Нет"
+20:42:14: Ivan Kupenkov says "Нет"
+20:42:16: C17.MPF.HELIX.01:565 has used '/CharSetName C17.MPF.HELIX.02:565 C17.MPF.HELIX.01:565'.
+20:42:23: C17.MPF.BLADE.01:917 says: "Значит все!"
+20:42:23: C17.MPF.BLADE.01:917 says "<:: Значит все!"
+20:42:25: [LOOC] C17.MPF.HELIX.01:565: Все, я куратор.
+20:42:25: [LOOC] C17.MPF.HELIX.01:565: Все, я куратор.
+20:42:25: [LOOC] C17.MPF.HELIX.01:565: Все, я куратор.
+20:42:29: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:42:31: [LOOC] C17.MPF.HELIX.01:565: У меня уже 2 юнита Хеликс
+20:42:31: [LOOC] C17.MPF.HELIX.01:565: У меня уже 2 юнита Хеликс
+20:42:31: [LOOC] C17.MPF.HELIX.01:565: У меня уже 2 юнита Хеликс
+20:42:32: Ivan Kupenkov says: "У меня даже одежда плохо пахнет"
+20:42:32: Ivan Kupenkov says "У меня даже одежда плохо пахнет"
+20:42:33: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:42:33: [LOOC] C17.MPF.HELIX.01:565: А-А-А
+20:42:33: [LOOC] C17.MPF.HELIX.01:565: А-А-А
+20:42:33: [LOOC] C17.MPF.HELIX.01:565: А-А-А
+20:42:46: C17.MPF.BLADE.01:917 has used '/W Крис!'.
+20:42:46: Ivan Kupenkov has used '/Me Понюхал одежду'.
+20:42:51: C17.MPF.HELIX.01:565 has used '/W Да?'.
+20:42:57: C17.MPF.BLADE.01:917 has used '/W Маску забыл!'.
+20:43:01: Ivan Kupenkov says: "А можно"
+20:43:01: Ivan Kupenkov says "А можно"
+20:43:04: C17.MPF.BLADE.01:917 says: "Backup"
+20:43:06: Ivan Kupenkov says: "вступить в ваши ряды?"
+20:43:06: Ivan Kupenkov says "вступить в ваши ряды?"
+20:43:08: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:43:11: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:43:15: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:43:16: C17.MPF.HELIX.01:565 says: "Мне похуй, тут мало людей пока-что."
+20:43:16: C17.MPF.HELIX.01:565 says "<:: Мне похуй, тут мало людей пока-что."
+20:43:18: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:43:25: C17.MPF.HELIX.01:565 says: "Хорошо.-надев респиратор"
+20:43:25: C17.MPF.HELIX.01:565 says "<:: Хорошо.-надев респиратор"
+20:43:28: C17.MPF.HELIX.01:565 has used '/InvAction use cps_neck 1516344876.00'.
+20:43:29: C17.MPF.HELIX.01:565 has used '/InvAction use cps_mask_dd 1516545760.00'.
+20:43:39: [LOOC] C17.MPF.BLADE.01:917: откуда у тебя уже 2 хеликса?!?
+20:43:39: [LOOC] C17.MPF.BLADE.01:917: откуда у тебя уже 2 хеликса?!?
+20:43:39: [LOOC] C17.MPF.BLADE.01:917: откуда у тебя уже 2 хеликса?!?
+20:43:45: [LOOC] C17.MPF.HELIX.01:565: Набор сделал
+20:43:45: [LOOC] C17.MPF.HELIX.01:565: Набор сделал
+20:43:45: [LOOC] C17.MPF.HELIX.01:565: Набор сделал
+20:43:51: C17.MPF.GU.RCT:375 has used '/InvAction use cps_mask_off 1516365278.00'.
+20:43:51: [LOOC] C17.MPF.HELIX.01:565: Один 04, другой 05
+20:43:51: [LOOC] C17.MPF.HELIX.01:565: Один 04, другой 05
+20:43:51: [LOOC] C17.MPF.HELIX.01:565: Один 04, другой 05
+20:43:54: [LOOC] C17.MPF.HELIX.01:565: Мои братаны
+20:43:54: [LOOC] C17.MPF.HELIX.01:565: Мои братаны
+20:43:54: [LOOC] C17.MPF.HELIX.01:565: Мои братаны
+20:43:55: [LOOC] C17.MPF.BLADE.01:917: ЗАЕБИСЬ
+20:43:55: [LOOC] C17.MPF.BLADE.01:917: ЗАЕБИСЬ
+20:43:55: [LOOC] C17.MPF.BLADE.01:917: ЗАЕБИСЬ
+20:44:00: C17.MPF.GU.RCT:375 has used '/InvAction drop seed_banana 1516641479.00'.
+20:44:01: [LOOC] Ivan Kupenkov: Дайте форму ркт
+20:44:01: [LOOC] Ivan Kupenkov: Дайте форму ркт
+20:44:01: [LOOC] Ivan Kupenkov: Дайте форму ркт
+20:44:02: C17.MPF.GU.RCT:375 has used '/InvAction drop seed_banana 1516641479.00'.
+20:44:03: [LOOC] Ivan Kupenkov: ;(
+20:44:03: [LOOC] Ivan Kupenkov: ;(
+20:44:03: [LOOC] Ivan Kupenkov: ;(
+20:44:06: [LOOC] Ivan Kupenkov: :D
+20:44:06: [LOOC] Ivan Kupenkov: :D
+20:44:06: [LOOC] Ivan Kupenkov: :D
+20:44:06: [LOOC] C17.MPF.HELIX.01:565: Можно мне 01 тогда?
+20:44:06: [LOOC] C17.MPF.HELIX.01:565: Можно мне 01 тогда?
+20:44:06: [LOOC] C17.MPF.HELIX.01:565: Можно мне 01 тогда?
+20:44:07: C17.MPF.GU.RCT:375 has lost a Banana Seeds 1516641479.
+20:44:07: C17.MPF.GU.RCT:375 has used '/InvAction drop seed_banana 1516641479.00'.
+20:44:08: [LOOC] C17.MPF.BLADE.01:917: Я 1 БУДУ НА БЛЕЙД СИДЕТЬ!
+20:44:08: [LOOC] C17.MPF.BLADE.01:917: Я 1 БУДУ НА БЛЕЙД СИДЕТЬ!
+20:44:08: [LOOC] C17.MPF.BLADE.01:917: Я 1 БУДУ НА БЛЕЙД СИДЕТЬ!
+20:44:08: C17.MPF.GU.RCT:375 has lost a Orange Seeds 1516641482.
+20:44:08: C17.MPF.GU.RCT:375 has used '/InvAction drop seed_orange 1516641482.00'.
+20:44:10: C17.MPF.GU.RCT:375 has lost a Potato Seeds 1516641484.
+20:44:10: C17.MPF.GU.RCT:375 has used '/InvAction drop seed_potato 1516641484.00'.
+20:44:11: C17.MPF.GU.RCT:375 has lost a Tomato Seeds 1516641507.
+20:44:11: C17.MPF.GU.RCT:375 has used '/InvAction drop seed_tomato 1516641507.00'.
+20:44:14: [LOOC] C17.MPF.BLADE.01:917: Можно, можно
+20:44:14: [LOOC] C17.MPF.BLADE.01:917: Можно, можно
+20:44:14: [LOOC] C17.MPF.BLADE.01:917: Можно, можно
+20:44:17: Ivan Kupenkov has gained a Banana Seeds 1516641479.
+20:44:18: Ivan Kupenkov has gained a Tomato Seeds 1516641507.
+20:44:21: Ivan Kupenkov has gained a Potato Seeds 1516641484.
+20:44:23: C17.MPF.BLADE.01:917 has gained a Orange Seeds 1516641482.
+20:44:23: C17.MPF.BLADE.01:917 has used '/InvAction use seed_orange 1516641482'.
+20:44:23: C17.MPF.BLADE.01:917 has lost a Orange Seeds 1516641482.
+20:44:34: [LOOC] Ivan Kupenkov: Дайте форму г.о
+20:44:34: [LOOC] Ivan Kupenkov: Дайте форму г.о
+20:44:34: [LOOC] Ivan Kupenkov: Дайте форму г.о
+20:45:06: [LOOC] C17.MPF.HELIX.01:565: Ливну
+20:45:06: [LOOC] C17.MPF.HELIX.01:565: Ливну
+20:45:06: [LOOC] C17.MPF.HELIX.01:565: Ливну
+20:45:07: Ivan Kupenkov has used '/Me Облакотился на столб'.
+20:45:11: C17.MPF.BLADE.01:917 says: "Рекрут!"
+20:45:11: C17.MPF.BLADE.01:917 says "<:: Рекрут!"
+20:45:16: C17.MPF.GU.RCT:375 says: "Да?"
+20:45:16: C17.MPF.GU.RCT:375 says "<:: Да?"
+20:45:20: Ivan Kupenkov says: "Сэр"
+20:45:20: Ivan Kupenkov says "Сэр"
+20:45:24: C17.MPF.BLADE.01:917 says: "Откуда у вас эта маска?!"
+20:45:24: C17.MPF.BLADE.01:917 says "<:: Откуда у вас эта маска?!"
+20:45:27: Ivan Kupenkov says: "Можно вступить в ряды Г.О?"
+20:45:27: Ivan Kupenkov says "Можно вступить в ряды Г.О?"
+20:45:41: C17.MPF.BLADE.01:917 says: "Нет"
+20:45:41: C17.MPF.BLADE.01:917 says "<:: Нет"
+20:45:42: C17.MPF.BLADE.01:917 says: "Haha"
+20:45:51: C17.MPF.GU.RCT:375 says: "Мне ее мэм CMD дала"
+20:45:51: C17.MPF.GU.RCT:375 says "<:: Мне ее мэм CMD дала"
+20:45:52: [LOOC] Ivan Kupenkov: Да блин ну по братски
+20:45:52: [LOOC] Ivan Kupenkov: Да блин ну по братски
+20:45:52: [LOOC] Ivan Kupenkov: Да блин ну по братски
+20:46:05: C17.MPF.BLADE.01:917 says: "493-я...?"
+20:46:05: C17.MPF.BLADE.01:917 says "<:: 493-я...?"
+20:46:08: [LOOC] Ivan Kupenkov: Людей нету
+20:46:08: [LOOC] Ivan Kupenkov: Людей нету
+20:46:08: [LOOC] Ivan Kupenkov: Людей нету
+20:46:13: C17.MPF.GU.RCT:375 says: "Да!"
+20:46:13: C17.MPF.GU.RCT:375 says "<:: Да!"
+20:46:19: C17.MPF.BLADE.01:917 says: "..."
+20:46:19: C17.MPF.BLADE.01:917 says "<:: ..."
+20:46:23: C17.MPF.BLADE.01:917 says: "Промолчу..."
+20:46:23: C17.MPF.BLADE.01:917 says "<:: Промолчу..."
+20:46:33: [LOOC] C17.MPF.HELIX.01:565: снимай свой хуй
+20:46:33: [LOOC] C17.MPF.HELIX.01:565: снимай свой хуй
+20:46:33: [LOOC] C17.MPF.HELIX.01:565: снимай свой хуй
+20:46:37: [LOOC] C17.MPF.HELIX.01:565: который на голове
+20:46:37: [LOOC] C17.MPF.HELIX.01:565: который на голове
+20:46:37: [LOOC] C17.MPF.HELIX.01:565: который на голове
+20:46:42: C17.MPF.GU.RCT:375 has gained a Респиратор ГО 1516643223.
+20:46:42: C17.MPF.GU.RCT:375 has used '/InvAction use cps_mask_def 1516643223'.
+20:46:43: C17.MPF.HELIX.01:565 (STEAM_0:1:167437311/77.37.220.124:27005) has disconnected.
+20:46:52: C17.MPF.BLADE.01:917 says: "Backup!"
+20:46:52: C17.MPF.BLADE.01:917 says "<:: Backup!"
+20:47:02: Ivan Kupenkov has used '/Me Отошел на 5метров'.
+20:47:02: C17.MPF.GU.RCT:375 says: "Назад"
+20:47:02: C17.MPF.GU.RCT:375 says "<:: Назад"
+20:47:18: C17.MPF.GU.RCT:375 says: "Сэр старший юнит"
+20:47:18: C17.MPF.GU.RCT:375 says "<:: Сэр старший юнит"
+20:47:24: [LOOC] C17.MPF.BLADE.01:917: Эмоуты с большой буквы...?
+20:47:24: [LOOC] C17.MPF.BLADE.01:917: Эмоуты с большой буквы...?
+20:47:24: [LOOC] C17.MPF.BLADE.01:917: Эмоуты с большой буквы...?
+20:47:34: [LOOC] Ivan Kupenkov: ГЫ
+20:47:34: [LOOC] Ivan Kupenkov: ГЫ
+20:47:34: [LOOC] Ivan Kupenkov: ГЫ
+20:47:34: C17.MPF.GU.RCT:375 says: "Разрешите обратиться?"
+20:47:34: C17.MPF.GU.RCT:375 says "<:: Разрешите обратиться?"
+20:47:35: [LOOC] C17.MPF.BLADE.01:917: ты откуда такой взялся...?
+20:47:35: [LOOC] C17.MPF.BLADE.01:917: ты откуда такой взялся...?
+20:47:35: [LOOC] C17.MPF.BLADE.01:917: ты откуда такой взялся...?
+20:47:58: C17.MPF.BLADE.01:917 says: "Разрешаю"
+20:47:58: C17.MPF.BLADE.01:917 says "<:: Разрешаю"
+20:48:06: Ivan Kupenkov says: "Сэр"
+20:48:06: Ivan Kupenkov says "Сэр"
+20:48:10: Ivan Kupenkov says: "ну пожалуйста"
+20:48:10: Ivan Kupenkov says "ну пожалуйста"
+20:48:23: Ivan Kupenkov says: "Мы хотим вступить в ряды Гражданской Обороны"
+20:48:23: Ivan Kupenkov says "Мы хотим вступить в ряды Гражданской Обороны"
+20:48:28: C17.MPF.GU.RCT:375 says: "Когда можно получить повышение до 05 сотрудника сэр?"
+20:48:28: C17.MPF.GU.RCT:375 says "<:: Когда можно получить повышение до 05 сотрудника сэр?"
+20:48:47: C17.MPF.BLADE.01:917 says: "Когда начнешь хоть что-то нормальное делать..."
+20:48:47: C17.MPF.BLADE.01:917 says "<:: Когда начнешь хоть что-то нормальное делать..."
+20:48:55: C17.MPF.BLADE.01:917 says: "Haha"
+20:49:20: C17.MPF.GU.RCT:375 says: "вы мне не даете заданий"
+20:49:20: C17.MPF.GU.RCT:375 says "<:: вы мне не даете заданий"
+20:49:29: Ivan Kupenkov says: "Мне тоже"
+20:49:29: Ivan Kupenkov says "Мне тоже"
+20:49:31: Ivan Kupenkov says: "!"
+20:49:31: Ivan Kupenkov says "!"
+20:49:34: [LOOC] Ivan Kupenkov: :)
+20:49:34: [LOOC] Ivan Kupenkov: :)
+20:49:34: [LOOC] Ivan Kupenkov: :)
+20:49:39: Stefan Gaertner says: "нам свем"
+20:49:39: Stefan Gaertner says "нам свем"
+20:49:42: C17.MPF.GU.RCT:375 says: "Граждане отойдите"
+20:49:42: C17.MPF.GU.RCT:375 says "<:: Граждане отойдите"
+20:50:11: C17.MPF.GU.RCT:375 has taken 9 damage from Stefan Gaertner with cw_hands, leaving them at 91 health and 0 armor!
+20:50:11: C17.MPF.GU.RCT:375 has taken 9 damage from Stefan Gaertner with cw_hands, leaving them at 82 health and 0 armor!
+20:50:12: Stefan Gaertner has taken 2 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 98 health and 0 armor!
+20:50:24: C17.MPF.GU.RCT:375 has taken 10 damage from Ivan Kupenkov with cw_hands, leaving them at 74 health and 0 armor!
+20:50:26: C17.MPF.GU.RCT:375 has taken 10 damage from Ivan Kupenkov with cw_hands, leaving them at 66 health and 0 armor!
+20:50:29: C17.MPF.GU.RCT:375 has taken 10 damage from Ivan Kupenkov with cw_hands, leaving them at 56 health and 0 armor!
+20:50:39: Stefan Gaertner has taken 2 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 98 health and 0 armor!
+20:50:42: Stefan Gaertner has taken 2 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 96 health and 0 armor!
+20:50:43: Stefan Gaertner has taken 2 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 94 health and 0 armor!
+20:50:45: Stefan Gaertner has taken 2 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 92 health and 0 armor!
+20:50:47: Stefan Gaertner has taken 2 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 90 health and 0 armor!
+20:50:52: Stefan Gaertner has taken 2 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 90 health and 0 armor!
+20:50:53: Stefan Gaertner has taken 2 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 88 health and 0 armor!
+20:50:54: Stefan Gaertner has taken 2 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 88 health and 0 armor!
+20:51:01: Stefan Gaertner has taken 2 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 88 health and 0 armor!
+20:51:03: Stefan Gaertner has taken 2 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 86 health and 0 armor!
+20:51:05: Ivan Kupenkov has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 96 health and 0 armor!
+20:51:06: Stefan Gaertner has taken 2 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 86 health and 0 armor!
+20:51:11: Ivan Kupenkov has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 92 health and 0 armor!
+20:51:13: Ivan Kupenkov has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 88 health and 0 armor!
+20:51:17: Ivan Kupenkov has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 86 health and 0 armor!
+20:51:20: Ivan Kupenkov has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 84 health and 0 armor!
+20:51:30: Ivan Kupenkov has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 82 health and 0 armor!
+20:51:42: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:51:49: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:52:59: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:53:05: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:53:36: Ivan Kupenkov says: "ДРАСТЕ"
+20:53:36: Ivan Kupenkov says "ДРАСТЕ"
+20:53:43: C17.MPF.GU.RCT:375 has used '/InvAction Снять cps_mask_def 1516545191.00'.
+20:53:43: Ivan Kupenkov says: "А МЫ ТУТ СЭКСОМ ЗАНИМАЕМСЯ"
+20:53:43: Ivan Kupenkov says "А МЫ ТУТ СЭКСОМ ЗАНИМАЕМСЯ"
+20:53:49: C17.MPF.GU.RCT:375 says: "Ага ага"
+20:53:49: C17.MPF.GU.RCT:375 says "<:: Ага ага"
+20:53:50: Ivan Kupenkov says: "ИДИТЕ ОТ СУДА"
+20:53:50: Ivan Kupenkov says "ИДИТЕ ОТ СУДА"
+20:54:03: C17.MPF.GU.RCT:375 says: "Иди те отсюда"
+20:54:03: C17.MPF.GU.RCT:375 says "<:: Иди те отсюда"
+20:54:07: C17.MPF.GU.RCT:375 has used '/InvAction use cps_mask_def 1516545191.00'.
+20:54:49: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:54:51: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:54:53: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:54:55: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:55:24: Ivan Kupenkov has used '/StorageClose'.
+20:55:25: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:55:32: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:55:50: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:55:52: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:55:54: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:56:06: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:56:10: Stefan Gaertner has used '/StorageClose'.
+20:56:27: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:56:33: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:56:34: C17.MPF.GU.RCT:375 has taken 52 damage from worldspawn, leaving them at 48 health and 0 armor!
+20:57:06: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:57:09: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:57:10: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:57:20: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:57:33: C17.MPF.GU.RCT:375 has taken 9 damage from Stefan Gaertner with cw_hands, leaving them at 57 health and 0 armor!
+20:57:35: C17.MPF.GU.RCT:375 has taken 9 damage from Stefan Gaertner with cw_hands, leaving them at 48 health and 0 armor!
+20:57:59: C17.MPF.GU.RCT:375 has taken 9 damage from Stefan Gaertner with cw_hands, leaving them at 45 health and 0 armor!
+20:58:00: C17.MPF.GU.RCT:375 has taken 9 damage from Stefan Gaertner with cw_hands, leaving them at 38 health and 0 armor!
+20:58:04: Stefan Gaertner has taken 2 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 98 health and 0 armor!
+20:58:19: C17.MPF.GU.RCT:375 has taken 10 damage from Ivan Kupenkov with cw_hands, leaving them at 30 health and 0 armor!
+20:58:19: C17.MPF.GU.RCT:375 has taken 10 damage from Ivan Kupenkov with cw_hands, leaving them at 20 health and 0 armor!
+20:58:22: C17.MPF.GU.RCT:375 has taken 10 damage from Ivan Kupenkov with cw_hands, leaving them at 12 health and 0 armor!
+20:58:36: Ivan Kupenkov has gained a Loyalist Jacket 1516546040.
+20:58:36: Ivan Kupenkov has used '/InvAction use loyalist_jacket 1516546040'.
+20:58:43: Ivan Kupenkov has dealt 30 damage to C17.MPF.GU.RCT:375 with cw_hands, killing them!
+20:58:49: Ivan Kupenkov has used '/StorageClose'.
+20:59:09: Ivan Kupenkov has used '/StorageClose'.
+20:59:35: Stefan Gaertner has used '/StorageClose'.
+20:59:45: C17.MPF.GU.RCT:375 has used '/Observer'.
+20:59:59: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:00:15: Stefan Gaertner has taken 2 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 98 health and 0 armor!
+21:00:16: Stefan Gaertner has taken 2 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 96 health and 0 armor!
+21:00:17: C17.MPF.GU.RCT:375 has taken 9 damage from Stefan Gaertner with cw_hands, leaving them at 91 health and 0 armor!
+21:00:17: Stefan Gaertner has taken 2 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 94 health and 0 armor!
+21:00:17: C17.MPF.GU.RCT:375 has taken 9 damage from Stefan Gaertner with cw_hands, leaving them at 82 health and 0 armor!
+21:00:19: Stefan Gaertner has taken 2 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 92 health and 0 armor!
+21:00:23: Stefan Gaertner has taken 2 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 92 health and 0 armor!
+21:00:24: Stefan Gaertner has taken 2 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 90 health and 0 armor!
+21:00:27: Stefan Gaertner has taken 2 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 88 health and 0 armor!
+21:00:28: Ivan Kupenkov has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 96 health and 0 armor!
+21:00:28: C17.MPF.GU.RCT:375 has taken 10 damage from Ivan Kupenkov with cw_hands, leaving them at 74 health and 0 armor!
+21:00:29: C17.MPF.GU.RCT:375 has taken 10 damage from Ivan Kupenkov with cw_hands, leaving them at 64 health and 0 armor!
+21:00:29: C17.MPF.GU.RCT:375 has taken 10 damage from Ivan Kupenkov with cw_hands, leaving them at 54 health and 0 armor!
+21:00:29: Ivan Kupenkov has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 92 health and 0 armor!
+21:00:30: C17.MPF.GU.RCT:375 has taken 10 damage from Ivan Kupenkov with cw_hands, leaving them at 44 health and 0 armor!
+21:00:33: Stefan Gaertner has taken 2 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 88 health and 0 armor!
+21:00:34: Stefan Gaertner has taken 2 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 88 health and 0 armor!
+21:00:44: Stefan Gaertner has taken 2 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 88 health and 0 armor!
+21:00:47: Stefan Gaertner has taken 2 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 88 health and 0 armor!
+21:00:48: Stefan Gaertner has taken 2 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 86 health and 0 armor!
+21:00:52: Stefan Gaertner has taken 2 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 86 health and 0 armor!
+21:00:53: Stefan Gaertner has taken 2 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 84 health and 0 armor!
+21:00:55: Stefan Gaertner has taken 2 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 82 health and 0 armor!
+21:00:56: Stefan Gaertner has taken 2 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 80 health and 0 armor!
+21:01:04: Ivan Kupenkov has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 96 health and 0 armor!
+21:01:17: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:01:32: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:01:35: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:01:46: Ivan Kupenkov has taken 2 damage from env_fire, leaving them at 98 health and 0 armor!
+21:01:49: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:01:51: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:01:51: Ivan Kupenkov has taken 2 damage from env_fire, leaving them at 96 health and 0 armor!
+21:01:52: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:01:55: Ivan Kupenkov has taken 2 damage from env_fire, leaving them at 96 health and 0 armor!
+21:01:58: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:02:01: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:02:02: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:02:03: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:02:05: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:02:06: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:02:10: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:02:11: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:02:14: Ivan Kupenkov has used '/StorageClose'.
+21:02:17: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:02:19: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:02:22: Ivan Kupenkov has used '/InvAction use loyalist_jacket 1516546040.00'.
+21:02:30: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:02:35: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:02:35: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:02:38: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:02:39: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:02:39: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:03:39: C17.MPF.BLADE.01:917 has taken 10 damage from Ivan Kupenkov with cw_hands, leaving them at 90 health and 0 armor!
+21:03:45: Stefan Gaertner has used '/CharSearch'.
+21:03:58: C17.MPF.BLADE.01:917 has taken 10 damage from C17.MPF.GU.RCT:375 with cw_hands, leaving them at 86 health and 0 armor!
+21:03:59: C17.MPF.BLADE.01:917 has taken 10 damage from C17.MPF.GU.RCT:375 with cw_hands, leaving them at 76 health and 0 armor!
+21:04:01: C17.MPF.BLADE.01:917 has taken 10 damage from C17.MPF.GU.RCT:375 with cw_hands, leaving them at 68 health and 0 armor!
+21:04:06: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:04:07: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:04:28: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:04:33: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:04:35: C17.MPF.BLADE.01:917 has taken 10 damage from C17.MPF.GU.RCT:375 with cw_hands, leaving them at 70 health and 0 armor!
+21:04:36: C17.MPF.BLADE.01:917 has taken 10 damage from C17.MPF.GU.RCT:375 with cw_hands, leaving them at 60 health and 0 armor!
+21:04:37: C17.MPF.BLADE.01:917 has taken 10 damage from C17.MPF.GU.RCT:375 with cw_hands, leaving them at 50 health and 0 armor!
+21:04:38: C17.MPF.BLADE.01:917 has taken 10 damage from Ivan Kupenkov with cw_hands, leaving them at 40 health and 0 armor!
+21:04:38: C17.MPF.BLADE.01:917 has taken 10 damage from C17.MPF.GU.RCT:375 with cw_hands, leaving them at 30 health and 0 armor!
+21:04:39: C17.MPF.BLADE.01:917 has taken 10 damage from Ivan Kupenkov with cw_hands, leaving them at 20 health and 0 armor!
+21:04:39: C17.MPF.BLADE.01:917 has taken 10 damage from C17.MPF.GU.RCT:375 with cw_hands, leaving them at 10 health and 0 armor!
+21:04:44: C17.MPF.BLADE.01:917 has taken 5 damage from Ivan Kupenkov with cw_hands, leaving them at 7 health and 0 armor!
+21:04:45: C17.MPF.BLADE.01:917 has taken 5 damage from Ivan Kupenkov with cw_hands, leaving them at 2 health and 0 armor!
+21:04:45: C17.MPF.BLADE.01:917 has lost a Shotgun 1516553635.
+21:04:45: Ivan Kupenkov has dealt 5 damage to C17.MPF.BLADE.01:917 with cw_hands, killing them!
+21:04:50: Ivan Kupenkov has gained a Shotgun 1516553635.
+21:04:50: Ivan Kupenkov has lost a Shotgun 1516553635.
+21:04:50: Ivan Kupenkov has used '/InvAction use weapon_shotgun 1516553635'.
+21:04:50: C17.MPF.GU.RCT:375 has used '/StorageClose'.
+21:04:50: C17.MPF.BLADE.01:917 (STEAM_0:1:95283970/2.93.67.183:27005) has disconnected.
+21:04:56: Ivan Kupenkov has used '/StorageClose'.
+21:05:03: C17.MPF.GU.RCT:375 has used '/CharSearch'.
+21:05:09: Ivan Kupenkov has lost a Citizen Supplements 1516642287.
+21:05:09: Ivan Kupenkov has used '/InvAction use citizen_supplements 1516642287.00'.
+21:05:11: Ivan Kupenkov has lost a Large Soda 1516642289.
+21:05:11: Ivan Kupenkov has used '/InvAction use large_soda 1516642289.00'.
+21:05:12: Кнакалс has created a Citizen character called 'Gilbert_Primo'.
+21:05:13: Ivan Kupenkov has used '/InvAction drop medic_uniform 1516641829.00'.
+21:05:23: Ivan Kupenkov has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 96 health and 0 armor!
+21:05:24: Ivan Kupenkov has used '/StorageClose'.
+21:05:32: Ivan Kupenkov has lost a Medic Uniform 1516641829.
+21:05:32: Ivan Kupenkov has used '/InvAction drop medic_uniform 1516641829.00'.
+21:05:32: Ivan Kupenkov has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 94 health and 0 armor!
+21:05:34: Ivan Kupenkov has gained a Shotgun 1516553635.
+21:05:42: Ivan Kupenkov has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 92 health and 0 armor!
+21:05:43: Ivan Kupenkov has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 88 health and 0 armor!
+21:05:44: Ivan Kupenkov has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 86 health and 0 armor!
+21:05:45: Ivan Kupenkov has taken 4 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 82 health and 0 armor!
+21:06:21: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:06:24: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:06:25: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:06:27: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:06:29: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:06:30: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:06:51: Ivan Kupenkov has used '/StorageClose'.
+21:06:53: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:07:03: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:07:21: Ivan Kupenkov has used '/StorageClose'.
+21:07:32: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:07:33: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:07:54: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:07:55: Ivan Kupenkov has lost a Shotgun 1516553635.
+21:07:55: Ivan Kupenkov has used '/InvAction use weapon_shotgun 1516553635.00'.
+21:07:58: Stefan Gaertner says: "стойте"
+21:07:58: Stefan Gaertner says "стойте"
+21:08:19: Ivan Kupenkov has gained a Shotgun 1516553635.
+21:08:24: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:08:32: Ivan Kupenkov says: "Здраствуйте"
+21:08:32: Ivan Kupenkov says "Здраствуйте"
+21:08:35: Ivan Kupenkov says: "Что вам нужно"
+21:08:35: Ivan Kupenkov says "Что вам нужно"
+21:08:50: C17.MPF.GU.RCT:375 has used '/CharSetName Ivan Kupenkov я ебал кота'.
+21:08:54: я ебал кота says: "ЧЕ"
+21:08:54: я ебал кота says "ЧЕ"
+21:08:57: я ебал кота says: "ТЫ УХУЕЛ"
+21:08:57: я ебал кота says "ТЫ УХУЕЛ"
+21:09:06: я ебал кота says: "Дай лучше форму"
+21:09:06: я ебал кота says "Дай лучше форму"
+21:09:07: я ебал кота says: "Г.О"
+21:09:07: я ебал кота says "Г.О"
+21:09:08: я ебал кота says: "ПЖ"
+21:09:08: я ебал кота says "ПЖ"
+21:09:25: я ебал кота says: "Устрой экскурсию по нэксусу"
+21:09:25: я ебал кота says "Устрой экскурсию по нэксусу"
+21:09:45: C17.MPF.GU.RCT:375 has used '/CharSetName я ебал кота Как бы ГО но не ГО'.
+21:10:09: Как бы ГО но не ГО says: "СУКА"
+21:10:09: Как бы ГО но не ГО says "СУКА"
+21:10:11: Как бы ГО но не ГО says: "ПИДР"
+21:10:11: Как бы ГО но не ГО says "ПИДР"
+21:10:13: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:10:15: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:10:21: Как бы ГО но не ГО says: "Ладно"
+21:10:21: Как бы ГО но не ГО says "Ладно"
+21:10:24: Как бы ГО но не ГО says: "повезло тебе"
+21:10:24: Как бы ГО но не ГО says "повезло тебе"
+21:10:33: C17.MPF.GU.RCT:375 has used '/InvAction Снять cps_mask_def 1516545191.00'.
+21:10:34: C17.MPF.GU.RCT:375 has used '/InvAction Снять cps_neck 1516545217.00'.
+21:10:58: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:11:03: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:11:06: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:11:13: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:11:20: Stefan Gaertner has taken 41 damage from worldspawn, leaving them at 59 health and 0 armor!
+21:11:42: Как бы ГО но не ГО has used '/StorageClose'.
+21:11:45: Как бы ГО но не ГО has used '/StorageClose'.
+21:11:52: C17.MPF.GU.RCT:375 has used '/StorageClose'.
+21:11:56: Как бы ГО но не ГО has used '/StorageClose'.
+21:11:59: Как бы ГО но не ГО has used '/StorageClose'.
+21:12:01: Как бы ГО но не ГО has used '/StorageClose'.
+21:12:03: Как бы ГО но не ГО has used '/StorageClose'.
+21:12:41: Как бы ГО но не ГО says: "неа"
+21:12:41: Как бы ГО но не ГО says "неа"
+21:12:44: Как бы ГО но не ГО says: "хуы тыбы"
+21:12:44: Как бы ГО но не ГО says "хуы тыбы"
+21:13:06: Stefan Gaertner has taken 2 damage from C17.MPF.GU.RCT:375 with cw_stunstick, leaving them at 93 health and 0 armor!
+21:13:58: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:14:02: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:14:08: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:14:28: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:15:00: worldspawn has dealt 292 damage to Как бы ГО но не ГО, killing them!
+21:15:07: C17.MPF.GU.RCT:375 has used '/StorageClose'.
+21:15:08: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:15:19: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:15:30: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:15:55: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:16:07: C17.MPF.GU.RCT:375 has used '/InvAction use cps_mask_off 1516365278.00'.
+21:16:08: C17.MPF.GU.RCT:375 has used '/InvAction use cps_neck 1516545217.00'.
+21:16:26: Как бы ГО но не ГО (STEAM_0:0:86274736/5.19.3.77:14433) has disconnected.
+21:16:56: Stefan Gaertner says: "ок я тут"
+21:16:56: Stefan Gaertner says "ок я тут"
+21:18:11: Stefan Gaertner says: "это что фото на паспорт?"
+21:18:11: Stefan Gaertner says "это что фото на паспорт?"
+21:18:25: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:18:26: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:19:46: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:19:47: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:19:50: worldspawn has dealt 244 damage to Stefan Gaertner, killing them!
+21:19:53: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:19:54: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:19:54: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:19:57: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:20:08: C17.MPF.GU.RCT:375 has used '/StorageClose'.
+21:20:38: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:20:49: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:21:01: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:21:09: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:21:17: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:21:19: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:21:20: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:21:22: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:21:23: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:21:24: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:21:36: C17.MPF.GU.RCT:375 has used '/StorageGiveTokens 100.00'.
+21:21:36: Stefan Gaertner says: "а у тебя фонарик есть?"
+21:21:36: Stefan Gaertner says "а у тебя фонарик есть?"
+21:21:38: C17.MPF.GU.RCT:375 has used '/StorageClose'.
+21:22:22: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:22:23: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:22:35: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:22:36: C17.MPF.GU.RCT:375 has used '/Observer'.
+21:23:04: C17.MPF.GU.RCT:375 says: "сука яшик открой"
+21:23:04: C17.MPF.GU.RCT:375 says "<:: сука яшик открой"
+21:23:12: C17.MPF.GU.RCT:375 says: "нет"
+21:23:12: C17.MPF.GU.RCT:375 says "<:: нет"
+21:23:13: Stefan Gaertner has used '/StorageClose'.
+21:23:22: Stefan Gaertner has used '/StorageClose'.
+21:23:28: Stefan Gaertner has used '/StorageTakeTokens 100.00'.
+21:23:30: Stefan Gaertner has used '/StorageClose'.
+21:23:36: Stefan Gaertner says: "ок спасибо"
+21:23:36: Stefan Gaertner says "ок спасибо"
+21:23:40: Stefan Gaertner says: "огромное"
+21:23:40: Stefan Gaertner says "огромное"
+21:23:42: C17.MPF.GU.RCT:375 says: ":)"
+21:23:42: C17.MPF.GU.RCT:375 says "<:: :)"
+21:23:55: C17.MPF.GU.RCT:375 says: "я зарабатываю по 10 токенов"
+21:23:55: C17.MPF.GU.RCT:375 says "<:: я зарабатываю по 10 токенов"
+21:24:05: C17.MPF.GU.RCT:375 says: "и у меня уже 700 токенов"
+21:24:05: C17.MPF.GU.RCT:375 says "<:: и у меня уже 700 токенов"
+21:24:18: Stefan Gaertner says: "круто"
+21:24:18: Stefan Gaertner says "круто"
+21:25:09: Stefan Gaertner says: "а как стать комбаином повстанцем?"
+21:25:09: Stefan Gaertner says "а как стать комбаином повстанцем?"
+21:25:33: C17.MPF.GU.RCT:375 says: "нужен вайд лист"
+21:25:33: C17.MPF.GU.RCT:375 says "<:: нужен вайд лист"
+21:25:39: Stefan Gaertner says: "аааа"
+21:25:39: Stefan Gaertner says "аааа"
+21:26:20: Stefan Gaertner says: "а как туда попасть?"
+21:26:20: Stefan Gaertner says "а как туда попасть?"
+21:28:13: Stefan Gaertner has used '/StorageClose'.
+21:28:13: yanybik has created a Metropolice Force character called 'MPF-RCT.06527'.
+21:28:22: Stefan Gaertner has lost a Suitcase 1516641070.
+21:28:22: Stefan Gaertner has used '/InvAction use cw_suitcase 1516641070.00'.
+21:28:25: yanybik has loaded the character 'MPF-RCT.06527'.
+21:28:46: MPF-RCT.06527 has used '/Observer'.
+21:28:48: Stefan Gaertner has used '/StorageClose'.
+21:28:49: MPF-RCT.06527 has used '/Observer'.
+21:29:09: MPF-RCT.06527 has used '/Observer'.
+21:29:58: MPF-RCT.06527 has used '/Observer'.
+21:30:02: yanybik has loaded the character 'C17.MPF.GU.RCT:375'.
+21:30:08: C17.MPF.GU.RCT:375 has lost a Request Device 1516541942.
+21:30:08: C17.MPF.GU.RCT:375 has used '/StorageGiveItem request_device 1516541942.00'.
+21:30:17: C17.MPF.GU.RCT:375 has lost a Респиратор ГО 1516545191.
+21:30:17: C17.MPF.GU.RCT:375 has used '/StorageGiveItem cps_mask_def 1516545191.00'.
+21:30:24: C17.MPF.GU.RCT:375 has used '/StorageClose'.
+21:30:30: yanybik has loaded the character 'MPF-RCT.06527'.
+21:30:35: MPF-RCT.06527 has gained a Request Device 1516541942.
+21:30:35: MPF-RCT.06527 has used '/StorageTakeItem request_device 1516541942.00'.
+21:30:36: MPF-RCT.06527 has gained a Респиратор ГО 1516545191.
+21:30:36: MPF-RCT.06527 has used '/StorageTakeItem cps_mask_def 1516545191.00'.
+21:30:37: MPF-RCT.06527 has used '/StorageClose'.
+21:30:43: Stefan Gaertner has used '/StorageClose'.
+21:30:45: MPF-RCT.06527 has used '/InvAction use cps_mask_def 1516545191.00'.
+21:30:46: MPF-RCT.06527 has lost a 9mm Pistol 1516645736.
+21:30:46: MPF-RCT.06527 has used '/InvAction use weapon_pistol 1516645736.00'.
+21:31:09: MPF-RCT.06527 has used '/InvAction Снять cps_mask_def 1516545191.00'.
+21:31:12: MPF-RCT.06527 has used '/InvAction use cps_mask_def 1516545191.00'.
+21:31:23: Stefan Gaertner (STEAM_0:1:53234273/213.21.4.76:27005) has disconnected.
+21:31:27: [OOC] MPF-RCT.06527: ты где?
+21:31:42: MPF-RCT.06527 has used '/Observer'.
+21:32:21: [OOC] MPF-RCT.06527: ты где?
+21:32:40: MPF-RCT.06527 has used '/Observer'.
+22:02:40: MPF-RCT.06527 (STEAM_0:0:201653185/46.151.246.29:17414) has disconnected.
